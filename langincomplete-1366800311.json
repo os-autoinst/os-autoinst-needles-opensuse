@@ -1,0 +1,15 @@
+{
+    "area": [
+        {
+            "height": 73,
+            "type": "match",
+            "width": 374,
+            "xpos": 325,
+            "ypos": 340
+        }
+    ],
+    "tags": [
+        "langincomplete",
+        "ENV-DISTRI-opensuse"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+   "area" : [
+      {
+         "height" : 704,
+         "type" : "match",
+         "width" : 1024,
+         "xpos" : 0,
+         "ypos" : 0
+      },
+      {
+         "height" : 32,
+         "type" : "exclude",
+         "width" : 128,
+         "xpos" : 448,
+         "ypos" : 0
+      }
+   ],
+   "tags" : [
+      "ENV-DESKTOP-gnome",
+      "ENV-DISTRI-opensuse",
+      "ENV-INSTLANG-en_US",
+      "GNOME",
+      "desktop-at-first-boot",
+      "test-livecdreboot-desktop-at-first-boot"
+   ]
+}

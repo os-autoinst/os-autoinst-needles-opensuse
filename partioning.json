@@ -1,0 +1,15 @@
+{
+   "area" : [
+      {
+         "height" : 365,
+         "type" : "match",
+         "width" : 392,
+         "xpos" : 424,
+         "ypos" : 288
+      }
+   ],
+   "tags" : [
+      "partioning",
+      "test-partitioning-partioning"
+   ]
+}

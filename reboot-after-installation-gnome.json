@@ -1,0 +1,17 @@
+{
+    "area": [
+        {
+            "height": 93,
+            "type": "match",
+            "width": 324,
+            "xpos": 0,
+            "ypos": 0
+        }
+    ],
+    "tags": [
+        "reboot-after-installation",
+        "ENV-DESKTOP-gnome",
+        "ENV-DISTRI-opensuse",
+        "ENV-INSTLANG-en_US"
+    ]
+}

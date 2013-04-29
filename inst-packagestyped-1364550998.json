@@ -1,0 +1,15 @@
+{
+   "area" : [
+      {
+         "height" : 51,
+         "type" : "match",
+         "width" : 709,
+         "xpos" : 0,
+         "ypos" : 141
+      }
+   ],
+   "tags" : [
+      "inst-packagestyped",
+      "test-logpackages-inst-packagestyped"
+   ]
+}

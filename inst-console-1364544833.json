@@ -1,0 +1,15 @@
+{
+   "area" : [
+      {
+         "height" : 118,
+         "type" : "match",
+         "width" : 644,
+         "xpos" : 0,
+         "ypos" : 45
+      }
+   ],
+   "tags" : [
+      "inst-console",
+      "test-logpackages-inst-console"
+   ]
+}

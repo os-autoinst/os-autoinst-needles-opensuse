@@ -1,0 +1,17 @@
+{
+   "area" : [
+      {
+         "height" : 33,
+         "type" : "match",
+         "width" : 264,
+         "xpos" : 440,
+         "ypos" : 410
+      }
+   ],
+   "tags" : [
+      "ENV-DISTRI-opensuse",
+      "ENV-INSTLANG-en_US",
+      "disabledhome",
+      "test-partitioning-disabledhome"
+   ]
+}

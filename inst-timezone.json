@@ -1,0 +1,16 @@
+{
+   "area" : [
+      {
+         "height" : 708,
+         "type" : "match",
+         "width" : 759,
+         "xpos" : 259,
+         "ypos" : 0
+      }
+   ],
+   "tags" : [
+      "inst-timezone",
+      "test-installation_mode-inst-timezone",
+      "test-installer_timezone-inst-timezone"
+   ]
+}

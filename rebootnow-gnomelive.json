@@ -1,0 +1,16 @@
+{
+    "area": [
+        {
+            "height": 183,
+            "type": "match",
+            "width": 480,
+            "xpos": 270,
+            "ypos": 292
+        }
+    ],
+    "tags": [
+        "rebootnow",
+        "ENV-DESKTOP-gnome",
+        "ENV-LIVECD-1"
+    ]
+}

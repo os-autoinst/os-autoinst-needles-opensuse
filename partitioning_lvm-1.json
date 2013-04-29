@@ -1,0 +1,14 @@
+{
+   "area" : [
+      {
+         "width" : 214,
+         "xpos" : 458,
+         "type" : "match",
+         "ypos" : 375,
+         "height" : 39
+      }
+   ],
+   "tags" : [
+      "test-partitioning_lvm-1"
+   ]
+}

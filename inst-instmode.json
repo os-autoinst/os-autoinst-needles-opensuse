@@ -1,0 +1,15 @@
+{
+   "area" : [
+      {
+         "height" : 538,
+         "type" : "match",
+         "width" : 514,
+         "xpos" : 250,
+         "ypos" : 0
+      }
+   ],
+   "tags" : [
+      "inst-instmode",
+      "test-installation_mode-inst-instmode"
+   ]
+}

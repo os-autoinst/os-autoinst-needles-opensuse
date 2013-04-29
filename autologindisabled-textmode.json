@@ -1,0 +1,17 @@
+{
+    "area": [
+        {
+            "height": 38,
+            "type": "match",
+            "width": 199,
+            "xpos": 325,
+            "ypos": 320
+        }
+    ],
+    "tags": [
+        "autologindisabled",
+        "ENV-VIDEOMODE-text",
+        "ENV-DISTRI-opensuse",
+        "ENV-INSTLANG-en_US"
+    ]
+}

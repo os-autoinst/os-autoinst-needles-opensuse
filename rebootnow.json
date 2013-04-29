@@ -1,0 +1,17 @@
+{
+   "area" : [
+      {
+         "height" : 90,
+         "type" : "match",
+         "width" : 265,
+         "xpos" : 244,
+         "ypos" : 237
+      }
+   ],
+   "tags" : [
+      "ENV-LIVECD-0",
+      "rebootnow",
+      "test-livecdreboot-rebootnow",
+      "test-livecdreboot-rebootnow"
+   ]
+}

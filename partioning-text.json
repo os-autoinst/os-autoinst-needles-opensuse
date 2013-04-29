@@ -1,0 +1,17 @@
+{
+    "area": [
+        {
+            "height": 307,
+            "type": "match",
+            "width": 563,
+            "xpos": 172,
+            "ypos": 295
+        }
+    ],
+    "tags": [
+        "partioning",
+        "ENV-VIDEOMODE-text",
+        "ENV-DISTRI-opensuse",
+        "ENV-INSTLANG-en_US"
+    ]
+}

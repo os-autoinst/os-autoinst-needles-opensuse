@@ -1,0 +1,18 @@
+{
+   "area" : [
+      {
+         "width" : 525,
+         "xpos" : 0,
+         "type" : "match",
+         "ypos" : 0,
+         "height" : 320
+      }
+   ],
+   "tags" : [
+      "inst-bootmenu",
+      "ENV-DESKTOP-gnome",
+      "ENV-DISTRI-opensuse",
+      "ENV-INSTLANG-en_US",
+      "ENV-LIVECD-1"
+   ]
+}

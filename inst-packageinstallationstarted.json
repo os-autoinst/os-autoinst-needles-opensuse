@@ -1,0 +1,16 @@
+{
+   "area" : [
+      {
+         "height" : 70,
+         "match" : 93,
+         "type" : "match",
+         "width" : 1024,
+         "xpos" : 0,
+         "ypos" : 0
+      }
+   ],
+   "tags" : [
+      "inst-packageinstallationstarted",
+      "test-start_install-inst-packageinstallationstarted"
+   ]
+}

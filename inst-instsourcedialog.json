@@ -1,0 +1,14 @@
+{
+    "area": [
+        {
+            "height": 55, 
+            "type": "match", 
+            "width": 185, 
+            "xpos": 235, 
+            "ypos": 145
+        }
+    ], 
+    "tags": [
+        "inst-instsourcedialog"
+    ]
+}

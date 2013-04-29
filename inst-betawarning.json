@@ -1,0 +1,15 @@
+{
+   "area" : [
+      {
+         "height" : 140,
+         "type" : "match",
+         "width" : 310,
+         "xpos" : 205,
+         "ypos" : 205
+      }
+   ],
+   "tags" : [
+      "inst-betawarning",
+      "test-welcome-inst-welcome_inst-betawarning_"
+   ]
+}

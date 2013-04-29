@@ -1,0 +1,33 @@
+{
+   "area" : [
+      {
+         "height" : 765,
+         "type" : "match",
+         "width" : 1015,
+         "xpos" : 0,
+         "ypos" : 0
+      },
+      {
+         "height" : 25,
+         "type" : "exclude",
+         "width" : 50,
+         "xpos" : 800,
+         "ypos" : 740
+      },
+      {
+         "height" : 370,
+         "type" : "exclude",
+         "width" : 130,
+         "xpos" : 0,
+         "ypos" : 320
+      }
+   ],
+   "tags" : [
+      "ENV-DESKTOP-xfce",
+      "ENV-DISTRI-opensuse",
+      "ENV-INSTLANG-en_US",
+      "XFCE",
+      "desktop-at-first-boot",
+      "test-livecdreboot-desktop-at-first-boot"
+   ]
+}

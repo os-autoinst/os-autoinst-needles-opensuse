@@ -1,0 +1,15 @@
+{
+   "area" : [
+      {
+         "height" : 145,
+         "type" : "match",
+         "width" : 259,
+         "xpos" : 379,
+         "ypos" : 311
+      }
+   ],
+   "tags" : [
+      "inst-userpasswdtoosimple",
+      "test-user_settings-inst-userpasswdtoosimple"
+   ]
+}

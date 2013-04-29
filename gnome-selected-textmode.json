@@ -1,0 +1,18 @@
+{
+    "area": [
+        {
+            "height": 768,
+            "type": "match",
+            "width": 1024,
+            "xpos": 0,
+            "ypos": 0
+        }
+    ],
+    "tags": [
+        "gnome-selected",
+        "ENV-VIDEOMODE-text",
+        "ENV-DESKTOP-gnome",
+        "ENV-DISTRI-opensuse",
+        "ENV-INSTLANG-en_US"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+   "area" : [
+      {
+         "height" : 183,
+         "type" : "match",
+         "width" : 329,
+         "xpos" : 469,
+         "ypos" : 200
+      }
+   ],
+   "tags" : [
+      "inst-userinfostyped",
+      "test-user_settings-inst-userinfostyped"
+   ]
+}

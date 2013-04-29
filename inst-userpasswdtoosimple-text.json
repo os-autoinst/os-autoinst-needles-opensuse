@@ -1,0 +1,17 @@
+{
+    "area": [
+        {
+            "height": 112,
+            "type": "match",
+            "width": 294,
+            "xpos": 365,
+            "ypos": 329
+        }
+    ],
+    "tags": [
+        "inst-userpasswdtoosimple",
+        "ENV-VIDEOMODE-text",
+        "ENV-DISTRI-opensuse",
+        "ENV-INSTLANG-en_US"
+    ]
+}

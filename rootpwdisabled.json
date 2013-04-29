@@ -1,0 +1,16 @@
+{
+    "area": [
+        {
+            "height": 19,
+            "type": "match",
+            "width": 296,
+            "xpos": 475,
+            "ypos": 384
+        }
+    ],
+    "tags": [
+        "rootpwdisabled",
+        "ENV-DISTRI-opensuse",
+        "ENV-INSTLANG-en_US"
+    ]
+}
