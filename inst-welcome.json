@@ -6,11 +6,19 @@
             "width": 353,
             "xpos": 253,
             "ypos": 5
+        },
+        {
+            "height": 15,
+            "type": "match",
+            "width": 125,
+            "xpos": 270,
+            "ypos": 260
         }
     ],
     "tags": [
         "inst-welcome",
         "languagepicked",
+        "test-welcome-inst-welcome",
         "test-welcome-inst-welcome_inst-betawarning_",
         "test-welcome-languagepicked"
     ]
