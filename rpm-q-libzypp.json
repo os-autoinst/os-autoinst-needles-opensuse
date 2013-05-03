@@ -1,0 +1,24 @@
+{
+    "area": [
+        {
+            "height": 48,
+            "type": "match",
+            "width": 309,
+            "xpos": 0,
+            "ypos": 705
+        },
+        {
+            "height": 30,
+            "type": "exclude",
+            "width": 225,
+            "xpos": 55,
+            "ypos": 720
+        }
+    ],
+    "tags": [
+        "rpm-q-libzypp",
+        "ENV-DESKTOP-xfce",
+        "ENV-DISTRI-opensuse",
+        "ENV-INSTLANG-en_US"
+    ]
+}
