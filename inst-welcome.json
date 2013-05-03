@@ -8,11 +8,11 @@
             "ypos": 5
         },
         {
-            "height": 15,
+            "height": 50,
             "type": "match",
-            "width": 125,
-            "xpos": 270,
-            "ypos": 260
+            "width": 175,
+            "xpos": 255,
+            "ypos": 225
         }
     ],
     "tags": [
