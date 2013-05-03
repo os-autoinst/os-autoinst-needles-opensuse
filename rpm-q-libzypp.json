@@ -17,8 +17,6 @@
     ],
     "tags": [
         "rpm-q-libzypp",
-        "ENV-DESKTOP-xfce",
-        "ENV-DISTRI-opensuse",
-        "ENV-INSTLANG-en_US"
+        "ENV-DISTRI-opensuse"
     ]
 }
