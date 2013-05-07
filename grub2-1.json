@@ -9,7 +9,7 @@
       }
    ],
    "tags" : [
-      "grub2",
+      "grub2", "bootloader",
       "reboot-after-installation",
       "test-livecdreboot-grub2",
       "test-livecdreboot-reboot-after-installation",
