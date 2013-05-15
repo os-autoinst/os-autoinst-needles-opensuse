@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 424,
+      "xpos": "269",
+      "type": "match",
+      "ypos": "455",
+      "height": 198
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "other-desktop"
+  ]
+}

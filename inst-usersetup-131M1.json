@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 775,
+      "xpos": "249",
+      "type": "match",
+      "ypos": "5",
+      "height": 762
+    }
+  ],
+  "tags": [
+    "after-paritioning",
+    "inst-usersetup"
+  ]
+}
