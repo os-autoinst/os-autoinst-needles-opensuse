@@ -10,7 +10,6 @@
    ],
    "tags" : [
       "ENV-DISTRI-opensuse",
-      "inst-video-typed",
-      "test-bootloader-inst-video-typed"
+      "inst-video-typed"
    ]
 }

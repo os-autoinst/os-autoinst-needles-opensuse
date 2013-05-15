@@ -11,10 +11,6 @@
    "tags" : [
       "bootloader",
       "grub2",
-      "reboot-after-installation",
-      "test-livecdreboot-grub2",
-      "test-livecdreboot-reboot-after-installation",
-      "test-livecdreboot.grub2",
-      "test-livecdreboot.reboot-after-installation"
+      "reboot-after-installation"
    ]
 }

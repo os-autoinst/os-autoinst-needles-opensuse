@@ -11,7 +11,6 @@
    "tags" : [
       "ENV-DISTRI-opensuse",
       "ENV-INSTLANG-en_US",
-      "other-desktop",
-      "test-installer_desktopselection-other-desktop"
+      "other-desktop"
    ]
 }

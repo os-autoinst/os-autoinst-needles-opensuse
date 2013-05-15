@@ -13,7 +13,6 @@
       "ENV-DISTRI-opensuse",
       "ENV-INSTLANG-en_US",
       "ENV-LIVECD-1",
-      "inst-overview",
-      "test-installation_overview-inst-overview"
+      "inst-overview"
    ]
 }

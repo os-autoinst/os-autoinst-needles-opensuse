@@ -12,7 +12,6 @@
       "ENV-DESKTOP-kde",
       "ENV-DISTRI-opensuse",
       "ENV-INSTLANG-en_US",
-      "kde-imagesused",
-      "test-start_install-kde-imagesused"
+      "kde-imagesused"
    ]
 }

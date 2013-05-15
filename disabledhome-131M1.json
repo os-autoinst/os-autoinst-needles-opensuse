@@ -1,16 +1,16 @@
 {
-  "area": [
-    {
-      "width": 264,
-      "xpos": "452",
-      "type": "match",
-      "ypos": "397",
-      "height": 33
-    }
-  ],
-  "tags": [
-    "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US",
-    "disabledhome"
-  ]
+   "area" : [
+      {
+         "height" : 33,
+         "type" : "match",
+         "width" : 264,
+         "xpos" : "452",
+         "ypos" : "397"
+      }
+   ],
+   "tags" : [
+      "ENV-DISTRI-opensuse",
+      "ENV-INSTLANG-en_US",
+      "disabledhome"
+   ]
 }

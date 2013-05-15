@@ -1,14 +1,14 @@
 {
-  "area": [
-    {
-      "width": 329,
-      "xpos": "467",
-      "type": "match",
-      "ypos": "200",
-      "height": 183
-    }
-  ],
-  "tags": [
-    "inst-userinfostyped"
-  ]
+   "area" : [
+      {
+         "height" : 183,
+         "type" : "match",
+         "width" : 329,
+         "xpos" : "467",
+         "ypos" : "200"
+      }
+   ],
+   "tags" : [
+      "inst-userinfostyped"
+   ]
 }

@@ -1,15 +1,15 @@
 {
-  "area": [
-    {
-      "width": 775,
-      "xpos": "249",
-      "type": "match",
-      "ypos": "5",
-      "height": 762
-    }
-  ],
-  "tags": [
-    "after-paritioning",
-    "inst-usersetup"
-  ]
+   "area" : [
+      {
+         "height" : 762,
+         "type" : "match",
+         "width" : 775,
+         "xpos" : "249",
+         "ypos" : "5"
+      }
+   ],
+   "tags" : [
+      "after-paritioning",
+      "inst-usersetup"
+   ]
 }

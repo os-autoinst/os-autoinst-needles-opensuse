@@ -10,7 +10,6 @@
       }
    ],
    "tags" : [
-      "inst-packageinstallationstarted",
-      "test-start_install-inst-packageinstallationstarted"
+      "inst-packageinstallationstarted"
    ]
 }

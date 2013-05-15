@@ -12,7 +12,6 @@
       "ENV-DESKTOP-gnome",
       "ENV-DISTRI-opensuse",
       "ENV-INSTLANG-en_US",
-      "gnome-selected",
-      "test-installer_desktopselection-gnome-selected"
+      "gnome-selected"
    ]
 }

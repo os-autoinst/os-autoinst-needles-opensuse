@@ -27,7 +27,6 @@
       "ENV-DISTRI-opensuse",
       "ENV-INSTLANG-en_US",
       "GNOME",
-      "desktop-at-first-boot",
-      "test-livecdreboot-desktop-at-first-boot"
+      "desktop-at-first-boot"
    ]
 }

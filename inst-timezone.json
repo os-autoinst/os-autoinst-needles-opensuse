@@ -9,8 +9,6 @@
       }
    ],
    "tags" : [
-      "inst-timezone",
-      "test-installation_mode-inst-timezone",
-      "test-installer_timezone-inst-timezone"
+      "inst-timezone"
    ]
 }
