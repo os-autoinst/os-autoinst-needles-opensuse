@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 265,
+      "xpos": "245",
+      "type": "match",
+      "ypos": "237",
+      "height": 90
+    }
+  ],
+  "tags": [
+    "ENV-LIVECD-0",
+    "rebootnow"
+  ]
+}
