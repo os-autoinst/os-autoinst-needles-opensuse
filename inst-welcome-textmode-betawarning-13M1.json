@@ -1,0 +1,31 @@
+{
+    "area": [
+        {
+            "height": 128,
+            "type": "match",
+            "width": 344,
+            "xpos": 10,
+            "ypos": 25
+        },
+        {
+            "height": 55,
+            "type": "match",
+            "width": 160,
+            "xpos": 10,
+            "ypos": 170
+        },
+        {
+            "height": 25,
+            "type": "match",
+            "width": 1020,
+            "xpos": 0,
+            "ypos": 715
+        }
+    ],
+    "tags": [
+        "inst-betawarning",
+        "ENV-VIDEOMODE-text",
+        "ENV-DISTRI-opensuse",
+        "ENV-INSTLANG-en_US"
+    ]
+}
