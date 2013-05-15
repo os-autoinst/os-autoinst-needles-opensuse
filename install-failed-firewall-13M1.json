@@ -1,0 +1,14 @@
+{
+    "area": [
+        {
+            "height": 40,
+            "type": "match",
+            "width": 95,
+            "xpos": 250,
+            "ypos": 260
+        }
+    ],
+    "tags": [
+        "install-failed"
+    ]
+}
