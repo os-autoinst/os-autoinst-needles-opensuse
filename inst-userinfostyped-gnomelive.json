@@ -1,18 +1,18 @@
 {
-    "area": [
-        {
-            "height": 253,
-            "type": "match",
-            "width": 404,
-            "xpos": 430,
-            "ypos": 130
-        }
-    ],
-    "tags": [
-        "inst-userinfostyped",
-        "ENV-DESKTOP-gnome",
-        "ENV-DISTRI-opensuse",
-        "ENV-INSTLANG-en_US",
-        "ENV-LIVECD-1"
-    ]
+   "area" : [
+      {
+         "height" : 253,
+         "type" : "match",
+         "width" : 404,
+         "xpos" : 430,
+         "ypos" : 130
+      }
+   ],
+   "tags" : [
+      "ENV-DESKTOP-gnome",
+      "ENV-DISTRI-opensuse",
+      "ENV-INSTLANG-en_US",
+      "ENV-LIVECD-1",
+      "inst-userinfostyped"
+   ]
 }

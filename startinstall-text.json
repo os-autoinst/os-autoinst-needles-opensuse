@@ -1,17 +1,17 @@
 {
-    "area": [
-        {
-            "height": 286,
-            "type": "match",
-            "width": 433,
-            "xpos": 295,
-            "ypos": 232
-        }
-    ],
-    "tags": [
-        "startinstall",
-        "ENV-VIDEOMODE-text",
-        "ENV-DISTRI-opensuse",
-        "ENV-INSTLANG-en_US"
-    ]
+   "area" : [
+      {
+         "height" : 286,
+         "type" : "match",
+         "width" : 433,
+         "xpos" : 295,
+         "ypos" : 232
+      }
+   ],
+   "tags" : [
+      "ENV-DISTRI-opensuse",
+      "ENV-INSTLANG-en_US",
+      "ENV-VIDEOMODE-text",
+      "startinstall"
+   ]
 }

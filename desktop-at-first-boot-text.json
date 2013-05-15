@@ -1,18 +1,18 @@
 {
    "area" : [
       {
+         "height" : 40,
+         "type" : "match",
          "width" : 375,
          "xpos" : 0,
-         "type" : "match",
-         "ypos" : 515,
-         "height" : 40
+         "ypos" : 515
       }
    ],
    "tags" : [
-      "desktop-at-first-boot",
-      "ENV-VIDEOMODE-text",
       "ENV-DESKTOP-textmode",
       "ENV-DISTRI-opensuse",
-      "ENV-INSTLANG-en_US"
+      "ENV-INSTLANG-en_US",
+      "ENV-VIDEOMODE-text",
+      "desktop-at-first-boot"
    ]
 }

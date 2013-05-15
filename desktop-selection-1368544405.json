@@ -1,16 +1,16 @@
 {
-  "area": [
-    {
-      "width": 774,
-      "xpos": "250",
-      "type": "match",
-      "ypos": "0",
-      "height": 548
-    }
-  ],
-  "tags": [
-    "before-package-selection",
-    "desktop-selection",
-    "inst-returned-to-yast"
-  ]
+   "area" : [
+      {
+         "height" : 548,
+         "type" : "match",
+         "width" : 774,
+         "xpos" : "250",
+         "ypos" : 0
+      }
+   ],
+   "tags" : [
+      "before-package-selection",
+      "desktop-selection",
+      "inst-returned-to-yast"
+   ]
 }

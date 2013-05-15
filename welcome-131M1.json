@@ -1,22 +1,22 @@
 {
-  "area": [
-    {
-      "width": 353,
-      "xpos": "258",
-      "type": "match",
-      "ypos": "5",
-      "height": 125
-    },
-    {
-      "width": 175,
-      "xpos": "260",
-      "type": "match",
-      "ypos": "225",
-      "height": 50
-    }
-  ],
-  "tags": [
-    "inst-welcome",
-    "languagepicked"
-  ]
+   "area" : [
+      {
+         "height" : 125,
+         "type" : "match",
+         "width" : 353,
+         "xpos" : "258",
+         "ypos" : "5"
+      },
+      {
+         "height" : 50,
+         "type" : "match",
+         "width" : 175,
+         "xpos" : "260",
+         "ypos" : "225"
+      }
+   ],
+   "tags" : [
+      "inst-welcome",
+      "languagepicked"
+   ]
 }

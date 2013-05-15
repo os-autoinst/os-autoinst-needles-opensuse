@@ -1,22 +1,22 @@
 {
-    "area": [
-        {
-            "height": 48,
-            "type": "match",
-            "width": 309,
-            "xpos": 0,
-            "ypos": 705
-        },
-        {
-            "height": 30,
-            "type": "exclude",
-            "width": 225,
-            "xpos": 55,
-            "ypos": 720
-        }
-    ],
-    "tags": [
-        "rpm-q-libzypp",
-        "ENV-DISTRI-opensuse"
-    ]
+   "area" : [
+      {
+         "height" : 48,
+         "type" : "match",
+         "width" : 309,
+         "xpos" : 0,
+         "ypos" : 705
+      },
+      {
+         "height" : 30,
+         "type" : "exclude",
+         "width" : 225,
+         "xpos" : 55,
+         "ypos" : 720
+      }
+   ],
+   "tags" : [
+      "ENV-DISTRI-opensuse",
+      "rpm-q-libzypp"
+   ]
 }

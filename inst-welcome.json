@@ -1,25 +1,25 @@
 {
-    "area": [
-        {
-            "height": 125,
-            "type": "match",
-            "width": 353,
-            "xpos": 253,
-            "ypos": 5
-        },
-        {
-            "height": 50,
-            "type": "match",
-            "width": 175,
-            "xpos": 255,
-            "ypos": 225
-        }
-    ],
-    "tags": [
-        "inst-welcome",
-        "languagepicked",
-        "test-welcome-inst-welcome",
-        "test-welcome-inst-welcome_inst-betawarning_",
-        "test-welcome-languagepicked"
-    ]
+   "area" : [
+      {
+         "height" : 125,
+         "type" : "match",
+         "width" : 353,
+         "xpos" : 253,
+         "ypos" : 5
+      },
+      {
+         "height" : 50,
+         "type" : "match",
+         "width" : 175,
+         "xpos" : 255,
+         "ypos" : 225
+      }
+   ],
+   "tags" : [
+      "inst-welcome",
+      "languagepicked",
+      "test-welcome-inst-welcome",
+      "test-welcome-inst-welcome_inst-betawarning_",
+      "test-welcome-languagepicked"
+   ]
 }

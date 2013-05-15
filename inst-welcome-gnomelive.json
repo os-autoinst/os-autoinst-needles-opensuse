@@ -1,19 +1,19 @@
 {
-    "area": [
-        {
-            "height": 605,
-            "type": "match",
-            "width": 214,
-            "xpos": 5,
-            "ypos": 2
-        }
-    ],
-    "tags": [
-        "inst-welcome",
-        "languagepicked",
-        "ENV-DESKTOP-gnome",
-        "ENV-DISTRI-opensuse",
-        "ENV-INSTLANG-en_US",
-        "ENV-LIVECD-1"
-    ]
+   "area" : [
+      {
+         "height" : 605,
+         "type" : "match",
+         "width" : 214,
+         "xpos" : 5,
+         "ypos" : 2
+      }
+   ],
+   "tags" : [
+      "ENV-DESKTOP-gnome",
+      "ENV-DISTRI-opensuse",
+      "ENV-INSTLANG-en_US",
+      "ENV-LIVECD-1",
+      "inst-welcome",
+      "languagepicked"
+   ]
 }

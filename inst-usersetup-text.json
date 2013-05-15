@@ -1,18 +1,18 @@
 {
-    "area": [
-        {
-            "height": 652,
-            "type": "match",
-            "width": 844,
-            "xpos": 0,
-            "ypos": 0
-        }
-    ],
-    "tags": [
-        "inst-usersetup",
-        "after-paritioning",
-        "ENV-VIDEOMODE-text",
-        "ENV-DISTRI-opensuse",
-        "ENV-INSTLANG-en_US"
-    ]
+   "area" : [
+      {
+         "height" : 652,
+         "type" : "match",
+         "width" : 844,
+         "xpos" : 0,
+         "ypos" : 0
+      }
+   ],
+   "tags" : [
+      "ENV-DISTRI-opensuse",
+      "ENV-INSTLANG-en_US",
+      "ENV-VIDEOMODE-text",
+      "after-paritioning",
+      "inst-usersetup"
+   ]
 }

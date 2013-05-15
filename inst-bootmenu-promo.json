@@ -1,16 +1,16 @@
 {
-    "area": [
-        {
-            "height": 230,
-            "type": "match",
-            "width": 255,
-            "xpos": 250,
-            "ypos": 160
-        }
-    ],
-    "tags": [
-        "inst-bootmenu",
-        "ENV-DISTRI-opensuse",
-        "ENV-INSTLANG-en_US"
-    ]
+   "area" : [
+      {
+         "height" : 230,
+         "type" : "match",
+         "width" : 255,
+         "xpos" : 250,
+         "ypos" : 160
+      }
+   ],
+   "tags" : [
+      "ENV-DISTRI-opensuse",
+      "ENV-INSTLANG-en_US",
+      "inst-bootmenu"
+   ]
 }

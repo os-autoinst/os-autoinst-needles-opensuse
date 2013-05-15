@@ -1,17 +1,17 @@
 {
-    "area": [
-        {
-            "height": 75,
-            "type": "match",
-            "width": 275,
-            "xpos": 0,
-            "ypos": 0
-        }
-    ],
-    "tags": [
-        "reboot-after-installation",
-        "ENV-VIDEOMODE-text",
-        "ENV-DISTRI-opensuse",
-        "ENV-INSTLANG-en_US"
-    ]
+   "area" : [
+      {
+         "height" : 75,
+         "type" : "match",
+         "width" : 275,
+         "xpos" : 0,
+         "ypos" : 0
+      }
+   ],
+   "tags" : [
+      "ENV-DISTRI-opensuse",
+      "ENV-INSTLANG-en_US",
+      "ENV-VIDEOMODE-text",
+      "reboot-after-installation"
+   ]
 }

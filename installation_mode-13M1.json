@@ -1,14 +1,14 @@
 {
-  "area": [
-    {
-      "width": 514,
-      "xpos": "255",
-      "type": "match",
-      "ypos": "0",
-      "height": 538
-    }
-  ],
-  "tags": [
-    "inst-instmode"
-  ]
+   "area" : [
+      {
+         "height" : 538,
+         "type" : "match",
+         "width" : 514,
+         "xpos" : "255",
+         "ypos" : 0
+      }
+   ],
+   "tags" : [
+      "inst-instmode"
+   ]
 }

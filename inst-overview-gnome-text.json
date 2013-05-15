@@ -1,18 +1,18 @@
 {
-    "area": [
-        {
-            "height": 63,
-            "type": "match",
-            "width": 254,
-            "xpos": 25,
-            "ypos": 370
-        }
-    ],
-    "tags": [
-        "inst-overview",
-        "ENV-VIDEOMODE-text",
-        "ENV-DESKTOP-gnome",
-        "ENV-DISTRI-opensuse",
-        "ENV-INSTLANG-en_US"
-    ]
+   "area" : [
+      {
+         "height" : 63,
+         "type" : "match",
+         "width" : 254,
+         "xpos" : 25,
+         "ypos" : 370
+      }
+   ],
+   "tags" : [
+      "ENV-DESKTOP-gnome",
+      "ENV-DISTRI-opensuse",
+      "ENV-INSTLANG-en_US",
+      "ENV-VIDEOMODE-text",
+      "inst-overview"
+   ]
 }

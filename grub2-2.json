@@ -9,7 +9,8 @@
       }
    ],
    "tags" : [
-      "grub2", "bootloader",
+      "bootloader",
+      "grub2",
       "reboot-after-installation"
    ]
 }

@@ -1,11 +1,11 @@
 {
    "area" : [
       {
+         "height" : 49,
+         "type" : "match",
          "width" : 241,
          "xpos" : 0,
-         "type" : "match",
-         "ypos" : 0,
-         "height" : 49
+         "ypos" : 0
       }
    ],
    "tags" : [

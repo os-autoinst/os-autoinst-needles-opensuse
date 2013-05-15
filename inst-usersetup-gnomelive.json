@@ -1,19 +1,19 @@
 {
-    "area": [
-        {
-            "height": 693,
-            "type": "match",
-            "width": 259,
-            "xpos": 0,
-            "ypos": 0
-        }
-    ],
-    "tags": [
-        "inst-usersetup",
-        "after-paritioning",
-        "ENV-DESKTOP-gnome",
-        "ENV-DISTRI-opensuse",
-        "ENV-INSTLANG-en_US",
-        "ENV-LIVECD-1"
-    ]
+   "area" : [
+      {
+         "height" : 693,
+         "type" : "match",
+         "width" : 259,
+         "xpos" : 0,
+         "ypos" : 0
+      }
+   ],
+   "tags" : [
+      "ENV-DESKTOP-gnome",
+      "ENV-DISTRI-opensuse",
+      "ENV-INSTLANG-en_US",
+      "ENV-LIVECD-1",
+      "after-paritioning",
+      "inst-usersetup"
+   ]
 }

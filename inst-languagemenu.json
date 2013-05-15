@@ -1,15 +1,15 @@
 {
-    "area": [
-        {
-            "height": 195,
-            "type": "match",
-            "width": 165,
-            "xpos": 95,
-            "ypos": 160
-        }
-    ],
-    "tags": [
-        "inst-languagemenu",
-        "ENV-DISTRI-opensuse"
-    ]
+   "area" : [
+      {
+         "height" : 195,
+         "type" : "match",
+         "width" : 165,
+         "xpos" : 95,
+         "ypos" : 160
+      }
+   ],
+   "tags" : [
+      "ENV-DISTRI-opensuse",
+      "inst-languagemenu"
+   ]
 }

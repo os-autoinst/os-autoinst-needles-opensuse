@@ -1,18 +1,18 @@
 {
-    "area": [
-        {
-            "height": 48,
-            "type": "match",
-            "width": 284,
-            "xpos": 25,
-            "ypos": 380
-        }
-    ],
-    "tags": [
-        "inst-overview",
-        "ENV-VIDEOMODE-text",
-        "ENV-DESKTOP-minimalx",
-        "ENV-DISTRI-opensuse",
-        "ENV-INSTLANG-en_US"
-    ]
+   "area" : [
+      {
+         "height" : 48,
+         "type" : "match",
+         "width" : 284,
+         "xpos" : 25,
+         "ypos" : 380
+      }
+   ],
+   "tags" : [
+      "ENV-DESKTOP-minimalx",
+      "ENV-DISTRI-opensuse",
+      "ENV-INSTLANG-en_US",
+      "ENV-VIDEOMODE-text",
+      "inst-overview"
+   ]
 }

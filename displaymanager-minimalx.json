@@ -1,17 +1,17 @@
 {
-    "area": [
-        {
-            "height": 147,
-            "type": "match",
-            "width": 324,
-            "xpos": 150,
-            "ypos": 230
-        }
-    ],
-    "tags": [
-        "displaymanager",
-        "ENV-DESKTOP-minimalx",
-        "ENV-DISTRI-opensuse",
-        "ENV-INSTLANG-en_US"
-    ]
+   "area" : [
+      {
+         "height" : 147,
+         "type" : "match",
+         "width" : 324,
+         "xpos" : 150,
+         "ypos" : 230
+      }
+   ],
+   "tags" : [
+      "ENV-DESKTOP-minimalx",
+      "ENV-DISTRI-opensuse",
+      "ENV-INSTLANG-en_US",
+      "displaymanager"
+   ]
 }
