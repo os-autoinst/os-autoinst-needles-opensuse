@@ -1,0 +1,73 @@
+{
+    "area": [
+        {
+            "height": 73,
+            "type": "match",
+            "width": 64,
+            "xpos": 75,
+            "ypos": 75
+        },
+        {
+            "height": 55,
+            "type": "match",
+            "width": 70,
+            "xpos": 185,
+            "ypos": 75
+        },
+        {
+            "height": 55,
+            "type": "match",
+            "width": 70,
+            "xpos": 305,
+            "ypos": 75
+        },
+        {
+            "height": 55,
+            "type": "match",
+            "width": 70,
+            "xpos": 415,
+            "ypos": 75
+        },
+        {
+            "height": 40,
+            "type": "match",
+            "width": 135,
+            "xpos": 770,
+            "ypos": 80
+        },
+        {
+            "height": 65,
+            "type": "match",
+            "width": 70,
+            "xpos": 125,
+            "ypos": 150
+        },
+        {
+            "height": 55,
+            "type": "match",
+            "width": 85,
+            "xpos": 115,
+            "ypos": 275
+        },
+        {
+            "height": 30,
+            "type": "match",
+            "width": 145,
+            "xpos": 205,
+            "ypos": 565
+        },
+        {
+            "height": 85,
+            "type": "match",
+            "width": 75,
+            "xpos": 120,
+            "ypos": 445
+        }
+    ],
+    "tags": [
+        "desktop-at-first-boot-kde",
+        "ENV-DESKTOP-kde",
+        "ENV-DISTRI-opensuse",
+        "ENV-INSTLANG-en_US"
+    ]
+}
