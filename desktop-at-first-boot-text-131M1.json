@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 375,
+      "xpos": "0",
+      "type": "match",
+      "ypos": "3",
+      "height": 40
+    },
+    {
+      "width": 85,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 48,
+      "height": 40
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "desktop-at-first-boot"
+  ]
+}
