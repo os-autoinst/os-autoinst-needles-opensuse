@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 718,
+      "width": 135,
+      "height": 50,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-zypper_in-1"
+  ]
+}

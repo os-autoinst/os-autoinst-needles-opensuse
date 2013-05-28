@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 16,
+      "width": 486,
+      "height": 39,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-recentchanges-1"
+  ]
+}

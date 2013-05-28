@@ -10,7 +10,7 @@
     {
       "width": 85,
       "xpos": 0,
-      "type": "match",
+      "type": "exclude",
       "ypos": 48,
       "height": 40
     }
