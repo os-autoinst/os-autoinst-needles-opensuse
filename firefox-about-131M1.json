@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 224,
+      "ypos": 239,
+      "width": 581,
+      "height": 211,
+      "type": "match"
+    },
+    {
+      "xpos": 457,
+      "ypos": 289,
+      "width": 177,
+      "height": 56,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "test-firefox-2"
+  ]
+}

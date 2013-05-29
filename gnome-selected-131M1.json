@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 457,
+      "xpos": 269,
+      "type": "match",
+      "ypos": 326,
+      "height": 212
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "gnome-selected"
+  ]
+}

@@ -5,7 +5,8 @@
       "ypos": 718,
       "width": 135,
       "height": 50,
-      "type": "match"
+      "type": "match",
+      "match": 100
     }
   ],
   "tags": [
