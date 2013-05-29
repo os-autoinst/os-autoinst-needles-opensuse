@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 206,
+      "width": 276,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-xterm-1",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
