@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 490,
+      "ypos": 196,
+      "width": 497,
+      "height": 97,
+      "type": "match"
+    },
+    {
+      "xpos": 759,
+      "ypos": 704,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partition-splitusr-finished",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
