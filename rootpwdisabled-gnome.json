@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 452,
+      "width": 337,
+      "ypos": 386,
+      "type": "match",
+      "height": 25
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse", "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1",
+    "rootpwdisabled"
+  ]
+}

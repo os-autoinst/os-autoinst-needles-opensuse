@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 341,
+      "ypos": 267,
+      "width": 362,
+      "height": 244,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1",
+    "createpartsetup"
+  ]
+}
