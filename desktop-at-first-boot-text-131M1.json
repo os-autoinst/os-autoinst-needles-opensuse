@@ -1,24 +1,33 @@
 {
-  "area": [
-    {
-      "width": 375,
-      "xpos": "0",
-      "type": "match",
-      "ypos": "3",
-      "height": 40
-    },
-    {
-      "width": 85,
-      "xpos": 0,
-      "type": "exclude",
-      "ypos": 48,
-      "height": 40
-    }
-  ],
-  "tags": [
-    "ENV-DESKTOP-textmode",
-    "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US",
-    "desktop-at-first-boot"
-  ]
+    "area": [
+        {
+            "height": 40,
+            "type": "match",
+            "width": 195,
+            "xpos": 0,
+            "ypos": 3
+        },
+        {
+            "height": 40,
+            "type": "exclude",
+            "width": 85,
+            "xpos": 0,
+            "ypos": 48
+        },
+        {
+            "height": 40,
+            "type": "match",
+            "width": 65,
+            "xpos": 85,
+            "ypos": 50
+        }
+    ],
+    "tags": [
+        "ENV-DESKTOP-textmode",
+        "ENV-VIDEOMODE-text",
+        "ENV-DISTRI-opensuse",
+        "ENV-INSTLANG-en_US",
+        "desktop-at-first-boot",
+        "desktop-at-first-boot-text"
+    ]
 }
