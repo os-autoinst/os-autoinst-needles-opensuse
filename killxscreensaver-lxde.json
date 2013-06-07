@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 341,
+      "height": 52,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-killxscreensaver-1",
+    "ENV-DESKTOP-lxde",
+    "ENV-DISTRI-opensuse"
+  ]
+}

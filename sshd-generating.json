@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 1014,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 156,
+      "height": 609
+    }
+  ],
+  "tags": [
+    "test-sshd-1",
+    "ENV-DISTRI-opensuse"
+  ]
+}

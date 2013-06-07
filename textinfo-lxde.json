@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 335,
+      "width": 329,
+      "height": 49,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-textinfo-1",
+    "ENV-DESKTOP-lxde",
+    "ENV-DISTRI-opensuse"
+  ]
+}
