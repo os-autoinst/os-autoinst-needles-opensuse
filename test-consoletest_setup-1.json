@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 288,
+      "width": 543,
+      "height": 65,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-consoletest_setup-1",
+    "ENV-DISTRI-opensuse"
+  ]
+}
