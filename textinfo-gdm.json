@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 335,
+      "width": 284,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-textinfo-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse"
+  ]
+}

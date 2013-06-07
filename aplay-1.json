@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 431,
+      "width": 440,
+      "height": 68,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-aplay-1",
+    "ENV-DISTRI-opensuse"
+  ]
+}
