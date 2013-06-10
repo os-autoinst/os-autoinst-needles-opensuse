@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 219,
+      "ypos": 165,
+      "width": 361,
+      "height": 178,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-onmediacheck",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
