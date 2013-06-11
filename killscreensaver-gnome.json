@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 327,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-killscreensaver-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse"
+  ]
+}
