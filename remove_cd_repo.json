@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 60,
+      "width": 291,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "cdreporemoved",
+    "ENV-DISTRI-opensuse"
+  ]
+}
