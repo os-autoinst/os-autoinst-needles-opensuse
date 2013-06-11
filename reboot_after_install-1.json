@@ -9,7 +9,7 @@
         }
 ],
   "tags": [
-    "test-reboot_after_install-1",
+    "reboot_after_install",
     "ENV-DESKTOP-kde",
     "ENV-DISTRI-opensuse"
   ]
