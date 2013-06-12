@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 743,
+      "xpos": 140,
+      "type": "match",
+      "ypos": 75,
+      "height": 613
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "test-yast2_users-1"
+  ]
+}

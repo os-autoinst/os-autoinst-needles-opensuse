@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 398,
+      "width": 397,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "test-textinfo-1"
+  ]
+}
