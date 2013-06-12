@@ -17,8 +17,6 @@
     ],
     "tags": [
         "bootloader-grub2",
-        "ENV-DESKTOP-kde",
-        "ENV-DISTRI-opensuse",
-        "ENV-INSTLANG-en_US"
+        "ENV-DISTRI-opensuse"
     ]
 }

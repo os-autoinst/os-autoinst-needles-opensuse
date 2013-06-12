@@ -18,8 +18,6 @@
     "tags": [
         "inst-video-typed-grub2",
         "ENV-VIDEOMODE-text",
-        "ENV-DESKTOP-kde",
-        "ENV-DISTRI-opensuse",
-        "ENV-INSTLANG-en_US"
+        "ENV-DISTRI-opensuse"
     ]
 }
