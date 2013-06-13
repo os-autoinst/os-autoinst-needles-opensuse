@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 301,
+      "width": 272,
+      "height": 68,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-textinfo-1",
+    "ENV-DESKTOP-minimalx",
+    "ENV-DISTRI-opensuse"
+  ]
+}

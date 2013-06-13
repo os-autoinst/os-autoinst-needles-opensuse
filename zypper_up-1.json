@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 572,
+      "width": 492,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-zypper_up-first_run",
+    "ENV-DISTRI-opensuse"
+  ]
+}
