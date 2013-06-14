@@ -20,6 +20,7 @@
       "ENV-DISTRI-opensuse",
       "ENV-INSTLANG-en_US",
       "LXDE",
+      "booted",
       "desktop-at-first-boot"
    ]
 }

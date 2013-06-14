@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 219,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 497,
+      "ypos": 328,
+      "width": 32,
+      "height": 63,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "screenlock",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
