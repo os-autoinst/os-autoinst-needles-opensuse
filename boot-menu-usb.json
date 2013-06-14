@@ -1,0 +1,24 @@
+{
+    "area": [
+        {
+            "height": 768,
+            "type": "match",
+            "width": 1024,
+            "xpos": 0,
+            "ypos": 0
+        },
+        {
+            "height": 15,
+            "type": "match",
+            "width": 300,
+            "xpos": 20,
+            "ypos": 240
+        }
+    ],
+    "tags": [
+        "boot-menu-usb",
+        "ENV-DESKTOP-kde",
+        "ENV-DISTRI-opensuse",
+        "ENV-INSTLANG-en_US"
+    ]
+}
