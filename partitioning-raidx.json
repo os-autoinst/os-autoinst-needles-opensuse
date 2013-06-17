@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 316,
+      "ypos": 62,
+      "width": 635,
+      "height": 201,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-INSTLANG-en_US",
+    "acceptedpartioning"
+  ]
+}
