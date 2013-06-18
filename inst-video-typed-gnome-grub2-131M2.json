@@ -1,22 +1,21 @@
 {
   "area": [
     {
-      "width": 1024,
       "xpos": 0,
-      "type": "match",
+      "width": 1024,
       "ypos": 0,
+      "type": "match",
       "height": 768
     },
     {
-      "width": 530,
       "xpos": 125,
-      "type": "match",
+      "width": 530,
       "ypos": 140,
+      "type": "match",
       "height": 225
     }
   ],
   "tags": [
-    "ENV-DISTRI-opensuse",
     "inst-video-typed-grub2"
   ]
 }
