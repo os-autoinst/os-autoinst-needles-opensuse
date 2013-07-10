@@ -1,18 +1,21 @@
 {
     "area": [
-        {
-            "height": 768,
-            "type": "match",
-            "width": 1024,
-            "xpos": 0,
-            "ypos": 0
-        }
+	{
+	    "width": 692,
+	    "xpos": 0,
+	    "type": "match",
+	    "ypos": 0,
+	    "height": 192
+	},
+	{
+	    "xpos": 292,
+	    "ypos": 443,
+	    "width": 606,
+	    "height": 312,
+	    "type": "match"
+	}
     ],
     "tags": [
-        "test-mysql_srv-1",
-        "ENV-VIDEOMODE-text",
-        "ENV-DESKTOP-textmode",
-        "ENV-DISTRI-opensuse",
-        "ENV-INSTLANG-en_US"
+        "test-mysql_srv-1"
     ]
 }

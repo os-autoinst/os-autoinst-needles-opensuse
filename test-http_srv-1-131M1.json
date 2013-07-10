@@ -9,10 +9,6 @@
         }
     ],
     "tags": [
-        "test-http_srv-1",
-        "ENV-VIDEOMODE-text",
-        "ENV-DESKTOP-textmode",
-        "ENV-DISTRI-opensuse",
-        "ENV-INSTLANG-en_US"
+        "test-http_srv-1"
     ]
 }

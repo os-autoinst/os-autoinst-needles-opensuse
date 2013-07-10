@@ -9,9 +9,6 @@
     }
   ],
   "tags": [
-    "text-login",
-    "ENV-DESKTOP-lxde",
-    "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US"
+    "text-login"
   ]
 }

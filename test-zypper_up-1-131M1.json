@@ -1,18 +1,21 @@
 {
     "area": [
-        {
-            "height": 768,
-            "type": "match",
-            "width": 1024,
-            "xpos": 0,
-            "ypos": 0
-        }
+	{
+	    "xpos": 0,
+	    "width": 205,
+	    "ypos": 121,
+	    "type": "match",
+	    "height": 97
+	},
+	{
+	    "xpos": 0,
+	    "ypos": 0,
+	    "width": 284,
+	    "height": 19,
+	    "type": "match"
+	}
     ],
     "tags": [
-        "test-zypper_up-1",
-        "ENV-VIDEOMODE-text",
-        "ENV-DESKTOP-textmode",
-        "ENV-DISTRI-opensuse",
-        "ENV-INSTLANG-en_US"
+        "test-zypper_up-1"
     ]
 }
