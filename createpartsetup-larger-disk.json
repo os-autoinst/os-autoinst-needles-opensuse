@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 378,
+      "xpos": 449,
+      "type": "match",
+      "ypos": 278,
+      "height": 198
+    }
+  ],
+  "tags": [
+    "createpartsetup",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
