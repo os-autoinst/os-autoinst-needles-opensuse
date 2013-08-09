@@ -1,0 +1,34 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "width": 1015,
+      "ypos": 0,
+      "type": "match",
+      "height": 765
+    },
+    {
+      "xpos": 498,
+      "width": 519,
+      "ypos": 613,
+      "type": "exclude",
+      "height": 155
+    },
+    {
+      "xpos": 0,
+      "width": 130,
+      "ypos": 320,
+      "type": "exclude",
+      "height": 370
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "XFCE",
+    "booted",
+    "desktop-at-first-boot",
+    "test-consoletest_finish-1"
+  ]
+}
