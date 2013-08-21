@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 300,
+      "ypos": 310,
+      "width": 430,
+      "height": 178,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "linuxrc-install-fail"
+  ]
+}

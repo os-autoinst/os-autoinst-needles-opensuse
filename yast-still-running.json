@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 19,
+      "ypos": 15,
+      "width": 121,
+      "height": 106,
+      "type": "match"
+    },
+    {
+      "xpos": 23,
+      "ypos": 273,
+      "width": 99,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 263,
+      "ypos": 718,
+      "width": 70,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast-still-running",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
