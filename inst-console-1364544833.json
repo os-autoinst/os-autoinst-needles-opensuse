@@ -1,14 +1,14 @@
 {
-   "area" : [
-      {
-         "height" : 118,
-         "type" : "match",
-         "width" : 644,
-         "xpos" : 0,
-         "ypos" : 45
-      }
-   ],
-   "tags" : [
-      "inst-console"
-   ]
+    "area": [
+        {
+            "height": 98,
+            "type": "match",
+            "width": 644,
+            "xpos": 0,
+            "ypos": 40
+        }
+    ],
+    "tags": [
+        "inst-console"
+    ]
 }
