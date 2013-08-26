@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 364,
+      "ypos": 320,
+      "width": 304,
+      "height": 129,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast-error-ntp",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
