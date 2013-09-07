@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 308,
+      "xpos": 204,
+      "type": "match",
+      "ypos": 442,
+      "height": 25
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "usebtrfs"
+  ]
+}
