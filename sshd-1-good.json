@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "width": 196,
+      "xpos": 22,
+      "type": "match",
+      "ypos": 258,
+      "height": 47
+    },
+    {
+      "xpos": 306,
+      "ypos": 495,
+      "width": 375,
+      "height": 51,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-sshd-1"
+  ]
+}
