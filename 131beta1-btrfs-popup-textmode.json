@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 366,
+      "xpos": 329,
+      "type": "match",
+      "ypos": 341,
+      "height": 87
+    }
+  ],
+  "tags": [
+    "131beta1-btrfs-popup",
+    "ENV-VIDEOMODE-text",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
