@@ -1,24 +1,16 @@
 {
-    "area": [
-        {
-            "height": 768,
-            "type": "match",
-            "width": 1024,
-            "xpos": 0,
-            "ypos": 0
-        },
-        {
-            "height": 30,
-            "type": "match",
-            "width": 220,
-            "xpos": 0,
-            "ypos": 105
-        }
-    ],
-    "tags": [
-        "boot-menu",
-        "ENV-DESKTOP-kde",
-        "ENV-DISTRI-opensuse",
-        "ENV-INSTLANG-en_US"
-    ]
+  "area": [
+    {
+      "width": 220,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 121,
+      "height": 30
+    }
+  ],
+  "tags": [
+    "boot-menu",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
 }
