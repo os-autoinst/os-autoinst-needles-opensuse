@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 300,
+      "xpos": 20,
+      "type": "match",
+      "ypos": 256,
+      "height": 15
+    }
+  ],
+  "tags": [
+    "boot-menu-usb",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
