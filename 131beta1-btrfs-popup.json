@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 352,
+      "ypos": 326,
+      "width": 326,
+      "height": 116,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "131beta1-btrfs-popup",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
