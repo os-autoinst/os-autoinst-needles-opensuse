@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 255,
+      "ypos": 286,
+      "width": 205,
+      "height": 203,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "screenlock",
+    "ENV-DESKTOP-xfce",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
