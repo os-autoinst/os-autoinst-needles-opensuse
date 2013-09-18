@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 336,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 26,
+      "height": 84
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "test-firefox-1"
+  ]
+}
