@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 553,
+      "xpos": 446,
+      "type": "match",
+      "ypos": 114,
+      "height": 207
+    }
+  ],
+  "tags": [
+    "test-khelpcenter-1",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
