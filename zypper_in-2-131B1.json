@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 280,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 30,
+      "height": 19
+    }
+  ],
+  "tags": [
+    "test-zypper_in-2",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
