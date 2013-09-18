@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 17,
+      "width": 279,
+      "height": 46,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "test-yast2_i-xdelta-not-installed"
+  ]
+}
