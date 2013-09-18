@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 310,
+      "ypos": 297,
+      "width": 407,
+      "height": 172,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-reboot_kde-1",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
