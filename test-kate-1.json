@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 199,
+      "ypos": 87,
+      "width": 287,
+      "height": 83,
+      "type": "match"
+    },
+    {
+      "xpos": 416,
+      "ypos": 201,
+      "width": 152,
+      "height": 166,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-kate-1",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-NETBOOT-1"
+  ]
+}
