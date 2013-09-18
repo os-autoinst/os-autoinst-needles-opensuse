@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "width": 300,
+      "xpos": 365,
+      "type": "match",
+      "ypos": 327,
+      "height": 116
+    }
+  ],
+  "tags": [
+    "131beta1-btrfs-popup",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1"
+  ]
+}
