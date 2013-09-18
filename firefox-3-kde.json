@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 88,
+      "ypos": 148,
+      "width": 595,
+      "height": 283,
+      "type": "match"
+    },
+    {
+      "xpos": 339,
+      "ypos": 203,
+      "width": 55,
+      "height": 24,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "test-firefox-3",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
