@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 656,
+      "width": 372,
+      "height": 83,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-sshfs-1",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
