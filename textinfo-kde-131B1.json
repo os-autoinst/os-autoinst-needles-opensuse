@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 396,
+      "width": 271,
+      "height": 53,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-textinfo-1",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
