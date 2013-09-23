@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 336,
+      "ypos": 256,
+      "width": 405,
+      "height": 126,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "apper-refresh-popup-bnc834165"
+  ]
+}
