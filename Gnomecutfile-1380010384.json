@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 50,
+      "ypos": 48,
+      "width": 941,
+      "height": 326,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-Gnomecutfile-2",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
