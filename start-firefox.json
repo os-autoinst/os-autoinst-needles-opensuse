@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 162,
+      "ypos": 98,
+      "width": 462,
+      "height": 76,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "start-firefox",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1"
+  ]
+}
