@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 224,
+      "ypos": 250,
+      "width": 310,
+      "height": 47,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox_help-forgery",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

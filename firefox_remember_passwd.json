@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 210,
+      "ypos": 227,
+      "width": 271,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox_remember-password",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

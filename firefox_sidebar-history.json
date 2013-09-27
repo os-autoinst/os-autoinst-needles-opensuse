@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 140,
+      "ypos": 224,
+      "width": 213,
+      "height": 116,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox_sidebar-history",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

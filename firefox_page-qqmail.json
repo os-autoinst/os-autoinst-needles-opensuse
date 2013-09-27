@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "xpos": 136,
+      "ypos": 154,
+      "width": 228,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 134,
+      "ypos": 228,
+      "width": 203,
+      "height": 50,
+      "type": "match"
+    },
+    {
+      "xpos": 642,
+      "ypos": 315,
+      "width": 124,
+      "height": 118,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox_page-qqmail",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
