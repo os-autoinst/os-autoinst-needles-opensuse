@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 299,
+      "ypos": 246,
+      "width": 254,
+      "height": 71,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-pidgin_googletalk-3",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

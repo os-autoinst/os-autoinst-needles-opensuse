@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 289,
+      "ypos": 271,
+      "width": 254,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-pidgin_IRC-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

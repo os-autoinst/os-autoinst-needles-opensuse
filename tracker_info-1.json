@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 140,
+      "ypos": 101,
+      "width": 103,
+      "height": 44,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-tracker_info-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
