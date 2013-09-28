@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 282,
+      "ypos": 170,
+      "width": 180,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "grub-opensuse-13.1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

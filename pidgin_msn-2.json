@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 413,
+      "ypos": 142,
+      "width": 91,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-pidgin_msn-2",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
