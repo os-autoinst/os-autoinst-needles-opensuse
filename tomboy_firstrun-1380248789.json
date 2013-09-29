@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 66,
+      "ypos": 221,
+      "width": 122,
+      "height": 26,
+      "type": "ocr"
+    },
+    {
+      "xpos": 700,
+      "ypos": 669,
+      "width": 137,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "tags": []
+}
