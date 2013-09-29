@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 188,
+      "ypos": 214,
+      "width": 646,
+      "height": 144,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox_pref-general-homepage",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

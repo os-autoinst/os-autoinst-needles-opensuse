@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 130,
+      "width": 276,
+      "height": 150,
+      "type": "match"
+    },
+    {
+      "xpos": 697,
+      "ypos": 188,
+      "width": 327,
+      "height": 42,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-firefox_url-googlemaps-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

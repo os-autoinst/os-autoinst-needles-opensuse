@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 123,
+      "width": 326,
+      "height": 127,
+      "type": "match"
+    },
+    {
+      "xpos": 356,
+      "ypos": 34,
+      "width": 313,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-firefox_url-novell-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
