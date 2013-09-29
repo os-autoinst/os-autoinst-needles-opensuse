@@ -1,16 +1,15 @@
 {
   "area": [
     {
-      "xpos": 24,
-      "ypos": 165,
-      "width": 294,
-      "height": 77,
+      "xpos": 142,
+      "ypos": 236,
+      "width": 61,
+      "height": 15,
       "type": "match"
     }
   ],
   "tags": [
-    "firefox_page-novell",
-    "firefox_page-ftpnovell",
+    "firefox_page-flickr",
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US"

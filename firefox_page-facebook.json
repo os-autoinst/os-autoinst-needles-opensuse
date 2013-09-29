@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 133,
+      "ypos": 248,
+      "width": 161,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox_page-facebook",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1"
+  ]
+}
