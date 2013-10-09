@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 239,
+      "ypos": 263,
+      "width": 545,
+      "height": 243,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1",
+    "displaymanager"
+  ]
+}
