@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 301,
+      "ypos": 289,
+      "width": 423,
+      "height": 191,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "logoutdialog",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
