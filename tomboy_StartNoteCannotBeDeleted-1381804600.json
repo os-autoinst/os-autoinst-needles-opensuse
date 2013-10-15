@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 341,
+      "ypos": 178,
+      "width": 33,
+      "height": 37,
+      "type": "match"
+    },
+    {
+      "xpos": 66,
+      "ypos": 220,
+      "width": 120,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "tomboy_delete_1"
+  ]
+}
