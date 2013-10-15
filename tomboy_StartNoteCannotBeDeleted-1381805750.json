@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 346,
+      "ypos": 185,
+      "width": 29,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-tomboy_StartNoteCannotBeDeleted-1"
+  ]
+}
