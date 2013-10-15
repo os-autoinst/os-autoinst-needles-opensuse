@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "inst-video-typed-grub2"
+  ],
+  "area": [
+    {
+      "ypos": 140,
+      "height": 240,
+      "width": 634,
+      "xpos": 83,
+      "type": "match"
+    }
+  ]
+}
