@@ -1,21 +1,21 @@
 {
   "area": [
     {
-      "xpos": 153,
-      "ypos": 134,
-      "width": 100,
+      "xpos": 156,
+      "ypos": 132,
+      "width": 99,
       "height": 21,
-      "type": "exclude"
+      "type": "match"
     },
     {
-      "xpos": 766,
+      "xpos": 764,
       "ypos": 694,
-      "width": 108,
-      "height": 18,
+      "width": 113,
+      "height": 20,
       "type": "match"
     }
   ],
   "tags": [
-    "tomboy_firstrun"
+    "tomboy_menu"
   ]
 }
