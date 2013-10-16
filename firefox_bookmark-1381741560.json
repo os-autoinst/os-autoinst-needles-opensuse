@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 27,
+      "ypos": 115,
+      "width": 663,
+      "height": 205,
+      "type": "match"
+    },
+    {
+      "xpos": 88,
+      "ypos": 321,
+      "width": 271,
+      "height": 187,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "not-bookmark-yet",
+    "test-firefox_bookmark-1"
+  ]
+}

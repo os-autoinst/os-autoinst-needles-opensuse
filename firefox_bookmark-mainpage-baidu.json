@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "width": 629,
+      "xpos": 224,
+      "type": "match",
+      "ypos": 348,
+      "height": 225
+    },
+    {
+      "width": 512,
+      "xpos": 254,
+      "type": "match",
+      "ypos": 199,
+      "height": 95
+    },
+    {
+      "xpos": 165,
+      "ypos": 244,
+      "width": 658,
+      "height": 137,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "mainpage-baidu"
+  ]
+}
