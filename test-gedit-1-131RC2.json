@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 186,
+      "ypos": 204,
+      "width": 389,
+      "height": 78,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-gedit-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
