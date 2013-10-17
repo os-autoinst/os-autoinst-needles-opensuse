@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 102,
+      "ypos": 154,
+      "width": 305,
+      "height": 85,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-nautilus-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

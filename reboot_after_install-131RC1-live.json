@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "width": 82,
+      "ypos": 714,
+      "type": "match",
+      "height": 54
+    },
+    {
+      "width": 389,
+      "xpos": 629,
+      "type": "match",
+      "ypos": 0,
+      "height": 594
+    },
+    {
+      "width": 444,
+      "xpos": 52,
+      "type": "match",
+      "ypos": 43,
+      "height": 189
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1",
+    "reboot_after_install",
+    "test-consoletest_finish-1"
+  ]
+}

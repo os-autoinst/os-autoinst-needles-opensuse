@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "width": 239,
+      "xpos": 269,
+      "type": "match",
+      "ypos": 461,
+      "height": 116
+    }
+  ],
+  "tags": [
+    "other-desktop",
+    "ENV-DESKTOP-minimalx",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-PROMO-1"
+  ]
+}

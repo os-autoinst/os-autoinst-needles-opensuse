@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 319,
+      "width": 672,
+      "ypos": 190,
+      "type": "match",
+      "height": 110
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1",
+    "raid-partition"
+  ]
+}

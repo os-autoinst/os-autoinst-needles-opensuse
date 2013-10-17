@@ -1,17 +1,17 @@
 {
   "area": [
     {
-      "xpos": 0,
-      "width": 426,
-      "ypos": 321,
+      "xpos": 9,
+      "width": 849,
+      "ypos": 24,
       "type": "match",
-      "height": 199
+      "height": 448
     }
   ],
   "tags": [
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
-    "ENV-VIDEOMODE-text",
-    "other-desktop"
+    "ENV-UEFI-1",
+    "test-yast2_bootloader-1"
   ]
 }

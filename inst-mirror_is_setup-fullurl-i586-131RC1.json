@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 132,
+      "xpos": 240,
+      "type": "match",
+      "ypos": 225,
+      "height": 70
+    }
+  ],
+  "tags": [
+    "ENV-NETBOOT-1",
+    "inst-mirror_is_setup"
+  ]
+}
