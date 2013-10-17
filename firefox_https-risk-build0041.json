@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 383,
+      "xpos": 166,
+      "type": "match",
+      "ypos": 310,
+      "height": 88
+    }
+  ],
+  "tags": [
+    "firefox_https-risk",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
