@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 259,
+      "ypos": 311,
+      "width": 506,
+      "height": 176,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "oomath-prompt",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
