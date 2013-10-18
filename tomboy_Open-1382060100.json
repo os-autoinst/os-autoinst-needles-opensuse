@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 10,
+      "ypos": 83,
+      "width": 92,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 147,
+      "ypos": 28,
+      "width": 70,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "tomboy_open_1"
+  ]
+}
