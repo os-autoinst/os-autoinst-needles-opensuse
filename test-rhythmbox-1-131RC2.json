@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "test-rhythmbox-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 71,
+      "width": 742,
+      "height": 528,
+      "type": "match"
+    }
+  ]
+}
