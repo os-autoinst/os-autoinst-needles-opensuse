@@ -12,7 +12,6 @@
     "firefox_about-rights",
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US",
-    "ENV-LIVECD-1"
+    "ENV-INSTLANG-en_US"
   ]
 }

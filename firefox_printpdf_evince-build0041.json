@@ -1,22 +1,22 @@
 {
   "area": [
     {
-      "width": 245,
-      "xpos": 326,
+      "width": 239,
+      "xpos": 236,
       "type": "match",
-      "ypos": 160,
-      "height": 21
+      "ypos": 175,
+      "height": 49
     },
     {
-      "width": 407,
-      "xpos": 158,
+      "width": 123,
+      "xpos": 109,
       "type": "match",
-      "ypos": 240,
-      "height": 46
+      "ypos": 4,
+      "height": 19
     }
   ],
   "tags": [
-    "firefox_help-trouble",
+    "firefox_printpdf_evince",
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US"

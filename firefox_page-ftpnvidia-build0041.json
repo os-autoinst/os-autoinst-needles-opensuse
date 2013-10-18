@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 490,
+      "xpos": 161,
+      "type": "match",
+      "ypos": 266,
+      "height": 137
+    }
+  ],
+  "tags": [
+    "firefox_page-ftpnvidia",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

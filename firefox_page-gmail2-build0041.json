@@ -1,22 +1,22 @@
 {
   "area": [
     {
-      "width": 245,
-      "xpos": 326,
+      "width": 100,
+      "xpos": 281,
       "type": "match",
-      "ypos": 160,
-      "height": 21
+      "ypos": 194,
+      "height": 15
     },
     {
-      "width": 407,
-      "xpos": 158,
+      "width": 136,
+      "xpos": 455,
       "type": "match",
-      "ypos": 240,
-      "height": 46
+      "ypos": 297,
+      "height": 25
     }
   ],
   "tags": [
-    "firefox_help-trouble",
+    "firefox_page-gmail2",
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US"
