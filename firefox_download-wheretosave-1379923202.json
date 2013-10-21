@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 94,
+      "ypos": 66,
+      "width": 244,
+      "height": 44,
+      "type": "match"
+    },
+    {
+      "xpos": 830,
+      "ypos": 131,
+      "width": 89,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox_download-wheretosave",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

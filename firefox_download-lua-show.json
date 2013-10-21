@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 365,
+      "ypos": 229,
+      "width": 344,
+      "height": 123,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox_download-lua-show",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

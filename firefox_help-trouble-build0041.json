@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 245,
+      "xpos": 326,
+      "type": "match",
+      "ypos": 160,
+      "height": 21
+    },
+    {
+      "width": 407,
+      "xpos": 158,
+      "type": "match",
+      "ypos": 240,
+      "height": 46
+    }
+  ],
+  "tags": [
+    "firefox_help-trouble",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

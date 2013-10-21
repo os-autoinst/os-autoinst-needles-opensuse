@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 320,
+      "ypos": 310,
+      "width": 373,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox_help-feedback",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

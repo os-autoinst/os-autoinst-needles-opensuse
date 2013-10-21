@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 139,
+      "ypos": 186,
+      "width": 80,
+      "height": 384,
+      "type": "match"
+    },
+    {
+      "xpos": 248,
+      "ypos": 187,
+      "width": 641,
+      "height": 60,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "firefox_addons-page"
+  ]
+}

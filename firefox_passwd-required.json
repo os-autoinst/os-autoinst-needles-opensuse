@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 254,
+      "ypos": 280,
+      "width": 333,
+      "height": 119,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox_passwd-required"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 265,
+      "ypos": 256,
+      "width": 488,
+      "height": 223,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox_download-lua-tar",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

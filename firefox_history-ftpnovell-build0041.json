@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 91,
+      "xpos": 54,
+      "type": "match",
+      "ypos": 131,
+      "height": 15
+    },
+    {
+      "width": 362,
+      "xpos": 224,
+      "type": "match",
+      "ypos": 457,
+      "height": 20
+    }
+  ],
+  "tags": [
+    "firefox_history-ftpnovell",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

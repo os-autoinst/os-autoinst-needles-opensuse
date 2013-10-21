@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 233,
+      "ypos": 262,
+      "width": 350,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox_addons-safemode"
+  ]
+}
