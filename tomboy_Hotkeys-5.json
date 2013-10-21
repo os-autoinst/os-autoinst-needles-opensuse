@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 279,
+      "ypos": 55,
+      "width": 109,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 154,
+      "ypos": 108,
+      "width": 67,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-tomboy_Hotkeys-5"
+  ]
+}
