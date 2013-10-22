@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 289,
+      "ypos": 133,
+      "width": 297,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-firefox_sendlink-unstable_warning",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

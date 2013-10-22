@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 368,
+      "width": 263,
+      "height": 41,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-firefox_bookmarks-new",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
