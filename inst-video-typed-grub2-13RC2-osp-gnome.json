@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 111,
+      "width": 550,
+      "ypos": 253,
+      "type": "match",
+      "height": 19
+    }
+  ],
+  "tags": [
+    "inst-video-typed-grub2",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-UEFI-1",
+    "ENV-FLAVOR-Promo-DVD-OpenSourcePress"
+  ]
+}
