@@ -18,6 +18,6 @@
   "tags": [
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
-    "zypper_up_yesno"
+    "test-zypper_up-confirm"
   ]
 }
