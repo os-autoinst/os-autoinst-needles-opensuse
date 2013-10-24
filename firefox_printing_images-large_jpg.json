@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 214,
+      "ypos": 0,
+      "width": 593,
+      "height": 749,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-firefox_printing_images-large_jpg",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

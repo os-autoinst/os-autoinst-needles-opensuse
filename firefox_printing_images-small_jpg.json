@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 213,
+      "ypos": 0,
+      "width": 595,
+      "height": 752,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-firefox_printing_images-small_jpg",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
