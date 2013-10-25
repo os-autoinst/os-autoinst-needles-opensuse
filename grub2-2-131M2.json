@@ -10,7 +10,6 @@
   ],
   "tags": [
     "bootloader",
-    "grub2",
-    "reboot-after-installation"
+    "grub2"
   ]
 }

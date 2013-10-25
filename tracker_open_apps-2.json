@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 156,
+      "ypos": 111,
+      "width": 258,
+      "height": 153,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-tracker_open_apps-2",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

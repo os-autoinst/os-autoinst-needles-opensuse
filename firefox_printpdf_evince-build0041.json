@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 239,
+      "xpos": 236,
+      "type": "match",
+      "ypos": 175,
+      "height": 49
+    },
+    {
+      "width": 123,
+      "xpos": 109,
+      "type": "match",
+      "ypos": 4,
+      "height": 19
+    }
+  ],
+  "tags": [
+    "firefox_printpdf_evince",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

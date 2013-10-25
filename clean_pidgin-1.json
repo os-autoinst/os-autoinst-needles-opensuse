@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 19,
+      "ypos": 74,
+      "width": 60,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "pidgin-pkg-removed",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

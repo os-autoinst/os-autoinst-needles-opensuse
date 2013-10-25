@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 18,
+      "ypos": 105,
+      "width": 281,
+      "height": 545,
+      "type": "match"
+    },
+    {
+      "xpos": 432,
+      "ypos": 233,
+      "width": 336,
+      "height": 365,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox_page-popupunblock",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

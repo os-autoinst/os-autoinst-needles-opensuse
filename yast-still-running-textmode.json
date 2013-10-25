@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 246,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast-still-running",
+    "ENV-VIDEOMODE-text",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

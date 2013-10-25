@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 405,
+      "xpos": 260,
+      "type": "match",
+      "ypos": 35,
+      "height": 235
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "bootloader-grub2"
+  ]
+}

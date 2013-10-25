@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 333,
+      "xpos": 253,
+      "type": "match",
+      "ypos": 284,
+      "height": 112
+    }
+  ],
+  "tags": [
+    "firefox_passwd-required",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

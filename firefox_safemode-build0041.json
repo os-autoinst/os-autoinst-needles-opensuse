@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 134,
+      "xpos": 560,
+      "type": "match",
+      "ypos": 487,
+      "height": 39
+    }
+  ],
+  "tags": [
+    "firefox_safemode",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

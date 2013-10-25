@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "xpos": 211,
+      "ypos": 108,
+      "width": 163,
+      "height": 292,
+      "type": "match"
+    },
+    {
+      "xpos": 394,
+      "ypos": 350,
+      "width": 157,
+      "height": 139,
+      "type": "match"
+    },
+    {
+      "xpos": 617,
+      "ypos": 355,
+      "width": 136,
+      "height": 187,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox_menu-submenu",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

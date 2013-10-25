@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 175,
+      "ypos": 164,
+      "width": 676,
+      "height": 507,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-evolution-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

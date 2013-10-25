@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 429,
+      "ypos": 41,
+      "width": 210,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox_saveas",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

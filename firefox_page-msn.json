@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 150,
+      "ypos": 400,
+      "width": 83,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox_page-msn",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

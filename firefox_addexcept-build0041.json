@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 471,
+      "xpos": 268,
+      "type": "match",
+      "ypos": 127,
+      "height": 99
+    }
+  ],
+  "tags": [
+    "firefox_addexcept",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

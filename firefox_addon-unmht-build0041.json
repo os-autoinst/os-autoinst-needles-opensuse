@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 86,
+      "xpos": 208,
+      "type": "match",
+      "ypos": 327,
+      "height": 27
+    },
+    {
+      "width": 82,
+      "xpos": 739,
+      "type": "match",
+      "ypos": 547,
+      "height": 33
+    }
+  ],
+  "tags": [
+    "firefox_addon-unmht",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

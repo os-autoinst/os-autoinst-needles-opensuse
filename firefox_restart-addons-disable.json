@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 395,
+      "ypos": 301,
+      "width": 240,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 630,
+      "ypos": 390,
+      "width": 99,
+      "height": 39,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox_restart-addons-disable",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

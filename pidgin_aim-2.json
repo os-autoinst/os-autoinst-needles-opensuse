@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 288,
+      "ypos": 272,
+      "width": 225,
+      "height": 55,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-pidgin_aim-2",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

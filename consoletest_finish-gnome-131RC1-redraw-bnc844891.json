@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 1024,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 0,
+      "height": 196
+    }
+  ],
+  "tags": [
+    "test-consoletest_finish-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
