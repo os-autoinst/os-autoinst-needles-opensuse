@@ -10,8 +10,5 @@
   ],
   "tags": [
     "test-yast2_lan-2",
-    "ENV-DESKTOP-kde",
-    "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US"
   ]
 }
