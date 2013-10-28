@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 47,
+      "ypos": 155,
+      "width": 489,
+      "height": 140,
+      "type": "match"
+    },
+    {
+      "xpos": 337,
+      "ypos": 78,
+      "width": 29,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-tomboy_Print-1"
+  ]
+}
