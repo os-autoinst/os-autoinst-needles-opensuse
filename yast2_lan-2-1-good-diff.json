@@ -1,14 +1,17 @@
 {
-   "area" : [
-      {
-         "height" : 71,
-         "type" : "match",
-         "width" : 85,
-         "xpos" : 0,
-         "ypos" : "2"
-      }
-   ],
-   "tags" : [
-      "test-yast2_lan-2"
-   ]
+  "area": [
+    {
+      "width": 64,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 2,
+      "height": 71
+    }
+  ],
+  "tags": [
+    "test-yast2_lan-2",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
 }
