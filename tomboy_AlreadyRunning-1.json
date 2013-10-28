@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 224,
+      "ypos": 136,
+      "width": 128,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-tomboy_AlreadyRunning-2"
+  ]
+}
