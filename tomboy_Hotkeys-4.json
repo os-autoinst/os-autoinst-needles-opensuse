@@ -1,21 +1,21 @@
 {
   "area": [
     {
-      "xpos": 155,
-      "ypos": 132,
-      "width": 94,
-      "height": 22,
+      "xpos": 221,
+      "ypos": 135,
+      "width": 130,
+      "height": 23,
       "type": "match"
     },
     {
-      "xpos": 288,
-      "ypos": 74,
-      "width": 67,
-      "height": 16,
+      "xpos": 64,
+      "ypos": 203,
+      "width": 86,
+      "height": 32,
       "type": "match"
     }
   ],
   "tags": [
-    "test-tomboy_Hotkeys-4"
+    "test-tomboy_Hotkeys-5"
   ]
 }
