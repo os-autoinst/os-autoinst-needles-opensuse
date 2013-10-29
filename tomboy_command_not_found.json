@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 346,
+      "ypos": 369,
+      "width": 154,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "tomboy_command_not_found"
+  ]
+}

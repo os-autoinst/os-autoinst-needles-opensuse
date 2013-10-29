@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "xpos": 66,
+      "ypos": 225,
+      "width": 121,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 243,
+      "ypos": 146,
+      "width": 86,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 699,
+      "ypos": 670,
+      "width": 139,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "tomboy_menu"
+  ]
+}
