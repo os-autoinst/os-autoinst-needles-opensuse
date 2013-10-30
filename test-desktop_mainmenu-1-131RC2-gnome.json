@@ -1,32 +1,32 @@
 {
   "area": [
     {
-      "xpos": 0,
-      "ypos": 0,
       "width": 95,
-      "height": 34,
-      "type": "match"
-    },
-    {
-      "xpos": 939,
-      "ypos": 0,
-      "width": 85,
-      "height": 33,
-      "type": "match"
-    },
-    {
-      "xpos": 332,
-      "ypos": 46,
-      "width": 361,
-      "height": 45,
-      "type": "match"
-    },
-    {
       "xpos": 0,
-      "ypos": 165,
+      "type": "match",
+      "ypos": 0,
+      "height": 34
+    },
+    {
+      "width": 43,
+      "xpos": 974,
+      "type": "match",
+      "ypos": 0,
+      "height": 30
+    },
+    {
+      "width": 361,
+      "xpos": 332,
+      "type": "match",
+      "ypos": 46,
+      "height": 45
+    },
+    {
       "width": 71,
-      "height": 515,
-      "type": "match"
+      "xpos": 0,
+      "type": "match",
+      "ypos": 165,
+      "height": 515
     }
   ],
   "tags": [
