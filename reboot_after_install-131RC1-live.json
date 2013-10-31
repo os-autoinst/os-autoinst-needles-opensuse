@@ -26,7 +26,6 @@
     "ENV-DESKTOP-kde",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
-    "ENV-LIVECD-1",
     "reboot_after_install",
     "test-consoletest_finish-1"
   ]
