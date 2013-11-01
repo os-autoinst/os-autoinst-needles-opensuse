@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 330,
+      "ypos": 64,
+      "width": 160,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partitioning-windows",
+    "ENV-DISTRI-opensuse"
+  ]
+}
