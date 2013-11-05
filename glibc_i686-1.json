@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 255,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 91,
+      "height": 22
+    },
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 198,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-glibc_i686-1",
+    "ENV-DISTRI-opensuse"
+  ]
+}
