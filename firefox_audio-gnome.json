@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 305,
+      "xpos": 358,
+      "type": "match",
+      "ypos": 359,
+      "height": 156
+    }
+  ],
+  "tags": [
+    "test-firefox_audio-1",
+    "ENV-DESKTOP-gnome"
+  ]
+}
