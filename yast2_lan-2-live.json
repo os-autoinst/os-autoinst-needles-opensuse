@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 81,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 721,
+      "height": 47
+    }
+  ],
+  "tags": [
+    "test-yast2_lan-2",
+    "ENV-LIVECD-1"
+  ]
+}
