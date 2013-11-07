@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 242,
+      "ypos": 67,
+      "width": 758,
+      "height": 321,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partition-cryptlvm-summary",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
