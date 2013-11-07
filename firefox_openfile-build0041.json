@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 130,
+      "ypos": 132,
+      "width": 139,
+      "height": 121,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-firefox-openfile-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

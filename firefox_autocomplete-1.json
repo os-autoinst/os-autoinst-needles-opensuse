@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 488,
+      "xpos": 46,
+      "type": "match",
+      "ypos": 159,
+      "height": 188
+    }
+  ],
+  "tags": [
+    "fierfox_autocomplete-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

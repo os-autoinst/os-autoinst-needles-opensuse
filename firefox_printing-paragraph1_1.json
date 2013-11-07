@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 214,
+      "ypos": 0,
+      "width": 595,
+      "height": 767,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-firefox_printing-paragraph1_1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 396,
+      "ypos": 605,
+      "width": 301,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-firefox_java-3",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

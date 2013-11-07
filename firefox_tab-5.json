@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 439,
+      "xpos": 188,
+      "type": "match",
+      "ypos": 219,
+      "height": 144
+    }
+  ],
+  "tags": [
+    "test-firefox_tab-5",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

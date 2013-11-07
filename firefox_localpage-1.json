@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 254,
+      "width": 509,
+      "height": 80,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 343,
+      "width": 1007,
+      "height": 46,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-firefox_lcoalpage-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
