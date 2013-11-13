@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 206,
+      "ypos": 111,
+      "width": 414,
+      "height": 38,
+      "type": "match"
+    },
+    {
+      "xpos": 318,
+      "ypos": 32,
+      "width": 186,
+      "height": 60,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "bookmark-not-yet"
+  ]
+}
