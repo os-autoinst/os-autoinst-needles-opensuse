@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 10,
+      "ypos": 9,
+      "width": 196,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-tomboy_TestFindFunctionalityInSearchAllNotes-5"
+  ]
+}

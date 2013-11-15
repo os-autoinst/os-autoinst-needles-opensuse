@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 65,
+      "ypos": 208,
+      "width": 90,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 223,
+      "ypos": 250,
+      "width": 122,
+      "height": 85,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-tomboy_TestFindFunctionalityInSearchAllNotes-1"
+  ]
+}

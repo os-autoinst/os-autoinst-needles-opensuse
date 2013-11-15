@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 524,
+      "ypos": 214,
+      "width": 54,
+      "height": 59,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-tomboy_TestUndoRedoFeature-2"
+  ]
+}
