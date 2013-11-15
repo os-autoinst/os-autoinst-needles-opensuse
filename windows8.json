@@ -1,0 +1,17 @@
+{
+    "area": [
+        {
+            "height": 113,
+            "type": "match",
+            "width": 924,
+            "xpos": 90,
+            "ypos": 25
+        }
+    ],
+    "tags": [
+        "windows8",
+        "ENV-DESKTOP-kde",
+        "ENV-DISTRI-opensuse",
+        "ENV-INSTLANG-en_US"
+    ]
+}
