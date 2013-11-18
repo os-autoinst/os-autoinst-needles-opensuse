@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 291,
+      "ypos": 113,
+      "width": 129,
+      "height": 144,
+      "type": "match"
+    },
+    {
+      "xpos": 53,
+      "ypos": 204,
+      "width": 134,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "bookmark-baidu-under-bookmark-menu"
+  ]
+}
