@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "width": 604,
+      "xpos": 23,
+      "type": "match",
+      "ypos": 25,
+      "height": 320
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-Promo-DVD-OpenSourcePress",
+    "ENV-INSTLANG-en_US",
+    "ENV-UEFI-1",
+    "bootloader-grub2"
+  ]
+}

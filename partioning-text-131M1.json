@@ -12,6 +12,6 @@
       "ENV-DISTRI-opensuse",
       "ENV-INSTLANG-en_US",
       "ENV-VIDEOMODE-text",
-      "partioning"
+      "partitioning"
    ]
 }

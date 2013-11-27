@@ -1,15 +1,21 @@
 {
   "area": [
     {
-      "xpos": 0,
-      "ypos": 649,
-      "width": 602,
-      "height": 59,
+      "xpos": 256,
+      "width": 50,
+      "type": "match",
+      "ypos": 466,
+      "height": 156
+    },
+    {
+      "xpos": 426,
+      "ypos": 0,
+      "width": 85,
+      "height": 19,
       "type": "match"
     }
   ],
   "tags": [
-    "test-aplay-2",
-    "ENV-DISTRI-opensuse"
+    "test-aplay-2"
   ]
 }

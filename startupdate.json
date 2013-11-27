@@ -1,0 +1,16 @@
+{
+    "area": [
+        {
+            "height": 28,
+            "type": "match",
+            "width": 134,
+            "xpos": 245,
+            "ypos": 210
+        }
+    ],
+    "tags": [
+        "startupdate",
+        "ENV-DISTRI-opensuse",
+        "ENV-INSTLANG-en_US"
+    ]
+}

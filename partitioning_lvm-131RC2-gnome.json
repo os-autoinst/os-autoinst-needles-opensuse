@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 427,
+      "ypos": 325,
+      "width": 255,
+      "height": 63,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partition-lvm-summary",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

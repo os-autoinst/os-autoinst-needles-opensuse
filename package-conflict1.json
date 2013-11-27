@@ -1,0 +1,17 @@
+{
+    "area": [
+        {
+            "height": 18,
+            "type": "match",
+            "width": 129,
+            "xpos": 250,
+            "ypos": 235
+        }
+    ],
+    "tags": [
+        "package-conflict",
+        "ENV-DESKTOP-kde",
+        "ENV-DISTRI-opensuse",
+        "ENV-INSTLANG-en_US"
+    ]
+}

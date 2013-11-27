@@ -1,16 +1,16 @@
 {
   "area": [
     {
-      "xpos": 144,
-      "ypos": 417,
       "width": 715,
-      "height": 89,
-      "type": "match"
+      "xpos": 144,
+      "type": "match",
+      "ypos": 493,
+      "height": 21
     }
   ],
   "tags": [
+    "test-gnome_terminal-1",
     "ENV-DESKTOP-gnome",
-    "ENV-DISTRI-opensuse",
-    "test-gnome_terminal-1"
+    "ENV-DISTRI-opensuse"
   ]
 }

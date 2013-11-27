@@ -9,9 +9,8 @@
         }
     ],
     "tags": [
-        "test-aplay-2",
-        "ENV-VIDEOMODE-text",
-        "ENV-DESKTOP-textmode",
+        "remove-repository",
+        "ENV-DESKTOP-kde",
         "ENV-DISTRI-opensuse",
         "ENV-INSTLANG-en_US"
     ]

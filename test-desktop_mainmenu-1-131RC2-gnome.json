@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "width": 95,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 0,
+      "height": 34
+    },
+    {
+      "width": 43,
+      "xpos": 974,
+      "type": "match",
+      "ypos": 0,
+      "height": 30
+    },
+    {
+      "width": 361,
+      "xpos": 332,
+      "type": "match",
+      "ypos": 46,
+      "height": 45
+    },
+    {
+      "width": 71,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 165,
+      "height": 515
+    }
+  ],
+  "tags": [
+    "test-desktop_mainmenu-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

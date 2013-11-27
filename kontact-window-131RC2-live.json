@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 452,
+      "xpos": 3,
+      "type": "match",
+      "ypos": 26,
+      "height": 446
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-KDE-Live",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1",
+    "kontact-window"
+  ]
+}

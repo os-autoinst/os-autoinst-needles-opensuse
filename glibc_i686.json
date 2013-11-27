@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "test-glibc_i686-1",
+    "ENV-DISTRI-opensuse"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 144,
+      "width": 187,
+      "height": 31,
+      "type": "match"
+    }
+  ]
+}

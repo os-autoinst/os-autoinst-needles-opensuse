@@ -10,6 +10,7 @@
   ],
   "tags": [
     "test-firefox-1",
+    "test-firefox-2",
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US"
