@@ -16,10 +16,10 @@
     }
   ],
   "tags": [
-    "inst-welcome",
-    "ENV-DESKTOP-minimalx",
     "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-staging_core",
     "ENV-INSTLANG-en_US",
-    "ENV-FLAVOR-staging_core"
+    "inst-welcome",
+    "languagepicked"
   ]
 }
