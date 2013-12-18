@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "width": 851,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 0,
+      "height": 499
+    }
+  ],
+  "tags": [
+    "inst-instmode",
+    "ENV-VIDEOMODE-text",
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
