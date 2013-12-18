@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 192,
+      "ypos": 325,
+      "width": 640,
+      "height": 118,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-staging_core",
+    "hooks-results"
+  ]
+}

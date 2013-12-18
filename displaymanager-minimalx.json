@@ -12,6 +12,7 @@
       "ENV-DESKTOP-minimalx",
       "ENV-DISTRI-opensuse",
       "ENV-INSTLANG-en_US",
+      "reboot-after-installation",
       "displaymanager"
    ]
 }

@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 74,
+      "ypos": 0,
+      "type": "match",
+      "width": 1024,
+      "xpos": 0
+    }
+  ],
+  "tags": [
+    "inst-packageinstallationstarted",
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-staging_core"
+  ]
+}
