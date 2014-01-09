@@ -1,16 +1,23 @@
 {
   "area": [
     {
-      "height": 74,
-      "ypos": 0,
-      "type": "match",
       "width": 1024,
-      "xpos": 0
+      "xpos": 0,
+      "type": "match",
+      "ypos": 0,
+      "height": 74
+    },
+    {
+      "xpos": 139,
+      "ypos": 46,
+      "width": 346,
+      "height": 117,
+      "type": "exclude"
     }
   ],
   "tags": [
-    "inst-packageinstallationstarted",
+    "ENV-DESKTOP-minimalx",
     "ENV-DISTRI-opensuse",
-    "ENV-FLAVOR-staging_core"
+    "inst-packageinstallationstarted"
   ]
 }
