@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "width": 334,
+      "xpos": 14,
+      "type": "match",
+      "ypos": 8,
+      "height": 125
+    },
+    {
+      "width": 175,
+      "xpos": 13,
+      "type": "match",
+      "ypos": 152,
+      "height": 54
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-staging_core",
+    "ENV-INSTLANG-en_US",
+    "inst-welcome",
+    "languagepicked"
+  ]
+}
