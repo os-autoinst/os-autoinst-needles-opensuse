@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 294,
+      "xpos": 363,
+      "type": "match",
+      "ypos": 352,
+      "height": 213
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "partitioning"
+  ]
+}
