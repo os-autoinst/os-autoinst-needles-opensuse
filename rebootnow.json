@@ -1,15 +1,15 @@
 {
-   "area" : [
-      {
-         "height" : 90,
-         "type" : "match",
-         "width" : 265,
-         "xpos" : 244,
-         "ypos" : 237
-      }
-   ],
-   "tags" : [
-      "ENV-LIVECD-0",
-      "rebootnow"
-   ]
+  "area": [
+    {
+      "xpos": 244,
+      "width": 265,
+      "ypos": 258,
+      "type": "match",
+      "height": 90
+    }
+  ],
+  "tags": [
+    "ENV-LIVECD-0",
+    "rebootnow"
+  ]
 }
