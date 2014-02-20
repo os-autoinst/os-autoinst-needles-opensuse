@@ -12,6 +12,7 @@
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
     "ENV-UEFI-1",
-    "test-yast2_bootloader-1"
+    "test-yast2_bootloader-1",
+    "yast2_bootloader-initialed"
   ]
 }

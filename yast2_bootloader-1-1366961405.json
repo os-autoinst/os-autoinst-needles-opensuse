@@ -9,6 +9,8 @@
       }
    ],
    "tags" : [
-      "test-yast2_bootloader-1"
+      "ENV-INSTLANG-en_US",
+      "test-yast2_bootloader-1",
+      "yast2_bootloader-initialed"
    ]
 }
