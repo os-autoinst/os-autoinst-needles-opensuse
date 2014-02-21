@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 500,
+      "xpos": 318,
+      "type": "match",
+      "ypos": 154,
+      "height": 110
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "raid-partition"
+  ]
+}
