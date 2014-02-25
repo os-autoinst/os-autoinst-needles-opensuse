@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "usebtrfs"
+  ],
+  "area": [
+    {
+      "xpos": 411,
+      "ypos": 340,
+      "type": "match",
+      "width": 102,
+      "height": 14
+    }
+  ]
+}
