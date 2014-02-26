@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 396,
+      "width": 225,
+      "height": 37,
+      "ypos": 261
+    }
+  ],
+  "tags": [
+    "partition-lvm-summary",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
