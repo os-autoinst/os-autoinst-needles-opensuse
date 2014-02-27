@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 999,
+      "xpos": 13,
+      "type": "match",
+      "ypos": 12,
+      "height": 638
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "after-paritioning",
+    "inst-timezone"
+  ]
+}
