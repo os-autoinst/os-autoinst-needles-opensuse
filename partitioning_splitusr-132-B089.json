@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 583,
+      "xpos": 235,
+      "type": "match",
+      "ypos": 216,
+      "height": 325
+    },
+    {
+      "width": 240,
+      "xpos": 782,
+      "type": "match",
+      "ypos": 701,
+      "height": 65
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "partition-splitusr-submitted-usr"
+  ]
+}
