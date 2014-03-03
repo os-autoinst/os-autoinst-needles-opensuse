@@ -10,9 +10,7 @@
   ],
   "tags": [
     "partition-lvm-summary",
-    "ENV-DESKTOP-gnome",
     "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US",
-    "ENV-FLAVOR-DVD"
+    "ENV-INSTLANG-en_US"
   ]
 }
