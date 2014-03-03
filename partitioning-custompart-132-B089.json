@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 477,
+      "xpos": 316,
+      "type": "match",
+      "ypos": 78,
+      "height": 132
+    }
+  ],
+  "tags": [
+    "custompart",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
