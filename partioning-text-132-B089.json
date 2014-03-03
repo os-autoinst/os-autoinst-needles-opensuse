@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 563,
+      "xpos": 332,
+      "type": "match",
+      "ypos": 391,
+      "height": 341
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "partitioning"
+  ]
+}
