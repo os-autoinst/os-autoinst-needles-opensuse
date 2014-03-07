@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 610,
+      "xpos": 94,
+      "type": "match",
+      "ypos": 201,
+      "height": 150
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "inst-video-typed-grub2"
+  ]
+}
