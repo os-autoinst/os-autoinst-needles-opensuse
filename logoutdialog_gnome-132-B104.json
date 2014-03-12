@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 503,
+      "xpos": 261,
+      "type": "match",
+      "ypos": 274,
+      "height": 219
+    }
+  ],
+  "tags": [
+    "logoutdialog",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
