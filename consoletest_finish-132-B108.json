@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 236,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 0,
+      "height": 144
+    }
+  ],
+  "tags": [
+    "test-consoletest_finish-1",
+    "ENV-DESKTOP-minimalx"
+  ]
+}
