@@ -1,17 +1,14 @@
 {
   "area": [
     {
+      "width": 70,
       "xpos": 0,
-      "ypos": 0,
-      "width": 246,
-      "height": 23,
-      "type": "match"
+      "type": "match",
+      "ypos": 709,
+      "height": 37
     }
   ],
   "tags": [
-    "yast-still-running",
-    "ENV-VIDEOMODE-text",
-    "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US"
+    "yast-still-running"
   ]
 }
