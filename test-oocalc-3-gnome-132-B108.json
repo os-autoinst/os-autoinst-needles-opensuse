@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 448,
+      "xpos": 311,
+      "type": "match",
+      "ypos": 341,
+      "height": 148
+    }
+  ],
+  "tags": [
+    "test-oocalc-3",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
