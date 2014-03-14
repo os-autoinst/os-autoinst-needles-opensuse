@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 449,
+      "xpos": 310,
+      "type": "match",
+      "ypos": 345,
+      "height": 147
+    }
+  ],
+  "tags": [
+    "ooffice-save-prompt",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
