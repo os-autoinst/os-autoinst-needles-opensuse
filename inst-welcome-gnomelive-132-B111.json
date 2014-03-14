@@ -1,0 +1,20 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-GNOME-Live",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1",
+    "inst-welcome",
+    "languagepicked"
+  ],
+  "area": [
+    {
+      "ypos": 55,
+      "type": "match",
+      "xpos": 5,
+      "width": 262,
+      "height": 599
+    }
+  ]
+}
