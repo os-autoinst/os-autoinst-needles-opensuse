@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "test-ristretto-1",
+    "ENV-DESKTOP-xfce",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 24,
+      "width": 353,
+      "height": 80,
+      "type": "match"
+    }
+  ]
+}
