@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "height": 419,
+      "xpos": 18,
+      "width": 283,
+      "ypos": 94,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-KDE-Live",
+    "ENV-INSTLANG-en_US",
+    "inst-welcome",
+    "languagepicked"
+  ]
+}
