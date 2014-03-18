@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "inst-console"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 40,
+      "xpos": 0,
+      "height": 98,
+      "width": 644
+    }
+  ]
+}
