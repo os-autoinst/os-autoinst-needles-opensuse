@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "height": 459,
+      "width": 287,
+      "type": "match",
+      "xpos": 0,
+      "ypos": 0
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1",
+    "after-paritioning",
+    "inst-timezone"
+  ]
+}
