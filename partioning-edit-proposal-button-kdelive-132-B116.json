@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1",
+    "partioning-edit-proposal-button"
+  ],
+  "area": [
+    {
+      "xpos": 572,
+      "ypos": 377,
+      "height": 44,
+      "width": 215,
+      "type": "match"
+    }
+  ]
+}
