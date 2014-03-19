@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1",
+    "partioning-edit-proposal-button"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 312,
+      "ypos": 0,
+      "xpos": 0,
+      "height": 567
+    },
+    {
+      "xpos": 567,
+      "ypos": 374,
+      "width": 176,
+      "height": 40,
+      "type": "match"
+    }
+  ]
+}
