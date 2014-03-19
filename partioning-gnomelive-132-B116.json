@@ -1,18 +1,25 @@
 {
-  "tags": [
-    "partitioning",
-    "ENV-DESKTOP-gnome",
-    "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US",
-    "ENV-LIVECD-1"
-  ],
   "area": [
     {
       "height": 567,
-      "width": 312,
-      "type": "match",
       "xpos": 0,
-      "ypos": 0
+      "ypos": 0,
+      "type": "match",
+      "width": 312
+    },
+    {
+      "xpos": 566,
+      "ypos": 377,
+      "width": 182,
+      "height": 35,
+      "type": "match"
     }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1",
+    "partioning-edit-proposal-button"
   ]
 }
