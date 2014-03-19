@@ -1,0 +1,39 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1",
+    "startinstall"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 173,
+      "ypos": 696,
+      "xpos": 592,
+      "height": 20
+    },
+    {
+      "xpos": 597,
+      "height": 20,
+      "width": 173,
+      "type": "match",
+      "ypos": 698
+    },
+    {
+      "type": "match",
+      "width": 173,
+      "ypos": 696,
+      "xpos": 591,
+      "height": 20
+    },
+    {
+      "xpos": 246,
+      "ypos": 214,
+      "width": 190,
+      "height": 20,
+      "type": "match"
+    }
+  ]
+}
