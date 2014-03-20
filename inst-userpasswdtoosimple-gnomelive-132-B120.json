@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "height": 110,
+      "ypos": 344,
+      "width": 214,
+      "xpos": 420,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-userpasswdtoosimple",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1"
+  ]
+}
