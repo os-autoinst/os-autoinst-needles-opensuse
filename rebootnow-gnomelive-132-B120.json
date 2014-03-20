@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1",
+    "rebootnow"
+  ],
+  "area": [
+    {
+      "xpos": 320,
+      "type": "match",
+      "height": 158,
+      "width": 414,
+      "ypos": 319
+    }
+  ]
+}
