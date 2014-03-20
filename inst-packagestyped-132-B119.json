@@ -1,0 +1,28 @@
+{
+  "tags": [
+    "inst-packagestyped"
+  ],
+  "area": [
+    {
+      "height": 20,
+      "width": 617,
+      "xpos": 125,
+      "ypos": 143,
+      "type": "match"
+    },
+    {
+      "xpos": 116,
+      "ypos": 158,
+      "width": 446,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 559,
+      "ypos": 212,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}
