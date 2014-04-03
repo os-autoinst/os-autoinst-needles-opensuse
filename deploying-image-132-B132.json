@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "deploying-image"
+  ],
+  "area": [
+    {
+      "height": 20,
+      "width": 128,
+      "ypos": 660,
+      "type": "match",
+      "xpos": 44
+    }
+  ]
+}
