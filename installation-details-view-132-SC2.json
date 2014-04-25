@@ -5,15 +5,7 @@
       "ypos": 0,
       "height": 71,
       "xpos": 0,
-      "width": 1022,
-      "match": 100
-    },
-    {
-      "xpos": 158,
-      "ypos": 47,
-      "width": 328,
-      "height": 49,
-      "type": "exclude"
+      "width": 1022
     }
   ],
   "tags": [
