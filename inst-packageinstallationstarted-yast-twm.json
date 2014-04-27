@@ -1,0 +1,21 @@
+{
+  "tags": [
+    "inst-packageinstallationstarted"
+  ],
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 171,
+      "width": 327,
+      "height": 76,
+      "type": "match"
+    },
+    {
+      "xpos": 357,
+      "ypos": 90,
+      "width": 138,
+      "height": 49,
+      "type": "match"
+    }
+  ]
+}
