@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 37,
+      "ypos": 720,
+      "xpos": 7,
+      "width": 70
+    },
+    {
+      "width": 77,
+      "xpos": 808,
+      "ypos": 709,
+      "height": 54,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast-still-running",
+    "ENV-INSTLANG-en_US"
+  ]
+}
