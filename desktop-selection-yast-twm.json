@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "ENV-DISTRI-opensuse",
+    "before-package-selection",
+    "desktop-selection",
+    "inst-returned-to-yast"
+  ],
+  "area": [
+    {
+      "ypos": 87,
+      "type": "match",
+      "height": 189,
+      "width": 510,
+      "xpos": 340
+    }
+  ]
+}
