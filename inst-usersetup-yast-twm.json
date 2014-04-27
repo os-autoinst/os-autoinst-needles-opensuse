@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "after-paritioning",
+    "inst-usersetup"
+  ],
+  "area": [
+    {
+      "ypos": 160,
+      "height": 473,
+      "type": "match",
+      "width": 367,
+      "xpos": 503
+    }
+  ]
+}
