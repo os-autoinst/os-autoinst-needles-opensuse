@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 8,
+      "width": 514,
+      "type": "match",
+      "height": 444,
+      "ypos": 95
+    }
+  ],
+  "tags": [
+    "inst-instmode",
+    "ENV-DISTRI-opensuse"
+  ]
+}
