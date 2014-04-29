@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 72,
+      "height": 264,
+      "type": "match",
+      "width": 527,
+      "xpos": 6
+    }
+  ],
+  "tags": [
+    "test-ooffice-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
