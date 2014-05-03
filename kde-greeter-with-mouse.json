@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "kde-greeter"
+  ],
+  "area": [
+    {
+      "xpos": 145,
+      "height": 535,
+      "type": "match",
+      "ypos": 125,
+      "width": 738
+    }
+  ]
+}
