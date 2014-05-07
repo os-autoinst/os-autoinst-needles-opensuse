@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 533,
+      "ypos": 299,
+      "width": 276,
+      "height": 127,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partition-splitusr-submitted-usr",
+    "ENV-INSTLANG-en_US"
+  ]
+}
