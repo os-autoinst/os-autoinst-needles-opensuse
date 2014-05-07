@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "x11-imagesused",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "width": 255,
+      "ypos": 500,
+      "type": "match",
+      "height": 30,
+      "xpos": 377
+    }
+  ]
+}
