@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "gnome-imagesused",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "xpos": 376,
+      "ypos": 502,
+      "width": 157,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}
