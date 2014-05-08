@@ -1,14 +1,15 @@
 {
-  "tags": [
-    "test-firefox-1"
-  ],
   "area": [
     {
-      "width": 417,
+      "type": "match",
+      "height": 74,
       "ypos": 25,
       "xpos": 1,
-      "type": "match",
-      "height": 74
+      "width": 417
     }
+  ],
+  "tags": [
+    "test-firefox-1",
+    "test-firefox-2"
   ]
 }
