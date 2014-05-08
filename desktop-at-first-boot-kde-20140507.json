@@ -1,24 +1,31 @@
 {
-  "area": [
-    {
-      "type": "match",
-      "height": 766,
-      "xpos": 0,
-      "ypos": 0,
-      "width": 1022
-    },
-    {
-      "xpos": 696,
-      "ypos": 593,
-      "width": 323,
-      "height": 145,
-      "type": "exclude"
-    }
-  ],
   "tags": [
     "ENV-DESKTOP-kde",
     "ENV-DISTRI-opensuse",
     "desktop-at-first-boot",
     "reboot-after-installation"
+  ],
+  "area": [
+    {
+      "width": 544,
+      "xpos": 33,
+      "ypos": 24,
+      "height": 347,
+      "type": "match"
+    },
+    {
+      "xpos": 536,
+      "ypos": 425,
+      "width": 349,
+      "height": 145,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 631,
+      "width": 303,
+      "height": 137,
+      "type": "match"
+    }
   ]
 }
