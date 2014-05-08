@@ -1,16 +1,17 @@
 {
   "area": [
     {
+      "height": 189,
       "type": "match",
-      "height": 533,
-      "xpos": 346,
-      "ypos": 91,
-      "width": 540
+      "xpos": 340,
+      "width": 510,
+      "ypos": 87
     }
   ],
   "tags": [
     "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US",
-    "desktop-selection"
+    "before-package-selection",
+    "desktop-selection",
+    "inst-returned-to-yast"
   ]
 }
