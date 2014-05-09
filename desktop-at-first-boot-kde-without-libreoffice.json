@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 347,
+      "width": 544,
+      "xpos": 44,
+      "ypos": 35
+    },
+    {
+      "height": 145,
+      "width": 349,
+      "xpos": 536,
+      "ypos": 425,
+      "type": "match"
+    },
+    {
+      "ypos": 631,
+      "height": 137,
+      "xpos": 0,
+      "width": 303,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "desktop-at-first-boot",
+    "reboot-after-installation"
+  ]
+}
