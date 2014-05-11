@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 328,
+      "type": "match",
+      "xpos": 341,
+      "ypos": 227,
+      "height": 112
+    }
+  ],
+  "tags": [
+    "test-firefox-3",
+    "ENV-DESKTOP-xfce"
+  ]
+}
