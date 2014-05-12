@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "width": 629,
+      "height": 154,
+      "ypos": 318,
+      "type": "match",
+      "xpos": 197
+    }
+  ],
+  "tags": [
+    "ERROR-bootloader_preupdate"
+  ]
+}
