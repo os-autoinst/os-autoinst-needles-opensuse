@@ -1,0 +1,21 @@
+{
+  "tags": [
+    "ERROR-removing-package"
+  ],
+  "area": [
+    {
+      "height": 139,
+      "width": 395,
+      "xpos": 314,
+      "type": "match",
+      "ypos": 329
+    },
+    {
+      "xpos": 489,
+      "ypos": 332,
+      "width": 263,
+      "height": 30,
+      "type": "exclude"
+    }
+  ]
+}
