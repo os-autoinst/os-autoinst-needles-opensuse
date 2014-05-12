@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 199,
+      "ypos": 318,
+      "width": 631,
+      "height": 154,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ERROR-lilo-convert-failed"
+  ]
+}
