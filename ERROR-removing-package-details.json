@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 315,
+      "ypos": 241,
+      "width": 394,
+      "height": 65,
+      "type": "match"
+    },
+    {
+      "xpos": 389,
+      "ypos": 497,
+      "width": 291,
+      "height": 46,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ERROR-removing-package-details"
+  ]
+}
