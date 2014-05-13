@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 17,
+      "ypos": 168,
+      "width": 347,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "pkcon-succeeded"
+  ]
+}
