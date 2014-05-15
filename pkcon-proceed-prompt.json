@@ -1,14 +1,14 @@
 {
-  "area": [
-    {
-      "xpos": 15,
-      "type": "match",
-      "ypos": 323,
-      "height": 18,
-      "width": 237
-    }
-  ],
   "tags": [
     "pkcon-proceed-prompt"
+  ],
+  "area": [
+    {
+      "height": 10,
+      "ypos": 170,
+      "width": 237,
+      "xpos": 27,
+      "type": "match"
+    }
   ]
 }
