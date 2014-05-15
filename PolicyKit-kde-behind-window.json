@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 419,
+      "type": "match",
+      "ypos": 266,
+      "height": 240,
+      "xpos": 327
+    },
+    {
+      "xpos": 320,
+      "ypos": 264,
+      "width": 178,
+      "height": 44,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "Policykit",
+    "Policykit-behind-window"
+  ]
+}
