@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 309,
+      "type": "match",
+      "width": 264,
+      "height": 77,
+      "xpos": 380
+    }
+  ],
+  "tags": [
+    "inst-overview",
+    "ENV-DESKTOP-xfce",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
