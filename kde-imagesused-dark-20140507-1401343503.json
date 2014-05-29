@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 17,
+      "width": 260,
+      "xpos": 226,
+      "ypos": 534
+    }
+  ],
+  "tags": [
+    "kde-imagesused",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-DVD"
+  ]
+}
