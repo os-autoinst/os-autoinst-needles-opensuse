@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "test-http_srv-1"
+  ],
+  "area": [
+    {
+      "ypos": 32,
+      "xpos": 0,
+      "width": 620,
+      "height": 94,
+      "type": "match"
+    }
+  ]
+}
