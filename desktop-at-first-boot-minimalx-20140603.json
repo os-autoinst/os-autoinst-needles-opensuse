@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "desktop-at-first-boot",
+    "test-consoletest_finish-1"
+  ],
+  "area": [
+    {
+      "ypos": 2,
+      "type": "match",
+      "xpos": 0,
+      "width": 1022,
+      "height": 766
+    }
+  ]
+}
