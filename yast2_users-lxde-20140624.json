@@ -1,16 +1,17 @@
 {
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "test-yast2_users-1"
+  ],
   "area": [
     {
+      "xpos": 1,
+      "width": 743,
       "height": 613,
       "type": "match",
-      "width": 743,
-      "ypos": 22,
-      "xpos": 1
+      "ypos": 22
     }
-  ],
-  "tags": [
-    "test-yast2_users-1",
-    "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US"
   ]
 }
