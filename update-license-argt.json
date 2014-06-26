@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "update-license-argt"
+  ],
+  "area": [
+    {
+      "xpos": 12,
+      "ypos": 189,
+      "width": 335,
+      "height": 45,
+      "type": "match"
+    },
+    {
+      "xpos": 372,
+      "ypos": 110,
+      "width": 230,
+      "height": 81,
+      "type": "match"
+    }
+  ]
+}
