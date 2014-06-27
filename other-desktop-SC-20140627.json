@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-Staging2-DVD",
+    "ENV-INSTLANG-en_US",
+    "other-desktop"
+  ],
+  "area": [
+    {
+      "xpos": 360,
+      "width": 389,
+      "height": 173,
+      "type": "match",
+      "ypos": 494
+    }
+  ]
+}
