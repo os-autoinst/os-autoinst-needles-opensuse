@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "partition-proposals-window"
+  ],
+  "area": [
+    {
+      "xpos": 372,
+      "ypos": 205,
+      "width": 271,
+      "height": 374,
+      "type": "match"
+    }
+  ]
+}
