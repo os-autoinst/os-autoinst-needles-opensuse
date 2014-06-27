@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 93,
+      "height": 26,
+      "type": "match",
+      "xpos": 759,
+      "width": 250
+    },
+    {
+      "type": "match",
+      "height": 80,
+      "width": 216,
+      "xpos": 395,
+      "ypos": 296
+    }
+  ],
+  "tags": [
+    "usebtrfs",
+    "ENV-INSTLANG-en_US"
+  ]
+}
