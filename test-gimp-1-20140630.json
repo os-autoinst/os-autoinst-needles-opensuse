@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 4,
+      "width": 141,
+      "height": 267,
+      "type": "match",
+      "ypos": 448
+    }
+  ],
+  "tags": [
+    "test-gimp-1",
+    "ENV-DISTRI-opensuse"
+  ]
+}
