@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 15,
+      "width": 149,
+      "height": 48,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "hostname"
+  ]
+}
