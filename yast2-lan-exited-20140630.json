@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 501,
+      "height": 768,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2-lan-exited",
+    "ENV-DISTRI-opensuse"
+  ]
+}
