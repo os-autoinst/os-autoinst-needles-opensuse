@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "yast2_lan-network_ok"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 191,
+      "width": 70,
+      "height": 48,
+      "type": "match"
+    }
+  ]
+}
