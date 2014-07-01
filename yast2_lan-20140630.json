@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_lan",
+    "ENV-DISTRI-opensuse"
+  ],
+  "area": [
+    {
+      "xpos": 6,
+      "ypos": 24,
+      "width": 445,
+      "height": 282,
+      "type": "match"
+    }
+  ]
+}
