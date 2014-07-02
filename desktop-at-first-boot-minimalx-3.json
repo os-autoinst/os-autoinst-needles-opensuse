@@ -13,6 +13,6 @@
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
     "desktop-at-first-boot",
-    "test-consoletest_finish-1"
+    "generic-desktop"
   ]
 }

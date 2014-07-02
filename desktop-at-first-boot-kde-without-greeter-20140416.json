@@ -1,7 +1,7 @@
 {
   "tags": [
     "ENV-DESKTOP-kde",
-    "desktop-at-first-boot",
+    "generic-desktop",
     "reboot-after-installation"
   ],
   "area": [

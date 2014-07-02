@@ -26,6 +26,6 @@
     "ENV-DESKTOP-kde",
     "ENV-DISTRI-opensuse",
     "reboot_after_install",
-    "test-consoletest_finish-1"
+    "generic-desktop"
   ]
 }

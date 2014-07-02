@@ -2,7 +2,7 @@
   "tags": [
     "ENV-DESKTOP-kde",
     "ENV-DISTRI-opensuse",
-    "desktop-at-first-boot",
+    "generic-desktop",
     "reboot-after-installation"
   ],
   "area": [
