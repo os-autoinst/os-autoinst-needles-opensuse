@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "select-for-update"
+  ],
+  "area": [
+    {
+      "ypos": 88,
+      "width": 636,
+      "type": "match",
+      "height": 126,
+      "xpos": 346
+    },
+    {
+      "xpos": 40,
+      "ypos": 178,
+      "width": 290,
+      "height": 64,
+      "type": "match"
+    }
+  ]
+}
