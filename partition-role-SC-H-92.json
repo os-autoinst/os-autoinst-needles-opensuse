@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 382,
+      "ypos": 351,
+      "width": 260,
+      "height": 132,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "partition-role"
+  ]
+}
