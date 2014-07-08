@@ -27,6 +27,6 @@
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
     "reboot_after_install",
-    "test-consoletest_finish-1"
+    "generic-desktop"
   ]
 }

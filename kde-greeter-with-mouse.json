@@ -3,7 +3,7 @@
     "ENV-DESKTOP-kde",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
-    "kde-greeter"
+    "desktop-at-first-boot"
   ],
   "area": [
     {

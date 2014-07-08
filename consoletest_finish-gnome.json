@@ -19,6 +19,6 @@
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
-    "test-consoletest_finish-1"
+    "generic-desktop"
   ]
 }
