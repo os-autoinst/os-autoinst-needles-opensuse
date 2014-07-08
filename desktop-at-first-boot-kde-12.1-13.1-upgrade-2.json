@@ -12,6 +12,6 @@
     "ENV-DESKTOP-kde",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
-    "generic-desktop",
+    "generic-desktop"
   ]
 }
