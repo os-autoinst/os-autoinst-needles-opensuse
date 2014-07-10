@@ -5,14 +5,16 @@
       "xpos": 0,
       "type": "match",
       "ypos": 494,
-      "height": 36
+      "height": 36,
+      "margin": 300
     },
     {
       "width": 166,
       "xpos": 260,
       "type": "match",
       "ypos": 491,
-      "height": 21
+      "height": 21,
+      "margin": 300
     }
   ],
   "tags": [

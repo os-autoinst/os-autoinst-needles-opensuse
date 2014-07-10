@@ -8,14 +8,16 @@
       "ypos": 686,
       "width": 101,
       "height": 18,
-      "type": "match"
+      "type": "match",
+      "margin": 300
     },
     {
       "xpos": 0,
       "ypos": 736,
       "width": 133,
       "height": 16,
-      "type": "match"
+      "type": "match",
+      "margin": 300
     }
   ]
 }
