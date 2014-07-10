@@ -2,16 +2,15 @@
   "area": [
     {
       "xpos": 0,
-      "ypos": 526,
-      "width": 249,
-      "height": 18,
       "type": "match",
-      "margin": 100
+      "height": 35,
+      "ypos": 494,
+      "width": 249
     }
   ],
   "tags": [
-    "ssh-login-ok",
     "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US"
+    "ENV-INSTLANG-en_US",
+    "ssh-login-ok"
   ]
 }
