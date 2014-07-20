@@ -8,5 +8,5 @@
       "type": "match"
     }
   ],
-  "tags": ["preselected-repo"]
+  "tags": ["preselected-repo", "factory_repo"]
 }
