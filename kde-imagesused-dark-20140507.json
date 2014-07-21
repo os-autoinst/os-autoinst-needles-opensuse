@@ -10,7 +10,8 @@
       "ypos": 500,
       "width": 260,
       "height": 17,
-      "type": "match"
+      "type": "match",
+      "margin": 400
     }
   ]
 }
