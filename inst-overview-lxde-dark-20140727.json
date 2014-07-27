@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "inst-overview",
+    "ENV-DESKTOP-lxde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "ypos": 286,
+      "xpos": 358,
+      "type": "match",
+      "width": 256,
+      "height": 71
+    }
+  ]
+}
