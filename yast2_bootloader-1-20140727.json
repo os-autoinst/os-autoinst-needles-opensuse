@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "test-yast2_bootloader-1",
+    "yast2_bootloader-initialed"
+  ],
+  "area": [
+    {
+      "xpos": 9,
+      "ypos": 24,
+      "type": "match",
+      "width": 849,
+      "height": 448
+    }
+  ]
+}
