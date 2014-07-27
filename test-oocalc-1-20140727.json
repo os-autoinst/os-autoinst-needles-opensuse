@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "test-oocalc-1",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "height": 235,
+      "ypos": 54,
+      "xpos": 6,
+      "width": 326,
+      "type": "match"
+    }
+  ]
+}
