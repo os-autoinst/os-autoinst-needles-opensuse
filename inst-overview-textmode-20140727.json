@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "inst-overview",
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "height": 57,
+      "ypos": 303,
+      "xpos": 23,
+      "type": "match",
+      "width": 825
+    }
+  ]
+}
