@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "test-amarok-3"
+  ],
+  "area": [
+    {
+      "xpos": 6,
+      "ypos": 27,
+      "width": 821,
+      "height": 280,
+      "type": "match"
+    }
+  ]
+}
