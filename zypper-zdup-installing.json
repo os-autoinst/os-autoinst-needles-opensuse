@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "width": 89,
+      "ypos": 753,
+      "type": "match",
+      "height": 15,
+      "xpos": 95
+    },
+    {
+      "xpos": 570,
+      "ypos": 756,
+      "width": 226,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "zypper-dup-installing"
+  ]
+}
