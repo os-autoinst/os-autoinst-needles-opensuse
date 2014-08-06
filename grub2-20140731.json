@@ -1,6 +1,7 @@
 {
   "tags": [
     "bootloader",
+    "grub-reboot-windows",
     "grub2"
   ],
   "area": [
