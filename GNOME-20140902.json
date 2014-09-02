@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "height": 764,
+      "width": 1024,
+      "type": "match",
+      "ypos": 0
+    },
+    {
+      "ypos": 0,
+      "width": 128,
+      "height": 32,
+      "xpos": 448,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "GNOME",
+    "desktop-at-first-boot",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
