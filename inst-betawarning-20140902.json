@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "inst-betawarning"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 210,
+      "height": 140,
+      "width": 310,
+      "ypos": 210
+    }
+  ]
+}
