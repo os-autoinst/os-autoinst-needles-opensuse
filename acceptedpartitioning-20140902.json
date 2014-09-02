@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 239,
+      "xpos": 378,
+      "width": 594,
+      "ypos": 108
+    },
+    {
+      "xpos": 571,
+      "height": 168,
+      "width": 89,
+      "type": "exclude",
+      "ypos": 108
+    }
+  ],
+  "tags": [
+    "acceptedpartitioning"
+  ]
+}
