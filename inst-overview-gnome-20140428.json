@@ -10,6 +10,7 @@
   ],
   "tags": [
     "ENV-DISTRI-opensuse",
+    "ENV-DESKTOP-gnome",
     "ENV-INSTLANG-en_US",
     "inst-overview"
   ]
