@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 402,
+      "type": "match",
+      "height": 44,
+      "width": 215,
+      "xpos": 574
+    }
+  ],
+  "tags": [
+    "partioning-edit-proposal-button",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
