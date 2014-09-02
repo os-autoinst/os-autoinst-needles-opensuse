@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 318,
+      "type": "match",
+      "height": 244,
+      "xpos": 343,
+      "width": 362
+    }
+  ],
+  "tags": [
+    "createpartsetup",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
