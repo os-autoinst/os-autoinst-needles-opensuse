@@ -1,18 +1,14 @@
 {
+  "tags": [
+    "raid-partition"
+  ],
   "area": [
     {
-      "ypos": 215,
+      "ypos": 280,
       "type": "match",
       "width": 335,
-      "height": 75,
-      "xpos": 364
+      "xpos": 318,
+      "height": 75
     }
-  ],
-  "tags": [
-    "raid-partition",
-    "ENV-DESKTOP-minimalx",
-    "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US",
-    "ENV-FLAVOR-Staging-DVD"
   ]
 }
