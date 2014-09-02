@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "autologindisabled",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 138,
+      "xpos": 516,
+      "height": 20,
+      "ypos": 467
+    }
+  ]
+}
