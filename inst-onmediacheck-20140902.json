@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "inst-onmediacheck"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 361,
+      "ypos": 193,
+      "height": 178,
+      "xpos": 219
+    }
+  ]
+}
