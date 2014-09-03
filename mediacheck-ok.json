@@ -1,14 +1,14 @@
 {
   "area": [
     {
-      "xpos": 317,
-      "ypos": 299,
-      "width": 377,
-      "height": 187,
+      "xpos": 273,
+      "ypos": 251,
+      "width": 488,
+      "height": 279,
       "type": "match"
     }
   ],
   "tags": [
-    "mediacheck-ok",
+    "mediacheck-ok"
   ]
 }
