@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "width": 460,
+      "height": 85,
+      "xpos": 281,
+      "type": "match",
+      "ypos": 326
+    }
+  ],
+  "tags": [
+    "network-not-configured"
+  ]
+}
