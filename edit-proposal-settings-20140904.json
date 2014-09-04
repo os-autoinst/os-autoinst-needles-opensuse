@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 406,
+      "type": "match",
+      "width": 191,
+      "height": 39,
+      "xpos": 586
+    }
+  ],
+  "tags": [
+    "edit-proposal-settings",
+    "ENV-INSTLANG-en_US"
+  ]
+}
