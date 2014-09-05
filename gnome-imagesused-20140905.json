@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 377,
+      "height": 18,
+      "width": 191,
+      "type": "match",
+      "ypos": 517
+    }
+  ],
+  "tags": [
+    "gnome-imagesused",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
