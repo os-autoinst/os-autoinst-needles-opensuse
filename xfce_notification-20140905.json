@@ -1,0 +1,21 @@
+{
+  "tags": [
+    "test-xfce_notification-1"
+  ],
+  "area": [
+    {
+      "ypos": 541,
+      "height": 227,
+      "xpos": 776,
+      "width": 248,
+      "type": "match"
+    },
+    {
+      "type": "exclude",
+      "width": 50,
+      "height": 33,
+      "xpos": 798,
+      "ypos": 735
+    }
+  ]
+}
