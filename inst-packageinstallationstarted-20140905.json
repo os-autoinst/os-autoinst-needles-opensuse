@@ -7,16 +7,16 @@
   "area": [
     {
       "type": "match",
-      "width": 93,
-      "xpos": 359,
-      "height": 53,
-      "ypos": 572
+      "height": 49,
+      "width": 188,
+      "xpos": 142,
+      "ypos": 190
     },
     {
+      "type": "match",
       "xpos": 337,
       "height": 73,
       "width": 404,
-      "type": "match",
       "ypos": 87
     }
   ]
