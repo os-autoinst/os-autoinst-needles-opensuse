@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "inst-mirror_is_setup"
+  ],
+  "area": [
+    {
+      "xpos": 369,
+      "type": "match",
+      "ypos": 243,
+      "height": 44,
+      "width": 132
+    }
+  ]
+}
