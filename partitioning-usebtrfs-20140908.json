@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "usebtrfs",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "ypos": 93,
+      "type": "match",
+      "width": 250,
+      "xpos": 759,
+      "height": 26
+    },
+    {
+      "type": "match",
+      "height": 80,
+      "xpos": 395,
+      "width": 216,
+      "ypos": 296
+    }
+  ]
+}
