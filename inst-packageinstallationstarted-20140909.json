@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "inst-packageinstallationstarted",
+    "ENV-DISTRI-opensuse"
+  ],
+  "area": [
+    {
+      "height": 54,
+      "xpos": 353,
+      "width": 386,
+      "type": "match",
+      "ypos": 86
+    },
+    {
+      "ypos": 191,
+      "type": "match",
+      "height": 38,
+      "width": 167,
+      "xpos": 151
+    }
+  ]
+}
