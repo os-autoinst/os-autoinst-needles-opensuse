@@ -1,18 +1,14 @@
 {
   "tags": [
-    "inst-rescuesystem",
-    "ENV-DESKTOP-kde",
-    "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US",
-    "ENV-FLAVOR-DVD"
+    "inst-rescuesystem"
   ],
   "area": [
     {
-      "height": 36,
+      "ypos": 247,
       "width": 312,
+      "height": 36,
       "xpos": 245,
-      "type": "match",
-      "ypos": 247
+      "type": "match"
     }
   ]
 }
