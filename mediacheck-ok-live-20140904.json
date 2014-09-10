@@ -9,14 +9,16 @@
       "width": 488,
       "height": 17,
       "xpos": 0,
-      "ypos": 398
+      "ypos": 398,
+      "margin": 500
     },
     {
       "xpos": 117,
       "ypos": 431,
       "width": 150,
       "height": 18,
-      "type": "match"
+      "type": "match",
+      "margin": 500
     }
   ]
 }
