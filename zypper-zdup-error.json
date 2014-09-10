@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "zypper-dup-error"
+  ],
+  "area": [
+    {
+      "ypos": 752,
+      "width": 272,
+      "xpos": 0,
+      "type": "match",
+      "height": 16,
+      "margin": 100	
+    }
+  ]
+}
