@@ -1,18 +1,18 @@
 {
-  "area": [
-    {
-      "type": "match",
-      "ypos": 485,
-      "height": 15,
-      "xpos": 145,
-      "width": 698
-    }
-  ],
   "tags": [
+    "test-gnome_terminal-1",
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-opensuse",
-    "ENV-FLAVOR-Staging2-DVD",
     "ENV-INSTLANG-en_US",
-    "test-gnome_terminal-1"
+    "ENV-FLAVOR-Staging2-DVD"
+  ],
+  "area": [
+    {
+      "width": 698,
+      "xpos": 145,
+      "height": 15,
+      "type": "match",
+      "ypos": 485
+    }
   ]
 }
