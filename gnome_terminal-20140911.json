@@ -1,10 +1,7 @@
 {
   "tags": [
     "test-gnome_terminal-1",
-    "ENV-DESKTOP-gnome",
-    "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US",
-    "ENV-FLAVOR-Staging2-DVD"
+    "ENV-DESKTOP-gnome"
   ],
   "area": [
     {
