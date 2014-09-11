@@ -1,15 +1,14 @@
 {
   "area": [
     {
-      "width": 741,
       "xpos": 0,
-      "height": 768,
+      "width": 741,
+      "type": "match",
       "ypos": 0,
-      "type": "match"
+      "height": 768
     }
   ],
   "tags": [
-    "displaymanager",
     "ENV-DESKTOP-xfce",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
