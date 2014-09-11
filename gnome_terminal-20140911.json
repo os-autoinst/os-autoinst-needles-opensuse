@@ -1,15 +1,15 @@
 {
   "tags": [
-    "test-gnome_terminal-1",
-    "ENV-DESKTOP-gnome"
+    "ENV-DESKTOP-gnome",
+    "test-gnome_terminal-1"
   ],
   "area": [
     {
       "width": 698,
       "xpos": 145,
       "height": 15,
-      "type": "match",
-      "ypos": 485
+      "ypos": 485,
+      "type": "match"
     }
   ]
 }
