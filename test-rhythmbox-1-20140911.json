@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 405,
+      "ypos": 76,
+      "type": "match",
+      "width": 742,
+      "xpos": 0
+    }
+  ],
+  "tags": [
+    "test-rhythmbox-1",
+    "ENV-DESKTOP-gnome"
+  ]
+}
