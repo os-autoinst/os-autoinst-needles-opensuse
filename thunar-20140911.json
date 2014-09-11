@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "test-thunar-1",
+    "ENV-DESKTOP-xfce",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "height": 177,
+      "width": 586,
+      "ypos": 26,
+      "xpos": 5,
+      "type": "match"
+    }
+  ]
+}
