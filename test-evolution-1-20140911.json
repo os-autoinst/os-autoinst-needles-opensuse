@@ -1,15 +1,15 @@
 {
-  "area": [
-    {
-      "xpos": 191,
-      "width": 641,
-      "type": "match",
-      "ypos": 144,
-      "height": 332
-    }
-  ],
   "tags": [
     "test-evolution-1",
     "ENV-DESKTOP-gnome"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 144,
+      "height": 332,
+      "xpos": 191,
+      "width": 641
+    }
   ]
 }
