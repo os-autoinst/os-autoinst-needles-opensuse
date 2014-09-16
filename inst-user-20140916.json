@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1",
+    "after-paritioning"
+  ],
+  "area": [
+    {
+      "ypos": 0,
+      "xpos": 0,
+      "height": 410,
+      "type": "match",
+      "width": 975
+    }
+  ]
+}
