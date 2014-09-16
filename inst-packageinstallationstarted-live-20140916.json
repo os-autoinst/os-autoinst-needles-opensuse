@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 481,
+      "type": "match",
+      "height": 76,
+      "xpos": 2,
+      "ypos": 4
+    },
+    {
+      "xpos": 19,
+      "ypos": 590,
+      "width": 206,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1",
+    "inst-packageinstallationstarted",
+    "installation-details-view"
+  ]
+}
