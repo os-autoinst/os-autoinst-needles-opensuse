@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 273,
+      "type": "match",
+      "width": 299,
+      "xpos": 362,
+      "height": 71
+    }
+  ],
+  "tags": [
+    "inst-overview",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
