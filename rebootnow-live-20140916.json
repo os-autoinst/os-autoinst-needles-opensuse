@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ENV-LIVECD-1",
+    "rebootnow"
+  ],
+  "area": [
+    {
+      "xpos": 284,
+      "height": 179,
+      "type": "match",
+      "width": 458,
+      "ypos": 305
+    }
+  ]
+}
