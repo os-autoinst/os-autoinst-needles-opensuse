@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "zypper-post-scripts"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 272,
+      "width": 67,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}
