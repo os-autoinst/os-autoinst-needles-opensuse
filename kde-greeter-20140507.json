@@ -14,11 +14,32 @@
       "xpos": 142
     },
     {
-      "xpos": 710,
       "ypos": 596,
-      "width": 188,
-      "height": 94,
-      "type": "exclude"
+      "xpos": 710,
+      "height": 72,
+      "type": "exclude",
+      "width": 176
+    },
+    {
+      "xpos": 886,
+      "ypos": 686,
+      "width": 20,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 54,
+      "ypos": 695,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 896,
+      "ypos": 686,
+      "width": 10,
+      "height": 10,
+      "type": "match"
     }
   ]
 }
