@@ -1,4 +1,349 @@
 {
+  "area": [
+    {
+      "ypos": 70,
+      "type": "match",
+      "width": 59,
+      "xpos": 598,
+      "height": 32
+    },
+    {
+      "ypos": 100,
+      "height": 594,
+      "xpos": 627,
+      "width": 389,
+      "type": "match"
+    },
+    {
+      "width": 444,
+      "type": "match",
+      "height": 189,
+      "xpos": 119,
+      "ypos": 413
+    },
+    {
+      "height": 32,
+      "xpos": 535,
+      "width": 59,
+      "type": "match",
+      "ypos": 28
+    },
+    {
+      "width": 389,
+      "type": "match",
+      "height": 594,
+      "xpos": 422,
+      "ypos": 0
+    },
+    {
+      "ypos": 61,
+      "xpos": 0,
+      "height": 189,
+      "type": "match",
+      "width": 444
+    },
+    {
+      "type": "match",
+      "width": 59,
+      "xpos": 66,
+      "height": 32,
+      "ypos": 732
+    },
+    {
+      "ypos": 8,
+      "type": "match",
+      "width": 389,
+      "xpos": 627,
+      "height": 594
+    },
+    {
+      "ypos": 33,
+      "type": "match",
+      "width": 444,
+      "xpos": 19,
+      "height": 189
+    },
+    {
+      "ypos": 714,
+      "xpos": 64,
+      "height": 54,
+      "type": "match",
+      "width": 82
+    },
+    {
+      "ypos": 27,
+      "height": 559,
+      "xpos": 627,
+      "width": 377,
+      "type": "match"
+    },
+    {
+      "xpos": 118,
+      "height": 189,
+      "type": "match",
+      "width": 444,
+      "ypos": 32
+    },
+    {
+      "ypos": 686,
+      "xpos": 19,
+      "height": 54,
+      "type": "match",
+      "width": 82
+    },
+    {
+      "ypos": 35,
+      "xpos": 641,
+      "height": 559,
+      "type": "match",
+      "width": 377
+    },
+    {
+      "type": "match",
+      "width": 444,
+      "xpos": 19,
+      "height": 189,
+      "ypos": 33
+    },
+    {
+      "ypos": 732,
+      "width": 59,
+      "type": "match",
+      "height": 32,
+      "xpos": 66
+    },
+    {
+      "height": 594,
+      "xpos": 627,
+      "width": 389,
+      "type": "match",
+      "ypos": 8
+    },
+    {
+      "ypos": 33,
+      "height": 189,
+      "xpos": 18,
+      "width": 444,
+      "type": "match"
+    },
+    {
+      "xpos": 598,
+      "height": 32,
+      "type": "match",
+      "width": 59,
+      "ypos": 70
+    },
+    {
+      "ypos": 100,
+      "width": 389,
+      "type": "match",
+      "height": 594,
+      "xpos": 627
+    },
+    {
+      "type": "match",
+      "width": 444,
+      "xpos": 119,
+      "height": 189,
+      "ypos": 413
+    },
+    {
+      "ypos": 714,
+      "xpos": 64,
+      "height": 54,
+      "type": "match",
+      "width": 82
+    },
+    {
+      "ypos": 8,
+      "type": "match",
+      "width": 389,
+      "xpos": 627,
+      "height": 594
+    },
+    {
+      "xpos": 20,
+      "height": 189,
+      "type": "match",
+      "width": 444,
+      "ypos": 34
+    },
+    {
+      "width": 1020,
+      "type": "match",
+      "height": 765,
+      "xpos": 0,
+      "ypos": 0
+    },
+    {
+      "ypos": 649,
+      "height": 54,
+      "xpos": 35,
+      "width": 82,
+      "type": "match"
+    },
+    {
+      "width": 389,
+      "type": "match",
+      "height": 594,
+      "xpos": 628,
+      "ypos": 69
+    },
+    {
+      "type": "match",
+      "width": 444,
+      "xpos": 8,
+      "height": 189,
+      "ypos": 22
+    },
+    {
+      "width": 544,
+      "type": "match",
+      "height": 347,
+      "xpos": 110,
+      "ypos": 113
+    },
+    {
+      "xpos": 462,
+      "height": 260,
+      "type": "match",
+      "width": 524,
+      "ypos": 414
+    },
+    {
+      "height": 137,
+      "xpos": 30,
+      "width": 303,
+      "type": "match",
+      "ypos": 604
+    },
+    {
+      "ypos": 3,
+      "xpos": 4,
+      "height": 765,
+      "type": "match",
+      "width": 1020
+    },
+    {
+      "ypos": 0,
+      "width": 1020,
+      "type": "match",
+      "height": 765,
+      "xpos": 0
+    },
+    {
+      "ypos": 104,
+      "type": "match",
+      "width": 544,
+      "xpos": 0,
+      "height": 347
+    },
+    {
+      "height": 145,
+      "xpos": 467,
+      "width": 349,
+      "type": "match",
+      "ypos": 470
+    },
+    {
+      "ypos": 631,
+      "type": "match",
+      "width": 303,
+      "xpos": 65,
+      "height": 137
+    },
+    {
+      "width": 59,
+      "type": "match",
+      "height": 32,
+      "xpos": 535,
+      "ypos": 28
+    },
+    {
+      "width": 389,
+      "type": "match",
+      "height": 594,
+      "xpos": 422,
+      "ypos": 0
+    },
+    {
+      "ypos": 61,
+      "type": "match",
+      "width": 444,
+      "xpos": 0,
+      "height": 189
+    },
+    {
+      "type": "match",
+      "width": 544,
+      "xpos": 102,
+      "height": 347,
+      "ypos": 16
+    },
+    {
+      "ypos": 470,
+      "type": "match",
+      "width": 349,
+      "xpos": 467,
+      "height": 145
+    },
+    {
+      "ypos": 631,
+      "type": "match",
+      "width": 303,
+      "xpos": 65,
+      "height": 137
+    },
+    {
+      "type": "match",
+      "width": 59,
+      "xpos": 598,
+      "height": 32,
+      "ypos": 70
+    },
+    {
+      "height": 594,
+      "xpos": 627,
+      "width": 389,
+      "type": "match",
+      "ypos": 100
+    },
+    {
+      "xpos": 119,
+      "height": 189,
+      "type": "match",
+      "width": 444,
+      "ypos": 413
+    },
+    {
+      "width": 628,
+      "type": "match",
+      "height": 196,
+      "xpos": 197,
+      "ypos": 241
+    },
+    {
+      "ypos": 28,
+      "type": "match",
+      "width": 59,
+      "xpos": 535,
+      "height": 32
+    },
+    {
+      "xpos": 422,
+      "height": 594,
+      "type": "match",
+      "width": 389,
+      "ypos": 0
+    },
+    {
+      "ypos": 61,
+      "width": 444,
+      "type": "match",
+      "height": 189,
+      "xpos": 0
+    }
+  ],
   "tags": [
     "desktop-at-first-boot-kde-12.1-13.1-upgrade",
     "desktop-at-first-boot-kde-12.1-13.1-upgrade-2",
@@ -8,39 +353,18 @@
     "desktop-at-first-boot-kde-without-libreoffice",
     "desktop-hd-13.1-kde",
     "drkonqi-crash",
+    "drkonqi-crash-20140925",
     "generic-desktop",
     "install-failed",
     "reboot_after_install-12.1-13.1-upgrade",
     "reboot_after_install-20140702",
     "reboot_after_install-20140723",
     "reboot_after_install-20140903",
+    "reboot_after_install-20140925",
     "reboot_after_install-live-20140702",
     "ENV-DESKTOP-kde",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
     "ENV-FLAVOR-Staging2-DVD"
-  ],
-  "area": [
-    {
-      "ypos": 69,
-      "height": 32,
-      "xpos": 603,
-      "width": 59,
-      "type": "match"
-    },
-    {
-      "height": 594,
-      "xpos": 628,
-      "width": 389,
-      "type": "match",
-      "ypos": 169
-    },
-    {
-      "height": 189,
-      "xpos": 188,
-      "width": 444,
-      "type": "match",
-      "ypos": 344
-    }
   ]
 }
