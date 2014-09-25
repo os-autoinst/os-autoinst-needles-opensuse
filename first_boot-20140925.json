@@ -1,21 +1,14 @@
 {
   "area": [
     {
-      "xpos": 24,
-      "ypos": 21,
-      "width": 669,
-      "height": 414,
-      "type": "match"
-    },
-    {
-      "xpos": 606,
-      "ypos": 413,
-      "width": 407,
-      "height": 354,
+      "xpos": 233,
+      "ypos": 132,
+      "width": 637,
+      "height": 384,
       "type": "match"
     }
   ],
   "tags": [
-    "first_boot_new_theme"
+    "first_boot-20140925"
   ]
 }
