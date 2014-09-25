@@ -1,26 +1,21 @@
 {
   "area": [
     {
-      "xpos": 422,
-      "ypos": 249,
-      "width": 215,
-      "height": 153,
+      "xpos": 24,
+      "ypos": 21,
+      "width": 669,
+      "height": 414,
       "type": "match"
     },
     {
-      "xpos": 44,
-      "ypos": 39,
-      "width": 596,
-      "height": 386,
-      "type": "match"
-    },
-    {
-      "xpos": 468,
-      "ypos": 487,
-      "width": 544,
-      "height": 10,
+      "xpos": 606,
+      "ypos": 413,
+      "width": 407,
+      "height": 354,
       "type": "match"
     }
   ],
-  "tags": []
+  "tags": [
+    "first_boot_new_theme"
+  ]
 }
