@@ -1,5 +1,32 @@
 {
+  "area": [
+    {
+      "xpos": 598,
+      "height": 32,
+      "type": "match",
+      "width": 59,
+      "ypos": 70
+    },
+    {
+      "ypos": 100,
+      "width": 389,
+      "type": "match",
+      "height": 594,
+      "xpos": 627
+    },
+    {
+      "height": 189,
+      "xpos": 119,
+      "width": 444,
+      "type": "match",
+      "ypos": 413
+    }
+  ],
   "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-Staging2-DVD",
+    "ENV-INSTLANG-en_US",
     "desktop-at-first-boot-kde-12.1-13.1-upgrade",
     "desktop-at-first-boot-kde-12.1-13.1-upgrade-2",
     "desktop-at-first-boot-kde-20140507",
@@ -16,33 +43,7 @@
     "reboot_after_install-20140723",
     "reboot_after_install-20140903",
     "reboot_after_install-20140925",
-    "reboot_after_install-live-20140702",
-    "ENV-DESKTOP-kde",
-    "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US",
-    "ENV-FLAVOR-Staging2-DVD"
-  ],
-  "area": [
-    {
-      "ypos": 70,
-      "width": 59,
-      "type": "match",
-      "height": 32,
-      "xpos": 598
-    },
-    {
-      "type": "match",
-      "width": 389,
-      "xpos": 627,
-      "height": 594,
-      "ypos": 100
-    },
-    {
-      "xpos": 119,
-      "height": 189,
-      "type": "match",
-      "width": 444,
-      "ypos": 413
-    }
+    "reboot_after_install-20140925",
+    "reboot_after_install-live-20140702"
   ]
 }
