@@ -1,28 +1,31 @@
 {
-  "tags": [
-    "first_boot-20140925-newtheme"
-  ],
   "area": [
     {
-      "xpos": 337,
-      "ypos": 240,
-      "width": 194,
-      "height": 70,
+      "xpos": 148,
+      "ypos": 30,
+      "width": 743,
+      "height": 533,
       "type": "match"
     },
     {
-      "xpos": 187,
-      "ypos": 159,
-      "width": 655,
-      "height": 315,
+      "xpos": 0,
+      "ypos": 492,
+      "width": 250,
+      "height": 276,
       "type": "match"
     },
     {
-      "xpos": 611,
-      "ypos": 513,
-      "width": 412,
-      "height": 248,
-      "type": "match"
+      "xpos": 640,
+      "ypos": 605,
+      "width": 218,
+      "height": 97,
+      "type": "exclude"
     }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "desktop-at-first-boot"
   ]
 }
