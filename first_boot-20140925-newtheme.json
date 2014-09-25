@@ -1,0 +1,21 @@
+{
+  "tags": [
+    "first_boot-20140925"
+  ],
+  "area": [
+    {
+      "xpos": 614,
+      "ypos": 396,
+      "width": 10,
+      "height": 10,
+      "type": "exclude"
+    },
+    {
+      "xpos": 265,
+      "ypos": 214,
+      "width": 686,
+      "height": 446,
+      "type": "match"
+    }
+  ]
+}
