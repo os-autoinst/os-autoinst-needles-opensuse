@@ -10,6 +10,7 @@
     }
   ],
   "tags": [
-    "logoutdialog-reboot-highlighted"
+    "logoutdialog-reboot-highlighted",
+    "ENV-DESKTOP-gnome"
   ]
 }
