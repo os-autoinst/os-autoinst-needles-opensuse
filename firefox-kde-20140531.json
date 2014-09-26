@@ -10,6 +10,7 @@
   ],
   "tags": [
     "test-firefox-1",
-    "test-firefox-2"
+    "test-firefox-2",
+    "ENV-DESKTOP-kde"
   ]
 }
