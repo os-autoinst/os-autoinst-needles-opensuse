@@ -1,21 +1,22 @@
 {
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "test-ooffice-1"
+  ],
   "area": [
     {
       "ypos": 28,
-      "xpos": 0,
-      "height": 210,
       "type": "match",
-      "width": 268
+      "width": 268,
+      "xpos": 0,
+      "height": 210
     },
     {
-      "ypos": 220,
-      "width": 165,
       "type": "match",
+      "width": 165,
+      "xpos": 117,
       "height": 66,
-      "xpos": 117
+      "ypos": 220
     }
-  ],
-  "tags": [
-    "test-ooffice-1"
   ]
 }
