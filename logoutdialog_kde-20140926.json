@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "logoutdialog"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 402,
+      "xpos": 311,
+      "height": 172,
+      "ypos": 298
+    }
+  ]
+}
