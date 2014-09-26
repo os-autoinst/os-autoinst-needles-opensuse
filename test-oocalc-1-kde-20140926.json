@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "test-oocalc-1"
+  ],
+  "area": [
+    {
+      "height": 235,
+      "xpos": 6,
+      "width": 326,
+      "type": "match",
+      "ypos": 54
+    }
+  ]
+}
