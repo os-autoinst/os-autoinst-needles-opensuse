@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 26,
+      "width": 452,
+      "type": "match",
+      "height": 446,
+      "xpos": 3
+    }
+  ],
+  "tags": [
+    "kontact-window",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse"
+  ]
+}
