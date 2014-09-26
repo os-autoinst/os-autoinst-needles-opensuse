@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "ypos": 28,
+      "xpos": 0,
+      "height": 210,
+      "type": "match",
+      "width": 268
+    },
+    {
+      "ypos": 220,
+      "width": 165,
+      "type": "match",
+      "height": 66,
+      "xpos": 117
+    }
+  ],
+  "tags": [
+    "test-ooffice-1"
+  ]
+}
