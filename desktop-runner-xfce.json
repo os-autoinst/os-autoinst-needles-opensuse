@@ -1,6 +1,7 @@
 {
   "tags": [
-    "desktop-runner"
+    "desktop-runner",
+    "ENV-DESKTOP-xfce"
   ],
   "area": [
     {
