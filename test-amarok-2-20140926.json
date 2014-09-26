@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 25,
+      "width": 358,
+      "type": "match",
+      "height": 242,
+      "xpos": 4
+    }
+  ],
+  "tags": [
+    "test-amarok-2",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
