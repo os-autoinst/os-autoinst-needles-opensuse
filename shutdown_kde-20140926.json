@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 315,
+      "type": "match",
+      "width": 137,
+      "xpos": 534,
+      "height": 154
+    }
+  ],
+  "tags": [
+    "kde-turn-off-selected",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
