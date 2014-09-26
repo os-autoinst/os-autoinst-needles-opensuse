@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 95,
+      "ypos": 239,
+      "width": 611,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-video-typed-grub2",
+    "ENV-UEFI-1"
+  ]
+}
