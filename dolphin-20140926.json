@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 21,
+      "height": 309,
+      "xpos": 201,
+      "width": 530,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-dolphin-1",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
