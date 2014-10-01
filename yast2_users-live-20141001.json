@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "test-yast2_users-1",
+    "ENV-LIVECD-1"
+  ],
+  "area": [
+    {
+      "ypos": 3,
+      "xpos": 3,
+      "height": 615,
+      "width": 795,
+      "type": "match"
+    }
+  ]
+}
