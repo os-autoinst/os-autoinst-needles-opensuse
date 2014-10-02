@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 962,
+      "height": 181,
+      "ypos": 319,
+      "xpos": 31
+    }
+  ],
+  "tags": [
+    "Policykit",
+    "ENV-DESKTOP-xfce"
+  ]
+}
