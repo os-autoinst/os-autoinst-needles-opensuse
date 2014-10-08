@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "installation-settings",
+    "update-installation-overview"
+  ],
+  "area": [
+    {
+      "ypos": 180,
+      "width": 447,
+      "height": 58,
+      "xpos": 358,
+      "type": "match"
+    },
+    {
+      "xpos": 428,
+      "height": 13,
+      "width": 136,
+      "type": "match",
+      "ypos": 281
+    },
+    {
+      "xpos": 429,
+      "ypos": 266,
+      "width": 182,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
