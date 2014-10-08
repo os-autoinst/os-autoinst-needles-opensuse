@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 41,
+      "xpos": 27,
+      "height": 73,
+      "width": 564,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-kate-2",
+    "ENV-DESKTOP-kde"
+  ]
+}
