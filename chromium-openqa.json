@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 46,
+      "ypos": 194,
+      "width": 222,
+      "height": 41,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "chromium-openqa"
+  ]
+}
