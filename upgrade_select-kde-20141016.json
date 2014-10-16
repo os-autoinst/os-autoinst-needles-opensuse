@@ -3,5 +3,20 @@
     "update-installation-overview",
     "ENV-DESKTOP-kde"
   ],
-  "area": []
+  "area": [
+    {
+      "xpos": 356,
+      "ypos": 177,
+      "width": 519,
+      "height": 76,
+      "type": "match"
+    },
+    {
+      "xpos": 420,
+      "ypos": 432,
+      "width": 177,
+      "height": 19,
+      "type": "match"
+    }
+  ]
 }
