@@ -1,11 +1,15 @@
 {
+  "tags": [
+    "Networkmanager_controlled",
+    "ENV-DISTRI-opensuse"
+  ],
   "area": [
     {
-      "ypos": 27,
-      "type": "match",
       "height": 134,
       "xpos": 5,
-      "width": 428
+      "width": 428,
+      "type": "match",
+      "ypos": 27
     },
     {
       "ypos": 332,
@@ -14,9 +18,5 @@
       "width": 544,
       "type": "match"
     }
-  ],
-  "tags": [
-    "Networkmanager_controlled",
-    "ENV-DISTRI-opensuse"
   ]
 }
