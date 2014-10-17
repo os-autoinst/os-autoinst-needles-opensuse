@@ -2,14 +2,13 @@
   "area": [
     {
       "ypos": 19,
-      "xpos": 12,
-      "height": 127,
+      "type": "match",
       "width": 642,
-      "type": "match"
+      "height": 127,
+      "xpos": 12
     }
   ],
   "tags": [
-    "ENV-DESKTOP-kde",
     "chromium-main-window"
   ]
 }
