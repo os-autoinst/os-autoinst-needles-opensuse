@@ -1,6 +1,7 @@
 {
   "tags": [
-    "chromium-main-window"
+    "chromium-main-window",
+    "ENV-DESKTOP-gnome"
   ],
   "area": [
     {
