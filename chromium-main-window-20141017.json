@@ -9,6 +9,7 @@
     }
   ],
   "tags": [
-    "chromium-main-window"
+    "chromium-main-window",
+    "ENV-DESKTOP-kde"
   ]
 }
