@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-LIVECD-1",
+    "bootloader",
+    "inst-bootmenu"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 250,
+      "width": 800,
+      "xpos": 0,
+      "ypos": 0
+    }
+  ]
+}
