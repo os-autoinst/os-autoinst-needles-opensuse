@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 800,
+      "height": 250,
+      "xpos": 0,
+      "type": "match",
+      "match": 99,
+      "processing_flags": "t",
+      "ypos": 0
+    }
+  ],
+  "tags": [
+    "bootloader",
+    "inst-bootmenu"
+  ]
+}
