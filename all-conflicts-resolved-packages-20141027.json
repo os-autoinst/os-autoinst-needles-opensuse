@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "ypos": 213,
+      "width": 14,
+      "height": 16,
+      "xpos": 55,
+      "type": "match"
+    },
+    {
+      "xpos": 4,
+      "ypos": 8,
+      "width": 476,
+      "height": 81,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "all-conflicts-resolved-packages"
+  ]
+}
