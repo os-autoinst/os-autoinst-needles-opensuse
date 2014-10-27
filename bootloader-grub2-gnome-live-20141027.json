@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-LIVECD-1",
+    "bootloader-grub2"
+  ],
+  "area": [
+    {
+      "ypos": 32,
+      "width": 548,
+      "height": 247,
+      "xpos": 126,
+      "type": "match"
+    }
+  ]
+}
