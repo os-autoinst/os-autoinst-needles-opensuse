@@ -1,14 +1,21 @@
 {
-  "tags": [
-    "package-conflict-choice"
-  ],
   "area": [
     {
-      "xpos": 258,
-      "ypos": 224,
-      "width": 398,
+      "type": "match",
       "height": 34,
+      "width": 398,
+      "xpos": 258,
+      "ypos": 224
+    },
+    {
+      "xpos": 265,
+      "ypos": 227,
+      "width": 14,
+      "height": 16,
       "type": "match"
     }
+  ],
+  "tags": [
+    "package-conflict-choice"
   ]
 }
