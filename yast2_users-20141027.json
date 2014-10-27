@@ -1,15 +1,16 @@
 {
   "area": [
     {
-      "ypos": 64,
       "type": "match",
-      "xpos": 114,
-      "height": 595,
-      "width": 789
+      "xpos": 0,
+      "height": 619,
+      "width": 803,
+      "ypos": 3
     }
   ],
   "tags": [
     "test-yast2_users-1",
+    "ENV-DESKTOP-kde",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US"
   ]
