@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 128,
+      "height": 259,
+      "width": 546,
+      "ypos": 55
+    }
+  ],
+  "tags": [
+    "ENV-DUALBOOT-1",
+    "grub-reboot-windows"
+  ]
+}
