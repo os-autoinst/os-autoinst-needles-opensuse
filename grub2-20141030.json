@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "bootloader",
+    "grub2"
+  ],
+  "area": [
+    {
+      "ypos": 43,
+      "type": "match",
+      "height": 236,
+      "xpos": 128,
+      "width": 546
+    }
+  ]
+}
