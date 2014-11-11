@@ -1,17 +1,17 @@
 {
   "tags": [
+    "inst-overview",
     "ENV-DESKTOP-minimalx",
     "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US",
-    "inst-overview"
+    "ENV-INSTLANG-en_US"
   ],
   "area": [
     {
       "ypos": 215,
-      "width": 293,
+      "type": "match",
       "height": 71,
-      "xpos": 360,
-      "type": "match"
+      "width": 293,
+      "xpos": 360
     }
   ]
 }
