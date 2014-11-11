@@ -2,6 +2,7 @@
   "tags": [
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
+    "ENV-DESKTOP-gnome",
     "inst-overview"
   ],
   "area": [
