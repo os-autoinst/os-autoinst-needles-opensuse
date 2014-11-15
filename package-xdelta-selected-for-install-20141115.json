@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 4,
+      "ypos": 2,
+      "width": 898,
+      "height": 338,
+      "type": "match"
+    },
+    {
+      "xpos": 356,
+      "ypos": 99,
+      "width": 590,
+      "height": 52,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "package-xdelta-selected-for-install"
+  ]
+}
