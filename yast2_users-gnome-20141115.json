@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 743,
+      "xpos": 115,
+      "height": 630,
+      "ypos": 65,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-yast2_users-1",
+    "ENV-DESKTOP-gnome"
+  ]
+}
