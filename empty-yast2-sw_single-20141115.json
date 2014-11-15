@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "empty-yast2-sw_single"
+  ],
+  "area": [
+    {
+      "xpos": 9,
+      "ypos": 25,
+      "width": 846,
+      "height": 334,
+      "type": "match"
+    }
+  ]
+}
