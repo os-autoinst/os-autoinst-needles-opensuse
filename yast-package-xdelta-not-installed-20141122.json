@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "yast-package-xdelta-not-installed"
+  ],
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 0,
+      "height": 144,
+      "width": 455,
+      "type": "match"
+    }
+  ]
+}
