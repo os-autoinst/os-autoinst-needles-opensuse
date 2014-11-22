@@ -4,11 +4,11 @@
   ],
   "area": [
     {
+      "width": 455,
+      "type": "match",
       "xpos": 1,
       "ypos": 0,
-      "height": 144,
-      "width": 455,
-      "type": "match"
+      "height": 144
     }
   ]
 }
