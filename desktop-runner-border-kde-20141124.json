@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 313,
+      "ypos": 5,
+      "width": 48,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "desktop-runner-border"
+  ]
+}
