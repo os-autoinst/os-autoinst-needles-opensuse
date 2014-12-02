@@ -12,7 +12,6 @@
     "test-yast2_users-1",
     "ENV-DESKTOP-xfce",
     "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US",
-    "ENV-FLAVOR-DVD"
+    "ENV-INSTLANG-en_US"
   ]
 }
