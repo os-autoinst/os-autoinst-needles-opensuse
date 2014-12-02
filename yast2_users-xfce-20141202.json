@@ -1,16 +1,18 @@
 {
   "area": [
     {
-      "height": 595,
-      "ypos": 21,
-      "xpos": 12,
+      "height": 592,
+      "xpos": 6,
+      "ypos": 29,
       "type": "match",
-      "width": 789
+      "width": 794
     }
   ],
   "tags": [
+    "test-yast2_users-1",
     "ENV-DESKTOP-xfce",
+    "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
-    "test-yast2_users-1"
+    "ENV-FLAVOR-DVD"
   ]
 }
