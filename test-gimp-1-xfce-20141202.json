@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "test-gimp-1",
+    "ENV-DESKTOP-xfce"
+  ],
+  "area": [
+    {
+      "height": 296,
+      "ypos": 52,
+      "xpos": 0,
+      "type": "match",
+      "width": 175
+    }
+  ]
+}
