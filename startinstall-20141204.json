@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 245,
+      "ypos": 207,
+      "width": 173,
+      "type": "match",
+      "height": 20
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "startinstall"
+  ]
+}
