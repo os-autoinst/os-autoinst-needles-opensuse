@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "test-systemsettings-1",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 7,
+      "width": 653,
+      "type": "match",
+      "height": 503
+    }
+  ]
+}
