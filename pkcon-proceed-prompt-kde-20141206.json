@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "pkcon-proceed-prompt"
+  ],
+  "area": [
+    {
+      "xpos": 17,
+      "ypos": 170,
+      "width": 237,
+      "type": "match",
+      "height": 10
+    }
+  ]
+}
