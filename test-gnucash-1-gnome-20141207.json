@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "test-gnucash-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 114,
+      "width": 488,
+      "height": 68,
+      "ypos": 102
+    },
+    {
+      "width": 130,
+      "ypos": 268,
+      "height": 33,
+      "type": "match",
+      "xpos": 323
+    }
+  ]
+}
