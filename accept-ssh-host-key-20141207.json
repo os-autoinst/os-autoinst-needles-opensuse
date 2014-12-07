@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "accept-ssh-host-key"
+  ],
+  "area": [
+    {
+      "width": 434,
+      "ypos": 287,
+      "height": 19,
+      "type": "match",
+      "xpos": 0
+    }
+  ]
+}
