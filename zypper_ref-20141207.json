@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 308,
+      "height": 24,
+      "ypos": 144,
+      "type": "match",
+      "xpos": 0
+    }
+  ],
+  "tags": [
+    "zypper_ref",
+    "ENV-INSTLANG-en_US"
+  ]
+}
