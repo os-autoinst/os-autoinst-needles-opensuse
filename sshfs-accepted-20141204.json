@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "sshfs-accepted"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 85,
+      "xpos": 0,
+      "ypos": 239,
+      "width": 200
+    }
+  ]
+}
