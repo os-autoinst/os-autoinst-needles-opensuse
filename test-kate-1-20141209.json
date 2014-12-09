@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 87,
+      "height": 83,
+      "xpos": 199,
+      "width": 279
+    },
+    {
+      "xpos": 416,
+      "height": 166,
+      "type": "match",
+      "ypos": 201,
+      "width": 152
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "test-kate-1"
+  ]
+}
