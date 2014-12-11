@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 629,
+      "type": "match",
+      "ypos": 90,
+      "height": 102,
+      "xpos": 129
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "test-firefox-1"
+  ]
+}
