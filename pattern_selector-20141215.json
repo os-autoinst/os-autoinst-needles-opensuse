@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 16,
+      "ypos": 92,
+      "width": 593,
+      "height": 44,
+      "type": "match"
+    },
+    {
+      "xpos": 22,
+      "ypos": 147,
+      "width": 260,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "pattern_selector"
+  ]
+}
