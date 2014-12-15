@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 33,
+      "ypos": 206,
+      "width": 22,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "current-pattern-selected"
+  ]
+}
