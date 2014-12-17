@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "generic-desktop",
+    "ENV-DESKTOP-lxde",
+    "ENV-DISTRI-opensuse"
+  ],
+  "area": [
+    {
+      "width": 1023,
+      "type": "match",
+      "xpos": 0,
+      "height": 767,
+      "ypos": 0
+    }
+  ]
+}
