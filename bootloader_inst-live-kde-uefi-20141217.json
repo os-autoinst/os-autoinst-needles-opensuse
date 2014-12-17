@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 159,
+      "ypos": 214,
+      "width": 482,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-live-kde",
+    "ENV-LIVETEST-1",
+    "ENV-UEFI-1"
+  ]
+}
