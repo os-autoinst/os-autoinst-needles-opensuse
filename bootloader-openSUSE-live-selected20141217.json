@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 252,
+      "ypos": 171,
+      "width": 271,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-live-xfce",
+    "ENV-LIVETEST-1"
+  ]
+}
