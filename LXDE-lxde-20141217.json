@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 1024,
+      "ypos": 0,
+      "height": 768,
+      "xpos": 0
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "LXDE",
+    "booted",
+    "desktop-at-first-boot"
+  ]
+}
