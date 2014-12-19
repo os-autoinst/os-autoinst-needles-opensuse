@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 0,
+      "width": 692,
+      "height": 95,
+      "ypos": 31
+    },
+    {
+      "xpos": 87,
+      "ypos": 79,
+      "width": 39,
+      "height": 32,
+      "type": "exclude"
+    },
+    {
+      "xpos": 269,
+      "ypos": 63,
+      "width": 341,
+      "height": 16,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "test-mysql_srv-1"
+  ]
+}
