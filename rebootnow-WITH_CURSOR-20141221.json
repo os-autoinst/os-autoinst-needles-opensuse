@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "rebootnow",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 250,
+      "height": 45,
+      "width": 249,
+      "ypos": 262
+    }
+  ]
+}
