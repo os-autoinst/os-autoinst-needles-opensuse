@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "ypos": 32,
+      "xpos": 0,
+      "height": 96,
+      "type": "match",
+      "width": 89
+    }
+  ],
+  "tags": [
+    "zypper-dup-retrieving"
+  ]
+}
