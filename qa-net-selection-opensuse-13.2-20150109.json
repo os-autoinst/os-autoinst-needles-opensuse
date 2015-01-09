@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "qa-net-selection-opensuse-13.2"
+  ],
+  "area": [
+    {
+      "xpos": 140,
+      "ypos": 233,
+      "width": 202,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
