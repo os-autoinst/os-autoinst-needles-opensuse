@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "qa-net-x11"
+  ],
+  "area": [
+    {
+      "xpos": 140,
+      "ypos": 120,
+      "width": 39,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}
