@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "qa-net-nfs"
+  ],
+  "area": [
+    {
+      "xpos": 137,
+      "ypos": 57,
+      "width": 55,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}
