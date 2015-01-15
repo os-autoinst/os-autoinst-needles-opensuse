@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 78,
+      "xpos": 358,
+      "height": 18,
+      "ypos": 656
+    }
+  ],
+  "tags": [
+    "packages-section-selected"
+  ]
+}
