@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "inst-userpasswdtoosimple",
+    "ENV-VIDEOMODE-text",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "height": 109,
+      "ypos": 329,
+      "xpos": 366,
+      "type": "match",
+      "width": 285
+    }
+  ]
+}
