@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "good-buttons"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "width": 1014,
+      "type": "match",
+      "height": 43,
+      "ypos": 704
+    }
+  ],
+  "properties": []
+}
