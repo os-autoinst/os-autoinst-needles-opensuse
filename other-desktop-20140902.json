@@ -8,7 +8,7 @@
     {
       "type": "match",
       "width": 300,
-      "height": 173,
+      "height": 173, "match": 100,
       "xpos": 356,
       "ypos": 406
     }
