@@ -1,7 +1,7 @@
 {
   "area": [
     {
-      "type": "match",
+      "type": "match", "match": 100,
       "width": 389,
       "height": 173,
       "xpos": 360,
