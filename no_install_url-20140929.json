@@ -1,13 +1,14 @@
 {
   "area": [
     {
-      "width": 230,
       "type": "match",
-      "height": 42,
-      "xpos": 315,
-      "ypos": 213
+      "height": 15,
+      "width": 254,
+      "ypos": 238,
+      "xpos": 338
     }
   ],
+  "properties": [],
   "tags": [
     "no_install_url"
   ]
