@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "sssd-ldap-inherited-groups"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 207,
+      "width": 137,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 391,
+      "ypos": 78,
+      "width": 250,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 148,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}

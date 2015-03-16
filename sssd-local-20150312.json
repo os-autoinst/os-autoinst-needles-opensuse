@@ -1,0 +1,28 @@
+{
+  "tags": [
+    "sssd-local"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 288,
+      "width": 137,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 146,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 391,
+      "ypos": 15,
+      "width": 142,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}

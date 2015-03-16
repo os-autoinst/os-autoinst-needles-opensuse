@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 239,
+      "width": 138,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 149,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 389,
+      "ypos": 46,
+      "width": 116,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sssd-ldap"
+  ]
+}

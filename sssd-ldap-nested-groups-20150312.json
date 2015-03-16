@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 392,
+      "ypos": 77,
+      "width": 231,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 239,
+      "width": 141,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 150,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "sssd-ldap-nested-groups"
+  ]
+}

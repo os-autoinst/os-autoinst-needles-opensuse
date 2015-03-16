@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "sssd-krb"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 391,
+      "ypos": 44,
+      "width": 139,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 431,
+      "width": 140,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 150,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}
