@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-ARCH-aarch64",
+    "ENV-UEFI-1",
+    "inst-consolesettingstyped"
+  ],
+  "area": [
+    {
+      "xpos": 408,
+      "ypos": 253,
+      "width": 216,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
