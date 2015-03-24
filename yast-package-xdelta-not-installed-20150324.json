@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-OFW-1",
+    "yast-package-xdelta-not-installed"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 455,
+      "height": 144,
+      "ypos": 0,
+      "xpos": 1,
+      "type": "match"
+    }
+  ]
+}
