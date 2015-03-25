@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "Policykit",
+    "ENV-DESKTOP-gnome"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 227,
+      "type": "match",
+      "xpos": 232,
+      "width": 561,
+      "height": 313
+    }
+  ]
+}
