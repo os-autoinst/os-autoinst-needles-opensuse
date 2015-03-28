@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 61,
+      "ypos": 236,
+      "height": 171,
+      "width": 747
+    },
+    {
+      "width": 519,
+      "height": 86,
+      "ypos": 32,
+      "xpos": 6,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "chromium-html5test",
+    "ENV-DESKTOP-gnome"
+  ]
+}
