@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "test-gimp-1",
+    "ENV-DESKTOP-gnome"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 3,
+      "type": "match",
+      "width": 168,
+      "ypos": 34,
+      "height": 342
+    }
+  ]
+}
