@@ -3,7 +3,7 @@
     "ENV-DESKTOP-gnome",
     "PolicyKit-retry"
   ],
-  "properties": [],
+  "properties": [ "workaround" ],
   "area": [
     {
       "xpos": 236,
