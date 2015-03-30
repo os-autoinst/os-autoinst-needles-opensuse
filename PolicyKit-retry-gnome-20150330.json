@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "PolicyKit-retry"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 236,
+      "ypos": 233,
+      "width": 552,
+      "height": 303,
+      "type": "match"
+    }
+  ]
+}
