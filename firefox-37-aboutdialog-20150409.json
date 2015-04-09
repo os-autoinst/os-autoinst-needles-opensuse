@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 617,
+      "height": 320,
+      "xpos": 76,
+      "ypos": 116,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-firefox-3",
+    "ENV-INSTLANG-en_US"
+  ]
+}
