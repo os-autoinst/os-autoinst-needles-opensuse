@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "screenlock"
+  ],
+  "area": [
+    {
+      "height": 232,
+      "width": 674,
+      "xpos": 324,
+      "type": "match",
+      "ypos": 270
+    }
+  ],
+  "properties": []
+}
