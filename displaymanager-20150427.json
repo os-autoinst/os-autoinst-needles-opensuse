@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "displaymanager",
+    "sddm"
+  ],
+  "area": [
+    {
+      "xpos": 370,
+      "ypos": 314,
+      "width": 643,
+      "height": 163,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
