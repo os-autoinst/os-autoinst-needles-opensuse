@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "sddm-sessions-list"
+  ],
+  "area": [
+    {
+      "height": 22,
+      "type": "match",
+      "ypos": 442,
+      "xpos": 88,
+      "width": 136
+    }
+  ],
+  "properties": []
+}
