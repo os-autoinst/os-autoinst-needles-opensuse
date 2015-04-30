@@ -1,4 +1,5 @@
 {
+  "properties": [],
   "tags": [
     "test-amarok-1",
     "ENV-DESKTOP-kde",
@@ -13,6 +14,5 @@
       "ypos": 243,
       "xpos": 157
     }
-  ],
-  "properties": []
+  ]
 }
