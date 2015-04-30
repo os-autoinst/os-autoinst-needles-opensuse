@@ -1,12 +1,11 @@
 {
-  "properties": [],
   "area": [
     {
-      "xpos": 262,
-      "ypos": 322,
-      "width": 444,
+      "type": "match",
       "height": 118,
-      "type": "match"
+      "width": 429,
+      "ypos": 323,
+      "xpos": 288
     }
   ],
   "tags": [
@@ -14,5 +13,6 @@
     "ENV-DESKTOP-kde",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US"
-  ]
+  ],
+  "properties": []
 }
