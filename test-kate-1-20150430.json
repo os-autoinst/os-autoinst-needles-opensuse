@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "test-kate-1"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 470,
+      "width": 635,
+      "xpos": 4,
+      "ypos": 34
+    }
+  ]
+}
