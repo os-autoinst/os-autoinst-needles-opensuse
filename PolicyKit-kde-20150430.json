@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 327,
+      "ypos": 251,
+      "width": 370,
+      "height": 258,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "Policykit",
+    "ENV-DESKTOP-kde"
+  ],
+  "properties": []
+}
