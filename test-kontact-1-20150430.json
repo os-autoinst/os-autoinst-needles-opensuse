@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "tags": [
+    "test-kontact-1",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "ypos": 88,
+      "xpos": 264,
+      "width": 154,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}
