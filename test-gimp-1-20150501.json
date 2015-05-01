@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 204,
+      "type": "match",
+      "ypos": 60,
+      "xpos": 0,
+      "width": 155
+    }
+  ],
+  "tags": [
+    "test-gimp-1",
+    "ENV-INSTLANG-en_US"
+  ],
+  "properties": []
+}
