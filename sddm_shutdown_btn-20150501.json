@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "sddm_shutdown_btn",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse"
+  ],
+  "area": [
+    {
+      "xpos": 514,
+      "ypos": 462,
+      "width": 130,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
