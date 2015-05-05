@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 584,
+      "height": 184,
+      "width": 221,
+      "xpos": 803
+    },
+    {
+      "xpos": 803,
+      "width": 45,
+      "height": 33,
+      "ypos": 735,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "test-xfce_notification-1"
+  ]
+}
