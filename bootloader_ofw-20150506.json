@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-OFW-1",
+    "inst-oninstallation"
+  ],
+  "area": [
+    {
+      "xpos": 23,
+      "ypos": 79,
+      "width": 118,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}
