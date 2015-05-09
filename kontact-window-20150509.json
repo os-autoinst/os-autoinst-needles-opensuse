@@ -1,0 +1,19 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "width": 452,
+      "ypos": 26,
+      "type": "match",
+      "xpos": 3,
+      "height": 446
+    }
+  ],
+  "tags": [
+    "kontact-window",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse"
+  ]
+}
