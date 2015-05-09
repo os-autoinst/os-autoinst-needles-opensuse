@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 35,
+      "width": 795,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "xpos": 11,
+      "ypos": 63,
+      "width": 211,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 553,
+      "ypos": 77,
+      "width": 136,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-mysql_srv-1"
+  ]
+}
