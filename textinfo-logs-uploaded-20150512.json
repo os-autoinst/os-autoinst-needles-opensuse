@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "texinfo-logs-uploaded"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "type": "match",
+      "height": 15,
+      "ypos": 705,
+      "width": 101
+    },
+    {
+      "xpos": 0,
+      "type": "match",
+      "height": 16,
+      "ypos": 736,
+      "width": 133
+    }
+  ]
+}
