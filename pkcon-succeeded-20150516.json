@@ -1,15 +1,15 @@
 {
   "area": [
     {
-      "type": "match",
-      "height": 55,
+      "xpos": 29,
       "ypos": 129,
+      "height": 49,
       "width": 347,
-      "xpos": 29
+      "type": "match"
     }
   ],
+  "properties": [],
   "tags": [
     "pkcon-succeeded"
-  ],
-  "properties": []
+  ]
 }
