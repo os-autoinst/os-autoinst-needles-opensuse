@@ -2,6 +2,7 @@
   "tags": [
     "test-gnucash-1",
     "ENV-DISTRI-opensuse",
+    "ENV-DESKTOP-lxde",
     "ENV-INSTLANG-en_US"
   ],
   "area": [
