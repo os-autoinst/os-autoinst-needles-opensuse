@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "width": 297,
+      "height": 406,
+      "ypos": 330,
+      "xpos": 4,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-FLAVOR-KDE-Live",
+    "ENV-INSTLANG-en_US",
+    "test-desktop_mainmenu-1"
+  ]
+}
