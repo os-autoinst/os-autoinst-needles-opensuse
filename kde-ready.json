@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "kde-ready"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 620,
+      "width": 425,
+      "height": 148,
+      "type": "match"
+    }
+  ]
+}
