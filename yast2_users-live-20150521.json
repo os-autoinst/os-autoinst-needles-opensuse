@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVETEST-1",
+    "test-yast2_users-1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 6,
+      "type": "match",
+      "width": 791,
+      "ypos": 34,
+      "height": 588
+    }
+  ]
+}
