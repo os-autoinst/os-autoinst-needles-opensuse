@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "generic-desktop"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 1022,
+      "xpos": 0,
+      "height": 766,
+      "ypos": 0
+    }
+  ]
+}
