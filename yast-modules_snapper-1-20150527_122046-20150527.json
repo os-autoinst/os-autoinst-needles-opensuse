@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 140,
+      "type": "match",
+      "height": 555,
+      "xpos": 224,
+      "width": 212
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast-modules_snapper-1",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
