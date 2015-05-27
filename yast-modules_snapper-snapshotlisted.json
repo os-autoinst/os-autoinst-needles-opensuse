@@ -19,6 +19,6 @@
   "tags": [
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
-    "yast-modules_snapper-10"
+    "yast-modules_snapper-snapshotlisted"
   ]
 }

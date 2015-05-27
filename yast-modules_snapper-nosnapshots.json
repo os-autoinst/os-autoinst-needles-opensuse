@@ -10,7 +10,7 @@
   ],
   "properties": [],
   "tags": [
-    "yast-modules_snapper-1",
+    "yast-modules_snapper-nosnapshots",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US"
   ]
