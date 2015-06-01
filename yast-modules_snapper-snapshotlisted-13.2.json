@@ -8,18 +8,18 @@
   "properties": [],
   "area": [
     {
+      "height": 10,
       "type": "match",
       "xpos": 262,
-      "height": 13,
-      "width": 408,
+      "width": 456,
       "ypos": 229
     },
     {
       "xpos": 310,
-      "ypos": 209,
-      "width": 136,
+      "type": "exclude",
       "height": 438,
-      "type": "exclude"
+      "width": 136,
+      "ypos": 209
     }
   ]
 }
