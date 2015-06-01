@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 82,
+      "ypos": 27,
+      "width": 112,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast-modules_snapper-xterm_is_there"
+  ]
+}
