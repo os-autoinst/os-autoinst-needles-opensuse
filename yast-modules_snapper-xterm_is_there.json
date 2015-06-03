@@ -1,15 +1,15 @@
 {
+  "area": [
+    {
+      "ypos": 25,
+      "width": 21,
+      "xpos": 173,
+      "height": 13,
+      "type": "match"
+    }
+  ],
   "properties": [],
   "tags": [
     "yast-modules_snapper-xterm_is_there"
-  ],
-  "area": [
-    {
-      "ypos": 24,
-      "width": 21,
-      "xpos": 173,
-      "height": 14,
-      "type": "match"
-    }
   ]
 }
