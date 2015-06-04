@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast-modules_snapper-snapshot_modified"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 518,
+      "ypos": 230,
+      "width": 181,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}

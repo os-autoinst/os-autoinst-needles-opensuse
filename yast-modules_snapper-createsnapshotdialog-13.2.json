@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "ypos": 271,
+      "xpos": 359,
+      "height": 331,
+      "type": "match",
+      "width": 533
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast-modules_snapper-createsnapshotdialog",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-yast-modules",
+    "ENV-INSTLANG-en_US"
+  ]
+}
