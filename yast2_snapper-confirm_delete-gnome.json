@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 25,
+      "ypos": 384,
+      "xpos": 363,
+      "type": "match",
+      "width": 188
+    }
+  ],
+  "tags": [
+    "yast2_snapper-confirm_delete"
+  ],
+  "properties": []
+}
