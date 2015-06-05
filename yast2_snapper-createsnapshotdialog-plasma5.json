@@ -10,7 +10,6 @@
   ],
   "properties": [],
   "tags": [
-    "yast-modules_snapper-createsnapshotdialog",
-    "ENV-INSTLANG-en_US"
+    "yast2_snapper-createsnapshotdialog"
   ]
 }
