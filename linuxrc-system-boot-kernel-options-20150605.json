@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 417,
+      "ypos": 337,
+      "width": 177,
+      "height": 46,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "linuxrc-system-boot-kernel-edit-options",
+    "linuxrc-system-boot-kernel-options"
+  ],
+  "properties": []
+}
