@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "hostnamectl_status"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 23,
+      "ypos": 34,
+      "width": 202,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}
