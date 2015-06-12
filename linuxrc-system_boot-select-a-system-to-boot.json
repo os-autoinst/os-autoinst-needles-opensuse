@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "linuxrc-system_boot-select-a-system-to-boot"
+  ],
+  "area": [
+    {
+      "xpos": 397,
+      "ypos": 323,
+      "width": 216,
+      "height": 42,
+      "type": "match"
+    }
+  ]
+}
