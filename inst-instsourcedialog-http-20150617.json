@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "inst-instsourcedialog-http"
+  ],
+  "area": [
+    {
+      "xpos": 233,
+      "ypos": 145,
+      "width": 333,
+      "height": 189,
+      "type": "match"
+    },
+    {
+      "xpos": 246,
+      "ypos": 253,
+      "width": 305,
+      "height": 25,
+      "type": "exclude"
+    },
+    {
+      "xpos": 247,
+      "ypos": 195,
+      "width": 303,
+      "height": 27,
+      "type": "exclude"
+    }
+  ],
+  "properties": []
+}
