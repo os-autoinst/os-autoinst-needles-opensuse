@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "text-logged-in",
+    "ENV-DISTRI-opensuse"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 95,
+      "width": 168,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
