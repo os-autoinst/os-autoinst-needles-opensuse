@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 112,
+      "width": 168,
+      "height": 15,
+      "type": "match",
+      "xpos": 0
+    }
+  ],
+  "tags": [
+    "text-logged-in",
+    "ENV-DISTRI-opensuse"
+  ]
+}
