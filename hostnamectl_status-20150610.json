@@ -2,7 +2,8 @@
   "tags": [
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
-    "hostnamectl_status"
+    "hostnamectl_status",
+    "hostnamectl_status_susetest"
   ],
   "properties": [],
   "area": [
