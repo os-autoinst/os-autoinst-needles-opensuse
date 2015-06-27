@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 256,
+      "width": 203,
+      "height": 137,
+      "type": "match",
+      "xpos": 538
+    }
+  ],
+  "tags": [
+    "test-oomath-1",
+    "ENV-INSTLANG-en_US"
+  ]
+}
