@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "yast2_users-disable_autologin",
+    "ENV-INSTLANG-en_US"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 271,
+      "ypos": 330,
+      "width": 474,
+      "height": 91,
+      "type": "match"
+    }
+  ]
+}
