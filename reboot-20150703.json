@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "bootloader-ofw"
+  ],
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 23,
+      "width": 635,
+      "height": 162,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
