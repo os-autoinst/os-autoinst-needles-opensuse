@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_users-confirm_delete",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "xpos": 391,
+      "ypos": 347,
+      "width": 242,
+      "height": 74,
+      "type": "match"
+    }
+  ]
+}

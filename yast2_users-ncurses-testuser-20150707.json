@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_users-testuser",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 30,
+      "width": 998,
+      "height": 685,
+      "type": "match"
+    }
+  ]
+}
