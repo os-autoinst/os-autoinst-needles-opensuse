@@ -5,11 +5,18 @@
   "properties": [],
   "area": [
     {
+      "xpos": 389,
       "type": "match",
-      "xpos": 318,
       "ypos": 280,
-      "width": 335,
-      "height": 75
+      "height": 75,
+      "width": 264
+    },
+    {
+      "width": 49,
+      "height": 69,
+      "type": "match",
+      "ypos": 283,
+      "xpos": 319
     }
   ]
 }
