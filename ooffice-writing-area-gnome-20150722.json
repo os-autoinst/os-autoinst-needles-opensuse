@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "ooffice-writing-area"
+  ],
+  "area": [
+    {
+      "xpos": 124,
+      "ypos": 272,
+      "width": 80,
+      "height": 73,
+      "type": "match"
+    }
+  ]
+}
