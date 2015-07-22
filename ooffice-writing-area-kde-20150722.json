@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ooffice-writing-area"
+  ],
+  "area": [
+    {
+      "xpos": 98,
+      "ypos": 237,
+      "width": 90,
+      "height": 78,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
