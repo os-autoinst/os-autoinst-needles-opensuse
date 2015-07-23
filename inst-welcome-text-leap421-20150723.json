@@ -1,0 +1,20 @@
+{
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "inst-welcome",
+    "languagepicked"
+  ],
+  "area": [
+    {
+      "width": 1024,
+      "xpos": 0,
+      "height": 763,
+      "ypos": 5,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
