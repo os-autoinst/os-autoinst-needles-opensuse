@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 238,
+      "type": "match",
+      "xpos": 307,
+      "height": 61,
+      "ypos": 30
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "firefox-help-menu"
+  ]
+}
