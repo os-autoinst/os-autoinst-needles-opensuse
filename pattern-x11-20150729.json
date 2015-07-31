@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 183,
+      "xpos": 96,
+      "ypos": 458,
+      "type": "match",
+      "height": 28
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "on-pattern",
+    "pattern-x11"
+  ]
+}

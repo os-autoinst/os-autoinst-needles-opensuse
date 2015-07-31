@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 23,
+      "ypos": 236,
+      "width": 206,
+      "xpos": 98
+    }
+  ],
+  "tags": [
+    "on-pattern",
+    "pattern-gnome"
+  ]
+}
