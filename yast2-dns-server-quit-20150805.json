@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 269,
+      "ypos": 339,
+      "width": 494,
+      "height": 56,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2-dns-server-quit"
+  ],
+  "properties": []
+}
