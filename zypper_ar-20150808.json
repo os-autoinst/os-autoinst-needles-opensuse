@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 460,
+      "type": "match",
+      "xpos": 28,
+      "height": 17,
+      "ypos": 205
+    }
+  ],
+  "tags": [
+    "addn-repos-listed"
+  ]
+}
