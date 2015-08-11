@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "test-thunderbird-1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 58,
+      "height": 253,
+      "xpos": 152,
+      "type": "match",
+      "width": 737
+    },
+    {
+      "type": "match",
+      "xpos": 200,
+      "width": 633,
+      "height": 184,
+      "ypos": 441
+    }
+  ]
+}
