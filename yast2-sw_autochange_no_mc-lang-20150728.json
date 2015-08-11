@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 75,
+      "ypos": 159,
+      "width": 123,
+      "height": 49,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2-sw_autochange_no_mc-lang"
+  ]
+}

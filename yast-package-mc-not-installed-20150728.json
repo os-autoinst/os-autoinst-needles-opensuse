@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 19,
+      "width": 218,
+      "height": 61,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast-package-mc-not-installed"
+  ],
+  "properties": []
+}

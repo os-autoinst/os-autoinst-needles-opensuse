@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "package-biosdevname-selected-for-install"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 356,
+      "ypos": 81,
+      "width": 135,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}
