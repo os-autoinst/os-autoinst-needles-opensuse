@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "ENV-INSTLANG-en_US",
+    "yast2-sw_search_exact_match"
+  ],
+  "area": [
+    {
+      "xpos": 5,
+      "ypos": 262,
+      "width": 110,
+      "height": 94,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
