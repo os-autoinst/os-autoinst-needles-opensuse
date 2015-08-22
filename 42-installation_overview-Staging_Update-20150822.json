@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 68,
+      "xpos": 358,
+      "type": "match",
+      "width": 407,
+      "ypos": 171
+    }
+  ],
+  "tags": [
+    "inst-overview",
+    "ENV-FLAVOR-Staging2-DVD"
+  ]
+}
