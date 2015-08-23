@@ -1,14 +1,14 @@
 {
-  "properties": [],
   "area": [
     {
-      "width": 460,
+      "ypos": 205,
+      "height": 17,
       "type": "match",
       "xpos": 28,
-      "height": 17,
-      "ypos": 205
+      "width": 448
     }
   ],
+  "properties": [],
   "tags": [
     "addn-repos-listed"
   ]
