@@ -1,0 +1,18 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "ypos": 323,
+      "height": 119,
+      "width": 395,
+      "xpos": 305,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ooffice-save-prompt",
+    "ENV-DESKTOP-kde"
+  ]
+}
