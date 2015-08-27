@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 355,
+      "ypos": 82,
+      "width": 150,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "package-powertop-only-selected-for-install"
+  ]
+}
