@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 108,
+      "xpos": 74,
+      "height": 14,
+      "ypos": 177
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "yast2-sw_autochange_mc-lang"
+  ]
+}

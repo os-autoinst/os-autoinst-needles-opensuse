@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 117,
+      "ypos": 86,
+      "width": 97,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst_recommended_packages_unchecked"
+  ],
+  "properties": []
+}
