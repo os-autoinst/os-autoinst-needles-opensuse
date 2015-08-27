@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast-package-powertop-not-installed"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 49,
+      "width": 268,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}
