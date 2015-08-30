@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 34,
+      "height": 309,
+      "xpos": 184,
+      "type": "match",
+      "width": 542
+    }
+  ],
+  "tags": [
+    "test-dolphin-1",
+    "ENV-DESKTOP-kde",
+    "ENV-INSTLANG-en_US"
+  ]
+}
