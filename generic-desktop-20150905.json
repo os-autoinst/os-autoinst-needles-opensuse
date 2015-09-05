@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "generic-desktop",
+    "reboot-after-installation"
+  ],
+  "area": [
+    {
+      "height": 766,
+      "width": 1022,
+      "type": "match",
+      "xpos": 0,
+      "ypos": 2
+    }
+  ],
+  "properties": []
+}
