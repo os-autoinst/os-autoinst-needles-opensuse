@@ -1,15 +1,15 @@
 {
-  "properties": [],
-  "area": [
-    {
-      "xpos": 18,
-      "ypos": 278,
-      "width": 113,
-      "height": 38,
-      "type": "match"
-    }
-  ],
   "tags": [
     "pkcon-finished"
-  ]
+  ],
+  "area": [
+    {
+      "ypos": 291,
+      "height": 38,
+      "xpos": 18,
+      "type": "match",
+      "width": 113
+    }
+  ],
+  "properties": []
 }
