@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 109,
+      "width": 287,
+      "xpos": 369,
+      "type": "match",
+      "height": 33
+    }
+  ],
+  "tags": [
+    "gnome-control-center-details-typed",
+    "ENV-DESKTOP-gnome"
+  ]
+}
