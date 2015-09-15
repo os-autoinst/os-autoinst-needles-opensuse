@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "inst-consolesettingstyped"
+  ],
+  "area": [
+    {
+      "height": 35,
+      "xpos": 565,
+      "type": "match",
+      "width": 220,
+      "ypos": 465
+    }
+  ],
+  "properties": []
+}
