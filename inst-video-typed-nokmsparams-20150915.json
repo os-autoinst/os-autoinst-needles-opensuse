@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 23,
+      "type": "match",
+      "xpos": 443,
+      "width": 168,
+      "ypos": 477
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "inst-video-typed"
+  ]
+}
