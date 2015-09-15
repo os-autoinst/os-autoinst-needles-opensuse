@@ -1,15 +1,15 @@
 {
-  "area": [
-    {
-      "xpos": 17,
-      "ypos": 59,
-      "width": 94,
-      "height": 23,
-      "type": "match"
-    }
-  ],
-  "properties": [],
   "tags": [
     "chown-SUCCEEDED"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 19,
+      "type": "match",
+      "width": 89,
+      "height": 23,
+      "ypos": 59
+    }
   ]
 }
