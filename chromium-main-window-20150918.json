@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 127,
+      "width": 651,
+      "xpos": 16,
+      "type": "match",
+      "ypos": 32
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "chromium-main-window",
+    "ENV-DESKTOP-kde"
+  ]
+}
