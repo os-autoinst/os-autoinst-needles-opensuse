@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 60,
+      "type": "match",
+      "xpos": 152,
+      "height": 254,
+      "width": 735
+    },
+    {
+      "ypos": 425,
+      "xpos": 198,
+      "height": 205,
+      "type": "match",
+      "width": 632
+    }
+  ],
+  "tags": [
+    "test-thunderbird-1",
+    "ENV-DESKTOP-lxde"
+  ]
+}
