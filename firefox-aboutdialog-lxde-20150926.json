@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "ENV-INSTLANG-en_US",
+    "test-firefox-3"
+  ],
+  "area": [
+    {
+      "xpos": 203,
+      "height": 320,
+      "type": "match",
+      "width": 617,
+      "ypos": 208
+    }
+  ],
+  "properties": []
+}
