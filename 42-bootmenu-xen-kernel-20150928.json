@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 492,
+      "height": 36,
+      "type": "match",
+      "width": 137,
+      "ypos": 278
+    }
+  ],
+  "tags": [
+    "bootmenu-xen-kernel"
+  ]
+}
