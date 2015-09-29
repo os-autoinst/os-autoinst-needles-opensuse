@@ -2,14 +2,14 @@
   "properties": [],
   "area": [
     {
-      "xpos": 9,
-      "ypos": 32,
-      "width": 730,
-      "height": 233,
+      "ypos": 27,
+      "width": 729,
+      "height": 281,
+      "xpos": 8,
       "type": "match"
     }
   ],
   "tags": [
-    "yast2_bootloader-initialed"
+    "test-yast2_bootloader-1"
   ]
 }
