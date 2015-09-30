@@ -1,15 +1,15 @@
 {
   "tags": [
-    "accept-ssh-host-key"
+    "password-prompt"
   ],
   "properties": [],
   "area": [
     {
-      "ypos": 750,
-      "xpos": 16,
-      "height": 10,
+      "ypos": 752,
+      "width": 86,
       "type": "match",
-      "width": 480
+      "xpos": 2,
+      "height": 16
     }
   ]
 }
