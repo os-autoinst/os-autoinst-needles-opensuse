@@ -1,15 +1,15 @@
 {
+  "tags": [
+    "accept-ssh-host-key"
+  ],
   "properties": [],
   "area": [
     {
-      "xpos": 1,
-      "ypos": 751,
-      "width": 466,
-      "height": 25,
-      "type": "match"
+      "ypos": 750,
+      "xpos": 16,
+      "height": 10,
+      "type": "match",
+      "width": 480
     }
-  ],
-  "tags": [
-    "accept-ssh-host-key"
   ]
 }
