@@ -1,17 +1,16 @@
 {
-  "tags": [
-    "ENV-DESKTOP-gnome"
-  ],
   "area": [
     {
-      "ypos": 366,
-      "width": 332,
-      "height": 44,
-      "xpos": 366,
-      "type": "match"
+      "type": "match",
+      "xpos": 364,
+      "height": 43,
+      "width": 338,
+      "ypos": 366
     }
   ],
-  "properties": [
-    "workaround"
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "PolicyKit-CapsOn"
   ]
 }
