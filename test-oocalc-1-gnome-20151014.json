@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 97,
+      "height": 255,
+      "xpos": 14,
+      "width": 408
+    }
+  ],
+  "tags": [
+    "test-oocalc-1",
+    "ENV-DESKTOP-gnome"
+  ],
+  "properties": []
+}
