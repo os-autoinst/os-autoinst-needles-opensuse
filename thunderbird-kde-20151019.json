@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "test-thunderbird-1",
+    "ENV-DESKTOP-kde"
+  ],
+  "area": [
+    {
+      "width": 689,
+      "ypos": 53,
+      "xpos": 145,
+      "height": 253,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 466,
+      "xpos": 193,
+      "height": 163,
+      "width": 639
+    }
+  ]
+}
