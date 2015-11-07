@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "logoutdialog-reboot-highlighted",
+    "ENV-DESKTOP-gnome"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 120,
+      "xpos": 452,
+      "ypos": 439,
+      "height": 32
+    }
+  ],
+  "properties": []
+}
