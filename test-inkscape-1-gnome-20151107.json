@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 431,
+      "type": "match",
+      "width": 495,
+      "xpos": 5,
+      "ypos": 70
+    }
+  ],
+  "tags": [
+    "test-inkscape-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse"
+  ],
+  "properties": []
+}
