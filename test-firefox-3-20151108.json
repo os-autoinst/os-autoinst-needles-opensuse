@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "test-firefox-3",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "height": 135,
+      "width": 335,
+      "type": "match",
+      "xpos": 459,
+      "ypos": 327
+    }
+  ],
+  "properties": []
+}
