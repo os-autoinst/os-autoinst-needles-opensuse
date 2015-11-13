@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "yast-still-running",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "height": 41,
+      "type": "match",
+      "ypos": 721,
+      "width": 77,
+      "xpos": 796
+    }
+  ],
+  "properties": []
+}
