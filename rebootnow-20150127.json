@@ -9,11 +9,7 @@
     }
   ],
   "tags": [
-    "ENV-DISTRI-opensuse",
-    "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
-    "ENV-INSTLANG-en_US",
-    "rebootnow",
     "rebootnow"
   ]
 }

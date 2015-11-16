@@ -9,7 +9,6 @@
     }
   ],
   "tags": [
-    "select-for-update",
     "select-for-update"
   ]
 }

@@ -1,9 +1,7 @@
 {
   "tags": [
     "ENV-DISTRI-opensuse",
-    "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
-    "rebootnow",
     "rebootnow"
   ],
   "properties": [],
