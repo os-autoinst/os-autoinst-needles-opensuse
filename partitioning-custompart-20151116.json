@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "custompart"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 315,
+      "width": 445,
+      "height": 178,
+      "ypos": 147
+    },
+    {
+      "xpos": 472,
+      "width": 287,
+      "type": "exclude",
+      "ypos": 148,
+      "height": 24
+    }
+  ],
+  "properties": []
+}
