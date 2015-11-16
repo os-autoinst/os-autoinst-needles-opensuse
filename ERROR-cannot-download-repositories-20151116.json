@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "ERROR-cannot-download-repositories"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 333,
+      "height": 124,
+      "width": 207,
+      "xpos": 410
+    }
+  ]
+}
