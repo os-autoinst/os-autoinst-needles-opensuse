@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "displaymanager"
+  ],
+  "area": [
+    {
+      "ypos": 236,
+      "height": 147,
+      "xpos": 149,
+      "width": 324,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

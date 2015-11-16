@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 807,
+      "xpos": 0,
+      "height": 766,
+      "ypos": 2
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "desktop-at-first-boot",
+    "generic-desktop"
+  ]
+}
