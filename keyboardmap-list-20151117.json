@@ -1,15 +1,15 @@
 {
-  "area": [
-    {
-      "xpos": 296,
-      "height": 537,
-      "ypos": 138,
-      "type": "match",
-      "width": 427
-    }
-  ],
   "tags": [
     "keyboardmap-list"
   ],
-  "properties": []
+  "properties": [],
+  "area": [
+    {
+      "height": 537,
+      "xpos": 296,
+      "type": "match",
+      "width": 427,
+      "ypos": 138
+    }
+  ]
 }
