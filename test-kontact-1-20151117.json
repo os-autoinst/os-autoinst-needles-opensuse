@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 411,
+      "width": 423,
+      "type": "match",
+      "xpos": 130,
+      "height": 39
+    }
+  ],
+  "tags": [
+    "test-kontact-1",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse"
+  ]
+}
