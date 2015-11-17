@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "input-area-oocalc"
+  ],
+  "area": [
+    {
+      "xpos": 6,
+      "height": 47,
+      "width": 139,
+      "ypos": 184,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
