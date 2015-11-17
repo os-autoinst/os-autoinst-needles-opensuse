@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 328,
+      "width": 371,
+      "type": "match",
+      "xpos": 327,
+      "height": 131
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "subvolumes-shadowed",
+    "ENV-DISTRI-opensuse"
+  ]
+}
