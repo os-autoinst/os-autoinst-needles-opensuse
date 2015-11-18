@@ -1,5 +1,9 @@
 {
-  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "desktop-at-first-boot",
+    "generic-desktop"
+  ],
   "area": [
     {
       "xpos": 17,
@@ -16,9 +20,5 @@
       "type": "match"
     }
   ],
-  "tags": [
-    "ENV-DESKTOP-kde",
-    "desktop-at-first-boot",
-    "generic-desktop"
-  ]
+  "properties": []
 }
