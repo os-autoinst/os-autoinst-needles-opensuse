@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 20,
+      "width": 430,
+      "height": 322,
+      "xpos": 17
+    },
+    {
+      "xpos": 0,
+      "height": 26,
+      "ypos": 742,
+      "width": 61,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "desktop-at-first-boot",
+    "generic-desktop"
+  ]
+}
