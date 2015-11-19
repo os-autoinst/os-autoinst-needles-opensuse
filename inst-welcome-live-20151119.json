@@ -1,24 +1,24 @@
 {
+  "tags": [
+    "ENV-LIVECD-1",
+    "inst-welcome",
+    "languagepicked"
+  ],
   "area": [
     {
-      "type": "match",
-      "xpos": 18,
-      "ypos": 8,
+      "ypos": 12,
+      "width": 351,
       "height": 55,
-      "width": 344
+      "type": "match",
+      "xpos": 28
     },
     {
-      "ypos": 187,
+      "ypos": 197,
       "width": 175,
       "height": 45,
       "type": "match",
       "xpos": 14
     }
-  ],
-  "tags": [
-    "ENV-LIVECD-1",
-    "inst-welcome",
-    "languagepicked"
   ],
   "properties": []
 }
