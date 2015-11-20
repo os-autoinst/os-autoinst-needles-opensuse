@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "kde-imagesused",
+    "ENV-DESKTOP-kde"
+  ],
+  "area": [
+    {
+      "xpos": 377,
+      "type": "match",
+      "margin": 400,
+      "height": 30,
+      "width": 260,
+      "ypos": 485
+    }
+  ]
+}
