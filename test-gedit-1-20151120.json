@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "test-gedit-1",
+    "ENV-DESKTOP-gnome"
+  ],
+  "area": [
+    {
+      "width": 389,
+      "height": 61,
+      "ypos": 59,
+      "xpos": 88,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
