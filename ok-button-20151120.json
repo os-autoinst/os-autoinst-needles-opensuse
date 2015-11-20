@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ok-button"
+  ],
+  "area": [
+    {
+      "ypos": 538,
+      "height": 42,
+      "width": 78,
+      "type": "match",
+      "xpos": 390
+    }
+  ],
+  "properties": []
+}
