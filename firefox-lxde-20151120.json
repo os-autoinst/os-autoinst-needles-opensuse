@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "test-firefox-1"
+  ],
+  "area": [
+    {
+      "height": 70,
+      "width": 578,
+      "ypos": 116,
+      "xpos": 131,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
