@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 316,
+      "type": "match",
+      "height": 82,
+      "width": 392,
+      "ypos": 345
+    }
+  ],
+  "tags": [
+    "desktop-runner",
+    "ENV-DESKTOP-xfce"
+  ],
+  "properties": []
+}
