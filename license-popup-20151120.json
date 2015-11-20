@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "license-popup"
+  ],
+  "area": [
+    {
+      "ypos": 163,
+      "height": 26,
+      "width": 200,
+      "type": "match",
+      "xpos": 335
+    }
+  ]
+}
