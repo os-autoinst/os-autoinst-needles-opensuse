@@ -1,15 +1,15 @@
 {
   "properties": [],
-  "tags": [
-    "other-desktop"
-  ],
   "area": [
     {
-      "xpos": 357,
-      "ypos": 517,
-      "width": 68,
-      "height": 18,
-      "type": "match"
+      "xpos": 352,
+      "type": "match",
+      "width": 295,
+      "height": 96,
+      "ypos": 514
     }
+  ],
+  "tags": [
+    "other-desktop"
   ]
 }
