@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 471,
+      "width": 630,
+      "height": 172,
+      "type": "match",
+      "xpos": 196
+    },
+    {
+      "height": 134,
+      "width": 669,
+      "ypos": 97,
+      "xpos": 153,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-thunderbird-1",
+    "ENV-DESKTOP-gnome"
+  ]
+}
