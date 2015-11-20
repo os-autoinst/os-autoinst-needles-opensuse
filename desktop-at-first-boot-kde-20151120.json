@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "desktop-at-first-boot"
+  ],
+  "area": [
+    {
+      "height": 322,
+      "width": 450,
+      "ypos": 19,
+      "xpos": 17,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 0,
+      "ypos": 742,
+      "width": 61,
+      "height": 26
+    }
+  ],
+  "properties": []
+}
