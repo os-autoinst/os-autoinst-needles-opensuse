@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 88,
+      "height": 126,
+      "width": 651,
+      "type": "match",
+      "xpos": 330
+    }
+  ],
+  "tags": [
+    "select-for-update"
+  ]
+}
