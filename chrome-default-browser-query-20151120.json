@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "chrome-default-browser-query"
+  ],
+  "area": [
+    {
+      "xpos": 304,
+      "type": "match",
+      "height": 121,
+      "width": 424,
+      "ypos": 338
+    },
+    {
+      "xpos": 629,
+      "type": "match",
+      "height": 41,
+      "width": 81,
+      "ypos": 412
+    }
+  ],
+  "properties": []
+}
