@@ -1,15 +1,22 @@
 {
+  "area": [
+    {
+      "type": "match",
+      "xpos": 378,
+      "ypos": 111,
+      "width": 594,
+      "height": 207
+    },
+    {
+      "height": 260,
+      "width": 148,
+      "ypos": 99,
+      "xpos": 555,
+      "type": "exclude"
+    }
+  ],
   "tags": [
     "acceptedpartitioning"
   ],
-  "properties": [],
-  "area": [
-    {
-      "height": 207,
-      "xpos": 378,
-      "type": "match",
-      "ypos": 111,
-      "width": 594
-    }
-  ]
+  "properties": []
 }
