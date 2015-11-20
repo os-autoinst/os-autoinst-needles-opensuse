@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 161,
+      "height": 13,
+      "ypos": 306,
+      "xpos": 416,
+      "type": "match"
+    },
+    {
+      "ypos": 386,
+      "width": 133,
+      "height": 12,
+      "type": "match",
+      "xpos": 416
+    }
+  ],
+  "tags": [
+    "acceptedpartitioningraidlvm"
+  ]
+}
