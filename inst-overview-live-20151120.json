@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 4,
+      "width": 620,
+      "height": 175,
+      "type": "match",
+      "xpos": 4
+    },
+    {
+      "width": 471,
+      "height": 130,
+      "ypos": 520,
+      "xpos": 18,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-overview",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1"
+  ]
+}
