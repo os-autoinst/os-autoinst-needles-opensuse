@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 111,
+      "ypos": 76,
+      "width": 677,
+      "height": 96,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2-sw-packages-autoselected"
+  ],
+  "properties": []
+}
