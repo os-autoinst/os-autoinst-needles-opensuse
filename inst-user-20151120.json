@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-LIVECD-1",
+    "after-paritioning"
+  ],
+  "area": [
+    {
+      "ypos": 4,
+      "height": 410,
+      "width": 975,
+      "type": "match",
+      "xpos": 0
+    }
+  ]
+}
