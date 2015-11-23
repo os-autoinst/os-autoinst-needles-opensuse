@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 122,
+      "ypos": 107,
+      "width": 765,
+      "height": 132,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2-firewall-summary"
+  ]
+}
