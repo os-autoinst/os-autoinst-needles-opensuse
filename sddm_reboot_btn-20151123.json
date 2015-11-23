@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 515,
+      "ypos": 463,
+      "width": 116,
+      "height": 25
+    }
+  ],
+  "tags": [
+    "sddm_reboot_btn",
+    "ENV-DESKTOP-kde"
+  ]
+}
