@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 120,
+      "ypos": 109,
+      "width": 780,
+      "height": 380,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2-bootloader-ui"
+  ],
+  "properties": []
+}
