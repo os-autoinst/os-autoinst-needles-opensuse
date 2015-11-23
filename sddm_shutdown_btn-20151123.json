@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 465,
+      "height": 23,
+      "width": 116,
+      "type": "match",
+      "xpos": 515
+    }
+  ],
+  "tags": [
+    "sddm_shutdown_btn",
+    "ENV-DESKTOP-kde"
+  ]
+}
