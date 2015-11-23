@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "sddm_shutdown_option_btn"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 941,
+      "ypos": 464,
+      "height": 25,
+      "width": 28
+    }
+  ]
+}
