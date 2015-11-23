@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 117,
+      "ypos": 106,
+      "width": 672,
+      "height": 544,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2-lan-ui"
+  ]
+}
