@@ -3,21 +3,21 @@
     "ENV-DESKTOP-kde",
     "generic-desktop"
   ],
+  "properties": [],
   "area": [
     {
-      "ypos": 18,
+      "height": 304,
+      "xpos": 14,
       "type": "match",
-      "width": 437,
-      "height": 324,
-      "xpos": 17
+      "width": 448,
+      "ypos": 20
     },
     {
-      "ypos": 742,
+      "ypos": 740,
+      "width": 60,
       "type": "match",
-      "width": 61,
-      "xpos": 0,
-      "height": 26
+      "height": 28,
+      "xpos": 0
     }
-  ],
-  "properties": []
+  ]
 }
