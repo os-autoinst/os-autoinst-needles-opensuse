@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "generic-desktop"
+  ],
+  "area": [
+    {
+      "ypos": 18,
+      "type": "match",
+      "width": 437,
+      "height": 324,
+      "xpos": 17
+    },
+    {
+      "ypos": 742,
+      "type": "match",
+      "width": 61,
+      "xpos": 0,
+      "height": 26
+    }
+  ],
+  "properties": []
+}
