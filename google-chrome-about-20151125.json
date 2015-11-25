@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "google-chrome-about"
+  ],
+  "area": [
+    {
+      "ypos": 95,
+      "type": "match",
+      "width": 278,
+      "height": 148,
+      "xpos": 704
+    }
+  ],
+  "properties": []
+}
