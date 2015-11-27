@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "desktop-at-first-boot"
+  ],
+  "area": [
+    {
+      "ypos": 2,
+      "width": 1022,
+      "type": "match",
+      "height": 766,
+      "xpos": 1
+    }
+  ],
+  "properties": []
+}
