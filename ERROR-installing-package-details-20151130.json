@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 291,
+      "height": 46,
+      "ypos": 498,
+      "xpos": 390,
+      "type": "match"
+    },
+    {
+      "width": 137,
+      "height": 24,
+      "xpos": 315,
+      "ypos": 276,
+      "type": "match"
+    },
+    {
+      "width": 36,
+      "ypos": 242,
+      "height": 34,
+      "xpos": 316,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ERROR-removing-package-details"
+  ]
+}
