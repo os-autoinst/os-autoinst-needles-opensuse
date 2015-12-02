@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "hostname",
+    "hostname-susetest"
+  ],
+  "area": [
+    {
+      "width": 89,
+      "ypos": 192,
+      "height": 31,
+      "type": "match",
+      "xpos": 0
+    }
+  ],
+  "properties": []
+}
