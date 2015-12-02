@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 32,
+      "height": 15,
+      "width": 280,
+      "xpos": 0,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "package-xdelta-not-installed"
+  ]
+}
