@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "on-pattern",
+    "pattern-x11"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 96,
+      "type": "match",
+      "height": 28,
+      "ypos": 465,
+      "width": 183,
+      "match": 100
+    }
+  ]
+}
