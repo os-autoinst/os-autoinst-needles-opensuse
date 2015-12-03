@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 25,
+      "ypos": 620,
+      "width": 169,
+      "xpos": 96,
+      "type": "match",
+      "match": 100
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "on-pattern",
+    "pattern-sw_management"
+  ]
+}
