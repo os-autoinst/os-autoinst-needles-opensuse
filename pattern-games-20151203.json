@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 94,
+      "type": "match",
+      "height": 26,
+      "ypos": 616,
+      "width": 82,
+      "match": 100
+    }
+  ],
+  "tags": [
+    "on-pattern",
+    "pattern-games"
+  ]
+}
