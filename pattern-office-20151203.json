@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 97,
+      "height": 27,
+      "ypos": 553,
+      "width": 118,
+      "match": 100
+    }
+  ],
+  "tags": [
+    "on-pattern",
+    "pattern-office"
+  ]
+}
