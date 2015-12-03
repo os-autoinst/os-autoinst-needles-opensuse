@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "test-sshfs-1"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 0,
+      "width": 186,
+      "ypos": 641,
+      "height": 34
+    }
+  ],
+  "properties": []
+}
