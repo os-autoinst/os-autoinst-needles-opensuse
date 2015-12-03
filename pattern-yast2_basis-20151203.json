@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 619,
+      "height": 23,
+      "width": 192,
+      "type": "match",
+      "xpos": 95,
+      "match": 100
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "on-pattern",
+    "pattern-yast2_basis"
+  ]
+}
