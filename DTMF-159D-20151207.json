@@ -1,15 +1,15 @@
 {
-  "properties": [],
   "area": [
     {
+      "ypos": 352,
       "height": 414,
       "width": 160,
-      "ypos": 352,
-      "type": "match",
-      "xpos": 2
+      "xpos": 2,
+      "type": "match"
     }
   ],
   "tags": [
     "DTMF-159D"
-  ]
+  ],
+  "properties": []
 }
