@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 11,
+      "height": 240,
+      "width": 621,
+      "xpos": 5,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-thunar-1"
+  ],
+  "properties": []
+}
