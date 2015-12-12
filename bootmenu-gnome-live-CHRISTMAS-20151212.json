@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "ypos": 155,
+      "width": 273,
+      "height": 89,
+      "xpos": 213,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-LIVECD-1",
+    "bootloader",
+    "inst-bootmenu"
+  ],
+  "properties": []
+}
