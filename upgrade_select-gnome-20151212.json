@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "update-installation-overview"
+  ],
+  "area": [
+    {
+      "ypos": 177,
+      "height": 28,
+      "width": 519,
+      "xpos": 356,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 442,
+      "height": 26,
+      "width": 190,
+      "ypos": 254
+    },
+    {
+      "ypos": 221,
+      "height": 28,
+      "width": 139,
+      "xpos": 391,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
