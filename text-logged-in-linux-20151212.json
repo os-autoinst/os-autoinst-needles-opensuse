@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "text-logged-in-linux"
+  ],
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 132,
+      "width": 43,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
