@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 355,
+      "ypos": 60,
+      "width": 189,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-JeOS-for-kvm",
+    "jeos-keylayout",
+    "text-logged-in"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-FLAVOR-JeOS-for-kvm",
+    "ENV-INSTLANG-en_US",
+    "jeos-system-locale-en_US"
+  ],
+  "area": [
+    {
+      "xpos": 409,
+      "ypos": 640,
+      "width": 52,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}
