@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "bootloader",
+    "inst-bootmenu"
+  ],
+  "area": [
+    {
+      "height": 250,
+      "type": "match",
+      "ypos": 0,
+      "xpos": 0,
+      "width": 800
+    }
+  ],
+  "properties": []
+}
