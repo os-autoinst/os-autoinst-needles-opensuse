@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 255,
+      "width": 316,
+      "xpos": 243,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-submenu-more"
+  ],
+  "properties": []
+}
