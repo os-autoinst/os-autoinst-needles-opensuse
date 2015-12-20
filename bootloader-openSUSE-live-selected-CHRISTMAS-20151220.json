@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "inst-live-xfce",
+    "ENV-LIVETEST-1"
+  ],
+  "area": [
+    {
+      "height": 23,
+      "type": "match",
+      "width": 271,
+      "xpos": 222,
+      "ypos": 164
+    }
+  ],
+  "properties": []
+}
