@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "inst-live-gnome"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 24,
+      "ypos": 162,
+      "xpos": 220,
+      "width": 254
+    }
+  ]
+}
