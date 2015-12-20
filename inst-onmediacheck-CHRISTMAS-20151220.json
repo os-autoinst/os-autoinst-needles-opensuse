@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "inst-onmediacheck"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 34,
+      "xpos": 189,
+      "width": 361,
+      "ypos": 208
+    }
+  ],
+  "properties": []
+}
