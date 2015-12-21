@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 340,
+      "ypos": 13,
+      "width": 135,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "jeos-timezone",
+    "ENV-DESKTOP-textmode",
+    "ENV-FLAVOR-JeOS-for-kvm"
+  ],
+  "properties": []
+}

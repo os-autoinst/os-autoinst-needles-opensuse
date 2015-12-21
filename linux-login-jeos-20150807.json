@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 705,
+      "xpos": 85,
+      "width": 254,
+      "type": "match",
+      "height": 12
+    },
+    {
+      "height": 11,
+      "type": "match",
+      "width": 43,
+      "ypos": 755,
+      "xpos": 52
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-JeOS-for-kvm",
+    "linux-login"
+  ]
+}
