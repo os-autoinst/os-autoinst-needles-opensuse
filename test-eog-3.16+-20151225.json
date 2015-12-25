@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 106,
+      "width": 812,
+      "ypos": 130,
+      "height": 127,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-eog-1",
+    "ENV-DESKTOP-gnome"
+  ],
+  "properties": []
+}
