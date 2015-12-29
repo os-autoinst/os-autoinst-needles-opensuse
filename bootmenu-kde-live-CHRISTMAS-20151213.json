@@ -3,15 +3,16 @@
     "ENV-DESKTOP-kde",
     "ENV-LIVECD-1",
     "bootloader",
+    "grub2",
     "inst-bootmenu"
   ],
   "area": [
     {
       "ypos": 161,
-      "width": 252,
       "height": 89,
       "xpos": 213,
-      "type": "match"
+      "type": "match",
+      "width": 252
     }
   ],
   "properties": []
