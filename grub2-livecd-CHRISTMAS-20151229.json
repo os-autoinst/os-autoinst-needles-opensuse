@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 280,
+      "type": "match",
+      "xpos": 214,
+      "ypos": 151,
+      "height": 137
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LIVETEST-1",
+    "grub2"
+  ]
+}
