@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "evolution-default-client-ask"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 456,
+      "xpos": 287,
+      "ypos": 335,
+      "height": 133
+    }
+  ],
+  "properties": []
+}
