@@ -4,14 +4,21 @@
     "ENV-DESKTOP-lxde",
     "ENV-DISTRI-opensuse"
   ],
+  "properties": [],
   "area": [
     {
+      "ypos": 0,
       "height": 767,
-      "ypos": 1,
-      "xpos": 1,
+      "type": "match",
       "width": 1023,
-      "type": "match"
+      "xpos": 0
+    },
+    {
+      "xpos": 920,
+      "width": 103,
+      "type": "exclude",
+      "height": 25,
+      "ypos": 741
     }
-  ],
-  "properties": []
+  ]
 }
