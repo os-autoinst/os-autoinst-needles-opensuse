@@ -1,23 +1,30 @@
 {
-  "area": [
-    {
-      "ypos": 62,
-      "height": 253,
-      "width": 704,
-      "type": "match",
-      "xpos": 136
-    },
-    {
-      "ypos": 467,
-      "height": 163,
-      "xpos": 197,
-      "type": "match",
-      "width": 639
-    }
-  ],
-  "properties": [],
   "tags": [
     "test-thunderbird-1",
     "ENV-DESKTOP-kde"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 136,
+      "type": "match",
+      "width": 704,
+      "height": 253,
+      "ypos": 62
+    },
+    {
+      "type": "match",
+      "width": 639,
+      "xpos": 197,
+      "height": 163,
+      "ypos": 467
+    },
+    {
+      "ypos": 220,
+      "height": 26,
+      "xpos": 223,
+      "width": 307,
+      "type": "exclude"
+    }
   ]
 }
