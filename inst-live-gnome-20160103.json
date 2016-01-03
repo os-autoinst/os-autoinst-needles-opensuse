@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 248,
+      "width": 254,
+      "type": "match",
+      "ypos": 166,
+      "height": 32
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "boot-live-gnome"
+  ]
+}
