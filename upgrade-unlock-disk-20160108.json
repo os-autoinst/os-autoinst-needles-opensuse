@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 303,
+      "width": 418,
+      "height": 107,
+      "type": "match",
+      "ypos": 254
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "upgrade-unlock-disk"
+  ]
+}
