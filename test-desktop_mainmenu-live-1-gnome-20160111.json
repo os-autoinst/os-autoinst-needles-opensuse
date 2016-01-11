@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "type": "match",
+      "height": 36,
+      "width": 96
+    },
+    {
+      "xpos": 966,
+      "height": 30,
+      "width": 43,
+      "ypos": 0,
+      "type": "match"
+    },
+    {
+      "width": 361,
+      "height": 45,
+      "type": "match",
+      "ypos": 45,
+      "xpos": 330
+    },
+    {
+      "xpos": 7,
+      "ypos": 171,
+      "type": "match",
+      "height": 492,
+      "width": 63
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-LIVETEST-1",
+    "test-desktop_mainmenu-1"
+  ]
+}
