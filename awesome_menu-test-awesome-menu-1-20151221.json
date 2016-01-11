@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "test-awesome-menu-1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 926,
+      "ypos": 713,
+      "width": 80,
+      "height": 37,
+      "type": "match"
+    }
+  ]
+}
