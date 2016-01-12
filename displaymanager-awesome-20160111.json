@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "ypos": 238,
+      "type": "match",
+      "width": 258,
+      "xpos": 199,
+      "height": 107
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-awesome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "displaymanager"
+  ],
+  "properties": []
+}
