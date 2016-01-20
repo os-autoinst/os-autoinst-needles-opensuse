@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 384,
+      "ypos": 314,
+      "width": 252,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-overview",
+    "ENV-DESKTOP-awesome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
