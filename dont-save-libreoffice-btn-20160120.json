@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "dont-save-libreoffice-btn"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 26,
+      "width": 90,
+      "ypos": 405,
+      "xpos": 386
+    }
+  ]
+}
