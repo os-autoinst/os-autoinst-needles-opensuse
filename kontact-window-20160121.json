@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "kontact-window",
+    "ENV-DESKTOP-kde"
+  ],
+  "area": [
+    {
+      "height": 392,
+      "type": "match",
+      "width": 456,
+      "ypos": 32,
+      "xpos": 3
+    }
+  ],
+  "properties": []
+}
