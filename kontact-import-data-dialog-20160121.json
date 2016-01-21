@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "kontact-import-data-dialog"
+  ],
+  "area": [
+    {
+      "xpos": 37,
+      "ypos": 143,
+      "width": 548,
+      "height": 123,
+      "type": "match"
+    }
+  ]
+}
