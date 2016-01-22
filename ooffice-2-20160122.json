@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "test-ooffice-2",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 135,
+      "height": 68,
+      "xpos": 92,
+      "ypos": 225
+    }
+  ]
+}
