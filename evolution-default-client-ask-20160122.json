@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 335,
+      "xpos": 287,
+      "height": 133,
+      "type": "match",
+      "width": 456
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "evolution-default-client-ask"
+  ],
+  "properties": []
+}
