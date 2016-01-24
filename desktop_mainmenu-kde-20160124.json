@@ -1,0 +1,18 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 4,
+      "ypos": 317,
+      "type": "match",
+      "width": 304,
+      "height": 441
+    }
+  ],
+  "tags": [
+    "test-desktop_mainmenu-1",
+    "ENV-DESKTOP-kde"
+  ]
+}
