@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "exited-bootloader"
+  ],
+  "area": [
+    {
+      "ypos": 690,
+      "height": 75,
+      "xpos": 0,
+      "width": 151,
+      "type": "match"
+    }
+  ]
+}
