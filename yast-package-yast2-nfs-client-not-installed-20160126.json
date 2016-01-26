@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 694,
+      "type": "match",
+      "ypos": 50,
+      "height": 27,
+      "xpos": 1
+    }
+  ],
+  "tags": [
+    "yast-package-yast2-nfs-client-not-installed"
+  ],
+  "properties": []
+}
