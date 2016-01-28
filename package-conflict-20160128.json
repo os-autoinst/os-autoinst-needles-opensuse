@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "package-conflict"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 47,
+      "ypos": 521,
+      "xpos": 250,
+      "width": 512
+    },
+    {
+      "ypos": 186,
+      "type": "match",
+      "height": 22,
+      "xpos": 238,
+      "width": 130
+    }
+  ],
+  "properties": []
+}
