@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "nfs-firewall"
+  ],
+  "area": [
+    {
+      "xpos": 352,
+      "ypos": 303,
+      "width": 319,
+      "height": 168,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

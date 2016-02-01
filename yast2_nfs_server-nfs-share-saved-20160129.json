@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 381,
+      "width": 139,
+      "type": "match",
+      "xpos": 11,
+      "height": 58
+    }
+  ],
+  "tags": [
+    "nfs-share-saved"
+  ]
+}
