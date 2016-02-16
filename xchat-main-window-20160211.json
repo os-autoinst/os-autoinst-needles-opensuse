@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 13,
+      "type": "match",
+      "ypos": 133,
+      "width": 121,
+      "xpos": 109
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "xchat-main-window"
+  ],
+  "properties": []
+}
