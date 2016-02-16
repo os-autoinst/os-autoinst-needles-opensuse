@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "xchat-quit"
+  ],
+  "area": [
+    {
+      "width": 126,
+      "xpos": 160,
+      "ypos": 165,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
