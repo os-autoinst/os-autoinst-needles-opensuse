@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "online-repos"
+  ],
+  "area": [
+    {
+      "xpos": 9,
+      "ypos": 28,
+      "width": 151,
+      "height": 42,
+      "type": "match"
+    }
+  ]
+}

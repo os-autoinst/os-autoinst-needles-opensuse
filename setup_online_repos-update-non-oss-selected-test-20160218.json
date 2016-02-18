@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 15,
+      "type": "match",
+      "width": 254,
+      "xpos": 23,
+      "ypos": 96
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "update-non-oss-selected"
+  ],
+  "properties": []
+}

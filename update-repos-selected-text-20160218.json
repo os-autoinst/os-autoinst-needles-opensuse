@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "update-repos-selected"
+  ],
+  "area": [
+    {
+      "ypos": 97,
+      "width": 256,
+      "xpos": 23,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
