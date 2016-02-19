@@ -1,0 +1,27 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 26,
+      "ypos": 742,
+      "width": 52,
+      "xpos": 0
+    },
+    {
+      "type": "match",
+      "height": 273,
+      "xpos": 133,
+      "width": 771,
+      "ypos": 51
+    }
+  ],
+  "tags": [
+    "generic-desktop",
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-42.1"
+  ]
+}
