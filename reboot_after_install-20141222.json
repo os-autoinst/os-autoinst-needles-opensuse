@@ -3,6 +3,7 @@
     "generic-desktop",
     "ENV-DESKTOP-kde",
     "ENV-DISTRI-opensuse",
+    "ENV-VERSION-13.2",
     "ENV-INSTLANG-en_US"
   ],
   "area": [

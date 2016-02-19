@@ -11,6 +11,8 @@
   "properties": [],
   "tags": [
     "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-13.2",
     "generic-desktop",
     "reboot-after-installation"
   ]
