@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 0,
+      "width": 1023,
+      "height": 766,
+      "xpos": 0
+    },
+    {
+      "xpos": 766,
+      "ypos": 740,
+      "width": 258,
+      "height": 28,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "generic-desktop",
+    "ENV-DESKTOP-lxde",
+    "ENV-DISTRI-opensuse"
+  ],
+  "properties": []
+}
