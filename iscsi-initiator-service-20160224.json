@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "iscsi-initiator-service"
+  ],
+  "area": [
+    {
+      "xpos": 176,
+      "ypos": 389,
+      "width": 175,
+      "height": 59,
+      "type": "match"
+    },
+    {
+      "xpos": 63,
+      "ypos": 115,
+      "width": 160,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 116,
+      "ypos": 136,
+      "width": 59,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

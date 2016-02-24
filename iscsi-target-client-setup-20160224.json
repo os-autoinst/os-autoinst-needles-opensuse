@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 237,
+      "ypos": 259,
+      "width": 269,
+      "height": 119,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-target-client-setup"
+  ]
+}

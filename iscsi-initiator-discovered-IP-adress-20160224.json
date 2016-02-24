@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "iscsi-initiator-discovered-IP-adress"
+  ],
+  "area": [
+    {
+      "xpos": 59,
+      "ypos": 112,
+      "width": 175,
+      "height": 165,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

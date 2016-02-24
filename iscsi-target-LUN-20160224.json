@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 293,
+      "ypos": 354,
+      "width": 109,
+      "height": 58,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "iscsi-target-LUN"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "iscsi-initiator-connect-button"
+  ],
+  "area": [
+    {
+      "xpos": 150,
+      "ypos": 623,
+      "width": 91,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
