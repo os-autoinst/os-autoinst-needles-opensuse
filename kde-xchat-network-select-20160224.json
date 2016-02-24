@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 655,
+      "ypos": 225,
+      "width": 364,
+      "height": 55,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "xchat-network-select"
+  ]
+}
