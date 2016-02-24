@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "xchat-network-select"
+  ],
+  "area": [
+    {
+      "xpos": 662,
+      "ypos": 257,
+      "width": 357,
+      "height": 63,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
