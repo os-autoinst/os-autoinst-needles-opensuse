@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "xchat-connection-complete-dialog"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 549,
+      "ypos": 375,
+      "width": 467,
+      "height": 241,
+      "type": "match"
+    }
+  ]
+}
