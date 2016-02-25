@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 41,
+      "ypos": 79,
+      "width": 155,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "boot-menu-snapshot-list"
+  ]
+}
