@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "hexchat-message-sent-to-channel",
+    "xchat-message-sent-to-channel"
+  ],
+  "area": [
+    {
+      "xpos": 217,
+      "type": "match",
+      "height": 14,
+      "width": 223,
+      "ypos": 142
+    }
+  ],
+  "properties": []
+}
