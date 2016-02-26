@@ -1,0 +1,31 @@
+{
+  "tags": [
+    "ssh-login",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "type": "match",
+      "height": 19,
+      "width": 436,
+      "ypos": 47
+    },
+    {
+      "ypos": 17,
+      "width": 516,
+      "height": 16,
+      "type": "match",
+      "xpos": 0
+    },
+    {
+      "width": 383,
+      "ypos": 0,
+      "type": "match",
+      "height": 32,
+      "xpos": 0
+    }
+  ]
+}
