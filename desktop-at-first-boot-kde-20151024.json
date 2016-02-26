@@ -2,6 +2,9 @@
   "properties": [],
   "tags": [
     "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-42.1",
+    "generic-desktop",
     "desktop-at-first-boot"
   ],
   "area": [
