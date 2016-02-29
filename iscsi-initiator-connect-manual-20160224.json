@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "iscsi-initiator-connect-manual"
+  ],
+  "area": [
+    {
+      "xpos": 63,
+      "ypos": 115,
+      "width": 191,
+      "height": 192,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
