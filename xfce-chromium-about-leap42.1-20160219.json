@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-42.1",
+    "chromium-about"
+  ],
+  "area": [
+    {
+      "width": 178,
+      "xpos": 739,
+      "ypos": 119,
+      "type": "match",
+      "height": 51
+    }
+  ]
+}

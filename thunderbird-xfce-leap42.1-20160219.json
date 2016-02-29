@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "ENV-VERSION-42.1",
+    "test-thunderbird-1"
+  ],
+  "area": [
+    {
+      "height": 32,
+      "type": "match",
+      "ypos": 177,
+      "xpos": 214,
+      "width": 430
+    }
+  ],
+  "properties": []
+}

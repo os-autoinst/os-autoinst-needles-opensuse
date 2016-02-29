@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "license-dialog-oss-repo"
+  ],
+  "area": [
+    {
+      "xpos": 16,
+      "ypos": 90,
+      "width": 643,
+      "height": 56,
+      "type": "match"
+    },
+    {
+      "xpos": 69,
+      "ypos": 225,
+      "width": 141,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

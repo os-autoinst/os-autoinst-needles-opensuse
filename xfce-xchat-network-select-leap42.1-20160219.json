@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-42.1",
+    "hexchat-network-select",
+    "xchat-network-select"
+  ],
+  "area": [
+    {
+      "width": 265,
+      "xpos": 661,
+      "ypos": 262,
+      "height": 89,
+      "type": "match"
+    }
+  ]
+}

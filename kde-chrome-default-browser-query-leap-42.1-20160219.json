@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-VERSION-42.1",
+    "chrome-default-browser-query"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 121,
+      "ypos": 338,
+      "width": 424,
+      "xpos": 288
+    },
+    {
+      "type": "match",
+      "height": 37,
+      "width": 72,
+      "xpos": 660,
+      "ypos": 413
+    }
+  ],
+  "properties": []
+}

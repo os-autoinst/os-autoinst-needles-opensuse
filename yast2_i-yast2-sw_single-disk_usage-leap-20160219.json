@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 174,
+      "ypos": 283,
+      "width": 176,
+      "height": 138,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-42.1",
+    "yast2-sw_single-disk_usage"
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
