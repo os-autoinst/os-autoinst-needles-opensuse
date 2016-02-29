@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-UEFI-1",
+    "ovmf-boot-DVD"
+  ],
+  "area": [
+    {
+      "xpos": 24,
+      "ypos": 137,
+      "width": 118,
+      "height": 16,
+      "type": "match"
+    }
+  ]
+}

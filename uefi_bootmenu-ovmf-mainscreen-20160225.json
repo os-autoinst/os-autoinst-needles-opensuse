@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-UEFI-1",
+    "ovmf-mainscreen"
+  ],
+  "area": [
+    {
+      "xpos": 19,
+      "ypos": 126,
+      "width": 134,
+      "height": 69,
+      "type": "match"
+    }
+  ]
+}
