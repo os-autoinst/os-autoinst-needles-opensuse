@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "ENV-DISTRI-opensuse",
+    "multi_users_dm"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 378,
+      "ypos": 541,
+      "width": 52,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}
