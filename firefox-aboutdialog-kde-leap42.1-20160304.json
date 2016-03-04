@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "test-firefox-3"
+  ],
+  "area": [
+    {
+      "height": 123,
+      "type": "match",
+      "width": 325,
+      "ypos": 228,
+      "xpos": 334
+    }
+  ],
+  "properties": []
+}

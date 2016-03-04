@@ -1,0 +1,32 @@
+{
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "test-xfce_lightdm_logout_login-1"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 79,
+      "ypos": 0,
+      "height": 21,
+      "xpos": 945
+    },
+    {
+      "height": 65,
+      "type": "match",
+      "width": 539,
+      "ypos": 432,
+      "xpos": 241
+    },
+    {
+      "xpos": 471,
+      "type": "match",
+      "ypos": 264,
+      "width": 81,
+      "height": 82
+    }
+  ],
+  "properties": []
+}

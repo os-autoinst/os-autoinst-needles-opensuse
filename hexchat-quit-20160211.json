@@ -10,8 +10,8 @@
     }
   ],
   "tags": [
-    "ENV-DESKTOP-gnome",
     "ENV-INSTLANG-en_US",
+    "xchat-quit",
     "hexchat-quit"
   ]
 }

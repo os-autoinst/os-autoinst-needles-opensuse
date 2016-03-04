@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 160,
+      "type": "match",
+      "ypos": 90,
+      "width": 141,
+      "height": 179
+    }
+  ],
+  "tags": [
+    "hexchat-connection-complete-dialog",
+    "xchat-connection-complete-dialog "
+  ],
+  "properties": []
+}

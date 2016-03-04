@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 190,
+      "ypos": 97,
+      "type": "match",
+      "width": 150,
+      "height": 17
+    }
+  ],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "hexchat-message-sent-to-channel",
+    "xchat-message-sent-to-channel"
+  ]
+}

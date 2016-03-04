@@ -10,8 +10,6 @@
     }
   ],
   "tags": [
-    "ENV-DESKTOP-xfce",
-    "ENV-VERSION-42.1",
     "chromium-main-window"
   ]
 }

@@ -17,8 +17,6 @@
     }
   ],
   "tags": [
-    "ENV-DESKTOP-xfce",
-    "ENV-VERSION-42.1",
     "chrome-default-browser-query"
   ]
 }

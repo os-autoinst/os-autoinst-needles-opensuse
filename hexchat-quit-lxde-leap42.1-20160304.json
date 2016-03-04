@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "xchat-quit",
+    "hexchat-quit"
+  ],
+  "area": [
+    {
+      "xpos": 272,
+      "height": 20,
+      "width": 128,
+      "type": "match",
+      "ypos": 135
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 271,
+      "height": 49,
+      "type": "match",
+      "ypos": 150,
+      "width": 296
+    }
+  ],
+  "tags": [
+    "vlc-network-window"
+  ],
+  "properties": []
+}

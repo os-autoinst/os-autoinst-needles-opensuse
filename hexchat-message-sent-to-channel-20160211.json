@@ -1,7 +1,6 @@
 {
   "properties": [],
   "tags": [
-    "ENV-DESKTOP-gnome",
     "ENV-INSTLANG-en_US",
     "hexchat-message-sent-to-channel"
   ],

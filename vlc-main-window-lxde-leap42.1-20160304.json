@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 213,
+      "ypos": 279,
+      "type": "match",
+      "width": 369,
+      "height": 299
+    }
+  ],
+  "tags": [
+    "vlc-main-window"
+  ]
+}

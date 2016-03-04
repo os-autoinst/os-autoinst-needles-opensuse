@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 922,
+      "ypos": 686,
+      "width": 88,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "hexchat-connect-button",
+    "xchat-connect-button"
+  ]
+}

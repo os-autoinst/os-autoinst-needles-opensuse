@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "hexchat-network-select"
+  ],
+  "area": [
+    {
+      "xpos": 339,
+      "type": "match",
+      "ypos": 147,
+      "width": 171,
+      "height": 82
+    }
+  ],
+  "properties": []
+}
