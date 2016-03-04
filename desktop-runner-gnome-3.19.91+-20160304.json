@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 308,
+      "xpos": 340,
+      "height": 152,
+      "width": 343
+    }
+  ],
+  "tags": [
+    "desktop-runner",
+    "ENV-DESKTOP-gnome"
+  ],
+  "properties": []
+}
