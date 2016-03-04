@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 140,
+      "type": "match",
+      "ypos": 250,
+      "width": 353,
+      "xpos": 416
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "import-untrusted-gpg-key-598D0E63B3FD7E48"
+  ],
+  "properties": []
+}
