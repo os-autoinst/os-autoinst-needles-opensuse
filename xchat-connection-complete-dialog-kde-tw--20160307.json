@@ -1,6 +1,7 @@
 {
   "tags": [
-    "xchat-connection-complete-dialog"
+    "xchat-connection-complete-dialog",
+    "hexchat-connection-complete-dialog"
   ],
   "area": [
     {
