@@ -2,7 +2,7 @@
   "tags": [
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
-    "after-paritioning",
+    "after-partitioning",
     "inst-timezone"
   ],
   "area": [

@@ -13,7 +13,7 @@
     "ENV-INSTLANG-en_US",
     "ENV-VIDEOMODE-text",
     "inst",
-    "after-paritioning",
+    "after-partitioning",
     "inst-timezone"
   ]
 }
