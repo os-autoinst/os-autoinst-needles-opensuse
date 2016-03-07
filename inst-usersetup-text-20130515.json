@@ -12,7 +12,7 @@
       "ENV-DISTRI-opensuse",
       "ENV-INSTLANG-en_US",
       "ENV-VIDEOMODE-text",
-      "after-paritioning",
+      "after-partitioning",
       "inst-usersetup"
    ]
 }
