@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "test-ooffice-2"
+  ],
+  "area": [
+    {
+      "width": 152,
+      "height": 117,
+      "xpos": 81,
+      "ypos": 224,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
