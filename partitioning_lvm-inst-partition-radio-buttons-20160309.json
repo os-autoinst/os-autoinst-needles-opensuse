@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "inst-partition-radio-buttons"
+  ],
+  "area": [
+    {
+      "xpos": 383,
+      "ypos": 194,
+      "width": 242,
+      "height": 106,
+      "type": "match"
+    }
+  ]
+}
