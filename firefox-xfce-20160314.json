@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "test-firefox-1",
+    "test-firefox-2"
+  ],
+  "area": [
+    {
+      "ypos": 27,
+      "type": "match",
+      "height": 64,
+      "width": 508,
+      "xpos": 4
+    },
+    {
+      "type": "match",
+      "ypos": 297,
+      "xpos": 44,
+      "width": 212,
+      "height": 45
+    }
+  ]
+}
