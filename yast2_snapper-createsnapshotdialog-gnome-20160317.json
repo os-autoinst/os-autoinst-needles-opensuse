@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 378,
+      "height": 32,
+      "width": 155,
+      "type": "match",
+      "ypos": 235
+    },
+    {
+      "xpos": 195,
+      "height": 49,
+      "width": 134,
+      "type": "match",
+      "ypos": 323
+    },
+    {
+      "xpos": 512,
+      "width": 198,
+      "height": 37,
+      "type": "match",
+      "ypos": 562
+    }
+  ],
+  "tags": [
+    "yast2_snapper-createsnapshotdialog"
+  ]
+}
