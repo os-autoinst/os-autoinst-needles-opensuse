@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 259,
+      "height": 45,
+      "width": 409,
+      "type": "match",
+      "ypos": 210
+    },
+    {
+      "height": 16,
+      "width": 32,
+      "xpos": 258,
+      "ypos": 209,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "package-conflict-choice"
+  ]
+}
