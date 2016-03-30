@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "popup-warning",
+    "yast2-package-notification"
+  ],
+  "area": [
+    {
+      "xpos": 279,
+      "ypos": 282,
+      "width": 299,
+      "height": 68,
+      "type": "match"
+    }
+  ]
+}
