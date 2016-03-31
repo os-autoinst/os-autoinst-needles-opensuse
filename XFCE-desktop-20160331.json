@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "height": 765,
+      "type": "match",
+      "width": 1015,
+      "ypos": 0
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "desktop-at-first-boot",
+    "generic-desktop"
+  ]
+}
