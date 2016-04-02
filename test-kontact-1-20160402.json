@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 503,
+      "type": "match",
+      "height": 41,
+      "width": 454,
+      "xpos": 276
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-kontact-1",
+    "ENV-DESKTOP-kde"
+  ]
+}
