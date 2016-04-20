@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "ftp_expert_settings_done"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 460,
+      "ypos": 93,
+      "width": 248,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 340,
+      "ypos": 240,
+      "width": 129,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 336,
+      "ypos": 322,
+      "width": 211,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}

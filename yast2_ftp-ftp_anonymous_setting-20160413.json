@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ftp_anonymous_setting"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 327,
+      "ypos": 160,
+      "width": 313,
+      "height": 51,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 78,
+      "type": "match",
+      "width": 206,
+      "xpos": 320,
+      "height": 83
+    },
+    {
+      "type": "match",
+      "ypos": 223,
+      "height": 52,
+      "xpos": 322,
+      "width": 234
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ftp_performance-settings"
+  ]
+}

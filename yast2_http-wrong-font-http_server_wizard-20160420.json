@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "http_server_wizard"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "width": 205,
+      "height": 24,
+      "xpos": 219,
+      "type": "match",
+      "ypos": 29
+    }
+  ]
+}
