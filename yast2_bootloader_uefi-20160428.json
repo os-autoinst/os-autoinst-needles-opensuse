@@ -1,15 +1,16 @@
 {
+  "tags": [
+    "EVN-UEFI-1",
+    "test-yast2_bootloader-1"
+  ],
+  "properties": [],
   "area": [
     {
       "xpos": 8,
-      "type": "match",
-      "width": 638,
+      "height": 272,
       "ypos": 27,
-      "height": 272
+      "width": 638,
+      "type": "match"
     }
-  ],
-  "properties": [],
-  "tags": [
-    "test-yast2_bootloader-1"
   ]
 }
