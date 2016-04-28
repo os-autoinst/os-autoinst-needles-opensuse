@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 3,
+      "type": "match",
+      "width": 476,
+      "ypos": 10,
+      "height": 72
+    }
+  ],
+  "tags": [
+    "all-conflicts-resolved-packages"
+  ]
+}
