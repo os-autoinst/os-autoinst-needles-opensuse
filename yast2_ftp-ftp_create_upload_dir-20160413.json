@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ftp_create_upload_dir"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 454,
+      "ypos": 423,
+      "width": 108,
+      "height": 31,
+      "type": "match"
+    }
+  ]
+}

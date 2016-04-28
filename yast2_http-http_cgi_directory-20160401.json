@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "http_cgi_directory"
+  ],
+  "area": [
+    {
+      "xpos": 427,
+      "ypos": 45,
+      "width": 121,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
