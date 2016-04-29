@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_ntp-client_public_ntp_country"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 334,
+      "ypos": 593,
+      "width": 74,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}
