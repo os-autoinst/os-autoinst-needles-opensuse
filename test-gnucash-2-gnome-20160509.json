@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 87,
+      "width": 308,
+      "type": "match",
+      "xpos": 7,
+      "height": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnucash-2",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse"
+  ]
+}
