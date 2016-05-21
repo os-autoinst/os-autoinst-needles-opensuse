@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 147,
+      "type": "match",
+      "width": 181,
+      "ypos": 145,
+      "height": 65
+    }
+  ],
+  "tags": [
+    "gnome-terminal"
+  ]
+}
