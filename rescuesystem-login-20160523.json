@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "type": "match",
+      "width": 107,
+      "ypos": 748,
+      "height": 20,
+      "match": 100
+    }
+  ],
+  "tags": [
+    "rescuesystem-login"
+  ],
+  "properties": []
+}
