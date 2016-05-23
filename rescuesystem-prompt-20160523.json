@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "rescuesystem-prompt"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 125,
+      "ypos": 0,
+      "height": 20,
+      "xpos": 0
+    }
+  ]
+}
