@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "gnome-terminal-second-tab"
+  ],
+  "area": [
+    {
+      "height": 32,
+      "xpos": 798,
+      "width": 40,
+      "ypos": 168,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
