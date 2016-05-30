@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "updates_installed-logout"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 315,
+      "ypos": 361,
+      "width": 404,
+      "height": 65,
+      "type": "match"
+    }
+  ]
+}
