@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 838,
+      "height": 21,
+      "width": 80,
+      "ypos": 707,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "updates_click-install"
+  ]
+}
