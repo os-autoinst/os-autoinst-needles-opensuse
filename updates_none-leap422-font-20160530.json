@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "updates_none"
+  ],
+  "area": [
+    {
+      "height": 76,
+      "xpos": 268,
+      "width": 481,
+      "ypos": 345,
+      "type": "match"
+    }
+  ]
+}
