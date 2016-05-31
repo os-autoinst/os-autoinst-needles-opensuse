@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 272,
+      "type": "match",
+      "width": 638,
+      "ypos": 27,
+      "xpos": 8
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-yast2_bootloader-1"
+  ]
+}
