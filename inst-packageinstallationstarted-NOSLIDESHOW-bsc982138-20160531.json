@@ -1,0 +1,35 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "inst-packageinstallationstarted",
+    "installation-details-view",
+    "installation-details-view-remaining-time-gt2h"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 308,
+      "height": 46,
+      "ypos": 188,
+      "xpos": 20
+    },
+    {
+      "ypos": 94,
+      "xpos": 356,
+      "height": 54,
+      "type": "match",
+      "width": 90
+    },
+    {
+      "xpos": 644,
+      "ypos": 105,
+      "width": 77,
+      "height": 49,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
