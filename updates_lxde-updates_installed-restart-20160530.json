@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "updates_installed-restart"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 329,
+      "ypos": 359,
+      "width": 367,
+      "height": 67,
+      "type": "match"
+    }
+  ]
+}
