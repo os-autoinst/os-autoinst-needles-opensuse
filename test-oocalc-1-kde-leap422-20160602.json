@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 64,
+      "xpos": 2,
+      "type": "match",
+      "width": 308,
+      "height": 197
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-oocalc-1",
+    "ENV-DESKTOP-kde"
+  ]
+}
