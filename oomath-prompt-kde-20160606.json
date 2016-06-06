@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "oomath-prompt",
+    "ENV-DESKTOP-kde"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 327,
+      "height": 121,
+      "xpos": 301,
+      "width": 366
+    }
+  ],
+  "properties": []
+}
