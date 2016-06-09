@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-lxqt",
+    "desktop-runner"
+  ],
+  "area": [
+    {
+      "xpos": 317,
+      "ypos": 6,
+      "width": 388,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
