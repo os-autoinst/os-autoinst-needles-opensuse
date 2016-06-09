@@ -1,0 +1,31 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-enlightenment",
+    "enlightenment_generic_desktop",
+    "generic-desktop"
+  ],
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 4,
+      "width": 1019,
+      "height": 764,
+      "type": "match"
+    },
+    {
+      "xpos": 80,
+      "ypos": 0,
+      "width": 229,
+      "height": 87,
+      "type": "exclude"
+    },
+    {
+      "xpos": 854,
+      "ypos": 730,
+      "width": 112,
+      "height": 38,
+      "type": "exclude"
+    }
+  ]
+}

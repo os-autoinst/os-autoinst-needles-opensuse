@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "enlightenment_assistant_next"
+  ],
+  "area": [
+    {
+      "xpos": 457,
+      "ypos": 723,
+      "width": 111,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
