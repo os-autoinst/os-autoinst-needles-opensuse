@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox_default_browser"
+  ],
+  "area": [
+    {
+      "xpos": 190,
+      "height": 111,
+      "type": "match",
+      "width": 603,
+      "ypos": 306
+    }
+  ]
+}
