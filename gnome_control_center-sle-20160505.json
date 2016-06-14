@@ -1,0 +1,37 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "test-gnome_control_center-1"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 152,
+      "height": 177,
+      "ypos": 99,
+      "width": 193
+    },
+    {
+      "width": 280,
+      "type": "match",
+      "xpos": 490,
+      "height": 178,
+      "ypos": 109
+    },
+    {
+      "ypos": 335,
+      "height": 28,
+      "xpos": 394,
+      "type": "match",
+      "width": 118
+    },
+    {
+      "ypos": 373,
+      "height": 20,
+      "type": "match",
+      "xpos": 432,
+      "width": 83
+    }
+  ],
+  "properties": []
+}
