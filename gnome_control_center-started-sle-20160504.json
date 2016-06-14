@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 149,
+      "type": "match",
+      "ypos": 105,
+      "height": 108,
+      "width": 120
+    },
+    {
+      "ypos": 269,
+      "height": 93,
+      "xpos": 638,
+      "type": "match",
+      "width": 96
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "gnome-control-center-started"
+  ],
+  "properties": []
+}
