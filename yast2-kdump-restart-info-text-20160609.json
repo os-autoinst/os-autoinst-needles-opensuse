@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 324,
+      "ypos": 328,
+      "width": 373,
+      "height": 114,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2-kdump-restart-info"
+  ],
+  "properties": []
+}
