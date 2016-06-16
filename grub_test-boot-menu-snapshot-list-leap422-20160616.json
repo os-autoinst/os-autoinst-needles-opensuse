@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VERSION-42.2",
+    "boot-menu-snapshot-list"
+  ],
+  "area": [
+    {
+      "xpos": 160,
+      "ypos": 217,
+      "width": 180,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
