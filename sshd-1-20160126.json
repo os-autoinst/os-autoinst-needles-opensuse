@@ -1,7 +1,5 @@
 {
-  "properties": [
-    "workaround"
-  ],
+  "properties": [],
   "tags": [
     "test-sshd-1"
   ],
