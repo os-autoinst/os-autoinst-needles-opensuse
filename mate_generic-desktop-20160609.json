@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "generic-desktop"
+  ],
+  "area": [
+    {
+      "ypos": 2,
+      "height": 766,
+      "type": "match",
+      "width": 1020,
+      "xpos": 1
+    },
+    {
+      "xpos": 709,
+      "ypos": 737,
+      "width": 315,
+      "height": 31,
+      "type": "exclude"
+    },
+    {
+      "xpos": 0,
+      "ypos": 172,
+      "width": 150,
+      "height": 267,
+      "type": "exclude"
+    }
+  ]
+}

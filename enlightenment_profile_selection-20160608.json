@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "enlightenment_profile_selection"
+  ],
+  "area": [
+    {
+      "xpos": 219,
+      "ypos": 109,
+      "width": 206,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
