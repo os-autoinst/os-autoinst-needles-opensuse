@@ -1,23 +1,23 @@
 {
+  "area": [
+    {
+      "ypos": 0,
+      "type": "match",
+      "xpos": 0,
+      "height": 763,
+      "width": 1021
+    },
+    {
+      "xpos": 735,
+      "ypos": 740,
+      "width": 289,
+      "height": 27,
+      "type": "exclude"
+    }
+  ],
   "properties": [],
   "tags": [
     "ENV-DESKTOP-lxqt",
     "generic-desktop"
-  ],
-  "area": [
-    {
-      "xpos": 0,
-      "ypos": 0,
-      "width": 1021,
-      "height": 764,
-      "type": "match"
-    },
-    {
-      "xpos": 892,
-      "ypos": 742,
-      "width": 98,
-      "height": 26,
-      "type": "exclude"
-    }
   ]
 }
