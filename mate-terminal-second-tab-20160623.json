@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 132,
+      "width": 653,
+      "height": 167,
+      "type": "match",
+      "xpos": 187
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "mate-terminal-second-tab"
+  ]
+}
