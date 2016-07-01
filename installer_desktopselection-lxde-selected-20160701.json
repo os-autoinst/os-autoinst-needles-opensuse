@@ -2,14 +2,14 @@
   "tags": [
     "lxde-selected"
   ],
+  "properties": [],
   "area": [
     {
       "xpos": 410,
-      "ypos": 547,
-      "width": 116,
-      "height": 21,
-      "type": "match"
+      "height": 17,
+      "type": "match",
+      "ypos": 592,
+      "width": 116
     }
-  ],
-  "properties": []
+  ]
 }
