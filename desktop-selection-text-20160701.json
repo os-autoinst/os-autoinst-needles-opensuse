@@ -1,0 +1,19 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "desktop-selection",
+    "inst-returned-to-yast"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 851,
+      "type": "match",
+      "ypos": 0,
+      "height": 492,
+      "xpos": 0
+    }
+  ]
+}
