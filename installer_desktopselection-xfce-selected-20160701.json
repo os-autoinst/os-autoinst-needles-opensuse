@@ -1,14 +1,14 @@
 {
-  "properties": [],
   "area": [
     {
-      "xpos": 413,
-      "ypos": 575,
-      "width": 108,
-      "height": 18,
+      "xpos": 412,
+      "ypos": 529,
+      "width": 103,
+      "height": 17,
       "type": "match"
     }
   ],
+  "properties": [],
   "tags": [
     "xfce-selected"
   ]
