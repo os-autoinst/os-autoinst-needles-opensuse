@@ -1,15 +1,15 @@
 {
-  "area": [
-    {
-      "xpos": 430,
-      "ypos": 529,
-      "width": 78,
-      "height": 23,
-      "type": "match"
-    }
+  "tags": [
+    "selection_on_desktop_xfce"
   ],
   "properties": [],
-  "tags": [
-    " selection_on_desktop_xfce"
+  "area": [
+    {
+      "xpos": 428,
+      "ypos": 532,
+      "width": 84,
+      "height": 20,
+      "type": "match"
+    }
   ]
 }
