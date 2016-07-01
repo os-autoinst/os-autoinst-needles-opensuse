@@ -1,15 +1,15 @@
 {
   "tags": [
-    " selection_on_desktop_minimalx"
+    "selection_on_desktop_minimalx"
   ],
+  "properties": [],
   "area": [
     {
-      "xpos": 429,
-      "ypos": 566,
-      "width": 127,
-      "height": 18,
+      "xpos": 430,
+      "ypos": 611,
+      "width": 123,
+      "height": 16,
       "type": "match"
     }
-  ],
-  "properties": []
+  ]
 }
