@@ -2,14 +2,15 @@
   "properties": [],
   "area": [
     {
-      "xpos": 352,
-      "height": 96,
       "type": "match",
+      "height": 96,
       "ypos": 514,
-      "width": 295
+      "width": 295,
+      "xpos": 352
     }
   ],
   "tags": [
-    "other-desktop"
+    "other-desktop",
+    "other-desktop-remapped_v3"
   ]
 }
