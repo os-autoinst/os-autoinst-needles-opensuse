@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "selection_on_desktop_kde"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 383,
+      "ypos": 461,
+      "width": 120,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}
