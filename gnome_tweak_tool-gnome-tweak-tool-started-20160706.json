@@ -1,15 +1,15 @@
 {
-  "tags": [
-    "gnome-tweak-tool-started"
-  ],
   "properties": [],
   "area": [
     {
-      "xpos": 0,
-      "ypos": 0,
-      "width": 225,
-      "height": 72,
-      "type": "match"
+      "xpos": 1,
+      "width": 198,
+      "type": "match",
+      "height": 133,
+      "ypos": 28
     }
+  ],
+  "tags": [
+    "gnome-tweak-tool-started"
   ]
 }
