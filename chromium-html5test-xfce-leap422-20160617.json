@@ -1,29 +1,30 @@
 {
-  "area": [
-    {
-      "height": 61,
-      "xpos": 98,
-      "ypos": 298,
-      "type": "match",
-      "width": 271
-    },
-    {
-      "type": "match",
-      "width": 519,
-      "xpos": 17,
-      "height": 86,
-      "ypos": 27
-    },
-    {
-      "type": "match",
-      "width": 224,
-      "xpos": 535,
-      "height": 56,
-      "ypos": 301
-    }
-  ],
-  "tags": [
-    "chromium-html5test"
-  ],
-  "properties": []
+   "tags" : [
+      "ENV-DESKTOP-xfce",
+      "chromium-html5test"
+   ],
+   "properties" : [],
+   "area" : [
+      {
+         "ypos" : 298,
+         "xpos" : 98,
+         "height" : 61,
+         "width" : 271,
+         "type" : "match"
+      },
+      {
+         "height" : 86,
+         "ypos" : 27,
+         "xpos" : 17,
+         "width" : 519,
+         "type" : "match"
+      },
+      {
+         "type" : "match",
+         "width" : 224,
+         "ypos" : 301,
+         "xpos" : 535,
+         "height" : 56
+      }
+   ]
 }

@@ -1,15 +1,16 @@
 {
-  "area": [
-    {
-      "type": "match",
-      "width": 178,
-      "ypos": 121,
-      "xpos": 739,
-      "height": 51
-    }
-  ],
-  "tags": [
-    "chromium-about"
-  ],
-  "properties": []
+   "tags" : [
+      "ENV-DESKTOP-gnome",
+      "chromium-about"
+   ],
+   "area" : [
+      {
+         "xpos" : 739,
+         "width" : 178,
+         "type" : "match",
+         "ypos" : 121,
+         "height" : 51
+      }
+   ],
+   "properties" : []
 }

@@ -1,29 +1,30 @@
 {
-  "area": [
-    {
-      "xpos": 98,
-      "height": 61,
-      "type": "match",
-      "width": 271,
-      "ypos": 299
-    },
-    {
-      "xpos": 3,
-      "height": 86,
-      "type": "match",
-      "width": 519,
-      "ypos": 28
-    },
-    {
-      "type": "match",
-      "ypos": 302,
-      "width": 224,
-      "height": 56,
-      "xpos": 535
-    }
-  ],
-  "tags": [
-    "chromium-html5test"
-  ],
-  "properties": []
+   "properties" : [],
+   "area" : [
+      {
+         "height" : 61,
+         "ypos" : 299,
+         "type" : "match",
+         "xpos" : 98,
+         "width" : 271
+      },
+      {
+         "width" : 519,
+         "xpos" : 3,
+         "ypos" : 28,
+         "type" : "match",
+         "height" : 86
+      },
+      {
+         "ypos" : 302,
+         "type" : "match",
+         "xpos" : 535,
+         "width" : 224,
+         "height" : 56
+      }
+   ],
+   "tags" : [
+      "ENV-DESKTOP-gnome",
+      "chromium-html5test"
+   ]
 }
