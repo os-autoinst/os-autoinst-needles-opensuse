@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_tftp_firewall_details"
+  ],
+  "area": [
+    {
+      "xpos": 403,
+      "ypos": 397,
+      "width": 112,
+      "height": 20,
+      "type": "match"
+    }
+  ]
+}

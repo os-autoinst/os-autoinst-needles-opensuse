@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 344,
+      "ypos": 322,
+      "width": 241,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 341,
+      "ypos": 351,
+      "width": 244,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 429,
+      "ypos": 429,
+      "width": 68,
+      "height": 34,
+      "type": "match"
+    },
+    {
+      "xpos": 395,
+      "ypos": 465,
+      "width": 77,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_proxy_logging_timeouts_new"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "http_new_host_info"
+  ],
+  "area": [
+    {
+      "height": 41,
+      "ypos": 22,
+      "xpos": 4,
+      "width": 202,
+      "type": "match"
+    }
+  ]
+}

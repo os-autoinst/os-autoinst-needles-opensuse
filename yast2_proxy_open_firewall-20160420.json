@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_proxy_open_firewall"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 213,
+      "height": 20,
+      "ypos": 461,
+      "xpos": 352
+    }
+  ],
+  "properties": []
+}

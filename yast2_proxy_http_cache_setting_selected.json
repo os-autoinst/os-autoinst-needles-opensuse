@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 25,
+      "ypos": 96,
+      "width": 135,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "cleared-console",
+    "yast2_proxy_http_cache_setting_selected"
+  ]
+}

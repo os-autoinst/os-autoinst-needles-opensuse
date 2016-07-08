@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "http_all_details"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 27,
+      "ypos": 240,
+      "width": 166,
+      "height": 43,
+      "type": "match"
+    },
+    {
+      "xpos": 25,
+      "ypos": 449,
+      "width": 157,
+      "height": 40,
+      "type": "match"
+    },
+    {
+      "xpos": 25,
+      "ypos": 502,
+      "width": 214,
+      "height": 59,
+      "type": "match"
+    }
+  ]
+}

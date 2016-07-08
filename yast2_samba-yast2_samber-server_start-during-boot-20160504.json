@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 178,
+      "ypos": 175,
+      "width": 83,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_samber-server_start-during-boot"
+  ],
+  "properties": []
+}

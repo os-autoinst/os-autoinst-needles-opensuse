@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ftp_welcome_mesage"
+  ],
+  "area": [
+    {
+      "xpos": 321,
+      "ypos": 77,
+      "width": 143,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

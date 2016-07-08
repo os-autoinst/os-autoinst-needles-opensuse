@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast_xinetd_all_deactivated"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 7,
+      "ypos": 449,
+      "width": 151,
+      "height": 16,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 126,
+      "type": "match",
+      "xpos": 454,
+      "width": 126,
+      "height": 17
+    },
+    {
+      "width": 153,
+      "xpos": 401,
+      "height": 34,
+      "ypos": 448,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_proxy_access_control_new"
+  ]
+}
