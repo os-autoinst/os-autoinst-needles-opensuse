@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "yast2_proxy_network_interfaces"
+  ],
+  "area": [
+    {
+      "ypos": 299,
+      "type": "match",
+      "height": 39,
+      "width": 37,
+      "xpos": 317
+    },
+    {
+      "xpos": 401,
+      "ypos": 319,
+      "width": 287,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
