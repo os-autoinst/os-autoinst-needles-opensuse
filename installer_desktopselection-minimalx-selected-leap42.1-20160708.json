@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 15,
+      "ypos": 543,
+      "width": 134,
+      "xpos": 411
+    }
+  ],
+  "tags": [
+    "minimalx-selected"
+  ]
+}
