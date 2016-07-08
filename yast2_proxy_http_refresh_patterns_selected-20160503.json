@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_proxy_http_refresh_patterns_selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 80,
+      "type": "match",
+      "width": 141,
+      "xpos": 40,
+      "height": 16
+    }
+  ]
+}

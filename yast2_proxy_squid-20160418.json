@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_proxy_squid"
+  ],
+  "area": [
+    {
+      "xpos": 305,
+      "ypos": 28,
+      "width": 135,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
