@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "test-firefox-3"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 617,
+      "type": "match",
+      "ypos": 242,
+      "height": 283,
+      "xpos": 205
+    },
+    {
+      "xpos": 467,
+      "ypos": 298,
+      "width": 46,
+      "height": 24,
+      "type": "exclude"
+    }
+  ]
+}
