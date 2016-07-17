@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 11,
+      "width": 370,
+      "type": "match",
+      "ypos": 63,
+      "height": 72
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "OFW",
+    "grub2"
+  ]
+}
