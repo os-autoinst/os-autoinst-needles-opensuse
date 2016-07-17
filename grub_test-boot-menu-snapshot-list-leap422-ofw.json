@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 180,
+      "type": "match",
+      "ypos": 72,
+      "height": 24,
+      "xpos": 250
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-42.2",
+    "OFW",
+    "boot-menu-snapshot-list"
+  ]
+}
