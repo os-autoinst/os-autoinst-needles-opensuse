@@ -1,14 +1,14 @@
 {
+  "properties": [],
   "area": [
     {
-      "width": 180,
+      "width": 199,
       "type": "match",
-      "ypos": 72,
-      "height": 24,
-      "xpos": 250
+      "height": 22,
+      "ypos": 77,
+      "xpos": 83
     }
   ],
-  "properties": [],
   "tags": [
     "ENV-VERSION-42.2",
     "OFW",
