@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "selection_on_desktop_xfce"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 20,
+      "ypos": 530,
+      "width": 96,
+      "xpos": 427
+    }
+  ],
+  "properties": []
+}
