@@ -10,7 +10,8 @@
   ],
   "tags": [
     "bootloader-grub2",
-    "ENV-DISTRI-opensuse"
+    "ENV-DISTRI-opensuse",
+    "inst-bootmenu"
   ],
   "properties": [
     "workaround"
