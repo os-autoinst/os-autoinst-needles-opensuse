@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "test-inkscape-1",
+    "ENV-DESKTOP-kde"
+  ],
+  "area": [
+    {
+      "width": 481,
+      "height": 375,
+      "type": "match",
+      "ypos": 62,
+      "xpos": 1
+    }
+  ],
+  "properties": []
+}
