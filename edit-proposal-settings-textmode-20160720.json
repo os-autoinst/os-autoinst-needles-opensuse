@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 411,
+      "width": 204,
+      "ypos": 397,
+      "type": "match",
+      "height": 25
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "edit-proposal-settings"
+  ]
+}
