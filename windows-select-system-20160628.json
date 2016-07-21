@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "windows-select-system"
+  ],
+  "area": [
+    {
+      "xpos": 237,
+      "ypos": 165,
+      "width": 277,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}

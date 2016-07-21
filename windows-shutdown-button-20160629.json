@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "windows-shutdown-button"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 583,
+      "width": 61,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}

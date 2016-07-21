@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "windows-restart"
+  ],
+  "area": [
+    {
+      "xpos": 703,
+      "ypos": 541,
+      "width": 116,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

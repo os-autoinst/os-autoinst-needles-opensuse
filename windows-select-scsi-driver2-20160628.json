@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 248,
+      "ypos": 332,
+      "width": 381,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "windows-select-scsi-driver2"
+  ],
+  "properties": []
+}

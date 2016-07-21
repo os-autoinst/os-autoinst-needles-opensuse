@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 63,
+      "xpos": 289,
+      "height": 14,
+      "ypos": 298,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-load-driver"
+  ]
+}
