@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 0,
+      "width": 1019,
+      "height": 767,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "text-logged-in-bernhard",
+    "text-logged-in-user"
+  ]
+}
