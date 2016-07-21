@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 9,
+      "ypos": 659,
+      "width": 74,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "windows-power-button"
+  ]
+}

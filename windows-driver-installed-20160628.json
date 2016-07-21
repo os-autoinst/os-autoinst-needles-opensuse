@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 692,
+      "ypos": 452,
+      "width": 84,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "windows-driver-installed"
+  ],
+  "properties": []
+}

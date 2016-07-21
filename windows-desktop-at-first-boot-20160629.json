@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "desktop-at-first-boot"
+  ],
+  "area": [
+    {
+      "width": 31,
+      "xpos": 9,
+      "ypos": 569,
+      "type": "match",
+      "height": 21
+    }
+  ],
+  "properties": []
+}

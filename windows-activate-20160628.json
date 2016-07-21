@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 239,
+      "ypos": 170,
+      "width": 127,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "windows-activate"
+  ],
+  "properties": []
+}

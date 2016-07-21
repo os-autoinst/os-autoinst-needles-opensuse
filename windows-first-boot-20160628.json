@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 790,
+      "ypos": 648,
+      "width": 176,
+      "height": 45,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "windows-first-boot"
+  ]
+}

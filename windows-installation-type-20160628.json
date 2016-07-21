@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 238,
+      "ypos": 167,
+      "width": 279,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "windows-installation-type"
+  ],
+  "properties": []
+}
