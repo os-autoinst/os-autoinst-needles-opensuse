@@ -1,0 +1,27 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV_LIVETEST-1",
+    "generic-desktop"
+  ],
+  "area": [
+    {
+      "width": 57,
+      "type": "match",
+      "ypos": 735,
+      "height": 32,
+      "xpos": 0
+    },
+    {
+      "xpos": 0,
+      "width": 458,
+      "type": "match",
+      "height": 200,
+      "ypos": 0
+    }
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
