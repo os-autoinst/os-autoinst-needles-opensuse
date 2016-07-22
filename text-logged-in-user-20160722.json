@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "text-logged-in-bernhard",
+    "text-logged-in-user"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 487,
+      "ypos": 0,
+      "width": 620,
+      "xpos": 1,
+      "match": 100
+    }
+  ],
+  "properties": []
+}
