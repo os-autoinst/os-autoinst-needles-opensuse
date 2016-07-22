@@ -3,15 +3,15 @@
     "text-logged-in-bernhard",
     "text-logged-in-user"
   ],
+  "properties": [],
   "area": [
     {
-      "type": "match",
-      "height": 487,
       "ypos": 0,
-      "width": 620,
+      "type": "match",
+      "height": 256,
+      "width": 308,
       "xpos": 1,
       "match": 100
     }
-  ],
-  "properties": []
+  ]
 }
