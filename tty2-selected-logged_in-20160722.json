@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "tty2-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 341,
+      "width": 544,
+      "ypos": 0,
+      "xpos": 1,
+      "type": "match",
+      "match": 100
+    }
+  ]
+}
