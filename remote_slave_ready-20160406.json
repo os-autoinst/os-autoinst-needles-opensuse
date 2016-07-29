@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 178,
+      "width": 581,
+      "height": 61,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "remote_slave_ready"
+  ],
+  "properties": []
+}

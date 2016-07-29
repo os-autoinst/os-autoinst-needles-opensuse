@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 400,
+      "xpos": 17,
+      "width": 408,
+      "type": "match",
+      "height": 133
+    }
+  ],
+  "tags": [
+    "remote_master_password"
+  ]
+}
