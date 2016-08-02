@@ -9,7 +9,9 @@
     }
   ],
   "tags": [
-    "obsolete"
+    "bootloader-grub2",
+    "ENV-DISTRI-opensuse",
+    "inst-bootmenu"
   ],
   "properties": [
     "workaround"
