@@ -3,7 +3,9 @@
     "ENV-DESKTOP-xfce",
     "multi_users_dm"
   ],
-  "properties": [],
+  "properties": [
+    "workaround"
+  ],
   "area": [
     {
       "height": 46,
