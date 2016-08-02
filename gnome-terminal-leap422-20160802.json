@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 123,
+      "width": 181,
+      "height": 65,
+      "type": "match",
+      "xpos": 147
+    }
+  ],
+  "tags": [
+    "ENV-LEAP-1",
+    "gnome-terminal"
+  ],
+  "properties": []
+}
