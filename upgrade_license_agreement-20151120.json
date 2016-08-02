@@ -17,7 +17,8 @@
   ],
   "tags": [
     "ENV-DISTRI-opensuse",
-    "upgrade-li-cense-agreement"
+    "upgrade-li-cense-agreement",
+    "upgrade-license-agreement"
   ],
   "properties": []
 }
