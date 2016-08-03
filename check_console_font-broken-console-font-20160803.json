@@ -1,16 +1,16 @@
 {
   "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 0,
+      "height": 14,
+      "width": 544,
+      "ypos": 16
+    }
+  ],
   "tags": [
     "ENV-VERSION-42.1",
     "broken-console-font"
-  ],
-  "area": [
-    {
-      "xpos": 0,
-      "height": 14,
-      "ypos": 16,
-      "width": 544,
-      "type": "match"
-    }
   ]
 }
