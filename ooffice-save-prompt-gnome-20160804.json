@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ooffice-save-prompt",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "ypos": 340,
+      "width": 444,
+      "xpos": 311,
+      "height": 140,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
