@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-42.1",
+    "gnome-tweak-tool-fonts-dialog"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 800,
+      "ypos": 89,
+      "xpos": 214,
+      "height": 317
+    }
+  ]
+}
