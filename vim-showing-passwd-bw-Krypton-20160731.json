@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 250,
+      "height": 12,
+      "type": "match",
+      "ypos": 1,
+      "xpos": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-Krypton",
+    "vim-showing-passwd"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 174,
+      "width": 299,
+      "height": 16,
+      "xpos": 196
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-FLAVOR-Krypton",
+    "ENV-LIVECD-1",
+    "boot-live-kde",
+    "inst-bootmenu"
+  ]
+}
