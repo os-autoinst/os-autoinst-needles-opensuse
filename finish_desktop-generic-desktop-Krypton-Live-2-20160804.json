@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-Krypton-Live",
+    "generic-desktop"
+  ],
+  "area": [
+    {
+      "width": 34,
+      "ypos": 735,
+      "height": 31,
+      "xpos": 1,
+      "type": "match"
+    },
+    {
+      "height": 315,
+      "xpos": 37,
+      "width": 409,
+      "ypos": 18,
+      "type": "match"
+    }
+  ]
+}
