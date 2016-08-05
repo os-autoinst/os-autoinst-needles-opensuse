@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 373,
+      "ypos": 186,
+      "width": 223,
+      "height": 38,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning-no-root-filesystem"
+  ]
+}
