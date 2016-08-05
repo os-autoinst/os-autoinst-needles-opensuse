@@ -1,0 +1,19 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 367,
+      "height": 262,
+      "width": 287,
+      "ypos": 268,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    " ENV-VERSION-42.1",
+    "ENV-DESKTOP-xfce",
+    "logoutdialog"
+  ]
+}
