@@ -1,0 +1,19 @@
+{
+  "tags": [
+    " ENV-VERSION-42.1",
+    "ENV-DESKTOP-xfce",
+    "desktop-runner"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 82,
+      "xpos": 316,
+      "ypos": 345,
+      "width": 392
+    }
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
