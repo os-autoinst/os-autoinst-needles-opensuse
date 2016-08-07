@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "import-untrusted-key"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 423,
+      "ypos": 258,
+      "width": 222,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
