@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 542,
+      "height": 19,
+      "type": "match",
+      "width": 84,
+      "xpos": 17
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "sddm-sessions-plasma5"
+  ]
+}
