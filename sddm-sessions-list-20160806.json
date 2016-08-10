@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 62,
+      "ypos": 426,
+      "width": 131,
+      "xpos": 88
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "sddm-sessions-list"
+  ]
+}
