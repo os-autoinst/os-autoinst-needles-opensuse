@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "encrypted_volume_activation_prompt"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 338,
+      "ypos": 467,
+      "width": 308,
+      "height": 72,
+      "type": "match"
+    }
+  ]
+}
