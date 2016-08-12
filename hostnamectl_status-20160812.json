@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "ypos": 34,
+      "height": 10,
+      "xpos": 23,
+      "width": 202,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "hostnamectl_status",
+    "hostnamectl_status_susetest"
+  ],
+  "properties": []
+}
