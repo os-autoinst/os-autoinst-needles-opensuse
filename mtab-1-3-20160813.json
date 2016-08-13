@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "test-mtab-1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 345,
+      "height": 30,
+      "xpos": 0,
+      "ypos": 0
+    }
+  ]
+}
