@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "xorg-tty7",
+    "ENV-DISTRI-opensuse"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 110,
+      "ypos": 16,
+      "height": 17,
+      "xpos": 381,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 15,
+      "xpos": 236,
+      "ypos": 17,
+      "width": 43
+    }
+  ]
+}
