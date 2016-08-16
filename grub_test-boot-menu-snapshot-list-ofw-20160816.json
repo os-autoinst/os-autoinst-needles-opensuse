@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "OFW",
+    "boot-menu-snapshot-list"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 17,
+      "ypos": 82,
+      "xpos": 14,
+      "width": 95,
+      "type": "match"
+    }
+  ]
+}
