@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 405,
+      "ypos": 270,
+      "width": 192,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning-encrypt-selected-cryptlvm"
+  ]
+}
