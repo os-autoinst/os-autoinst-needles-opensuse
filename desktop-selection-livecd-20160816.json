@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 345,
+      "ypos": 87,
+      "width": 555,
+      "height": 208,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-LIVECD-1",
+    "desktop-selection"
+  ]
+}

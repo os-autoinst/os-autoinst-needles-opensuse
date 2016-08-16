@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-FLAVOR-Kde-Live",
+    "ENV-LIVECD-1",
+    "rebootnow"
+  ],
+  "area": [
+    {
+      "xpos": 278,
+      "ypos": 272,
+      "width": 197,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

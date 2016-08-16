@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-FLAVOR-Kde-Live",
+    "ENV-LIVECD-1",
+    "startinstall"
+  ],
+  "area": [
+    {
+      "xpos": 248,
+      "ypos": 213,
+      "width": 163,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
