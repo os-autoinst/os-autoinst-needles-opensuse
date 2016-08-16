@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "windows-menu"
+  ],
+  "area": [
+    {
+      "xpos": 9,
+      "ypos": 413,
+      "width": 122,
+      "height": 136,
+      "type": "match"
+    }
+  ]
+}

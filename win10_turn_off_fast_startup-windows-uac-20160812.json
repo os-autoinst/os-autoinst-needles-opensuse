@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "windows-uac"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 173,
+      "ypos": 150,
+      "width": 157,
+      "height": 80,
+      "type": "match"
+    }
+  ]
+}

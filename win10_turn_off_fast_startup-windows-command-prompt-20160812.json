@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 12,
+      "ypos": 83,
+      "width": 209,
+      "height": 42,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "windows-command-prompt"
+  ],
+  "properties": []
+}
