@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "windows-bootsplash"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 187,
+      "ypos": 221,
+      "height": 149,
+      "xpos": 430
+    }
+  ]
+}
