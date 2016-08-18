@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1",
+    "inst-usersetup"
+  ],
+  "area": [
+    {
+      "xpos": 7,
+      "ypos": 168,
+      "width": 1012,
+      "height": 598,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

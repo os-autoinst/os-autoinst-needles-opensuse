@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "fullscreen-mode-information_dialog"
+  ],
+  "area": [
+    {
+      "xpos": 580,
+      "ypos": 467,
+      "width": 94,
+      "height": 37,
+      "type": "match"
+    },
+    {
+      "xpos": 397,
+      "ypos": 289,
+      "width": 223,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

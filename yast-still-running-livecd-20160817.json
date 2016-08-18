@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 7,
+      "ypos": 719,
+      "width": 77,
+      "height": 44,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-LIVECD-1",
+    "yast-still-running"
+  ],
+  "properties": []
+}
