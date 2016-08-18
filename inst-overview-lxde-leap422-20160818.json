@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VERSION-42.2",
+    "inst-overview"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 75,
+      "xpos": 358,
+      "ypos": 270,
+      "width": 256,
+      "type": "match"
+    }
+  ]
+}
