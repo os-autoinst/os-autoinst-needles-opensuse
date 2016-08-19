@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-UEFI-1",
+    "inst-rescuesystem"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 202,
+      "xpos": 149,
+      "height": 47,
+      "width": 149
+    }
+  ]
+}
