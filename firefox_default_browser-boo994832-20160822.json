@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "firefox_default_browser"
+  ],
+  "area": [
+    {
+      "height": 111,
+      "ypos": 313,
+      "xpos": 208,
+      "width": 577,
+      "type": "match"
+    }
+  ]
+}
