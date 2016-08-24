@@ -1,0 +1,19 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1",
+    "after-partitioning",
+    "inst-timezone"
+  ],
+  "area": [
+    {
+      "xpos": 55,
+      "ypos": 155,
+      "width": 913,
+      "height": 448,
+      "type": "match"
+    }
+  ]
+}
