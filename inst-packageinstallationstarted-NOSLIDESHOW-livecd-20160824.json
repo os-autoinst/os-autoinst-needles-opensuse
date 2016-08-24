@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-LIVECD-1",
+    "inst-packageinstallationstarted",
+    "installation-details-view"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 148,
+      "ypos": 199,
+      "width": 175,
+      "height": 42,
+      "type": "match"
+    },
+    {
+      "xpos": 369,
+      "ypos": 140,
+      "width": 61,
+      "height": 53,
+      "type": "match"
+    }
+  ]
+}
