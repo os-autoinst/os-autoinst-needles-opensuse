@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "selection_on_desktop_textmode"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 24,
+      "ypos": 423,
+      "width": 191,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}
