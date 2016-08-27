@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 246,
+      "ypos": 341,
+      "width": 169,
+      "height": 117,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "multi_users_dm"
+  ],
+  "properties": []
+}
