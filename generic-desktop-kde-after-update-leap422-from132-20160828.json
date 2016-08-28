@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-42.2",
+    "generic-desktop"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 435,
+      "xpos": 14,
+      "height": 304,
+      "ypos": 20
+    },
+    {
+      "width": 65,
+      "ypos": 734,
+      "height": 34,
+      "xpos": 0,
+      "type": "match"
+    }
+  ]
+}
