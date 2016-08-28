@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "gnome-control-center-details"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 120,
+      "height": 61,
+      "xpos": 155,
+      "ypos": 154
+    }
+  ]
+}
