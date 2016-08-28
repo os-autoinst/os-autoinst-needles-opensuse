@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 224,
+      "height": 85,
+      "ypos": 142,
+      "width": 302,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox_readerview_window"
+  ],
+  "properties": []
+}
