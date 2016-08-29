@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 156,
+      "ypos": 466,
+      "xpos": 256,
+      "width": 50
+    },
+    {
+      "type": "match",
+      "height": 19,
+      "ypos": 0,
+      "xpos": 442,
+      "width": 85
+    }
+  ],
+  "tags": [
+    "test-aplay-2"
+  ],
+  "properties": []
+}
