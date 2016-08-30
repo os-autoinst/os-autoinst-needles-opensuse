@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 94,
+      "xpos": 355,
+      "ypos": 271,
+      "width": 327,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-VERSION-42.2",
+    "inst-overview"
+  ]
+}
