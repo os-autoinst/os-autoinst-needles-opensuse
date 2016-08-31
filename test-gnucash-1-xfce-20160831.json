@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 32,
+      "height": 154,
+      "xpos": 4,
+      "width": 494,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "width": 136,
+      "height": 29,
+      "ypos": 249,
+      "xpos": 328
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnucash-1",
+    "ENV-DESKTOP-xfce"
+  ]
+}
