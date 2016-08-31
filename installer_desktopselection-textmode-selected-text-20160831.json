@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "textmode-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 195,
+      "xpos": 22,
+      "height": 32,
+      "ypos": 422
+    }
+  ]
+}
