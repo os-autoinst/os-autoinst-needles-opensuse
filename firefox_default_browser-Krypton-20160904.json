@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 111,
+      "ypos": 304,
+      "xpos": 181,
+      "width": 603,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-Krypton-Live",
+    "firefox_default_browser"
+  ],
+  "properties": []
+}
