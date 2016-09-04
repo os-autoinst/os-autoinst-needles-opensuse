@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 309,
+      "xpos": 347,
+      "height": 70,
+      "ypos": 294
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "kwallet-wizard"
+  ],
+  "properties": []
+}
