@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 319,
+      "ypos": 24,
+      "height": 31,
+      "xpos": 6
+    }
+  ],
+  "tags": [
+    "yast2_xinetd_startup"
+  ],
+  "properties": []
+}
