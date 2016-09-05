@@ -9,9 +9,10 @@
     }
   ],
   "tags": [
-    "test-inkscape-1",
+    "ENV-DESKTOP-xfce",
     "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US"
+    "ENV-INSTLANG-en_US",
+    "test-inkscape-1"
   ],
   "properties": []
 }
