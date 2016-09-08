@@ -1,0 +1,31 @@
+{
+  "properties": [],
+  "tags": [
+    "test-desktop_mainmenu-1",
+    "ENV-DESKTOP-xfce",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 6,
+      "height": 282,
+      "width": 187,
+      "ypos": 7
+    },
+    {
+      "height": 23,
+      "width": 155,
+      "xpos": 0,
+      "ypos": 745,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "width": 152,
+      "height": 259,
+      "xpos": 198,
+      "ypos": 270
+    }
+  ]
+}
