@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "seahorse-keyring-selector"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 308,
+      "ypos": 140,
+      "width": 356,
+      "height": 64,
+      "type": "match"
+    }
+  ]
+}
