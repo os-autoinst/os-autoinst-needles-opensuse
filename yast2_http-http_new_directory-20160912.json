@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "http_new_directory"
+  ],
+  "area": [
+    {
+      "height": 21,
+      "ypos": 110,
+      "type": "match",
+      "xpos": 269,
+      "width": 176
+    }
+  ],
+  "properties": []
+}
