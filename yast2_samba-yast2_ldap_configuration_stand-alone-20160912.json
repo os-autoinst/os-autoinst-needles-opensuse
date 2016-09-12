@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_ldap_configuration_stand-alone"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 197,
+      "ypos": 343,
+      "height": 36,
+      "width": 225
+    }
+  ],
+  "properties": []
+}
