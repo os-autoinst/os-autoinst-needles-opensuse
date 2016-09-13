@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 148,
+      "width": 343,
+      "xpos": 340,
+      "ypos": 310,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome-classic",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "desktop-runner"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "ypos": 616,
+      "xpos": 590,
+      "type": "match",
+      "height": 29,
+      "width": 115
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "dm-sle-classic"
+  ]
+}

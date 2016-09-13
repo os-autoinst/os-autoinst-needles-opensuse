@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 77,
+      "xpos": 146,
+      "width": 181,
+      "height": 89
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-sle-classic",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "gnome-terminal"
+  ]
+}

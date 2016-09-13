@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 297,
+      "ypos": 336,
+      "type": "match",
+      "height": 92,
+      "width": 429
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-icewm",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "icewm-session-dialog"
+  ]
+}

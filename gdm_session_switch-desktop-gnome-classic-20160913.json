@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome-classic",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "desktop-gnome-classic"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 0,
+      "width": 1021,
+      "xpos": 0,
+      "height": 614
+    },
+    {
+      "xpos": 869,
+      "ypos": 2,
+      "width": 92,
+      "height": 24,
+      "type": "exclude"
+    }
+  ]
+}
