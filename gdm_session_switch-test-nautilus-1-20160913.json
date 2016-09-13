@@ -1,0 +1,19 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 191,
+      "width": 333,
+      "ypos": 50,
+      "xpos": 70,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-sle-classic",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "delete",
+    "test-nautilus-1"
+  ]
+}

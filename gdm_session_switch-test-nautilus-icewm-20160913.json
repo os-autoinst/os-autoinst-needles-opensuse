@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-icewm",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "test-nautilus-1"
+  ],
+  "area": [
+    {
+      "height": 195,
+      "ypos": 48,
+      "xpos": 70,
+      "width": 327,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

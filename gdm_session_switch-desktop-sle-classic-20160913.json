@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 31,
+      "height": 737,
+      "xpos": 2,
+      "width": 1021
+    },
+    {
+      "xpos": 872,
+      "ypos": 743,
+      "width": 84,
+      "height": 22,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-sle-classic",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "desktop-sle-classic"
+  ]
+}

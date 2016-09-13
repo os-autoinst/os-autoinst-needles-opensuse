@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-icewm",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "gnome-terminal"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 185,
+      "xpos": 3,
+      "height": 79,
+      "ypos": 4
+    }
+  ],
+  "properties": []
+}
