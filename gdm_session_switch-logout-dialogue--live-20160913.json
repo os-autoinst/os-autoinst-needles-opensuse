@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 177,
+      "ypos": 296,
+      "width": 509,
+      "xpos": 257,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "logout-dialogue"
+  ],
+  "properties": []
+}
