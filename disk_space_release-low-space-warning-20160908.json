@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "low-space-warning"
+  ],
+  "area": [
+    {
+      "xpos": 360,
+      "ypos": 525,
+      "width": 44,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 544,
+      "ypos": 523,
+      "width": 56,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
