@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 82,
+      "ypos": 334,
+      "width": 496,
+      "xpos": 262
+    }
+  ],
+  "tags": [
+    "updates_installed-logout"
+  ]
+}
