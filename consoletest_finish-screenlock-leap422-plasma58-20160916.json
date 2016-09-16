@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "screenlock"
+  ],
+  "area": [
+    {
+      "xpos": 365,
+      "ypos": 412,
+      "width": 297,
+      "height": 79,
+      "type": "match"
+    }
+  ]
+}
