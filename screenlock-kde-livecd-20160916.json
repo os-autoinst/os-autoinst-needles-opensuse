@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-FLAVOR-Kde-Live",
+    "ENV-LIVECD-1",
+    "screenlock"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 33,
+      "ypos": 460,
+      "width": 247,
+      "xpos": 390
+    },
+    {
+      "height": 131,
+      "type": "match",
+      "xpos": 455,
+      "width": 115,
+      "ypos": 273
+    }
+  ]
+}
