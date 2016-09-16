@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "test-ooffice-2"
+  ],
+  "area": [
+    {
+      "xpos": 50,
+      "width": 152,
+      "ypos": 193,
+      "type": "match",
+      "height": 117
+    }
+  ]
+}
