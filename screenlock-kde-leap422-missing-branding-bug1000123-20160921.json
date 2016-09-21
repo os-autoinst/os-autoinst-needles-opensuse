@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "ypos": 451,
+      "width": 294,
+      "xpos": 366,
+      "type": "match",
+      "height": 55
+    },
+    {
+      "xpos": 414,
+      "width": 471,
+      "ypos": 274,
+      "height": 153,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-VERSION-42.2",
+    "screenlock"
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
