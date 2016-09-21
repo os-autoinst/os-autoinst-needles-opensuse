@@ -1,17 +1,16 @@
 {
-  "area": [
-    {
-      "xpos": 362,
-      "width": 294,
-      "ypos": 385,
-      "height": 89,
-      "type": "match"
-    }
-  ],
   "tags": [
     "ENV-DESKTOP-kde",
-    "displaymanager",
-    "sddm"
+    "displaymanager"
   ],
-  "properties": []
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 89,
+      "width": 290,
+      "ypos": 385,
+      "xpos": 366
+    }
+  ]
 }
