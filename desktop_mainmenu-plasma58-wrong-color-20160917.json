@@ -1,5 +1,4 @@
 {
-  "properties": [],
   "area": [
     {
       "ypos": 317,
@@ -12,5 +11,8 @@
   "tags": [
     "test-desktop_mainmenu-1",
     "ENV-DESKTOP-kde"
+  ],
+  "properties": [
+    "workaround"
   ]
 }
