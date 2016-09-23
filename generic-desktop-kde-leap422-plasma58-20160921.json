@@ -19,7 +19,5 @@
     "ENV-DESKTOP-kde",
     "generic-desktop"
   ],
-  "properties": [
-    "workaround"
-  ]
+  "properties": []
 }

@@ -19,5 +19,7 @@
       "ypos": 734
     }
   ],
-  "properties": []
+  "properties": [
+      "workaround"
+  ]
 }
