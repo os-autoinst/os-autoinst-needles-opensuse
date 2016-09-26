@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "updates_available"
+  ],
+  "area": [
+    {
+      "xpos": 19,
+      "height": 45,
+      "type": "match",
+      "ypos": 67,
+      "width": 104
+    },
+    {
+      "xpos": 206,
+      "width": 72,
+      "height": 20,
+      "ypos": 67,
+      "type": "match"
+    }
+  ]
+}
