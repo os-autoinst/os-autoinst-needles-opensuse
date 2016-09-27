@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "desktop-runner"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 177,
+      "type": "match",
+      "ypos": 310,
+      "width": 342,
+      "xpos": 342
+    },
+    {
+      "width": 30,
+      "height": 28,
+      "type": "exclude",
+      "ypos": 343,
+      "xpos": 647
+    }
+  ]
+}
