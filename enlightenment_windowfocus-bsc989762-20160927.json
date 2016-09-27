@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "enlightenment_windowfocus"
+  ],
+  "area": [
+    {
+      "width": 187,
+      "height": 51,
+      "ypos": 346,
+      "type": "match",
+      "xpos": 417
+    }
+  ]
+}
