@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 43,
+      "ypos": 232,
+      "xpos": 386,
+      "width": 143
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "hexchat-join-channel"
+  ],
+  "properties": []
+}
