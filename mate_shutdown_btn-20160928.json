@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 627,
+      "width": 80,
+      "height": 35,
+      "type": "match",
+      "ypos": 442
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "mate_shutdown_btn"
+  ],
+  "properties": []
+}
