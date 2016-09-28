@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "yast2-nfs-client-selected-for-install"
+  ],
+  "area": [
+    {
+      "ypos": 96,
+      "type": "match",
+      "height": 16,
+      "match": 93,
+      "xpos": 354,
+      "width": 176
+    }
+  ],
+  "properties": []
+}
