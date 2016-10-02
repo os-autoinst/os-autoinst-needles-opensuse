@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 68,
+      "width": 263,
+      "ypos": 33,
+      "type": "match",
+      "height": 25
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "gnome-keyring"
+  ],
+  "properties": []
+}
