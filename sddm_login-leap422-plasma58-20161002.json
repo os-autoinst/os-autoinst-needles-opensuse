@@ -1,16 +1,17 @@
 {
-  "tags": [
-    "ENV-DESKTOP-kde",
-    "displaymanager"
-  ],
+  "properties": [],
   "area": [
     {
-      "ypos": 399,
-      "height": 89,
-      "type": "match",
+      "width": 290,
       "xpos": 366,
-      "width": 290
+      "type": "match",
+      "height": 89,
+      "ypos": 399
     }
   ],
-  "properties": []
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "displaymanager",
+    "displaymanager-password-prompt"
+  ]
 }
