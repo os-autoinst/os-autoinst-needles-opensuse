@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 89,
+      "ypos": 204,
+      "xpos": 285,
+      "width": 250
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "vlc-first-time-wizard"
+  ]
+}
