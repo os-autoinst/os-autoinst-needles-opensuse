@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 279,
+      "type": "match",
+      "height": 299,
+      "width": 369,
+      "xpos": 213
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "vlc-main-window"
+  ],
+  "properties": []
+}
