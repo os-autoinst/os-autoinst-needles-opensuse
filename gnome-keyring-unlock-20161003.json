@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 326,
+      "width": 263,
+      "height": 25,
+      "type": "match",
+      "ypos": 307
+    },
+    {
+      "xpos": 336,
+      "width": 82,
+      "ypos": 400,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "gnome-keyring",
+    "gnome-keyring-unlock"
+  ],
+  "properties": []
+}
