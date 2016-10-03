@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnome-keyring"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 25,
+      "ypos": 301,
+      "width": 263,
+      "xpos": 349
+    },
+    {
+      "height": 32,
+      "type": "match",
+      "ypos": 390,
+      "xpos": 359,
+      "width": 82
+    }
+  ]
+}
