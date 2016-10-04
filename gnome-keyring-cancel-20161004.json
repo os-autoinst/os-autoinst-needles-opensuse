@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 124,
+      "xpos": 324,
+      "ypos": 462,
+      "height": 38,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "gnome-keyring-cancel"
+  ],
+  "properties": []
+}
