@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "END-DESKTOP-enlightenment",
+    "awesome-menu-shutdown"
+  ],
+  "area": [
+    {
+      "xpos": 120,
+      "ypos": 101,
+      "width": 83,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
