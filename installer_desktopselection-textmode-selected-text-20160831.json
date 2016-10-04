@@ -1,15 +1,16 @@
 {
-  "tags": [
-    "textmode-selected"
-  ],
-  "properties": [],
-  "area": [
-    {
-      "type": "match",
-      "width": 195,
-      "xpos": 22,
-      "height": 32,
-      "ypos": 422
-    }
-  ]
+   "properties" : [],
+   "tags" : [
+      "ENV-VIDEOMODE-text",
+      "textmode-selected"
+   ],
+   "area" : [
+      {
+         "width" : 195,
+         "ypos" : 422,
+         "height" : 32,
+         "xpos" : 22,
+         "type" : "match"
+      }
+   ]
 }
