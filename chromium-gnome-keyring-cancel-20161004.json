@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "gnome-keyring-cancel"
+  ],
+  "area": [
+    {
+      "xpos": 537,
+      "ypos": 186,
+      "width": 87,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
