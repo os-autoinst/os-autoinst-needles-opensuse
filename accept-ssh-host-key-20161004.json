@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 434,
+      "xpos": 0,
+      "type": "match",
+      "height": 17,
+      "ypos": 289
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "accept-ssh-host-key"
+  ]
+}
