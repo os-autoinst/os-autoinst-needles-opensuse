@@ -1,7 +1,6 @@
 {
   "properties": [],
   "tags": [
-    "ENV-SP2ORLATER-1",
     "yast2-nfs-client-selected-for-install"
   ],
   "area": [
