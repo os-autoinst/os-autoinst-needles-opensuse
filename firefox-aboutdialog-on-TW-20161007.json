@@ -1,17 +1,17 @@
 {
+  "area": [
+    {
+      "width": 335,
+      "xpos": 473,
+      "height": 138,
+      "type": "match",
+      "ypos": 320
+    }
+  ],
   "tags": [
     "ENV-DISTRI-opensuse",
     "ENV-LEAP-0",
     "test-firefox-3"
   ],
-  "properties": [],
-  "area": [
-    {
-      "width": 335,
-      "ypos": 352,
-      "height": 138,
-      "type": "match",
-      "xpos": 457
-    }
-  ]
+  "properties": []
 }
