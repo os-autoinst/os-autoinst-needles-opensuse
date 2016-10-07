@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "update-non-oss-selected"
+  ],
+  "area": [
+    {
+      "height": 12,
+      "type": "match",
+      "xpos": 358,
+      "ypos": 174,
+      "width": 202
+    }
+  ]
+}
