@@ -10,7 +10,7 @@
   ],
   "tags": [
     "ENV-DISTRI-opensuse",
-    "ENV-LEAP-0",
+    "ENV-VERSION-Tumbleweed",
     "test-firefox-3"
   ],
   "properties": []
