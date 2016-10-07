@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 788,
+      "ypos": 734,
+      "width": 113,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "tray-without-updates-available"
+  ],
+  "properties": []
+}
