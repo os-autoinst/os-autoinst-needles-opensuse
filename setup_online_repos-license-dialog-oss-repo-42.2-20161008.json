@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 190,
+      "type": "match",
+      "height": 116,
+      "xpos": 70,
+      "width": 259
+    },
+    {
+      "height": 32,
+      "type": "match",
+      "xpos": 381,
+      "ypos": 184,
+      "width": 141
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-42.2",
+    "license-dialog-oss-repo"
+  ],
+  "properties": []
+}
