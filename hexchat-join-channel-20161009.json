@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 150,
+      "type": "match",
+      "xpos": 396,
+      "height": 43,
+      "ypos": 227
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hexchat-join-channel",
+    "xchat-join-channel"
+  ]
+}
