@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "width": 236,
+      "ypos": 270,
+      "type": "match",
+      "xpos": 212,
+      "height": 225
+    },
+    {
+      "width": 153,
+      "ypos": 272,
+      "height": 54,
+      "type": "match",
+      "xpos": 458
+    },
+    {
+      "xpos": 474,
+      "type": "match",
+      "height": 35,
+      "ypos": 352,
+      "width": 153
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-Tumbleweed",
+    "test-firefox-3"
+  ]
+}
