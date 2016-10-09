@@ -1,21 +1,28 @@
 {
+  "properties": [],
   "area": [
     {
       "type": "match",
-      "ypos": 31,
-      "height": 737,
-      "xpos": 2,
-      "width": 1021
+      "xpos": 581,
+      "width": 442,
+      "height": 690,
+      "ypos": 31
     },
     {
-      "xpos": 872,
-      "ypos": 743,
-      "width": 84,
-      "height": 22,
-      "type": "exclude"
+      "xpos": 0,
+      "ypos": 733,
+      "width": 173,
+      "height": 33,
+      "type": "match"
+    },
+    {
+      "xpos": 961,
+      "ypos": 736,
+      "width": 61,
+      "height": 29,
+      "type": "match"
     }
   ],
-  "properties": [],
   "tags": [
     "ENV-DESKTOP-sle-classic",
     "ENV-DISTRI-opensuse",
