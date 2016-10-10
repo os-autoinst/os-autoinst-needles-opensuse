@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "vlc-play_button"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 608,
+      "height": 34,
+      "ypos": 546,
+      "width": 69
+    }
+  ]
+}
