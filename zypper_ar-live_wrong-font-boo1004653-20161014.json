@@ -1,18 +1,16 @@
 {
   "area": [
     {
-      "ypos": 49,
-      "xpos": 0,
-      "width": 320,
+      "height": 79,
       "type": "match",
-      "height": 79
+      "width": 320,
+      "xpos": 0,
+      "ypos": 49
     }
   ],
-  "properties": [
-    "workaround"
-  ],
+  "properties": [],
   "tags": [
-    "ENV-LIVE-1",
+    "ENV-LIVETEST-1",
     "addn-repos-listed"
   ]
 }
