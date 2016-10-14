@@ -18,6 +18,7 @@
   ],
   "tags": [
     "generic-desktop",
+    "reboot-after-installation",
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US"

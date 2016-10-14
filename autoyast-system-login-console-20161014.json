@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 146,
+      "xpos": 66,
+      "height": 12,
+      "type": "match",
+      "width": 45
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "autoyast-system-login-console"
+  ]
+}
