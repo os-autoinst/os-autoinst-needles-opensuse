@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "ypos": 121,
+      "height": 30,
+      "type": "match",
+      "width": 220,
+      "xpos": 0
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "boot-menu",
+    "boot-menu-esc"
+  ]
+}
