@@ -18,6 +18,7 @@
   ],
   "tags": [
     "bootloader",
+    "autoyast-boot",
     "grub2"
   ]
 }

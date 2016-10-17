@@ -16,7 +16,8 @@
     }
   ],
   "tags": [
-    "linux-login"
+    "linux-login",
+    "reboot-after-installation"
   ],
   "properties": []
 }
