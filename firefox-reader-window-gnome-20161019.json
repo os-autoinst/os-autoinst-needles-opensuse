@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "firefox_readerview_window"
+  ],
+  "area": [
+    {
+      "xpos": 193,
+      "height": 109,
+      "type": "match",
+      "width": 367,
+      "ypos": 133
+    },
+    {
+      "ypos": 138,
+      "width": 23,
+      "type": "match",
+      "height": 19,
+      "xpos": 537
+    }
+  ],
+  "properties": []
+}
