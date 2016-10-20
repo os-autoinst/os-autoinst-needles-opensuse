@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_samba-server_workgroup_new"
+  ],
+  "area": [
+    {
+      "xpos": 7,
+      "type": "match",
+      "height": 22,
+      "width": 124,
+      "ypos": 63
+    }
+  ]
+}
