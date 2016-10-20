@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_ntp-client_new_interval"
+  ],
+  "area": [
+    {
+      "width": 25,
+      "ypos": 240,
+      "xpos": 344,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}
