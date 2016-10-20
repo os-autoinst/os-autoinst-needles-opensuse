@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 12,
+      "ypos": 29,
+      "width": 295,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 450,
+      "ypos": 215,
+      "width": 111,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_ldap_configuration_stand-alone_tls"
+  ],
+  "properties": []
+}
