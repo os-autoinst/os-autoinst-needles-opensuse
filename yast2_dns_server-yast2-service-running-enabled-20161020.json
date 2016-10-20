@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2-service-running-enabled"
+  ],
+  "area": [
+    {
+      "xpos": 313,
+      "ypos": 31,
+      "width": 193,
+      "height": 48,
+      "type": "match"
+    }
+  ]
+}
