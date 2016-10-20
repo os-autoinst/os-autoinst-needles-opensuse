@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 361,
+      "ypos": 28,
+      "xpos": 9,
+      "type": "match",
+      "height": 23
+    }
+  ],
+  "tags": [
+    "yast2_ldap_configuration_summary"
+  ],
+  "properties": []
+}
