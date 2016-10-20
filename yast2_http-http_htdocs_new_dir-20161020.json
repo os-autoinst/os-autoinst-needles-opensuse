@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 23,
+      "ypos": 64,
+      "width": 197,
+      "height": 39,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "http_htdocs_new_dir"
+  ]
+}
