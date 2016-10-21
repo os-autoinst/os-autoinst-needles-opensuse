@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "http_previous_page"
+  ],
+  "area": [
+    {
+      "width": 177,
+      "ypos": 30,
+      "xpos": 11,
+      "height": 21,
+      "type": "match"
+    }
+  ]
+}
