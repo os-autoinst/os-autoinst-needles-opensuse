@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "http_vitual_host_page"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 21,
+      "xpos": 165,
+      "ypos": 29,
+      "width": 169
+    }
+  ],
+  "properties": []
+}
