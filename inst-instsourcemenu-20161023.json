@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "inst-instsourcemenu"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 45,
+      "xpos": 365,
+      "ypos": 500,
+      "width": 170
+    }
+  ],
+  "properties": []
+}
