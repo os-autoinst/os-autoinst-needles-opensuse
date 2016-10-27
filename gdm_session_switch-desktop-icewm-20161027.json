@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "ypos": 125,
+      "xpos": 0,
+      "type": "match",
+      "height": 643,
+      "width": 1023
+    },
+    {
+      "xpos": 804,
+      "ypos": 737,
+      "width": 220,
+      "height": 31,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-icewm",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "desktop-icewm"
+  ]
+}
