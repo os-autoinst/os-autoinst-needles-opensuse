@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "yast2_proxy_cache_settings_new"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 102,
+      "height": 35,
+      "type": "match",
+      "xpos": 343,
+      "ypos": 93
+    },
+    {
+      "xpos": 342,
+      "ypos": 199,
+      "type": "match",
+      "height": 42,
+      "width": 128
+    },
+    {
+      "width": 125,
+      "height": 34,
+      "type": "match",
+      "xpos": 343,
+      "ypos": 318
+    },
+    {
+      "height": 41,
+      "width": 114,
+      "ypos": 426,
+      "xpos": 499,
+      "type": "match"
+    },
+    {
+      "height": 40,
+      "width": 105,
+      "ypos": 538,
+      "xpos": 509,
+      "type": "match"
+    },
+    {
+      "width": 149,
+      "height": 30,
+      "type": "match",
+      "xpos": 343,
+      "ypos": 657
+    },
+    {
+      "width": 142,
+      "height": 30,
+      "type": "match",
+      "xpos": 342,
+      "ypos": 624
+    }
+  ]
+}
