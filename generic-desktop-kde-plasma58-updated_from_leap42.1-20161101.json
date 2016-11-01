@@ -18,6 +18,7 @@
   "properties": [],
   "tags": [
     "ENV-DESKTOP-kde",
+    "ENV-VERSION-Tumbleweed",
     "generic-desktop"
   ]
 }
