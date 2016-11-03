@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "inst-rescuesystem"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 25,
+      "ypos": 96,
+      "width": 124,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}
