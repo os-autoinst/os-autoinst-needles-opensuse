@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "updates_available",
+    "ENV-DESKTOP-kde"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 68,
+      "xpos": 586,
+      "ypos": 397,
+      "height": 12
+    },
+    {
+      "height": 12,
+      "ypos": 397,
+      "width": 88,
+      "xpos": 690,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
