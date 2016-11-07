@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 92,
+      "ypos": 63,
+      "height": 49,
+      "xpos": 11
+    },
+    {
+      "xpos": 12,
+      "ypos": 111,
+      "width": 358,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "OFW",
+    "boot-menu-snapshot"
+  ]
+}
