@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-DESKTOP-enlightenment",
+    "enlightenment_profile_selection",
+    "generic-desktop"
+  ],
+  "area": [
+    {
+      "xpos": 203,
+      "ypos": 0,
+      "width": 618,
+      "height": 57,
+      "type": "match"
+    },
+    {
+      "xpos": 455,
+      "ypos": 720,
+      "width": 112,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
