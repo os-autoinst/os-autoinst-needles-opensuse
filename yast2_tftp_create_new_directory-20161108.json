@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 346,
+      "height": 24,
+      "width": 190,
+      "xpos": 404,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_tftp_create_new_directory"
+  ]
+}
