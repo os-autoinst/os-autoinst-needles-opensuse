@@ -1,6 +1,7 @@
 {
   "tags": [
-    "yast2_bootloader-missing_package"
+    "yast2_bootloader-missing_package",
+    "yast2-missing_package"
   ],
   "area": [
     {
