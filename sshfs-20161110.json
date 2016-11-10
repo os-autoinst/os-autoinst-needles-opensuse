@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "password-prompt"
+  ],
+  "area": [
+    {
+      "height": 15,
+      "ypos": 304,
+      "width": 69,
+      "xpos": 0,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
