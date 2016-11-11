@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-LIVECD-1",
+    "inst-console"
+  ],
+  "area": [
+    {
+      "width": 31,
+      "xpos": 102,
+      "type": "match",
+      "height": 18,
+      "ypos": 96
+    },
+    {
+      "xpos": 0,
+      "ypos": 13,
+      "width": 81,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}
