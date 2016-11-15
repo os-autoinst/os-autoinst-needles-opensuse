@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_samba-server_netbios_logon-drive"
+  ],
+  "area": [
+    {
+      "xpos": 46,
+      "height": 14,
+      "ypos": 113,
+      "type": "match",
+      "width": 100
+    }
+  ]
+}
