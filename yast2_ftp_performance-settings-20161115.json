@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_ftp_performance-settings"
+  ],
+  "area": [
+    {
+      "xpos": 308,
+      "ypos": 28,
+      "width": 199,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
