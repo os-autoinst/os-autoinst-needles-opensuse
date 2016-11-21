@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 325,
+      "ypos": 125,
+      "width": 46,
+      "height": 38,
+      "type": "match"
+    },
+    {
+      "xpos": 608,
+      "ypos": 128,
+      "width": 55,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ftp_umask_value"
+  ]
+}
