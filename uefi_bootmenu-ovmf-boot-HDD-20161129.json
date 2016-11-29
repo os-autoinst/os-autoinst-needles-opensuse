@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-UEFI-1",
+    "ovmf-boot-HDD"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 158,
+      "height": 16,
+      "ypos": 194,
+      "xpos": 14
+    }
+  ]
+}
