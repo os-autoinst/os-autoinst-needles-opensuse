@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "vlc-done-playing"
+  ],
+  "area": [
+    {
+      "xpos": 599,
+      "ypos": 212,
+      "width": 55,
+      "height": 47,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
