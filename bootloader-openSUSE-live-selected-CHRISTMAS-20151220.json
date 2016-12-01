@@ -1,16 +1,17 @@
 {
-  "tags": [
-    "boot-live-xfce",
-    "ENV-LIVETEST-1"
-  ],
-  "area": [
-    {
-      "height": 23,
-      "type": "match",
-      "width": 271,
-      "xpos": 222,
-      "ypos": 164
-    }
-  ],
-  "properties": []
+   "properties" : [],
+   "area" : [
+      {
+         "height" : 23,
+         "width" : 271,
+         "type" : "match",
+         "ypos" : 164,
+         "xpos" : 222
+      }
+   ],
+   "tags" : [
+      "CHRISTMAS",
+      "ENV-LIVETEST-1",
+      "boot-live-xfce"
+   ]
 }

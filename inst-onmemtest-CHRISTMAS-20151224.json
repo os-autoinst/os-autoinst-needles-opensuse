@@ -1,16 +1,17 @@
 {
-  "tags": [
-    "inst-onmemtest"
-  ],
-  "area": [
-    {
-      "height": 25,
-      "type": "match",
-      "match": 100,
-      "ypos": 212,
-      "width": 299,
-      "xpos": 221
-    }
-  ],
-  "properties": []
+   "properties" : [],
+   "area" : [
+      {
+         "xpos" : 221,
+         "match" : 100,
+         "ypos" : 212,
+         "type" : "match",
+         "width" : 299,
+         "height" : 25
+      }
+   ],
+   "tags" : [
+      "CHRISTMAS",
+      "inst-onmemtest"
+   ]
 }

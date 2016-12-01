@@ -1,15 +1,16 @@
 {
-  "area": [
-    {
-      "type": "match",
-      "xpos": 377,
-      "height": 45,
-      "width": 170,
-      "ypos": 500
-    }
-  ],
-  "tags": [
-    "inst-instsourcemenu"
-  ],
-  "properties": []
+   "properties" : [],
+   "tags" : [
+      "CHRISTMAS",
+      "inst-instsourcemenu"
+   ],
+   "area" : [
+      {
+         "xpos" : 377,
+         "ypos" : 500,
+         "width" : 170,
+         "type" : "match",
+         "height" : 45
+      }
+   ]
 }
