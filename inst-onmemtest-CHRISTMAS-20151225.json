@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 262,
+      "width": 299,
+      "xpos": 221,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-onmemtest"
+  ]
+}
