@@ -1,18 +1,19 @@
 {
-  "properties": [],
-  "area": [
-    {
-      "height": 89,
-      "ypos": 155,
-      "type": "match",
-      "width": 273,
-      "xpos": 213
-    }
-  ],
-  "tags": [
-    "ENV-DESKTOP-gnome",
-    "ENV-LIVECD-1",
-    "bootloader",
-    "inst-bootmenu"
-  ]
+   "area" : [
+      {
+         "height" : 89,
+         "xpos" : 213,
+         "ypos" : 155,
+         "type" : "match",
+         "width" : 273
+      }
+   ],
+   "tags" : [
+      "CHRISTMAS",
+      "ENV-DESKTOP-gnome",
+      "ENV-LIVECD-1",
+      "bootloader",
+      "inst-bootmenu"
+   ],
+   "properties" : []
 }

@@ -1,18 +1,19 @@
 {
-  "area": [
-    {
-      "xpos": 213,
-      "width": 252,
-      "type": "match",
-      "ypos": 161,
-      "height": 89
-    }
-  ],
-  "properties": [],
-  "tags": [
-    "ENV-DESKTOP-kde",
-    "ENV-LIVECD-1",
-    "bootloader",
-    "inst-bootmenu"
-  ]
+   "properties" : [],
+   "area" : [
+      {
+         "xpos" : 213,
+         "type" : "match",
+         "width" : 252,
+         "ypos" : 161,
+         "height" : 89
+      }
+   ],
+   "tags" : [
+      "CHRISTMAS",
+      "ENV-DESKTOP-kde",
+      "ENV-LIVECD-1",
+      "bootloader",
+      "inst-bootmenu"
+   ]
 }

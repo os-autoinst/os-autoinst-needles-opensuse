@@ -1,16 +1,17 @@
 {
-  "properties": [],
-  "area": [
-    {
-      "type": "match",
-      "xpos": 210,
-      "height": 84,
-      "width": 279,
-      "ypos": 154
-    }
-  ],
-  "tags": [
-    "bootloader",
-    "inst-bootmenu"
-  ]
+   "area" : [
+      {
+         "xpos" : 210,
+         "type" : "match",
+         "width" : 279,
+         "ypos" : 154,
+         "height" : 84
+      }
+   ],
+   "tags" : [
+      "CHRISTMAS",
+      "bootloader",
+      "inst-bootmenu"
+   ],
+   "properties" : []
 }

@@ -1,15 +1,16 @@
 {
-  "properties": [],
-  "tags": [
-    "boot-live-gnome"
-  ],
-  "area": [
-    {
-      "type": "match",
-      "height": 24,
-      "ypos": 162,
-      "xpos": 220,
-      "width": 254
-    }
-  ]
+   "properties" : [],
+   "tags" : [
+      "CHRISTMAS",
+      "boot-live-gnome"
+   ],
+   "area" : [
+      {
+         "ypos" : 162,
+         "width" : 254,
+         "type" : "match",
+         "xpos" : 220,
+         "height" : 24
+      }
+   ]
 }

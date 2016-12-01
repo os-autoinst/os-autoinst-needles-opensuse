@@ -1,15 +1,16 @@
 {
-  "tags": [
-    "inst-onmediacheck"
-  ],
-  "area": [
-    {
-      "type": "match",
-      "height": 34,
-      "xpos": 189,
-      "width": 361,
-      "ypos": 208
-    }
-  ],
-  "properties": []
+   "properties" : [],
+   "area" : [
+      {
+         "height" : 34,
+         "type" : "match",
+         "width" : 361,
+         "ypos" : 208,
+         "xpos" : 189
+      }
+   ],
+   "tags" : [
+      "CHRISTMAS",
+      "inst-onmediacheck"
+   ]
 }

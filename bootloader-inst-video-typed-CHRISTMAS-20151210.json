@@ -1,15 +1,16 @@
 {
-  "properties": [],
-  "tags": [
-    "inst-video-typed"
-  ],
-  "area": [
-    {
-      "type": "match",
-      "xpos": 443,
-      "height": 23,
-      "width": 168,
-      "ypos": 489
-    }
-  ]
+   "area" : [
+      {
+         "height" : 23,
+         "ypos" : 489,
+         "width" : 168,
+         "type" : "match",
+         "xpos" : 443
+      }
+   ],
+   "tags" : [
+      "CHRISTMAS",
+      "inst-video-typed"
+   ],
+   "properties" : []
 }

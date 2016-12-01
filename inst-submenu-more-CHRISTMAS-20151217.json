@@ -1,15 +1,16 @@
 {
-  "properties": [],
-  "tags": [
-    "inst-submenu-more"
-  ],
-  "area": [
-    {
-      "xpos": 222,
-      "width": 316,
-      "ypos": 240,
-      "type": "match",
-      "height": 24
-    }
-  ]
+   "area" : [
+      {
+         "xpos" : 222,
+         "ypos" : 240,
+         "width" : 316,
+         "type" : "match",
+         "height" : 24
+      }
+   ],
+   "tags" : [
+      "CHRISTMAS",
+      "inst-submenu-more"
+   ],
+   "properties" : []
 }
