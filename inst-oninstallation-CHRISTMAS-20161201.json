@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 147,
+      "height": 35,
+      "xpos": 216,
+      "ypos": 182
+    }
+  ],
+  "tags": [
+    "CHRISTMAS",
+    "inst-oninstallation"
+  ]
+}
