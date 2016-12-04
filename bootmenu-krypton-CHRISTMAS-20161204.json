@@ -1,0 +1,20 @@
+{
+  "tags": [
+    "CHRISTMAS",
+    "ENV-DESKTOP-kde",
+    "ENV-FLAVOR-Krypton-Live",
+    "ENV-LIVECD-1",
+    "bootloader",
+    "inst-bootmenu"
+  ],
+  "area": [
+    {
+      "ypos": 161,
+      "xpos": 213,
+      "height": 28,
+      "type": "match",
+      "width": 164
+    }
+  ],
+  "properties": []
+}
