@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 304,
+      "type": "match",
+      "ypos": 159,
+      "height": 31,
+      "xpos": 214
+    }
+  ],
+  "tags": [
+    "CHRISTMAS",
+    "ENV-DISTRI-opensuse",
+    "boot-live-kde"
+  ],
+  "properties": []
+}
