@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 162,
+      "height": 27,
+      "xpos": 218,
+      "width": 157,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "CHRISTMAS",
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-Krypton-Live",
+    "ENV-LIVECD-1",
+    "boot-live-kde"
+  ],
+  "properties": []
+}
