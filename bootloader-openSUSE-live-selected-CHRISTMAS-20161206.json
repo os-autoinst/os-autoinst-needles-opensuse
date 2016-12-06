@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 271,
+      "type": "match",
+      "height": 23,
+      "xpos": 222,
+      "ypos": 164
+    }
+  ],
+  "tags": [
+    "CHRISTMAS",
+    "ENV-LIVETEST-1",
+    "boot-live-xfce"
+  ],
+  "properties": []
+}
