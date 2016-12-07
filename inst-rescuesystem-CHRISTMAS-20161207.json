@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "CHRISTMAS",
+    "inst-rescuesystem"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 156,
+      "height": 36,
+      "xpos": 215,
+      "width": 312
+    }
+  ]
+}
