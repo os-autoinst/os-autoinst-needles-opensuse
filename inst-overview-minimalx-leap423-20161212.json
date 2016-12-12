@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 220,
+      "xpos": 364,
+      "height": 50,
+      "type": "match",
+      "ypos": 297
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VERSION-42.3",
+    "inst-overview"
+  ]
+}
