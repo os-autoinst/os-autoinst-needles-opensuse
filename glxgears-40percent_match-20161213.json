@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "test-glxgears-1"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 14,
+      "ypos": 79,
+      "height": 279,
+      "width": 256,
+      "match": 40
+    }
+  ]
+}
