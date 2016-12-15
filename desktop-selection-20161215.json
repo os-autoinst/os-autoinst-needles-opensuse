@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "ypos": 84,
+      "type": "match",
+      "height": 189,
+      "xpos": 341,
+      "width": 510
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "before-package-selection",
+    "desktop-selection",
+    "inst-returned-to-yast"
+  ],
+  "properties": []
+}
