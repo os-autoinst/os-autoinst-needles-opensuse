@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 32,
+      "xpos": 380,
+      "type": "match",
+      "ypos": 365,
+      "width": 99
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "selection_on_desktop_gnome"
+  ]
+}
