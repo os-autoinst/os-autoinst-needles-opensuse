@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 364,
+      "width": 147,
+      "height": 34,
+      "xpos": 352,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-selected",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
