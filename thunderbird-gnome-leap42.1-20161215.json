@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "test-thunderbird-1"
+  ],
+  "area": [
+    {
+      "height": 32,
+      "xpos": 212,
+      "type": "match",
+      "ypos": 197,
+      "width": 339
+    }
+  ]
+}
