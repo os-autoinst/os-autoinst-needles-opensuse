@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 143,
+      "height": 178,
+      "xpos": 315,
+      "width": 445
+    }
+  ],
+  "tags": [
+    "custompart"
+  ],
+  "properties": []
+}
