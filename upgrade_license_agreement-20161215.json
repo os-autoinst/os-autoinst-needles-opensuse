@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 123,
+      "xpos": 35,
+      "width": 305,
+      "ypos": 193
+    },
+    {
+      "ypos": 108,
+      "width": 243,
+      "height": 86,
+      "xpos": 359,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "upgrade-li-cense-agreement",
+    "upgrade-license-agreement"
+  ],
+  "properties": []
+}
