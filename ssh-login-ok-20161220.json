@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 640,
+      "width": 347,
+      "height": 31,
+      "xpos": 0,
+      "type": "match"
+    },
+    {
+      "ypos": 736,
+      "width": 172,
+      "height": 15,
+      "xpos": 0,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ssh-login-ok"
+  ]
+}
