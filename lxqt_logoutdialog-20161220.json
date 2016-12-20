@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 269,
+      "height": 92,
+      "width": 490,
+      "ypos": 339
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-lxqt",
+    "lxqt_logoutdialog"
+  ],
+  "properties": []
+}
