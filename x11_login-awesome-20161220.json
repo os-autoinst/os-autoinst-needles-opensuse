@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "generic-desktop",
+    "ENV-DESKTOP-awesome"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "height": 19,
+      "type": "match",
+      "ypos": 0,
+      "width": 47
+    }
+  ]
+}
