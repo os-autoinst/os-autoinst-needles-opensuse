@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "test-xfce_lightdm_logout_login-1",
+    "ENV-DESKTOP-xfce"
+  ],
+  "area": [
+    {
+      "ypos": 373,
+      "width": 63,
+      "height": 26,
+      "xpos": 420,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 127,
+      "xpos": 447,
+      "width": 225,
+      "ypos": 328
+    },
+    {
+      "ypos": 331,
+      "width": 81,
+      "xpos": 363,
+      "height": 82,
+      "type": "match"
+    }
+  ]
+}
