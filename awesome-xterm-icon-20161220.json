@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-awesome",
+    "awesome_xterm_icon"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 159,
+      "height": 14,
+      "width": 15,
+      "ypos": 3
+    }
+  ]
+}
