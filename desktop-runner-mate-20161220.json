@@ -1,16 +1,16 @@
 {
+  "area": [
+    {
+      "type": "match",
+      "xpos": 341,
+      "height": 139,
+      "width": 342,
+      "ypos": 340
+    }
+  ],
   "properties": [],
   "tags": [
     "ENV-DESKTOP-mate",
     "desktop-runner"
-  ],
-  "area": [
-    {
-      "ypos": 315,
-      "width": 342,
-      "height": 164,
-      "xpos": 341,
-      "type": "match"
-    }
   ]
 }
