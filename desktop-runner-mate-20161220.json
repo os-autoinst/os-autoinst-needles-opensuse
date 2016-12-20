@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 164,
+      "xpos": 342,
+      "type": "match",
+      "ypos": 316,
+      "width": 342
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "desktop-runner"
+  ]
+}
