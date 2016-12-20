@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "vlc-first-time-wizard"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 346,
+      "xpos": 321,
+      "type": "match",
+      "ypos": 212,
+      "width": 381
+    }
+  ]
+}
