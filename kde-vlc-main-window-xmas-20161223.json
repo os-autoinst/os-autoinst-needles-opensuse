@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "CHRISTMAS=1",
+    "vlc-main-window"
+  ],
+  "area": [
+    {
+      "ypos": 277,
+      "width": 369,
+      "xpos": 213,
+      "height": 299,
+      "type": "match"
+    }
+  ]
+}
