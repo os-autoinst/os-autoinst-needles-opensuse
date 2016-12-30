@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "updates_available"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 67,
+      "xpos": 21,
+      "type": "match",
+      "height": 42,
+      "width": 104
+    },
+    {
+      "width": 72,
+      "type": "match",
+      "xpos": 206,
+      "height": 17,
+      "ypos": 68
+    }
+  ]
+}
