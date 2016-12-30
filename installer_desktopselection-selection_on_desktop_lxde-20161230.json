@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "selection_on_desktop_lxde"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 96,
+      "ypos": 593,
+      "xpos": 431,
+      "type": "match",
+      "height": 15
+    }
+  ]
+}
