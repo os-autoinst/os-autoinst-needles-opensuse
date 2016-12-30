@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 255,
+      "type": "match",
+      "xpos": 706,
+      "height": 108,
+      "width": 86
+    }
+  ],
+  "tags": [
+    "partition-splitusr-finished",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "properties": []
+}
