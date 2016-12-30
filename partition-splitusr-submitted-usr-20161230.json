@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "partition-splitusr-submitted-usr",
+    "ENV-DISTRI-opensuse"
+  ],
+  "area": [
+    {
+      "ypos": 309,
+      "type": "match",
+      "height": 115,
+      "xpos": 538,
+      "width": 200
+    }
+  ]
+}
