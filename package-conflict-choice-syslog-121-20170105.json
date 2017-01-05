@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "package-conflict-choice"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 339,
+      "type": "match",
+      "height": 15,
+      "xpos": 258,
+      "ypos": 351
+    }
+  ]
+}
