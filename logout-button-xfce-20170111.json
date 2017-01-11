@@ -1,16 +1,16 @@
 {
+  "area": [
+    {
+      "type": "match",
+      "height": 38,
+      "xpos": 380,
+      "width": 60,
+      "ypos": 286
+    }
+  ],
   "tags": [
     "logout-button",
     "ENV-DESKTOP-xfce"
   ],
-  "properties": [],
-  "area": [
-    {
-      "xpos": 383,
-      "ypos": 280,
-      "width": 60,
-      "height": 61,
-      "type": "match"
-    }
-  ]
+  "properties": []
 }
