@@ -3,14 +3,14 @@
     "ENV-DESKTOP-lxde",
     "logout-button"
   ],
-  "properties": [],
   "area": [
     {
-      "height": 36,
-      "width": 84,
-      "ypos": 496,
-      "xpos": 392,
+      "ypos": 465,
+      "xpos": 417,
+      "height": 24,
+      "width": 24,
       "type": "match"
     }
-  ]
+  ],
+  "properties": []
 }
