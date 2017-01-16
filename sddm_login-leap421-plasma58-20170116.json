@@ -1,0 +1,19 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-VERSION-42.1",
+    "displaymanager",
+    "displaymanager-password-prompt",
+    "sddm"
+  ],
+  "area": [
+    {
+      "xpos": 388,
+      "height": 21,
+      "width": 94,
+      "type": "match",
+      "ypos": 457
+    }
+  ],
+  "properties": []
+}
