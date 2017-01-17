@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-opensuse",
+    "disabledhome"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 287,
+      "ypos": 383,
+      "xpos": 381,
+      "height": 55
+    }
+  ]
+}
