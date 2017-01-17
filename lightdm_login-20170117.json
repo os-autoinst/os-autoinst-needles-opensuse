@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 26,
+      "xpos": 960,
+      "width": 63,
+      "ypos": 0
+    },
+    {
+      "width": 225,
+      "ypos": 328,
+      "xpos": 447,
+      "height": 127,
+      "type": "match"
+    },
+    {
+      "ypos": 331,
+      "width": 81,
+      "xpos": 363,
+      "height": 82,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "displaymanager",
+    "ENV-DISPLAYMANAGER-lightdm"
+  ],
+  "properties": []
+}
