@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 275,
+      "width": 44,
+      "xpos": 378,
+      "height": 54
+    },
+    {
+      "xpos": 995,
+      "ypos": 740,
+      "width": 24,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "displaymanager"
+  ]
+}
