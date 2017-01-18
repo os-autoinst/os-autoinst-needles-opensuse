@@ -1,13 +1,6 @@
 {
   "area": [
     {
-      "ypos": 0,
-      "width": 63,
-      "xpos": 960,
-      "height": 26,
-      "type": "match"
-    },
-    {
       "type": "match",
       "ypos": 368,
       "width": 148,
