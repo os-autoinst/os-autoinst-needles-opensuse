@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 10,
+      "width": 212,
+      "height": 21,
+      "type": "match",
+      "ypos": 30
+    },
+    {
+      "xpos": 304,
+      "ypos": 267,
+      "width": 113,
+      "height": 43,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_tftp-server_configuration"
+  ],
+  "properties": []
+}
