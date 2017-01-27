@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 133,
+      "height": 109,
+      "type": "match",
+      "xpos": 193,
+      "width": 367
+    },
+    {
+      "height": 19,
+      "ypos": 70,
+      "type": "match",
+      "width": 23,
+      "xpos": 199
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "firefox_readerview_window"
+  ]
+}
