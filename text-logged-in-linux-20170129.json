@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-LIVE-1",
+    "text-logged-in-linux"
+  ],
+  "area": [
+    {
+      "width": 43,
+      "ypos": 132,
+      "xpos": 3,
+      "type": "match",
+      "height": 10
+    }
+  ]
+}
