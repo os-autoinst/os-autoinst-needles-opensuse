@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 98,
+      "type": "match",
+      "xpos": 221,
+      "ypos": 99,
+      "width": 338
+    },
+    {
+      "type": "match",
+      "height": 19,
+      "xpos": 535,
+      "ypos": 105,
+      "width": 21
+    },
+    {
+      "xpos": 0,
+      "ypos": 33,
+      "width": 347,
+      "height": 52,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "firefox_readerview_window"
+  ],
+  "properties": []
+}
