@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 400,
+      "ypos": 505,
+      "width": 195,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ssh-blocked-selected"
+  ]
+}

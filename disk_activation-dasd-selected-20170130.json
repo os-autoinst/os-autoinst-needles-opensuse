@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "dasd-selected"
+  ],
+  "area": [
+    {
+      "xpos": 365,
+      "ypos": 167,
+      "width": 64,
+      "height": 33,
+      "type": "match"
+    }
+  ]
+}
