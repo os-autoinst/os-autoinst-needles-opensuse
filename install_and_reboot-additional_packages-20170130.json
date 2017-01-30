@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 355,
+      "ypos": 307,
+      "width": 218,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 429,
+      "ypos": 446,
+      "width": 84,
+      "height": 41,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "additional-packages"
+  ],
+  "properties": []
+}
