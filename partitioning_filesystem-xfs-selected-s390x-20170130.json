@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "xfs-selected"
+  ],
+  "area": [
+    {
+      "xpos": 416,
+      "ypos": 356,
+      "width": 165,
+      "height": 57,
+      "type": "match"
+    }
+  ]
+}

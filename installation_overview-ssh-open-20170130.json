@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ssh-open"
+  ],
+  "area": [
+    {
+      "xpos": 397,
+      "ypos": 507,
+      "width": 202,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
