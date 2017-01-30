@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 148,
+      "ypos": 1,
+      "width": 31,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "inst-console"
+  ],
+  "properties": []
+}
