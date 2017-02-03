@@ -1,22 +1,29 @@
 {
-  "properties": [],
-  "area": [
-    {
-      "type": "match",
-      "ypos": 141,
-      "width": 355,
-      "xpos": 199,
-      "height": 97
-    },
-    {
-      "type": "match",
-      "ypos": 72,
-      "width": 18,
-      "xpos": 202,
-      "height": 15
-    }
-  ],
   "tags": [
     "firefox_readerview_window"
-  ]
+  ],
+  "area": [
+    {
+      "height": 97,
+      "xpos": 200,
+      "width": 355,
+      "ypos": 136,
+      "type": "match"
+    },
+    {
+      "height": 15,
+      "xpos": 538,
+      "width": 18,
+      "ypos": 141,
+      "type": "match"
+    },
+    {
+      "xpos": 4,
+      "ypos": 32,
+      "width": 1007,
+      "height": 58,
+      "type": "exclude"
+    }
+  ],
+  "properties": []
 }
