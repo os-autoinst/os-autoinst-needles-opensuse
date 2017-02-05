@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 97,
+      "xpos": 225,
+      "type": "match",
+      "width": 334,
+      "ypos": 96
+    },
+    {
+      "height": 37,
+      "xpos": 533,
+      "type": "match",
+      "width": 29,
+      "ypos": 92
+    },
+    {
+      "xpos": 2,
+      "ypos": 4,
+      "width": 307,
+      "height": 78,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "firefox_readerview_window"
+  ]
+}
