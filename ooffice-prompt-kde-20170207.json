@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ooffice-save-prompt",
+    "ENV-DESKTOP-kde"
+  ],
+  "area": [
+    {
+      "xpos": 346,
+      "type": "match",
+      "width": 323,
+      "height": 116,
+      "ypos": 324
+    }
+  ],
+  "properties": []
+}
