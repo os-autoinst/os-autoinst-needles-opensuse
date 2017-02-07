@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "ypos": 307,
+      "xpos": 100,
+      "type": "match",
+      "width": 271,
+      "height": 61
+    },
+    {
+      "ypos": 30,
+      "height": 86,
+      "width": 472,
+      "xpos": 3,
+      "type": "match"
+    },
+    {
+      "ypos": 310,
+      "height": 56,
+      "width": 224,
+      "type": "match",
+      "xpos": 533
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "chromium-html5test"
+  ]
+}
