@@ -1,16 +1,17 @@
 {
+  "tags": [
+    "ENV-DESKTOP-enlightenment",
+    "enlightenment_keyboard_selection",
+    "generic-desktop"
+  ],
   "area": [
     {
       "ypos": 11,
-      "height": 341,
-      "width": 602,
+      "type": "match",
       "xpos": 212,
-      "type": "match"
+      "height": 341,
+      "width": 602
     }
   ],
-  "properties": [],
-  "tags": [
-    "ENV-DESKTOP-enlightenment",
-    "generic-desktop"
-  ]
+  "properties": []
 }
