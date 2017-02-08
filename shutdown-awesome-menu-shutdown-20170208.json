@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-awesome",
+    "awesome-menu-shutdown"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 84,
+      "height": 10,
+      "xpos": 121,
+      "type": "match",
+      "ypos": 129
+    }
+  ]
+}
