@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "mate_logoutdialog"
+  ],
+  "area": [
+    {
+      "ypos": 306,
+      "xpos": 318,
+      "type": "match",
+      "width": 388,
+      "height": 163
+    },
+    {
+      "ypos": 390,
+      "height": 36,
+      "width": 381,
+      "xpos": 321,
+      "type": "exclude"
+    }
+  ],
+  "properties": []
+}
