@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "enlightenment_keybindings"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 379,
+      "ypos": 265,
+      "width": 264,
+      "height": 202,
+      "type": "match"
+    }
+  ]
+}
