@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "height": 41,
+      "width": 143,
+      "ypos": 659,
+      "type": "match",
+      "xpos": 608
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "partitioning-edit-proposal-button",
+    "storage-ng"
+  ]
+}
