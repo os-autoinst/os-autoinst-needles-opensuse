@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 336,
+      "ypos": 351,
+      "width": 285,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "root-auth-dialog"
+  ]
+}
