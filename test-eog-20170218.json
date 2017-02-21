@@ -10,9 +10,10 @@
     }
   ],
   "tags": [
-    "test-eog-1",
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US"
+    "ENV-INSTLANG-en_US",
+    "test-eog-1",
+    "test-eog-started"
   ]
 }
