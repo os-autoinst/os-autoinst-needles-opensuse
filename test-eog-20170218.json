@@ -1,14 +1,21 @@
 {
-  "properties": [],
   "area": [
     {
-      "ypos": 85,
+      "width": 812,
+      "height": 131,
       "xpos": 127,
       "type": "match",
-      "height": 131,
-      "width": 812
+      "ypos": 85
+    },
+    {
+      "xpos": 85,
+      "ypos": 85,
+      "width": 161,
+      "height": 39,
+      "type": "exclude"
     }
   ],
+  "properties": [],
   "tags": [
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-opensuse",
