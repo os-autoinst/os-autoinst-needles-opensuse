@@ -11,6 +11,7 @@
   "properties": [],
   "tags": [
     "test-gnome-music-1",
+    "test-gnome-music-started",
     "ENV-DESKTOP-gnome"
   ]
 }
