@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "vlc-network-window"
+  ],
+  "area": [
+    {
+      "width": 216,
+      "xpos": 266,
+      "type": "match",
+      "height": 55,
+      "ypos": 163
+    }
+  ],
+  "properties": []
+}
