@@ -1,6 +1,7 @@
 {
   "tags": [
     "inst-instmode",
+    "ENV-OFW-1",
     "ENV-VIDEOMODE-text",
     "ENV-DESKTOP-textmode",
     "ENV-DISTRI-opensuse",
