@@ -10,6 +10,7 @@
     }
   ],
   "tags": [
+    "bootloader",
     "bootloader-ofw"
   ]
 }
