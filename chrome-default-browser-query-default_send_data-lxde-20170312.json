@@ -1,0 +1,31 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 325,
+      "ypos": 334,
+      "height": 27,
+      "width": 251
+    },
+    {
+      "ypos": 418,
+      "height": 19,
+      "xpos": 656,
+      "type": "match",
+      "width": 27
+    },
+    {
+      "xpos": 322,
+      "type": "match",
+      "ypos": 369,
+      "height": 17,
+      "width": 380
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "chrome-default-browser-query",
+    "chrome-default-browser-query-send-data"
+  ]
+}
