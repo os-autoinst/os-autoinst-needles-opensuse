@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 93,
+      "ypos": 4,
+      "width": 122,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 178,
+      "ypos": 83,
+      "width": 609,
+      "height": 132,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-gnome-multi-writer-started"
+  ],
+  "properties": []
+}

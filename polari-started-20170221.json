@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "test-polari-started"
+  ],
+  "area": [
+    {
+      "xpos": 293,
+      "ypos": 245,
+      "width": 384,
+      "height": 246,
+      "type": "match"
+    }
+  ]
+}
