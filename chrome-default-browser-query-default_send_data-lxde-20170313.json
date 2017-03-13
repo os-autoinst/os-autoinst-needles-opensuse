@@ -9,18 +9,18 @@
       "width": 251
     },
     {
-      "ypos": 418,
-      "height": 19,
-      "xpos": 656,
-      "type": "match",
-      "width": 27
-    },
-    {
       "xpos": 322,
       "type": "match",
       "ypos": 369,
       "height": 17,
       "width": 380
+    },
+    {
+      "ypos": 418,
+      "height": 19,
+      "xpos": 656,
+      "type": "match",
+      "width": 27
     }
   ],
   "tags": [
