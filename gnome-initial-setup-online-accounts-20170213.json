@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 254,
+      "ypos": 92,
+      "width": 499,
+      "height": 217,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnome-initial-setup-online-accounts"
+  ],
+  "properties": []
+}

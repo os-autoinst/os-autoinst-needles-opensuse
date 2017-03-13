@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnome-initial-setup-privacy"
+  ],
+  "area": [
+    {
+      "xpos": 391,
+      "ypos": 78,
+      "width": 242,
+      "height": 200,
+      "type": "match"
+    },
+    {
+      "xpos": 268,
+      "ypos": 300,
+      "width": 161,
+      "height": 32,
+      "type": "match"
+    },
+    {
+      "xpos": 645,
+      "ypos": 295,
+      "width": 111,
+      "height": 33,
+      "type": "match"
+    }
+  ]
+}

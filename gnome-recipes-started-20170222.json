@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "test-gnome-recipes-started"
+  ],
+  "area": [
+    {
+      "ypos": 0,
+      "height": 21,
+      "type": "match",
+      "width": 102,
+      "xpos": 90
+    },
+    {
+      "ypos": 33,
+      "height": 36,
+      "type": "match",
+      "width": 273,
+      "xpos": 386
+    }
+  ]
+}

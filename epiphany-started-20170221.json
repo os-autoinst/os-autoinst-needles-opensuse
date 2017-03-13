@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "test-epiphany-started"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 2,
+      "xpos": 94,
+      "width": 79,
+      "type": "match",
+      "height": 23
+    },
+    {
+      "height": 247,
+      "type": "match",
+      "width": 410,
+      "xpos": 311,
+      "ypos": 230
+    }
+  ]
+}
