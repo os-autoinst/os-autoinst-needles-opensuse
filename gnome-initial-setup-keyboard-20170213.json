@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 297,
+      "ypos": 95,
+      "width": 401,
+      "height": 196,
+      "type": "match"
+    },
+    {
+      "xpos": 292,
+      "ypos": 536,
+      "width": 442,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnome-initial-setup-keyboard"
+  ]
+}

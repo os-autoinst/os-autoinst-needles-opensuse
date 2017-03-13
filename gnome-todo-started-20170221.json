@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "test-gnome-todo-started"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 36,
+      "width": 688,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 27,
+      "ypos": 93,
+      "width": 508,
+      "height": 264,
+      "type": "match"
+    },
+    {
+      "xpos": 93,
+      "ypos": 0,
+      "width": 103,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}

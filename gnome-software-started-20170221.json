@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 281,
+      "ypos": 196,
+      "width": 462,
+      "height": 396,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-gnome-software-started"
+  ],
+  "properties": []
+}

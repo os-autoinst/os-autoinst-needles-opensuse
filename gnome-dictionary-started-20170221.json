@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 92,
+      "ypos": 0,
+      "width": 116,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 381,
+      "ypos": 144,
+      "width": 434,
+      "height": 49,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome-dictionary-started"
+  ]
+}

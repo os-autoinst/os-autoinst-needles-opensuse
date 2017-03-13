@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 954,
+      "ypos": 34,
+      "width": 67,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnome-skip-button"
+  ],
+  "properties": []
+}

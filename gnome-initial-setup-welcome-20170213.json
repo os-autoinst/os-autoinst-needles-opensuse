@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 225,
+      "ypos": 81,
+      "width": 619,
+      "height": 207,
+      "type": "match"
+    },
+    {
+      "xpos": 96,
+      "ypos": 5,
+      "width": 156,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnome-initial-setup-welcome"
+  ],
+  "properties": []
+}

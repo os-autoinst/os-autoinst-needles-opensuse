@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "test-empathy-started"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 229,
+      "ypos": 197,
+      "width": 570,
+      "height": 382,
+      "type": "match"
+    },
+    {
+      "xpos": 95,
+      "ypos": 3,
+      "width": 98,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}
