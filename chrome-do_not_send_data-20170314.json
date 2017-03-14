@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 316,
+      "ypos": 369,
+      "width": 399,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "chrome-do_not_send_data"
+  ]
+}
