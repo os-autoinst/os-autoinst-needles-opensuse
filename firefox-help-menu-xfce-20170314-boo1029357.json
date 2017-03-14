@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "firefox-help-menu"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 285,
+      "height": 49,
+      "ypos": 26,
+      "width": 229
+    }
+  ]
+}
