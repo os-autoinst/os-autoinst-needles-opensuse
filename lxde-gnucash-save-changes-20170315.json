@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 450,
+      "xpos": 176,
+      "type": "match",
+      "ypos": 276,
+      "height": 144
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxde ",
+    "gnucash-save-changes"
+  ]
+}
