@@ -16,13 +16,15 @@
       "height": 34,
       "type": "match",
       "xpos": 361,
-      "width": 311
+      "width": 311,
+      "match": 80
     },
     {
       "xpos": 390,
       "ypos": 392,
       "width": 255,
       "height": 19,
+      "match": 80,
       "type": "match"
     }
   ],
