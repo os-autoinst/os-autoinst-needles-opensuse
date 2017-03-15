@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 380,
+      "type": "match",
+      "xpos": 320,
+      "height": 17,
+      "ypos": 372,
+      "match": 60
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "chrome-do_not_send_data"
+  ]
+}
