@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 103,
+      "ypos": 292,
+      "height": 61,
+      "width": 271
+    },
+    {
+      "width": 472,
+      "ypos": 13,
+      "height": 86,
+      "type": "match",
+      "xpos": 17
+    },
+    {
+      "xpos": 530,
+      "type": "match",
+      "ypos": 295,
+      "height": 56,
+      "width": 224
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "chromium-html5test"
+  ]
+}
