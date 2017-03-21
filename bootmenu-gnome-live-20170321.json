@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 182,
+      "height": 25,
+      "width": 262,
+      "type": "match",
+      "ypos": 170
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LIVECD-1",
+    "inst-bootmenu"
+  ]
+}
