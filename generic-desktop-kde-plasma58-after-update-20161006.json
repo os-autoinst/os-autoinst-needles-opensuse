@@ -17,6 +17,7 @@
   ],
   "tags": [
     "ENV-DESKTOP-kde",
+    "x11",
     "generic-desktop"
   ],
   "properties": []

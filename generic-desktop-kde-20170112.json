@@ -17,6 +17,7 @@
     }
   ],
   "tags": [
+    "x11",
     "generic-desktop",
     "ENV-DESKTOP-kde",
     "ENV-DISTRI-opensuse",

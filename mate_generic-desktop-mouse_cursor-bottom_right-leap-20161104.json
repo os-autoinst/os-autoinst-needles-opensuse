@@ -12,6 +12,7 @@
   "tags": [
     "ENV-DESKTOP-mate",
     "ENV-LEAP-1",
+    "x11",
     "generic-desktop"
   ]
 }

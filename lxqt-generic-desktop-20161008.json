@@ -2,6 +2,7 @@
   "properties": [],
   "tags": [
     "ENV-DESKTOP-lxqt",
+    "x11",
     "generic-desktop"
   ],
   "area": [

@@ -1,6 +1,7 @@
 {
   "properties": [],
   "tags": [
+    "x11",
     "generic-desktop",
     "reboot-after-installation",
     "ENV-DESKTOP-gnome",

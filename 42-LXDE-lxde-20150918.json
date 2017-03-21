@@ -15,6 +15,7 @@
     "ENV-INSTLANG-en_US",
     "LXDE",
     "booted",
+    "x11",
     "generic-desktop",
     "desktop-at-first-boot"
   ]
