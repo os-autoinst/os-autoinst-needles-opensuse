@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 356,
+      "ypos": 289,
+      "width": 250,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-overview-blocked"
+  ],
+  "properties": []
+}
