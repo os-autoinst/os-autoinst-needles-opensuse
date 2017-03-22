@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 523,
+      "width": 374,
+      "ypos": 214,
+      "type": "match",
+      "height": 14
+    },
+    {
+      "height": 13,
+      "type": "match",
+      "ypos": 214,
+      "xpos": 561,
+      "width": 326
+    }
+  ],
+  "tags": [
+    "test-sshxterm-1"
+  ],
+  "properties": []
+}
