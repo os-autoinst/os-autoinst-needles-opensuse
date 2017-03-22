@@ -7,6 +7,7 @@
     "XFCE",
     "booted",
     "desktop-at-first-boot",
+    "x11",
     "generic-desktop"
   ],
   "area": [

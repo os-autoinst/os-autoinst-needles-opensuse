@@ -4,6 +4,7 @@
     "ENV-DESKTOP-kde",
     "ENV-DISTRI-opensuse",
     "ENV-VERSION-42.2",
+    "x11",
     "generic-desktop"
   ],
   "area": [

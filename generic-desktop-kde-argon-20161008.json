@@ -20,6 +20,7 @@
     "ENV-DISTRI-opensuse",
     "ENV-FLAVOR-Argon-Live",
     "ENV-LIVECD-1",
+    "x11",
     "generic-desktop"
   ],
   "properties": []

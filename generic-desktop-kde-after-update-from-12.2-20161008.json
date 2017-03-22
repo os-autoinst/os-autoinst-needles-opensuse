@@ -3,6 +3,7 @@
   "tags": [
     "ENV-DESKTOP-kde",
     "ENV-VERSION-Tumbleweed",
+    "x11",
     "generic-desktop"
   ],
   "area": [
