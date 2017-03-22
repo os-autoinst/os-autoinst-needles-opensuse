@@ -1,6 +1,7 @@
 {
   "tags": [
     "ENV-DESKTOP-kde",
+    "x11",
     "generic-desktop"
   ],
   "area": [

@@ -14,6 +14,7 @@
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
     "desktop-at-first-boot",
+    "x11",
     "generic-desktop"
   ]
 }

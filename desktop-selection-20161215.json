@@ -10,6 +10,7 @@
   ],
   "tags": [
     "ENV-DISTRI-opensuse",
+    "installation",
     "before-package-selection",
     "desktop-selection",
     "inst-returned-to-yast"

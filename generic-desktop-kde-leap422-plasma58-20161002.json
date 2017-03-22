@@ -19,6 +19,7 @@
   "tags": [
     "ENV-DESKTOP-kde",
     "ENV-VERSION-42.2",
+    "x11",
     "generic-desktop"
   ]
 }
