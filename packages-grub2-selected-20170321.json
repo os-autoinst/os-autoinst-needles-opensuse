@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "packages-grub2-selected"
+  ],
+  "area": [
+    {
+      "xpos": 315,
+      "ypos": 144,
+      "width": 50,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}
