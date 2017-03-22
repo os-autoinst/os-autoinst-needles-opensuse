@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 167,
+      "height": 38,
+      "ypos": 158,
+      "xpos": 340,
+      "type": "match",
+      "match": 60
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "hexchat-nick-empty"
+  ],
+  "properties": []
+}
