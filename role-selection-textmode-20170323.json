@@ -1,4 +1,5 @@
 {
+  "properties": [],
   "tags": [
     "ENV-DESKTOP-textmode",
     "before-role-selection",
@@ -8,12 +9,11 @@
   ],
   "area": [
     {
-      "height": 143,
-      "type": "match",
       "ypos": 315,
+      "width": 1008,
       "xpos": 5,
-      "width": 1008
+      "height": 143,
+      "type": "match"
     }
-  ],
-  "properties": []
+  ]
 }
