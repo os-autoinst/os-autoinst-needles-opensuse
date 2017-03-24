@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "pattern-lxde-selected"
+  ],
+  "area": [
+    {
+      "xpos": 32,
+      "ypos": 395,
+      "width": 237,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 34,
+      "ypos": 397,
+      "width": 24,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}
