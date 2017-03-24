@@ -1,0 +1,42 @@
+{
+  "area": [
+    {
+      "height": 363,
+      "type": "match",
+      "ypos": 32,
+      "width": 64,
+      "xpos": 0,
+      "match": 80
+    },
+    {
+      "type": "match",
+      "height": 36,
+      "xpos": 105,
+      "width": 68,
+      "ypos": 107,
+      "match": 80
+    },
+    {
+      "ypos": 148,
+      "xpos": 125,
+      "width": 141,
+      "height": 20,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "type": "match",
+      "height": 25,
+      "width": 125,
+      "xpos": 130,
+      "ypos": 226,
+      "match": 80
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-LIVETEST-1",
+    "kontact-window"
+  ],
+  "properties": []
+}
