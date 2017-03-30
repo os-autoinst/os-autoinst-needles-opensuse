@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 243,
+      "type": "match",
+      "ypos": 334,
+      "height": 18,
+      "width": 106
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-42.1",
+    "gedit-save-changes"
+  ],
+  "properties": []
+}
