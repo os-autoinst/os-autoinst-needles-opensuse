@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_firewall_interface_no-zone_assigned"
+  ],
+  "area": [
+    {
+      "width": 124,
+      "height": 21,
+      "ypos": 379,
+      "type": "match",
+      "xpos": 459,
+      "match": 80
+    }
+  ]
+}
