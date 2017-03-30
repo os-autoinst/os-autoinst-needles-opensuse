@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ENV-BACKEND-s390x",
+    "install-shell"
+  ],
+  "area": [
+    {
+      "xpos": 147,
+      "ypos": 145,
+      "width": 43,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
