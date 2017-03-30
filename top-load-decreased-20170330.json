@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 133,
+      "height": 13,
+      "ypos": 1,
+      "type": "match",
+      "xpos": 298,
+      "match": 100
+    }
+  ],
+  "tags": [
+    "top-load-decreased"
+  ]
+}
