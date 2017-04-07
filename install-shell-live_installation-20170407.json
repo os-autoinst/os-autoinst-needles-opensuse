@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-LIVECD-1",
+    "ENV-LIVE_INSTALLATION-1",
+    "install-shell"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 12,
+      "width": 696,
+      "ypos": 752,
+      "xpos": 273
+    }
+  ]
+}
