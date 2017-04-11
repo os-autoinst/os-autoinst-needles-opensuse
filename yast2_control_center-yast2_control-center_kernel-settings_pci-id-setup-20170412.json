@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_kernel-settings_pci-id-setup"
+  ],
+  "area": [
+    {
+      "xpos": 78,
+      "ypos": 107,
+      "width": 122,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

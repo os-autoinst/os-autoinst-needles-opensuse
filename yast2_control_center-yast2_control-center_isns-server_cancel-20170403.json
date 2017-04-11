@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_isns-server_cancel"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 371,
+      "ypos": 419,
+      "width": 96,
+      "height": 36,
+      "type": "match"
+    }
+  ]
+}

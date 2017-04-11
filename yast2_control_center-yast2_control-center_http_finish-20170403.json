@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_http_finish"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 22,
+      "ypos": 72,
+      "width": 189,
+      "height": 26,
+      "type": "match"
+    }
+  ]
+}

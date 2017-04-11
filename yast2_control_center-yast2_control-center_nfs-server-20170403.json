@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_nfs-server"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 570,
+      "ypos": 272,
+      "width": 112,
+      "height": 44,
+      "type": "match"
+    }
+  ]
+}

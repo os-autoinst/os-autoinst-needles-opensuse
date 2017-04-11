@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_control-center-dns-server-installation_forwarder-setting"
+  ],
+  "area": [
+    {
+      "xpos": 522,
+      "ypos": 617,
+      "width": 95,
+      "height": 40,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 406,
+      "ypos": 238,
+      "width": 71,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_install-hypervisor-and-tools_cancel"
+  ],
+  "properties": []
+}
