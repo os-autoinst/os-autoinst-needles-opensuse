@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_vpn-gateway-client"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 436,
+      "ypos": 272,
+      "width": 209,
+      "height": 38,
+      "type": "match"
+    }
+  ]
+}

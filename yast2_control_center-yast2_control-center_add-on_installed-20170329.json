@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_control-center_add-on_installed"
+  ],
+  "area": [
+    {
+      "xpos": 15,
+      "ypos": 71,
+      "width": 196,
+      "height": 28,
+      "type": "match"
+    }
+  ]
+}

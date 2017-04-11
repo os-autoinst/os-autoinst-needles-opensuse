@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_control-center_iscsi-initiator"
+  ],
+  "area": [
+    {
+      "xpos": 469,
+      "ypos": 277,
+      "width": 99,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}

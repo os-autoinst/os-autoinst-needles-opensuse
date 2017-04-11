@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 17,
+      "ypos": 70,
+      "width": 170,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_remote-administration_configuration"
+  ]
+}

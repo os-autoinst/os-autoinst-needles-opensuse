@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_control-center_iscsi-initiator_cancel"
+  ],
+  "area": [
+    {
+      "xpos": 60,
+      "ypos": 106,
+      "width": 93,
+      "height": 31,
+      "type": "match"
+    }
+  ]
+}

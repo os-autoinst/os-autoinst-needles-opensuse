@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 436,
+      "ypos": 272,
+      "width": 207,
+      "height": 46,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_apparmor-configuration"
+  ]
+}

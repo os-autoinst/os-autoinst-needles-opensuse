@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_hardware"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 245,
+      "ypos": 338,
+      "width": 80,
+      "height": 29,
+      "type": "match"
+    }
+  ]
+}

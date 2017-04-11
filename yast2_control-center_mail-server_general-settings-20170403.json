@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 75,
+      "width": 134,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center_mail-server_general-settings"
+  ]
+}

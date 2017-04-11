@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_tftp-server-configuration_cancel"
+  ],
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 76,
+      "width": 201,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

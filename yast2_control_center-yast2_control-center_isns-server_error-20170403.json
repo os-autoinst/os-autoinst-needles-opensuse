@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_control-center_isns-server_error"
+  ],
+  "area": [
+    {
+      "xpos": 431,
+      "ypos": 391,
+      "width": 108,
+      "height": 39,
+      "type": "match"
+    }
+  ]
+}
