@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 51,
+      "ypos": 717,
+      "width": 119,
+      "type": "match",
+      "xpos": 0
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "yast-still-running"
+  ],
+  "properties": []
+}
