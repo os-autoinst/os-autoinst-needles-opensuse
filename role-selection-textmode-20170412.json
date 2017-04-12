@@ -1,0 +1,19 @@
+{
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "before-role-selection",
+    "desktop-selection",
+    "inst-returned-to-yast",
+    "installation"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 1008,
+      "ypos": 262,
+      "height": 228,
+      "type": "match",
+      "xpos": 5
+    }
+  ]
+}
