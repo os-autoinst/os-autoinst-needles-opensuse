@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 360,
+      "width": 65,
+      "ypos": 431,
+      "height": 20
+    }
+  ],
+  "tags": [
+    "custom-selected"
+  ],
+  "properties": []
+}
