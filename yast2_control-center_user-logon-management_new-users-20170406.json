@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_user-logon-management_new-users"
+  ],
+  "area": [
+    {
+      "xpos": 701,
+      "ypos": 615,
+      "width": 90,
+      "height": 41,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

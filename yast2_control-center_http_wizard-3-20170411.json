@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_http_wizard-3"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 20,
+      "ypos": 68,
+      "width": 290,
+      "height": 41,
+      "type": "match"
+    }
+  ]
+}

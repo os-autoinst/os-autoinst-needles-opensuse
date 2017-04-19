@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 436,
+      "ypos": 272,
+      "width": 240,
+      "height": 38,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_windows-domain-membership"
+  ],
+  "properties": []
+}

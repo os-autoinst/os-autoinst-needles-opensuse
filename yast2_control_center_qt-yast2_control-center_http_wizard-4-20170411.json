@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 72,
+      "width": 299,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center_http_wizard-4"
+  ]
+}

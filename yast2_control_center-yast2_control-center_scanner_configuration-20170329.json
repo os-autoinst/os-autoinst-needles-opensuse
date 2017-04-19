@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 12,
+      "ypos": 68,
+      "width": 174,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center_scanner_configuration"
+  ]
+}

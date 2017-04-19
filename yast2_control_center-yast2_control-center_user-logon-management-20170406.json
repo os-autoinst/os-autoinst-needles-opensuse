@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 436,
+      "ypos": 351,
+      "width": 233,
+      "height": 41,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center_user-logon-management"
+  ]
+}

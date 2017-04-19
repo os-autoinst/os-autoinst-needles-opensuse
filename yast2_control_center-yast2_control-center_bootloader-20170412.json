@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 437,
+      "ypos": 272,
+      "width": 141,
+      "height": 38,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_bootloader"
+  ]
+}

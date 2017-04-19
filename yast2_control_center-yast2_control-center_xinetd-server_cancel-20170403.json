@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 606,
+      "ypos": 616,
+      "width": 98,
+      "height": 41,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_xinetd-server_cancel"
+  ],
+  "properties": []
+}

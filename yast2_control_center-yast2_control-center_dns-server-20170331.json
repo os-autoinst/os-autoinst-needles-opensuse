@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_dns-server"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 437,
+      "ypos": 352,
+      "width": 117,
+      "height": 41,
+      "type": "match"
+    }
+  ]
+}
