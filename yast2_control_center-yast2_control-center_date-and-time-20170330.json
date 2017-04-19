@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 435,
+      "ypos": 385,
+      "width": 156,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_date-and-time"
+  ],
+  "properties": []
+}

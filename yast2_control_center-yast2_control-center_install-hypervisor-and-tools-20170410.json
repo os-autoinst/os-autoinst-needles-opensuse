@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_install-hypervisor-and-tools"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 436,
+      "ypos": 272,
+      "width": 227,
+      "height": 42,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_control-center_ftp-start-up"
+  ],
+  "area": [
+    {
+      "xpos": 291,
+      "ypos": 71,
+      "width": 114,
+      "height": 31,
+      "type": "match"
+    }
+  ]
+}
