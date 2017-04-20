@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "test-kate-2",
+    "ENV-DESKTOP-kde"
+  ],
+  "area": [
+    {
+      "xpos": 49,
+      "type": "match",
+      "ypos": 271,
+      "height": 16,
+      "width": 299
+    }
+  ]
+}
