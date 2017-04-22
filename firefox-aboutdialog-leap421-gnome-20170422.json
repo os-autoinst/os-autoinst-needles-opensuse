@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 274,
+      "width": 613,
+      "height": 61,
+      "xpos": 206
+    },
+    {
+      "height": 15,
+      "width": 174,
+      "type": "match",
+      "ypos": 38,
+      "xpos": 401
+    },
+    {
+      "xpos": 204,
+      "height": 165,
+      "width": 613,
+      "ypos": 402,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-LEAP-1",
+    "test-firefox-3"
+  ]
+}
