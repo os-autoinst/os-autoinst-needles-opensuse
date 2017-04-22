@@ -1,0 +1,31 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "ENV-LEAP-1",
+    "test-firefox-3"
+  ],
+  "area": [
+    {
+      "height": 61,
+      "width": 613,
+      "type": "match",
+      "ypos": 243,
+      "xpos": 207
+    },
+    {
+      "xpos": 467,
+      "height": 15,
+      "width": 159,
+      "type": "match",
+      "ypos": 326
+    },
+    {
+      "type": "match",
+      "ypos": 362,
+      "height": 165,
+      "width": 613,
+      "xpos": 206
+    }
+  ]
+}
