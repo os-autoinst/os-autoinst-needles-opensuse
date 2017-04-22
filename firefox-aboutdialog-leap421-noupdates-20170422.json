@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-LEAP-1",
+    "test-firefox-3"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 240,
+      "type": "match",
+      "width": 613,
+      "height": 61,
+      "xpos": 210
+    },
+    {
+      "width": 159,
+      "height": 15,
+      "type": "match",
+      "ypos": 529,
+      "xpos": 457
+    },
+    {
+      "xpos": 209,
+      "width": 613,
+      "height": 165,
+      "ypos": 359,
+      "type": "match"
+    }
+  ]
+}
