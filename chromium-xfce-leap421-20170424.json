@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "chromium-main-window"
+  ],
+  "area": [
+    {
+      "xpos": 138,
+      "width": 479,
+      "height": 96,
+      "type": "match",
+      "ypos": 52
+    }
+  ]
+}
