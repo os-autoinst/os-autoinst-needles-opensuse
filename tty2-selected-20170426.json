@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "text-logged-in-root",
+    "text-login",
+    "tty2-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 12,
+      "height": 23,
+      "width": 51,
+      "xpos": 534
+    },
+    {
+      "width": 80,
+      "height": 14,
+      "type": "match",
+      "ypos": 17,
+      "xpos": 2
+    }
+  ]
+}
