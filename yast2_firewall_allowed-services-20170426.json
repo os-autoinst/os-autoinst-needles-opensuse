@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 149,
+      "type": "match",
+      "height": 21,
+      "width": 128,
+      "xpos": 138
+    }
+  ],
+  "tags": [
+    "yast2_firewall_allowed-services"
+  ],
+  "properties": []
+}
