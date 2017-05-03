@@ -1,20 +1,19 @@
 {
   "properties": [],
   "tags": [
-    "ENV-LIVE_INSTALLATION-1",
     "before-role-selection",
     "desktop-selection",
-    "inst-returned-to-yast",
-    "installation"
+    "installation",
+    "no-default-desktop"
   ],
   "area": [
     {
-      "height": 90,
-      "ypos": 326,
+      "xpos": 342,
+      "width": 213,
+      "ypos": 283,
+      "height": 174,
       "type": "match",
-      "match": 100,
-      "xpos": 341,
-      "width": 213
+      "match": 100
     },
     {
       "xpos": 95,
