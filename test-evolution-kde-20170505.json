@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "test-evolution-1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 197,
+      "ypos": 160,
+      "width": 84,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 356,
+      "ypos": 326,
+      "width": 462,
+      "height": 78,
+      "type": "match"
+    }
+  ]
+}
