@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-Tumbleweed",
+    "test-firefox-3"
+  ],
+  "area": [
+    {
+      "height": 138,
+      "xpos": 467,
+      "width": 335,
+      "type": "match",
+      "ypos": 323
+    }
+  ]
+}
