@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_firewall_broadcast_no-logging"
+  ],
+  "area": [
+    {
+      "xpos": 623,
+      "ypos": 195,
+      "width": 258,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
