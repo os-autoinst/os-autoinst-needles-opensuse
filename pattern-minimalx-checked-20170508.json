@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "pattern-minimalx-checked"
+  ],
+  "area": [
+    {
+      "xpos": 34,
+      "ypos": 620,
+      "width": 216,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}
