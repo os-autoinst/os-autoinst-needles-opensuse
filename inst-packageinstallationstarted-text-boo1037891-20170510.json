@@ -1,0 +1,21 @@
+{
+  "tags": [
+    "inst-packageinstallationstarted",
+    "ENV-VIDEOMODE-text",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "properties": [
+    "workaround",
+    "workaround"
+  ],
+  "area": [
+    {
+      "ypos": 0,
+      "type": "match",
+      "height": 48,
+      "width": 177,
+      "xpos": 0
+    }
+  ]
+}
