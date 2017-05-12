@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 210,
+      "xpos": 133,
+      "width": 118,
+      "height": 17
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_firewall_logging-level"
+  ]
+}

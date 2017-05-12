@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_firewall_custom-rules"
+  ],
+  "area": [
+    {
+      "xpos": 143,
+      "ypos": 231,
+      "width": 94,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
