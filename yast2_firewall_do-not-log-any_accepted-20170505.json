@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_firewall_do-not-log-any_accepted"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 413,
+      "ypos": 255,
+      "width": 123,
+      "height": 20,
+      "type": "match"
+    }
+  ]
+}
