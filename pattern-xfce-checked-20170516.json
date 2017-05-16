@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "pattern-xfce-checked"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 372,
+      "height": 25,
+      "xpos": 33,
+      "width": 246
+    }
+  ]
+}
