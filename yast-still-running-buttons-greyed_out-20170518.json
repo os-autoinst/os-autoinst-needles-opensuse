@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast-still-running"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 721,
+      "height": 41,
+      "xpos": 796,
+      "width": 77,
+      "type": "match"
+    }
+  ]
+}
