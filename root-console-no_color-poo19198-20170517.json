@@ -1,0 +1,18 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "root-console",
+    "log-console"
+  ],
+  "area": [
+    {
+      "ypos": 208,
+      "type": "match",
+      "height": 13,
+      "width": 34,
+      "xpos": 0
+    }
+  ]
+}
