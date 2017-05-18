@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_search_add"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 277,
+      "width": 121,
+      "height": 28,
+      "xpos": 469
+    }
+  ]
+}
