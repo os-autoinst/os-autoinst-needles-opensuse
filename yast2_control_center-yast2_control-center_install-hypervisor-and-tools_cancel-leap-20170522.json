@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_control-center_install-hypervisor-and-tools_cancel"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 34,
+      "xpos": 583,
+      "type": "match",
+      "ypos": 532,
+      "width": 97
+    }
+  ]
+}

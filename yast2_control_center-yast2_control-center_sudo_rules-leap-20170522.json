@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 75,
+      "width": 104,
+      "xpos": 442,
+      "height": 24
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_control-center_sudo_rules"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 177,
+      "type": "match",
+      "ypos": 274,
+      "height": 35,
+      "xpos": 437
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_control-sysconfig-editor"
+  ]
+}
