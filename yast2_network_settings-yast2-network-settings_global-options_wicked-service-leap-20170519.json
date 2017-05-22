@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 859,
+      "height": 18,
+      "ypos": 233,
+      "type": "match",
+      "width": 19
+    }
+  ],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2-network-settings_global-options_wicked-service"
+  ]
+}
