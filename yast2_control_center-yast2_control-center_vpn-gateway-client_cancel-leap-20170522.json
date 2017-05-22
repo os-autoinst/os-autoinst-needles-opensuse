@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_control-center_vpn-gateway-client_cancel"
+  ],
+  "area": [
+    {
+      "xpos": 601,
+      "ypos": 623,
+      "width": 99,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

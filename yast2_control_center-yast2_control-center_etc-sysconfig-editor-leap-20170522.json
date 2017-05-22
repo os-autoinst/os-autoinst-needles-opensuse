@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_control-center_etc-sysconfig-editor"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 147,
+      "ypos": 74,
+      "xpos": 304,
+      "height": 28
+    }
+  ],
+  "properties": []
+}

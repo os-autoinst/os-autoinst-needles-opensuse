@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "xpos": 79,
+      "type": "match",
+      "width": 122,
+      "ypos": 108
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_control-center_kernel-settings_pci-id-setup"
+  ]
+}

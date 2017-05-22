@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 142,
+      "ypos": 272,
+      "xpos": 436,
+      "height": 40
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_control-center-kernel-settings"
+  ]
+}

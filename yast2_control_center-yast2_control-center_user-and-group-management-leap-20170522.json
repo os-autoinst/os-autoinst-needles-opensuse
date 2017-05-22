@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 237,
+      "ypos": 272,
+      "height": 37,
+      "xpos": 437
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_control-center_user-and-group-management"
+  ]
+}
