@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 14,
+      "type": "match",
+      "ypos": 368,
+      "xpos": 284,
+      "height": 17
+    }
+  ],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2-network-settings_hostname-dns_set-via-dhcp"
+  ]
+}

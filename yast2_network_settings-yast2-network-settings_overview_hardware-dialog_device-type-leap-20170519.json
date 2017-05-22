@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 464,
+      "ypos": 251,
+      "width": 14,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2-network-settings_overview_hardware-dialog_device-type"
+  ]
+}
