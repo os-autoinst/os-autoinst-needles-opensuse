@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 174,
+      "ypos": 69,
+      "type": "match",
+      "height": 32,
+      "xpos": 294
+    }
+  ],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_control-center_printer_configurations"
+  ],
+  "properties": []
+}
