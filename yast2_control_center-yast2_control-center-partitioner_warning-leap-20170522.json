@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 234,
+      "type": "match",
+      "width": 96,
+      "height": 35,
+      "xpos": 167
+    }
+  ],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_control-center-partitioner_warning"
+  ]
+}
