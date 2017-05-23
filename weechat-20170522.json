@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "weechat"
+  ],
+  "area": [
+    {
+      "xpos": 168,
+      "ypos": 23,
+      "width": 417,
+      "height": 68,
+      "type": "match",
+      "match": 80
+    }
+  ]
+}
