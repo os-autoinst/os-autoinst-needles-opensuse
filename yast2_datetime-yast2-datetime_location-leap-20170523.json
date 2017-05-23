@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2-datetime_location"
+  ],
+  "area": [
+    {
+      "xpos": 505,
+      "ypos": 306,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
