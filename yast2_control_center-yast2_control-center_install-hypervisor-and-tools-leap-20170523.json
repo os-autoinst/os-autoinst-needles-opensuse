@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_control-center_install-hypervisor-and-tools"
+  ],
+  "area": [
+    {
+      "xpos": 435,
+      "ypos": 272,
+      "width": 229,
+      "height": 39,
+      "type": "match"
+    }
+  ]
+}
