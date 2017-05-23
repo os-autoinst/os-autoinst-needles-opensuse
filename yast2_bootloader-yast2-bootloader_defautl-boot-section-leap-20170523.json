@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 352,
+      "height": 20,
+      "width": 73,
+      "xpos": 262,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2-bootloader_defautl-boot-section_tw"
+  ]
+}
