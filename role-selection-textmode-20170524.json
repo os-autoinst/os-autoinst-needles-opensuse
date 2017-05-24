@@ -1,0 +1,19 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 262,
+      "type": "match",
+      "height": 228,
+      "width": 1008,
+      "xpos": 5
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "before-role-selection",
+    "desktop-selection",
+    "inst-returned-to-yast",
+    "installation"
+  ]
+}
