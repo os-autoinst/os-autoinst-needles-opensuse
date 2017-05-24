@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 18,
+      "type": "match",
+      "ypos": 315,
+      "width": 98,
+      "xpos": 413
+    }
+  ],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_firewall_service_http_addded"
+  ]
+}
