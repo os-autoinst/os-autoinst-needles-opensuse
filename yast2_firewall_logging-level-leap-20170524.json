@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_firewall_logging-level"
+  ],
+  "area": [
+    {
+      "width": 118,
+      "xpos": 133,
+      "height": 20,
+      "type": "match",
+      "ypos": 221
+    }
+  ],
+  "properties": []
+}
