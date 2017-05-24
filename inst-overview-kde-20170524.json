@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "inst-overview"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 273,
+      "width": 356,
+      "xpos": 384,
+      "height": 90,
+      "type": "match"
+    }
+  ]
+}
