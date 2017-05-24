@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_firewall_do-not-log-any_accepted"
+  ],
+  "area": [
+    {
+      "width": 123,
+      "xpos": 422,
+      "type": "match",
+      "height": 20,
+      "ypos": 186
+    }
+  ]
+}
