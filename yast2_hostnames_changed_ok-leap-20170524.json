@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_hostnames_changed_ok"
+  ],
+  "area": [
+    {
+      "width": 89,
+      "xpos": 524,
+      "height": 35,
+      "type": "match",
+      "ypos": 486
+    }
+  ],
+  "properties": []
+}
