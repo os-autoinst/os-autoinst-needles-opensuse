@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2-lang_secondary-language"
+  ],
+  "area": [
+    {
+      "height": 21,
+      "width": 64,
+      "type": "match",
+      "ypos": 581,
+      "xpos": 147
+    }
+  ]
+}
