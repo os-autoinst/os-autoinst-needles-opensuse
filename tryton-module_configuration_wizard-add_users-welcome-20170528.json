@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 120,
+      "ypos": 209,
+      "width": 93,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "tryton-module_configuration_wizard-add_users-welcome"
+  ]
+}

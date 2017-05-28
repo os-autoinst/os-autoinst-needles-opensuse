@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "tryton-manage_profiles-add"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 290,
+      "ypos": 467,
+      "width": 65,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}

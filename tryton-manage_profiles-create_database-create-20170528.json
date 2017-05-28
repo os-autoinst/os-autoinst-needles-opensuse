@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "tryton-manage_profiles-create_database-create"
+  ],
+  "area": [
+    {
+      "xpos": 657,
+      "ypos": 568,
+      "width": 69,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

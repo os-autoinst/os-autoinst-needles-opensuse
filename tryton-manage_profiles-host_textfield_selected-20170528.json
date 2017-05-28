@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "tryton-manage_profiles-host_textfield_selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 482,
+      "ypos": 252,
+      "width": 117,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}
