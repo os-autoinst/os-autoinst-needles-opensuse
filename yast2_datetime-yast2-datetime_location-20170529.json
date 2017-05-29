@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 555,
+      "ypos": 294,
+      "width": 13,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2-datetime_location"
+  ]
+}
