@@ -1,0 +1,37 @@
+{
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "inst-welcome",
+    "installation",
+    "languagepicked"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "type": "match",
+      "height": 96,
+      "width": 642
+    },
+    {
+      "xpos": 520,
+      "ypos": 99,
+      "width": 193,
+      "height": 31,
+      "type": "match"
+    },
+    {
+      "xpos": 22,
+      "ypos": 128,
+      "width": 156,
+      "height": 45,
+      "type": "match"
+    }
+  ]
+}
