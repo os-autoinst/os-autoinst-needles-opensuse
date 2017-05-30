@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 227,
+      "type": "match",
+      "ypos": 271,
+      "height": 36,
+      "xpos": 436
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "ast2_control-center_install-hypervisor-and-tools"
+  ]
+}

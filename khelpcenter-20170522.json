@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "test-khelpcenter-1",
+    "ENV-DESKTOP-kde"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 61,
+      "xpos": 235,
+      "width": 441,
+      "ypos": 156
+    }
+  ]
+}
