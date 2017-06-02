@@ -2,8 +2,9 @@
   "properties": [],
   "tags": [
     "ENV-DESKTOP-kde",
-    "x11",
-    "generic-desktop"
+    "ENV-VERSION-Tumbleweed",
+    "generic-desktop",
+    "x11"
   ],
   "area": [
     {
