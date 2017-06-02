@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "test-terminology-1"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 233,
+      "type": "match",
+      "width": 389,
+      "height": 30
+    }
+  ]
+}
