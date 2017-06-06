@@ -1,7 +1,8 @@
 {
   "tags": [
     "ENV-DESKTOP-gnome",
-    "chrome-default-browser-query"
+    "chrome-default-browser-query",
+    "chrome-default-browser-query-send-data"
   ],
   "properties": [],
   "area": [
