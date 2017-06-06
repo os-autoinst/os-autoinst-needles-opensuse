@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "dependancy-issue"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 261,
+      "ypos": 219,
+      "width": 286,
+      "height": 53,
+      "type": "match"
+    },
+    {
+      "xpos": 259,
+      "ypos": 215,
+      "width": 19,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}
