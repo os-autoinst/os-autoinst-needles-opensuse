@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "firefox-java-addonsmanager"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 36,
+      "type": "match",
+      "ypos": 174,
+      "xpos": 6,
+      "height": 39
+    },
+    {
+      "width": 242,
+      "height": 28,
+      "xpos": 391,
+      "type": "match",
+      "ypos": 30
+    }
+  ]
+}

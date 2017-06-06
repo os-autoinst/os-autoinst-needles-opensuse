@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-java-securityrun"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 592,
+      "ypos": 491,
+      "width": 38,
+      "height": 29,
+      "type": "match"
+    }
+  ]
+}
