@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "partitioning_raid-part_boot_added"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 258,
+      "height": 66,
+      "type": "match",
+      "xpos": 324,
+      "width": 122
+    },
+    {
+      "ypos": 264,
+      "type": "match",
+      "xpos": 520,
+      "height": 61,
+      "width": 86
+    }
+  ]
+}

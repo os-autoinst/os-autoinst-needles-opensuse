@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "partitioning_raid-disk_vda-selected",
+    "ENV-LEAP-1"
+  ],
+  "area": [
+    {
+      "ypos": 200,
+      "type": "match",
+      "height": 79,
+      "xpos": 83,
+      "width": 24
+    }
+  ],
+  "properties": []
+}

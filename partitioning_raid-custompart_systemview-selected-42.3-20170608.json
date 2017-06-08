@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "custompart_systemview-selected",
+    "ENV-LEAP-1"
+  ],
+  "area": [
+    {
+      "xpos": 21,
+      "ypos": 153,
+      "width": 78,
+      "height": 39,
+      "type": "match"
+    }
+  ]
+}

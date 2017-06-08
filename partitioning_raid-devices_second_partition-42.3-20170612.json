@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "partitioning_raid-devices_second_partition",
+    "ENV-LEAP-1"
+  ],
+  "area": [
+    {
+      "width": 87,
+      "xpos": 187,
+      "height": 89,
+      "ypos": 322,
+      "type": "match"
+    }
+  ]
+}

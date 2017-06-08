@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 78,
+      "xpos": 82,
+      "width": 25,
+      "ypos": 196
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "partitioning_raid-hard_disks-unfolded"
+  ]
+}
