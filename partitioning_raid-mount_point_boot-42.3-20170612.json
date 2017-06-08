@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "partitioning_raid-mount_point-_boot",
+    "ENV-LEAP-1"
+  ],
+  "area": [
+    {
+      "ypos": 349,
+      "type": "match",
+      "width": 151,
+      "height": 73,
+      "xpos": 534,
+      "match": 94
+    }
+  ],
+  "properties": []
+}

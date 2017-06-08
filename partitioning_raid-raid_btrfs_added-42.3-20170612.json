@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "partitioning_raid-raid_btrfs_added",
+    "ENV-LEAP-1"
+  ],
+  "area": [
+    {
+      "height": 104,
+      "xpos": 321,
+      "width": 55,
+      "ypos": 154,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 188,
+      "height": 64,
+      "xpos": 508,
+      "width": 126
+    }
+  ]
+}

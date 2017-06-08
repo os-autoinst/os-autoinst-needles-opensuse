@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "partitioning_raid-disk_vdc-selected",
+    "ENV-LEAP-1"
+  ],
+  "area": [
+    {
+      "ypos": 201,
+      "type": "match",
+      "xpos": 67,
+      "height": 79,
+      "width": 38
+    }
+  ],
+  "properties": []
+}

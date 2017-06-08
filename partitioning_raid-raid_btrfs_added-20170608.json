@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "partitioning_raid-raid_btrfs_added"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 321,
+      "height": 104,
+      "width": 55,
+      "ypos": 144
+    },
+    {
+      "ypos": 184,
+      "xpos": 513,
+      "type": "match",
+      "height": 64,
+      "width": 126
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 152,
+      "width": 85,
+      "type": "match",
+      "height": 64,
+      "xpos": 66
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "partitioning_raid-hard_disks-selected"
+  ]
+}

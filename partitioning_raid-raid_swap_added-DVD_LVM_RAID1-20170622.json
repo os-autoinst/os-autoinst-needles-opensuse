@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 322,
+      "type": "match",
+      "ypos": 186,
+      "width": 53,
+      "height": 110
+    },
+    {
+      "xpos": 522,
+      "ypos": 187,
+      "type": "match",
+      "width": 125,
+      "height": 110
+    }
+  ],
+  "tags": [
+    "partitioning_raid-raid_swap_added-lvm"
+  ]
+}

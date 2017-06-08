@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "partitioning_raid-part_root_added",
+    "ENV-LEAP-1"
+  ],
+  "area": [
+    {
+      "width": 124,
+      "height": 83,
+      "xpos": 323,
+      "type": "match",
+      "ypos": 270
+    },
+    {
+      "height": 83,
+      "xpos": 516,
+      "width": 86,
+      "type": "match",
+      "ypos": 270
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 87,
+      "height": 89,
+      "type": "match",
+      "xpos": 187,
+      "ypos": 311
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "partitioning_raid-devices_second_partition"
+  ]
+}
