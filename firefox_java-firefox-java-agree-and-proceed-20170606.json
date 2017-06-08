@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 118,
+      "ypos": 311,
+      "width": 101,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox-java-agree-and-proceed"
+  ]
+}

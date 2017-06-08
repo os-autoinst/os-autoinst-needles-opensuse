@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-reader-close"
+  ],
+  "area": [
+    {
+      "xpos": 537,
+      "ypos": 126,
+      "width": 20,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

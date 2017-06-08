@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-java-run_confirm"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 621,
+      "ypos": 615,
+      "width": 64,
+      "height": 29,
+      "type": "match"
+    }
+  ]
+}

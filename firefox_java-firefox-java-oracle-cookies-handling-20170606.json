@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 117,
+      "ypos": 311,
+      "width": 107,
+      "height": 38,
+      "type": "match"
+    },
+    {
+      "xpos": 782,
+      "ypos": 316,
+      "width": 122,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "oracle-cookies-handling"
+  ]
+}
