@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "desktop-not-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 318,
+      "ypos": 353,
+      "type": "match",
+      "width": 385,
+      "height": 31
+    }
+  ]
+}
