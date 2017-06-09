@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 31,
+      "type": "match",
+      "height": 15,
+      "width": 222,
+      "xpos": 13
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "repo-list"
+  ]
+}
