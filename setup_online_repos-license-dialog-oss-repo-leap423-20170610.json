@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-42.3",
+    "ENV-VIDEOMODE-text",
+    "license-dialog-oss-repo"
+  ],
+  "area": [
+    {
+      "width": 338,
+      "height": 29,
+      "ypos": 24,
+      "type": "match",
+      "xpos": 7
+    },
+    {
+      "xpos": 38,
+      "type": "match",
+      "ypos": 110,
+      "width": 166,
+      "height": 39
+    }
+  ]
+}
