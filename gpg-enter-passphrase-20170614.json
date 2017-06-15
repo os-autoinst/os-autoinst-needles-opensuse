@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "gpg-enter-passphrase"
+  ],
+  "area": [
+    {
+      "xpos": 302,
+      "width": 84,
+      "height": 19,
+      "type": "match",
+      "ypos": 382
+    }
+  ],
+  "properties": []
+}
