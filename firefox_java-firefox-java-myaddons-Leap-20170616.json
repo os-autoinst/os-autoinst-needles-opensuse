@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 352,
+      "width": 133,
+      "type": "match",
+      "height": 30,
+      "ypos": 248
+    }
+  ],
+  "tags": [
+    "firefox-java-myaddons"
+  ],
+  "properties": []
+}
