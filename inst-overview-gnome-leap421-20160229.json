@@ -13,6 +13,7 @@
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-opensuse",
     "ENV-VERSION-42.1",
-    "inst-overview"
+    "inst-overview",
+    "installation-settings-overview-loaded"
   ]
 }
