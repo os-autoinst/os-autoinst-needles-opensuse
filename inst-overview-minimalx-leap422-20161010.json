@@ -13,7 +13,8 @@
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
     "ENV-VERSION-42.2",
-    "inst-overview"
+    "inst-overview",
+    "installation-settings-overview-loaded"
   ],
   "properties": []
 }

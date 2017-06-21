@@ -1,6 +1,7 @@
 {
   "tags": [
     "inst-overview",
+    "installation-settings-overview-loaded",
     "ENV-DESKTOP-xfce",
     "ENV-DISTRI-opensuse"
   ],
@@ -21,4 +22,4 @@
     }
   ],
   "properties": []
-}
+}
