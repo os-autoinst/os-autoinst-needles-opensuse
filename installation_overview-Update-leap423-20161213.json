@@ -1,7 +1,8 @@
 {
   "tags": [
     "ENV-VERSION-42.3",
-    "inst-overview"
+    "inst-overview",
+    "installation-settings-overview-loaded"
   ],
   "properties": [],
   "area": [
@@ -13,4 +14,4 @@
       "width": 361
     }
   ]
-}
+}

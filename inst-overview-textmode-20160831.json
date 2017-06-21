@@ -12,7 +12,8 @@
     "inst-overview",
     "ENV-DESKTOP-textmode",
     "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US"
+    "ENV-INSTLANG-en_US",
+    "installation-settings-overview-loaded"
   ],
   "properties": []
-}
+}

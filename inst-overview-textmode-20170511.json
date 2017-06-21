@@ -2,6 +2,7 @@
   "properties": [],
   "tags": [
     "inst-overview",
+    "installation-settings-overview-loaded",
     "ENV-DESKTOP-textmode",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US"
@@ -15,4 +16,4 @@
       "xpos": 23
     }
   ]
-}
+}

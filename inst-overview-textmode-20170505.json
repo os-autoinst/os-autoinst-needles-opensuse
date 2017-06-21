@@ -11,7 +11,8 @@
   "tags": [
     "ENV-DESKTOP-textmode",
     "ENV-VERSION-42.2",
-    "inst-overview"
+    "inst-overview",
+    "installation-settings-overview-loaded"
   ],
   "properties": []
-}
+}

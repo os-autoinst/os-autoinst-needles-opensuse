@@ -2,7 +2,8 @@
   "properties": [],
   "tags": [
     "ENV-DISTRI-opensuse",
-    "inst-overview"
+    "inst-overview",
+    "installation-settings-overview-loaded"
   ],
   "area": [
     {
@@ -13,4 +14,4 @@
       "width": 439
     }
   ]
-}
+}
