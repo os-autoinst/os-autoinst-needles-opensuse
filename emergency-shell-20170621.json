@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "emergency-shell"
+  ],
+  "area": [
+    {
+      "height": 83,
+      "xpos": 0,
+      "ypos": 64,
+      "type": "match",
+      "width": 575
+    }
+  ],
+  "properties": []
+}
