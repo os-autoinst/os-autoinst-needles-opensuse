@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 534,
+      "width": 151,
+      "height": 73,
+      "ypos": 348,
+      "match": 94
+    }
+  ],
+  "tags": [
+    "partitioning_raid-mount_point-_boot",
+    "ENV-VERSION-Tumbleweed"
+  ],
+  "properties": []
+}

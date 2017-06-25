@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "ypos": 189,
+      "type": "match",
+      "height": 105,
+      "xpos": 321,
+      "width": 55
+    },
+    {
+      "type": "match",
+      "ypos": 186,
+      "xpos": 514,
+      "height": 109,
+      "width": 129
+    },
+    {
+      "width": 74,
+      "xpos": 704,
+      "height": 108,
+      "ypos": 187,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partitioning_raid-raid_swap_added",
+    "ENV-LEAP-1"
+  ],
+  "properties": []
+}

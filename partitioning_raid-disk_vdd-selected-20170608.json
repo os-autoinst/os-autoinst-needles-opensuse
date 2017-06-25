@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "partitioning_raid-disk_vdd-selected"
+  ],
+  "area": [
+    {
+      "ypos": 200,
+      "type": "match",
+      "xpos": 67,
+      "height": 73,
+      "width": 38
+    }
+  ]
+}
