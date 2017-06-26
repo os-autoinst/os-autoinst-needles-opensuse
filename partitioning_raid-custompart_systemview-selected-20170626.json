@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 21,
+      "ypos": 153,
+      "width": 78,
+      "height": 39
+    }
+  ],
+  "tags": [
+    "custompart_systemview-selected",
+    "ENV-VERSION-Tumbleweed"
+  ],
+  "properties": []
+}
