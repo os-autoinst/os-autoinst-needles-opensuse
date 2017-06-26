@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 721,
+      "height": 41,
+      "width": 77,
+      "type": "match",
+      "xpos": 867
+    }
+  ],
+  "tags": [
+    "yast-still-running"
+  ]
+}
