@@ -1,0 +1,31 @@
+{
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "repo-list",
+    "repo-list-low_memory_warning"
+  ],
+  "area": [
+    {
+      "height": 16,
+      "width": 217,
+      "ypos": 31,
+      "type": "match",
+      "xpos": 14
+    },
+    {
+      "ypos": 79,
+      "width": 169,
+      "height": 16,
+      "xpos": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 232,
+      "ypos": 268,
+      "width": 177,
+      "height": 41,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
