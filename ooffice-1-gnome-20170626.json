@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "test-ooffice-1"
+  ],
+  "area": [
+    {
+      "xpos": 3,
+      "type": "match",
+      "ypos": 64,
+      "height": 220,
+      "width": 509
+    }
+  ],
+  "properties": []
+}
