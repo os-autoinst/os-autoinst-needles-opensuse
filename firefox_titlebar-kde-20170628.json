@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox_titlebar"
+  ],
+  "area": [
+    {
+      "xpos": 640,
+      "ypos": 3,
+      "width": 104,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
