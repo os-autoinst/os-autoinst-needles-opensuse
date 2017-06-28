@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "gnucash-save-changes"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 257,
+      "ypos": 322,
+      "width": 504,
+      "height": 147
+    }
+  ],
+  "properties": []
+}
