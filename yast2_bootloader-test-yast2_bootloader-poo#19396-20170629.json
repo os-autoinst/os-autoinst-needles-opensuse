@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 23,
+      "width": 452,
+      "height": 25,
+      "ypos": 35
+    },
+    {
+      "xpos": 41,
+      "ypos": 132,
+      "width": 217,
+      "height": 51,
+      "type": "match"
+    },
+    {
+      "xpos": 1,
+      "ypos": 2,
+      "width": 250,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-OFW",
+    "test-yast2_bootloader-1"
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
