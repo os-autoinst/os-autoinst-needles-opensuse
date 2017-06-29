@@ -1,32 +1,32 @@
 {
-  "area": [
-    {
-      "type": "match",
-      "xpos": 23,
-      "width": 452,
-      "height": 25,
-      "ypos": 35
-    },
-    {
-      "xpos": 41,
-      "ypos": 132,
-      "width": 217,
-      "height": 51,
-      "type": "match"
-    },
-    {
-      "xpos": 1,
-      "ypos": 2,
-      "width": 250,
-      "height": 12,
-      "type": "match"
-    }
-  ],
-  "tags": [
-    "ENV-OFW",
-    "test-yast2_bootloader-1"
-  ],
   "properties": [
     "workaround"
+  ],
+  "tags": [
+    "ENV-OFW-1",
+    "test-yast2_bootloader-1"
+  ],
+  "area": [
+    {
+      "xpos": 25,
+      "type": "match",
+      "ypos": 33,
+      "width": 451,
+      "height": 28
+    },
+    {
+      "xpos": 42,
+      "ypos": 130,
+      "width": 214,
+      "height": 52,
+      "type": "match"
+    },
+    {
+      "xpos": 8,
+      "ypos": 2,
+      "width": 237,
+      "height": 14,
+      "type": "match"
+    }
   ]
 }
