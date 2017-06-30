@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-OFW-1",
+    "test-yast2_bootloader-1"
+  ],
+  "area": [
+    {
+      "ypos": 27,
+      "height": 272,
+      "width": 638,
+      "type": "match",
+      "xpos": 8
+    }
+  ]
+}
