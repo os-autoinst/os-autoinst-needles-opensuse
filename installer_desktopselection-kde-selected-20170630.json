@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 172,
+      "height": 18,
+      "ypos": 322,
+      "type": "match",
+      "xpos": 351,
+      "match": 100
+    }
+  ],
+  "tags": [
+    "kde-selected"
+  ],
+  "properties": []
+}
