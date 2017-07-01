@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 355,
+      "width": 146,
+      "height": 21,
+      "type": "match",
+      "xpos": 353
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "gnome-selected"
+  ]
+}
