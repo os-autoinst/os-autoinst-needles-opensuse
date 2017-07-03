@@ -1,0 +1,18 @@
+{
+  "properties": [
+    "workaround",
+    "workaround"
+  ],
+  "area": [
+    {
+      "height": 215,
+      "type": "match",
+      "ypos": 266,
+      "xpos": 484,
+      "width": 56
+    }
+  ],
+  "tags": [
+    "enlightenment_keybindings"
+  ]
+}
