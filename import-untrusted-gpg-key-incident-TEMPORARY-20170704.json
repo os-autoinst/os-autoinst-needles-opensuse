@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 342,
+      "height": 72,
+      "width": 467,
+      "xpos": 427,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "import-untrusted-gpg-key-tiwai"
+  ],
+  "properties": []
+}
