@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 346,
+      "type": "match",
+      "height": 51,
+      "xpos": 417,
+      "width": 187
+    }
+  ],
+  "tags": [
+    "enlightenment_windowfocus"
+  ]
+}
