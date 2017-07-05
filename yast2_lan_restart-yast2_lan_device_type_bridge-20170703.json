@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_lan_device_type_bridge"
+  ],
+  "area": [
+    {
+      "xpos": 198,
+      "ypos": 221,
+      "width": 164,
+      "height": 60,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

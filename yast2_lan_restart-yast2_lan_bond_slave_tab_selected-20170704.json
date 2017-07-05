@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 499,
+      "ypos": 124,
+      "width": 204,
+      "height": 91,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_lan_bond_slave_tab_selected"
+  ]
+}

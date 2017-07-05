@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 671,
+      "ypos": 143,
+      "width": 132,
+      "height": 50,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_lan_routing_tab"
+  ]
+}

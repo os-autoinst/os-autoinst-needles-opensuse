@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_lan_hardware_tab"
+  ],
+  "area": [
+    {
+      "xpos": 449,
+      "ypos": 131,
+      "width": 180,
+      "height": 48,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

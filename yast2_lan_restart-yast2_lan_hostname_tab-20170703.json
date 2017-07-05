@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_lan_hostname_tab"
+  ],
+  "area": [
+    {
+      "xpos": 370,
+      "ypos": 137,
+      "width": 138,
+      "height": 41,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_lan_network_card_setup"
+  ],
+  "area": [
+    {
+      "xpos": 54,
+      "ypos": 106,
+      "width": 167,
+      "height": 34,
+      "type": "match"
+    }
+  ]
+}
