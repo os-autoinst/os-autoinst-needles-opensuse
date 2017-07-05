@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_closed_xterm_visible"
+  ],
+  "area": [
+    {
+      "xpos": 19,
+      "ypos": 145,
+      "width": 244,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_lan_device_name"
+  ],
+  "area": [
+    {
+      "xpos": 292,
+      "ypos": 321,
+      "width": 95,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}

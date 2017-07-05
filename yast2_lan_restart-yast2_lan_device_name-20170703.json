@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 36,
+      "type": "match",
+      "xpos": 293,
+      "ypos": 320,
+      "width": 98
+    }
+  ],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_lan_device_name"
+  ],
+  "properties": []
+}
