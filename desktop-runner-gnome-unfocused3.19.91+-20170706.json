@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "desktop-runner",
+    "desktop-runner-unfocused"
+  ],
+  "area": [
+    {
+      "ypos": 308,
+      "height": 152,
+      "width": 343,
+      "xpos": 339,
+      "type": "match"
+    }
+  ]
+}
