@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_lan_hardware_dialog"
+  ],
+  "area": [
+    {
+      "xpos": 46,
+      "ypos": 75,
+      "width": 225,
+      "height": 79,
+      "type": "match"
+    }
+  ]
+}
