@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 358,
+      "ypos": 188,
+      "height": 48,
+      "width": 361
+    },
+    {
+      "xpos": 92,
+      "ypos": 726,
+      "width": 107,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-42.3",
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ],
+  "properties": []
+}
