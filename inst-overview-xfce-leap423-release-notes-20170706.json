@@ -1,0 +1,34 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 375,
+      "ypos": 313,
+      "height": 63,
+      "width": 301
+    },
+    {
+      "type": "match",
+      "xpos": 396,
+      "height": 33,
+      "width": 181,
+      "ypos": 409
+    },
+    {
+      "xpos": 92,
+      "ypos": 726,
+      "width": 108,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VERSION-42.3",
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ],
+  "properties": []
+}
