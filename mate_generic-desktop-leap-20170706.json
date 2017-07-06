@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "ENV-LEAP-1",
+    "x11",
+    "generic-desktop"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 0,
+      "width": 1024,
+      "height": 766,
+      "ypos": 2
+    }
+  ],
+  "properties": []
+}
