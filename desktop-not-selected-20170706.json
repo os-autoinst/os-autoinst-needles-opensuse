@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 352,
+      "type": "match",
+      "ypos": 348,
+      "height": 52,
+      "width": 316
+    }
+  ],
+  "tags": [
+    "desktop-not-selected"
+  ]
+}
