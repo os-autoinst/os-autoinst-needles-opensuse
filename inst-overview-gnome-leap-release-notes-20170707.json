@@ -1,27 +1,35 @@
 {
   "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 370,
+      "ypos": 268,
+      "width": 289,
+      "height": 81
+    },
+    {
+      "xpos": 93,
+      "ypos": 725,
+      "width": 106,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "xpos": 28,
+      "ypos": 199,
+      "width": 297,
+      "height": 35,
+      "type": "match"
+    }
+  ],
   "tags": [
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
     "ENV-LEAP-1",
+    "ENV-VERSION-42.3",
     "inst-overview",
     "installation-settings-overview-loaded"
-  ],
-  "area": [
-    {
-      "width": 338,
-      "height": 98,
-      "ypos": 235,
-      "xpos": 370,
-      "type": "match"
-    },
-    {
-      "xpos": 93,
-      "ypos": 726,
-      "width": 107,
-      "height": 26,
-      "type": "match"
-    }
   ]
 }
