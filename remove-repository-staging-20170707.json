@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "remove-repository"
+  ],
+  "area": [
+    {
+      "xpos": 347,
+      "type": "match",
+      "ypos": 95,
+      "height": 199,
+      "width": 656
+    },
+    {
+      "width": 245,
+      "height": 79,
+      "ypos": 193,
+      "xpos": 76,
+      "type": "match"
+    }
+  ]
+}
