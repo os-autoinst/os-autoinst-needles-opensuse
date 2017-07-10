@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "mate-terminal-second-tab"
+  ],
+  "area": [
+    {
+      "xpos": 396,
+      "type": "match",
+      "height": 72,
+      "width": 273,
+      "ypos": 157
+    }
+  ]
+}
