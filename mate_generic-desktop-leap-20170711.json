@@ -1,0 +1,39 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 0,
+      "ypos": 0,
+      "width": 1024,
+      "height": 767
+    },
+    {
+      "xpos": 711,
+      "ypos": 707,
+      "width": 311,
+      "height": 35,
+      "type": "exclude"
+    },
+    {
+      "xpos": 897,
+      "ypos": 744,
+      "width": 108,
+      "height": 24,
+      "type": "exclude"
+    },
+    {
+      "xpos": 16,
+      "ypos": 330,
+      "width": 146,
+      "height": 41,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "ENV-LEAP-1",
+    "x11",
+    "generic-desktop"
+  ]
+}
