@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "mate_shutdown_btn"
+  ],
+  "area": [
+    {
+      "xpos": 627,
+      "type": "match",
+      "ypos": 440,
+      "width": 80,
+      "height": 35
+    }
+  ]
+}
