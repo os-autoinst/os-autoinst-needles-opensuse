@@ -1,0 +1,21 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-LEAP-1",
+    "ENV-VERSION-42.3",
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 81,
+      "xpos": 370,
+      "ypos": 300,
+      "type": "match",
+      "width": 289
+    }
+  ]
+}
