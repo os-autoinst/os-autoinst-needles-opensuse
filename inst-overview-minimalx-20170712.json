@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "inst-overview",
+    "installation-settings-overview-loaded",
+    "ENV-DESKTOP-minimalx",
+    "ENV-DISTRI-opensuse"
+  ],
+  "area": [
+    {
+      "ypos": 234,
+      "height": 46,
+      "width": 293,
+      "type": "match",
+      "xpos": 360
+    },
+    {
+      "ypos": 349,
+      "height": 15,
+      "width": 218,
+      "type": "match",
+      "xpos": 367
+    }
+  ],
+  "properties": []
+}
