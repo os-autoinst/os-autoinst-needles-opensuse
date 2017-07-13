@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "syscontainer-login"
+  ],
+  "area": [
+    {
+      "xpos": 89,
+      "ypos": 751,
+      "width": 49,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
