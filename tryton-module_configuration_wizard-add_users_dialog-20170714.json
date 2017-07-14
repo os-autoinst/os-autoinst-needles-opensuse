@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 454,
+      "ypos": 173,
+      "width": 113,
+      "height": 17,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "tags": [
+    "tryton-module_configuration_wizard-add_users_dialog"
+  ],
+  "properties": []
+}

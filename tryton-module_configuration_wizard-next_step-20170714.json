@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "tryton-module_configuration_wizard-next_step"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 147,
+      "match": 80,
+      "type": "match",
+      "width": 189,
+      "height": 22,
+      "xpos": 76
+    },
+    {
+      "width": 68,
+      "match": 80,
+      "type": "match",
+      "xpos": 885,
+      "height": 21,
+      "ypos": 732
+    }
+  ]
+}

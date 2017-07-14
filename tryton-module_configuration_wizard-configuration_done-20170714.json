@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "tryton-module_configuration_wizard-configuration_done"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 201,
+      "type": "match",
+      "xpos": 65,
+      "height": 55,
+      "ypos": 179
+    },
+    {
+      "ypos": 732,
+      "xpos": 891,
+      "height": 24,
+      "width": 66,
+      "type": "match"
+    }
+  ]
+}

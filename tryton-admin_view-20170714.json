@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 35,
+      "width": 165,
+      "type": "match",
+      "height": 20,
+      "xpos": 432
+    },
+    {
+      "xpos": 31,
+      "height": 17,
+      "width": 107,
+      "type": "match",
+      "ypos": 155
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tryton-admin_view"
+  ]
+}
