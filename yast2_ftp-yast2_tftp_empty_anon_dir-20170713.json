@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 335,
+      "ypos": 207,
+      "width": 268,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_tftp_empty_anon_dir"
+  ],
+  "properties": []
+}
