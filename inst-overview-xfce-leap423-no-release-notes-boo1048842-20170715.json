@@ -1,0 +1,36 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 375,
+      "type": "match",
+      "ypos": 313,
+      "height": 63,
+      "width": 301
+    },
+    {
+      "height": 17,
+      "width": 181,
+      "ypos": 409,
+      "xpos": 396,
+      "type": "match"
+    },
+    {
+      "xpos": 11,
+      "type": "match",
+      "ypos": 715,
+      "width": 282,
+      "height": 42
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VERSION-42.3",
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ]
+}
