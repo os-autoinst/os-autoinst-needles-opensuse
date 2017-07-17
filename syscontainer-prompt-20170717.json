@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 87,
+      "ypos": 752,
+      "width": 31,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "syscontainer-prompt"
+  ]
+}
