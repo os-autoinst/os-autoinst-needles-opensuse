@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 25,
+      "ypos": 78,
+      "width": 229,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 731,
+      "ypos": 629,
+      "width": 24,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_control-center_configured-software-repositories"
+  ],
+  "properties": []
+}

@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_control-center-partitioner_expert"
+  ],
+  "area": [
+    {
+      "xpos": 17,
+      "height": 33,
+      "width": 146,
+      "type": "match",
+      "ypos": 72
+    },
+    {
+      "xpos": 724,
+      "ypos": 631,
+      "width": 44,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}
