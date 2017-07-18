@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_control-center_network-opened"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 27,
+      "width": 181,
+      "ypos": 31,
+      "xpos": 309
+    },
+    {
+      "xpos": 7,
+      "type": "match",
+      "height": 31,
+      "ypos": 70,
+      "width": 145
+    }
+  ]
+}

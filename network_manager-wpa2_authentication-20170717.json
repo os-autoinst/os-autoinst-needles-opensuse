@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "network_manager-wpa2_authentication"
+  ],
+  "area": [
+    {
+      "xpos": 322,
+      "ypos": 69,
+      "width": 357,
+      "height": 40,
+      "type": "match"
+    },
+    {
+      "xpos": 553,
+      "ypos": 188,
+      "width": 175,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}
