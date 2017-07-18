@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_control-center_fonts-configuration"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 25,
+      "ypos": 78,
+      "width": 130,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 732,
+      "ypos": 629,
+      "width": 22,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}
