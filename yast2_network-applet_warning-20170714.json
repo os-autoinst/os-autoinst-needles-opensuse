@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 290,
+      "ypos": 339,
+      "width": 335,
+      "height": 160,
+      "type": "match"
+    },
+    {
+      "xpos": 539,
+      "ypos": 466,
+      "width": 63,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_network-applet_warning-click"
+  ],
+  "properties": []
+}

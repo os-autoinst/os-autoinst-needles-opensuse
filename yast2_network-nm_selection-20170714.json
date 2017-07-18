@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_network-nm_selection-click"
+  ],
+  "area": [
+    {
+      "xpos": 91,
+      "ypos": 262,
+      "width": 733,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}

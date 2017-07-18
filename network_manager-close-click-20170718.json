@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "network_manager-close-click"
+  ],
+  "area": [
+    {
+      "xpos": 841,
+      "ypos": 66,
+      "width": 37,
+      "height": 33,
+      "type": "match"
+    }
+  ]
+}
