@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "evolution-default-client-ask"
+  ],
+  "area": [
+    {
+      "xpos": 283,
+      "type": "match",
+      "width": 455,
+      "height": 129,
+      "ypos": 339,
+      "match": 60
+    }
+  ],
+  "properties": []
+}
