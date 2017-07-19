@@ -1,0 +1,18 @@
+{
+  "properties": [
+  	  "workaround"
+  ],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "oci-overview"
+  ],
+  "area": [
+    {
+      "ypos": 126,
+      "width": 588,
+      "type": "match",
+      "xpos": 152,
+      "height": 457
+    }
+  ]
+}
