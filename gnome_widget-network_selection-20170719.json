@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "gnome_widget-network_selection-click"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 183,
+      "margin": 80,
+      "ypos": 120,
+      "height": 32,
+      "xpos": 736,
+      "type": "match",
+      "match": 98
+    }
+  ]
+}
