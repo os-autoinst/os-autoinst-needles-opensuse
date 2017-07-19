@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "keyboard-layout-uk"
+  ],
+  "area": [
+    {
+      "width": 61,
+      "type": "match",
+      "height": 22,
+      "xpos": 359,
+      "ypos": 160
+    }
+  ]
+}

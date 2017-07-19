@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 356,
+      "height": 156,
+      "width": 313,
+      "type": "match",
+      "ypos": 318
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "ntp-servers-missing"
+  ]
+}

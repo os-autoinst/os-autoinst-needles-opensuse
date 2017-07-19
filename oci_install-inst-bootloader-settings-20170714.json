@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 25,
+      "ypos": 95,
+      "width": 312,
+      "height": 39,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "inst-bootloader-settings"
+  ]
+}
