@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "http_modules_enabled_perl"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 64,
+      "ypos": 127,
+      "width": 200,
+      "height": 16,
+      "type": "match"
+    }
+  ]
+}
