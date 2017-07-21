@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_apparmor_configuration_manage_existing_profiles_edit"
+  ],
+  "area": [
+    {
+      "xpos": 12,
+      "ypos": 28,
+      "width": 316,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
