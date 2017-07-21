@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "yast2-datetime_ntp-conf"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 43,
+      "ypos": 340,
+      "width": 315,
+      "xpos": 355
+    },
+    {
+      "ypos": 424,
+      "height": 20,
+      "type": "match",
+      "xpos": 588,
+      "width": 66
+    },
+    {
+      "xpos": 348,
+      "width": 262,
+      "height": 20,
+      "type": "match",
+      "ypos": 387
+    }
+  ],
+  "properties": []
+}

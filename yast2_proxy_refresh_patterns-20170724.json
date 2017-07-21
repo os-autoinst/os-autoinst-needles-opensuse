@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "yast2_proxy_refresh_patterns"
+  ],
+  "area": [
+    {
+      "xpos": 312,
+      "ypos": 48,
+      "width": 129,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 367,
+      "ypos": 33,
+      "width": 194,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
