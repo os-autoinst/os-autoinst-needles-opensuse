@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 192,
+      "height": 19,
+      "xpos": 240,
+      "type": "match",
+      "width": 25
+    },
+    {
+      "xpos": 485,
+      "ypos": 546,
+      "width": 44,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_ntp-client_display_log"
+  ]
+}
