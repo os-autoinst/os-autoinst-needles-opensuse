@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "firefox_titlebar"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 18,
+      "xpos": 626,
+      "ypos": 6,
+      "width": 99
+    }
+  ]
+}
