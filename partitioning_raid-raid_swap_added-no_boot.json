@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 321,
+      "width": 55,
+      "ypos": 183,
+      "height": 82,
+      "type": "match"
+    },
+    {
+      "xpos": 514,
+      "ypos": 180,
+      "width": 129,
+      "height": 88,
+      "type": "match"
+    },
+    {
+      "xpos": 701,
+      "height": 89,
+      "ypos": 178,
+      "width": 78,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-OFW-1",
+    "partitioning_raid-raid_swap_added-no_boot"
+  ],
+  "properties": []
+}
