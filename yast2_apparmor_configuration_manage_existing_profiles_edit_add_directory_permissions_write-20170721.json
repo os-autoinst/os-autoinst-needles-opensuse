@@ -10,6 +10,6 @@
     }
   ],
   "tags": [
-    "yast2_apparmor_configuration_manage_existing_profiles_edit_add_directory_permissions_write"
+    "yast2_apparmor_dir_permissions_write"
   ]
 }
