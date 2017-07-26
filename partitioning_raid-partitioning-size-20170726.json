@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 404,
+      "ypos": 286,
+      "width": 125,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning-size"
+  ]
+}
