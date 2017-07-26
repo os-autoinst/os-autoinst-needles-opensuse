@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 386,
+      "height": 63,
+      "width": 220,
+      "ypos": 295,
+      "type": "match"
+    },
+    {
+      "ypos": 298,
+      "width": 43,
+      "height": 60,
+      "xpos": 322,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-OFW-1",
+    "raid-partition"
+  ]
+}

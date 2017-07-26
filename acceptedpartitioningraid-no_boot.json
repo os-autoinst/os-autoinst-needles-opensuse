@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 594,
+      "ypos": 113,
+      "height": 191,
+      "xpos": 378,
+      "type": "match"
+    },
+    {
+      "height": 206,
+      "width": 148,
+      "ypos": 99,
+      "xpos": 555,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "ENV-OFW-1",
+    "acceptedpartitioningraid-no_boot"
+  ]
+}
