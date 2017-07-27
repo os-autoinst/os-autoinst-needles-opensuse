@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "inst-packageinstallationstarted",
+    "installation-details-view"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 308,
+      "type": "match",
+      "ypos": 188,
+      "xpos": 20,
+      "height": 46
+    },
+    {
+      "width": 90,
+      "type": "match",
+      "xpos": 366,
+      "height": 49,
+      "ypos": 137
+    }
+  ]
+}
