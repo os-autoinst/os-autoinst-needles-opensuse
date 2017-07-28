@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "emergency-mode"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 80,
+      "xpos": 0,
+      "ypos": 58,
+      "width": 640
+    }
+  ]
+}
