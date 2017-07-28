@@ -1,0 +1,37 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 271,
+      "type": "match",
+      "height": 61,
+      "xpos": 107,
+      "ypos": 306
+    },
+    {
+      "xpos": 17,
+      "height": 86,
+      "ypos": 31,
+      "type": "match",
+      "width": 472
+    },
+    {
+      "width": 224,
+      "type": "match",
+      "xpos": 534,
+      "height": 56,
+      "ypos": 309
+    },
+    {
+      "width": 180,
+      "type": "exclude",
+      "xpos": 223,
+      "height": 30,
+      "ypos": 31
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "chromium-html5test"
+  ]
+}
