@@ -1,22 +1,22 @@
 {
   "area": [
     {
-      "width": 374,
-      "ypos": 246,
+      "ypos": 351,
       "xpos": 260,
+      "height": 15,
       "type": "match",
-      "height": 15
+      "width": 374
     },
     {
-      "width": 44,
-      "xpos": 247,
-      "type": "match",
+      "ypos": 352,
+      "xpos": 146,
       "height": 15,
-      "ypos": 246
+      "type": "match",
+      "width": 259
     }
   ],
+  "properties": [],
   "tags": [
     "package-conflict-choice"
-  ],
-  "properties": []
+  ]
 }
