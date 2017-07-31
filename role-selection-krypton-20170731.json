@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 192,
+      "xpos": 341,
+      "height": 85,
+      "ypos": 327,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-Krypton-Live",
+    "before-role-selection",
+    "desktop-selection",
+    "installation",
+    "no-default-desktop"
+  ]
+}
