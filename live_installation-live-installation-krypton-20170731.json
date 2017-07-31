@@ -1,0 +1,19 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-FLAVOR-Krypton-Live",
+    "ENV-LIVECD-1",
+    "ENV-LIVETEST-1",
+    "live-installation"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 10,
+      "xpos": 361,
+      "height": 88,
+      "type": "match",
+      "width": 73
+    }
+  ]
+}
