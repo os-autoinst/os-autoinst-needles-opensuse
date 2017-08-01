@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "firefox-newer-java-available"
+  ],
+  "area": [
+    {
+      "xpos": 308,
+      "width": 295,
+      "ypos": 288,
+      "type": "match",
+      "height": 26
+    },
+    {
+      "xpos": 312,
+      "ypos": 342,
+      "width": 104,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
