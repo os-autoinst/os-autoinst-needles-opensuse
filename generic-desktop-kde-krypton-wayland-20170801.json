@@ -1,0 +1,26 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-FLAVOR-Krypton-Live",
+    "ENV-LIVECD-1",
+    "ENV-WAYLAND-1",
+    "generic-desktop"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 113,
+      "xpos": 109,
+      "ypos": 7,
+      "type": "match",
+      "width": 326
+    },
+    {
+      "ypos": 734,
+      "xpos": 1,
+      "height": 34,
+      "type": "match",
+      "width": 54
+    }
+  ]
+}
