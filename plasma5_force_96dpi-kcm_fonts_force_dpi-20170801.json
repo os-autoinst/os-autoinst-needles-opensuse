@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 235,
+      "ypos": 486,
+      "width": 123,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "kcm_fonts_force_dpi"
+  ]
+}
