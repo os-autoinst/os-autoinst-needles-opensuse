@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-FLAVOR-Krypton-Live",
+    "ENV-WAYLAND-1",
+    "test-khelpcenter-1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 249,
+      "xpos": 262,
+      "height": 61,
+      "ypos": 155,
+      "type": "match"
+    }
+  ]
+}
