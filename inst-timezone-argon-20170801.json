@@ -1,0 +1,19 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-Argon-Live",
+    "ENV-INSTLANG-en_US",
+    "after-partitioning",
+    "inst-timezone"
+  ],
+  "area": [
+    {
+      "xpos": 48,
+      "height": 456,
+      "ypos": 153,
+      "type": "match",
+      "width": 933
+    }
+  ]
+}
