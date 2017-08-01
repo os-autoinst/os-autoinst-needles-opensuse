@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "plasma_overlay_confirm"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 395,
+      "ypos": 574,
+      "width": 111,
+      "height": 20,
+      "type": "match"
+    }
+  ]
+}
