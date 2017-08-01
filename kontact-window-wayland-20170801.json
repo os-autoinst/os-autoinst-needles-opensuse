@@ -1,0 +1,38 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 64,
+      "height": 363,
+      "xpos": 0,
+      "ypos": 32,
+      "type": "match"
+    },
+    {
+      "width": 68,
+      "xpos": 124,
+      "height": 36,
+      "ypos": 107,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 148,
+      "height": 20,
+      "xpos": 145,
+      "width": 141
+    },
+    {
+      "ypos": 226,
+      "xpos": 150,
+      "height": 25,
+      "type": "match",
+      "width": 125
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-WAYLAND-1",
+    "kontact-window"
+  ]
+}
