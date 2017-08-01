@@ -1,0 +1,26 @@
+{
+  "tags": [
+    "ENV-FLAVOR-Argon-Live",
+    "before-role-selection",
+    "desktop-selection",
+    "installation",
+    "no-default-desktop"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 213,
+      "xpos": 342,
+      "height": 32,
+      "ypos": 370,
+      "type": "match"
+    },
+    {
+      "width": 237,
+      "type": "match",
+      "ypos": 196,
+      "xpos": 104,
+      "height": 46
+    }
+  ]
+}
