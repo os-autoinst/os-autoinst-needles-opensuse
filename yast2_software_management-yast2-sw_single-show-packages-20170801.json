@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2-sw_single-show-packages"
+  ],
+  "area": [
+    {
+      "xpos": 454,
+      "ypos": 334,
+      "width": 63,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 456,
+      "ypos": 253,
+      "width": 80,
+      "height": 21,
+      "type": "match"
+    }
+  ]
+}

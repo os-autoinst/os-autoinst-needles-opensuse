@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-sw_single-show-pattern"
+  ],
+  "area": [
+    {
+      "ypos": 163,
+      "type": "match",
+      "xpos": 124,
+      "width": 281,
+      "height": 155
+    }
+  ],
+  "properties": []
+}
