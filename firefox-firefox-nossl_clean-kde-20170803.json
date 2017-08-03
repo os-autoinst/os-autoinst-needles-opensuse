@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "ypos": 8,
+      "width": 87,
+      "height": 15,
+      "xpos": 651,
+      "type": "match"
+    },
+    {
+      "ypos": 66,
+      "width": 28,
+      "xpos": 38,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 63,
+      "width": 65,
+      "height": 35,
+      "xpos": 533
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "firefox_clean"
+  ]
+}
