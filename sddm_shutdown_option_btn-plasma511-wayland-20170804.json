@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 430,
+      "width": 58,
+      "height": 77,
+      "xpos": 551
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-WAYLAND-1",
+    "logoutdialog",
+    "sddm_shutdown_option_btn"
+  ]
+}
