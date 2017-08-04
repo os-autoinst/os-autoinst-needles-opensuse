@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "ypos": 32,
+      "width": 662,
+      "xpos": 5,
+      "height": 165,
+      "type": "match"
+    },
+    {
+      "width": 289,
+      "ypos": 272,
+      "height": 80,
+      "xpos": 73,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 526,
+      "height": 58,
+      "ypos": 294,
+      "width": 234
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-Argon-Live",
+    "firefox-html5test"
+  ],
+  "properties": []
+}
