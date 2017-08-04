@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 230,
+      "width": 107,
+      "height": 68,
+      "xpos": 123
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-INSTLANG-en_US",
+    "test-ooffice-2"
+  ],
+  "properties": []
+}
