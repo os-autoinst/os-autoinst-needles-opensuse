@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "sddm_desktopsession"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 9,
+      "height": 15,
+      "width": 92,
+      "ypos": 744
+    }
+  ]
+}
