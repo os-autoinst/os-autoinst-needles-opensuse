@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "partition-lvm-new-summary",
+    "storage-ng"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 156,
+      "xpos": 414,
+      "height": 12,
+      "ypos": 167
+    }
+  ]
+}
