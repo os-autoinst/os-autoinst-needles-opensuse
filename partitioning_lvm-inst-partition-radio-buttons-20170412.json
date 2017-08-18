@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 37,
+      "ypos": 199,
+      "width": 181,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-partition-guided",
+    "storage-ng"
+  ],
+  "properties": []
+}
