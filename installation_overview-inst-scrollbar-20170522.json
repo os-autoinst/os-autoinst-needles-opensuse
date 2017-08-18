@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "inst-scrollbar"
+  ],
+  "area": [
+    {
+      "xpos": 965,
+      "ypos": 110,
+      "width": 52,
+      "height": 138,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

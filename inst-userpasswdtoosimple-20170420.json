@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "inst-userpasswdtoosimple",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "ypos": 335,
+      "height": 122,
+      "type": "match",
+      "xpos": 420,
+      "width": 186
+    }
+  ],
+  "properties": []
+}
