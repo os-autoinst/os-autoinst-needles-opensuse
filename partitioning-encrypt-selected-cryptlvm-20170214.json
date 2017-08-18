@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "partitioning-encrypt-selected-cryptlvm",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "height": 23,
+      "xpos": 363,
+      "width": 192,
+      "type": "match",
+      "ypos": 397
+    }
+  ]
+}
