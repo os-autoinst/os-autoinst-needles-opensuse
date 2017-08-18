@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 430,
+      "ypos": 670,
+      "width": 166,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partitioning-edit-proposal-button",
+    "storage-ng"
+  ]
+}
