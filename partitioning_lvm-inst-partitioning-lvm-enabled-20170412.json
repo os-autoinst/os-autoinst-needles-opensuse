@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 544,
+      "ypos": 316,
+      "width": 220,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-partitioning-lvm-enabled",
+    "storage-ng"
+  ],
+  "properties": []
+}
