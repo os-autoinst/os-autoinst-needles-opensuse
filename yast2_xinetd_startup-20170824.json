@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 417,
+      "ypos": 36,
+      "width": 235,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_xinetd_startup"
+  ]
+}
