@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "mariadb-monitor-opened"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 746,
+      "type": "match",
+      "width": 138,
+      "xpos": 0,
+      "height": 22
+    }
+  ]
+}
