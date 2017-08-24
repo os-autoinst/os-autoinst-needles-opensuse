@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_xinetd_core-dumped"
+  ],
+  "area": [
+    {
+      "xpos": 405,
+      "ypos": 25,
+      "width": 119,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
