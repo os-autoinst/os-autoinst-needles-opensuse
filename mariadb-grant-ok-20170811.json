@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "mariadb-grant-ok"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 719,
+      "width": 73,
+      "height": 20,
+      "type": "match"
+    }
+  ]
+}
