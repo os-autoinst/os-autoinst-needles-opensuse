@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "tianocore-boot_from_file"
+  ],
+  "area": [
+    {
+      "xpos": 26,
+      "ypos": 137,
+      "width": 108,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
