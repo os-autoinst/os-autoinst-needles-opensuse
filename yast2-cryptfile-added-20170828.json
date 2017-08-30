@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 111,
+      "type": "match",
+      "xpos": 319,
+      "width": 121,
+      "height": 17
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-cryptfile-added"
+  ]
+}

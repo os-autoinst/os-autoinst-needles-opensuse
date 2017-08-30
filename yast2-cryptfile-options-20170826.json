@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2-cryptfile-options"
+  ],
+  "area": [
+    {
+      "height": 22,
+      "xpos": 9,
+      "width": 126,
+      "type": "match",
+      "ypos": 27
+    },
+    {
+      "height": 47,
+      "width": 441,
+      "xpos": 255,
+      "type": "match",
+      "ypos": 305
+    }
+  ]
+}
