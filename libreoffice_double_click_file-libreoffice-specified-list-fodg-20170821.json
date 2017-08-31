@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "libreoffice-specified-list-fodg"
+  ],
+  "area": [
+    {
+      "xpos": 286,
+      "ypos": 546,
+      "width": 108,
+      "height": 121,
+      "type": "match"
+    }
+  ]
+}

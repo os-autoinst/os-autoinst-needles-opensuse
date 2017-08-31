@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnote-new-note"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 135,
+      "ypos": 172,
+      "xpos": 63,
+      "width": 219,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 207,
+      "ypos": 132,
+      "width": 107,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 63,
+      "ypos": 172,
+      "width": 169,
+      "height": 72,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnote-note-start-here"
+  ]
+}

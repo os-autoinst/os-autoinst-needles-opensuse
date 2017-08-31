@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "evince-presentation-mode"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 792,
+      "ypos": 287,
+      "width": 150,
+      "height": 479,
+      "type": "match"
+    },
+    {
+      "xpos": 76,
+      "ypos": 303,
+      "width": 154,
+      "height": 461,
+      "type": "match"
+    }
+  ]
+}

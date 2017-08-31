@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 325,
+      "ypos": 44,
+      "width": 367,
+      "height": 211,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "overview-office-draw"
+  ]
+}

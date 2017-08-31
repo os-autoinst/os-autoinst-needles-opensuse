@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ooffice-change-guitoolkit"
+  ],
+  "area": [
+    {
+      "xpos": 28,
+      "ypos": 90,
+      "width": 28,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "evince-rotate-left"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 342,
+      "ypos": 504,
+      "width": 36,
+      "height": 199,
+      "type": "match"
+    }
+  ]
+}

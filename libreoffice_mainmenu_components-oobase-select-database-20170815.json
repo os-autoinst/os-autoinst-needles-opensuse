@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 357,
+      "ypos": 107,
+      "width": 327,
+      "height": 68,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "oobase-select-database"
+  ]
+}
