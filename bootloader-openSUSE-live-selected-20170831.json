@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 195,
+      "type": "match",
+      "ypos": 170,
+      "width": 295,
+      "height": 23
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "boot-live-xfce",
+    "ENV-LIVETEST-1"
+  ]
+}
