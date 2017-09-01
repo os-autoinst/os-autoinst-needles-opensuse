@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "x3270_fips_launched"
+  ],
+  "area": [
+    {
+      "ypos": 35,
+      "type": "match",
+      "width": 57,
+      "xpos": 571,
+      "height": 56
+    },
+    {
+      "height": 24,
+      "xpos": 233,
+      "width": 148,
+      "type": "match",
+      "ypos": 88
+    }
+  ]
+}
