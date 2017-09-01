@@ -16,7 +16,8 @@
     }
   ],
   "tags": [
-    "gnome-control-center-started"
+    "gnome-control-center-started",
+    "gnome-control-center-new-layout"
   ],
   "properties": []
 }
