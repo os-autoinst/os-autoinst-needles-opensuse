@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 322,
+      "ypos": 45,
+      "width": 373,
+      "height": 54,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "tracker-mainmenu-launched"
+  ]
+}

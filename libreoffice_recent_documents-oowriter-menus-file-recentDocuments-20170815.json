@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 322,
+      "ypos": 176,
+      "width": 90,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "oowriter-menus-file-recentDocuments"
+  ]
+}

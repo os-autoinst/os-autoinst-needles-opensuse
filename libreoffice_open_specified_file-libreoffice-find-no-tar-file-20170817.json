@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "libreoffice-find-no-tar-file"
+  ],
+  "area": [
+    {
+      "xpos": 149,
+      "ypos": 101,
+      "width": 78,
+      "height": 50,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

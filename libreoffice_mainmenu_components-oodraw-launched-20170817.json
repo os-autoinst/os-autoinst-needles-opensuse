@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 404,
+      "ypos": 32,
+      "width": 217,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 1,
+      "ypos": 67,
+      "width": 210,
+      "height": 154,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "oodraw-launched"
+  ]
+}
