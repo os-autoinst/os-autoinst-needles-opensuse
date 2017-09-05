@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "tracker-search-cheese"
+  ],
+  "area": [
+    {
+      "xpos": 179,
+      "ypos": 219,
+      "width": 396,
+      "height": 45,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

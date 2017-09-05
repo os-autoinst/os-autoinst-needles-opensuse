@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 93,
+      "ypos": 140,
+      "width": 332,
+      "height": 421,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-brasero-started"
+  ]
+}
