@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 25,
+      "width": 103,
+      "xpos": 93,
+      "type": "match",
+      "ypos": 0
+    },
+    {
+      "type": "match",
+      "xpos": 264,
+      "ypos": 32,
+      "height": 37,
+      "width": 499
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome-clocks-started"
+  ]
+}
