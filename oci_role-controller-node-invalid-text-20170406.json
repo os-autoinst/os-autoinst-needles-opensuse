@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 71,
+      "xpos": 169,
+      "width": 678,
+      "type": "match",
+      "ypos": 349
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "ENV-VIDEOMODE-text",
+    "controller-node-invalid"
+  ],
+  "properties": []
+}

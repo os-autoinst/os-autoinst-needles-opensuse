@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 310,
+      "ypos": 30,
+      "width": 116,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "inst-kdump"
+  ]
+}

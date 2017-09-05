@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 16,
+      "width": 48,
+      "ypos": 96,
+      "height": 16
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "ENV-VIDEOMODE-text",
+    "keyboard-layout-uk"
+  ]
+}

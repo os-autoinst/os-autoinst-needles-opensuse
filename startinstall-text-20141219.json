@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 255,
+      "xpos": 312,
+      "width": 173,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "startinstall"
+  ]
+}

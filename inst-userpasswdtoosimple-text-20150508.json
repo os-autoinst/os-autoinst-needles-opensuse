@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "inst-userpasswdtoosimple"
+  ],
+  "area": [
+    {
+      "ypos": 331,
+      "xpos": 371,
+      "height": 104,
+      "type": "match",
+      "width": 276
+    }
+  ],
+  "properties": []
+}

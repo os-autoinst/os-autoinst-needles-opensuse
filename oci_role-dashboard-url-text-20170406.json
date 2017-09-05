@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "ENV-VIDEOMODE-text",
+    "dashboard-url"
+  ],
+  "area": [
+    {
+      "ypos": 432,
+      "type": "match",
+      "width": 160,
+      "xpos": 13,
+      "height": 36
+    }
+  ]
+}
