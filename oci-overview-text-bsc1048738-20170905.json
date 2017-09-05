@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 22,
+      "xpos": 10,
+      "height": 463,
+      "width": 589
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "ENV-VIDEOMODE-text",
+    "oci-overview"
+  ]
+}
