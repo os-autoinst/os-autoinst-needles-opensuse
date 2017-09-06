@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "mutt_mailbox"
+  ],
+  "area": [
+    {
+      "xpos": 311,
+      "ypos": 49,
+      "width": 99,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 48,
+      "ypos": 738,
+      "width": 97,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
