@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "startshell"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 736,
+      "width": 570,
+      "height": 30,
+      "type": "match"
+    }
+  ]
+}
