@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 272,
+      "ypos": 259,
+      "width": 481,
+      "height": 87,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "error-small-disk"
+  ]
+}
