@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "test-gnome-characters-started"
+  ],
+  "area": [
+    {
+      "width": 118,
+      "type": "match",
+      "height": 21,
+      "xpos": 94,
+      "ypos": 5
+    },
+    {
+      "height": 414,
+      "xpos": 157,
+      "ypos": 126,
+      "width": 166,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
