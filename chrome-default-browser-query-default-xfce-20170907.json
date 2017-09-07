@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 322,
+      "height": 17,
+      "ypos": 345,
+      "width": 263,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 376,
+      "width": 385,
+      "xpos": 322,
+      "height": 18
+    },
+    {
+      "xpos": 645,
+      "height": 20,
+      "width": 40,
+      "ypos": 414,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "chrome-default-browser-query"
+  ],
+  "properties": []
+}
