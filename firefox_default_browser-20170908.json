@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "firefox_default_browser"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 652,
+      "ypos": 364,
+      "xpos": 213,
+      "height": 114
+    }
+  ]
+}
