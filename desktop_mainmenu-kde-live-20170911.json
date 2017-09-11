@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "test-desktop_mainmenu-1",
+    "ENV-DESKTOP-kde"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 402,
+      "type": "match",
+      "xpos": 5,
+      "height": 321,
+      "width": 304
+    }
+  ]
+}
