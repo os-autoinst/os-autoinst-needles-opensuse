@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 715,
+      "ypos": 637,
+      "width": 31,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "auto-save-session-apply"
+  ]
+}

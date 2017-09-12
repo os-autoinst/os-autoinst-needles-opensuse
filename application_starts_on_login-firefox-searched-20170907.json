@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 346,
+      "ypos": 376,
+      "width": 97,
+      "height": 48,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "firefox-searched"
+  ]
+}

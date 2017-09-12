@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnomecase-defaultapps-nautilus"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 253,
+      "ypos": 140,
+      "width": 669,
+      "height": 306,
+      "type": "match"
+    }
+  ]
+}

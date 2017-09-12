@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 73,
+      "ypos": 444,
+      "width": 169,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ftp-path-selected"
+  ]
+}

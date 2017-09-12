@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnomecase-defaultapps-bz2open"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 435,
+      "ypos": 301,
+      "width": 111,
+      "height": 160,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 91,
+      "ypos": 386,
+      "width": 71,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "nautilus-ftp-rightkey-menu"
+  ]
+}
