@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "autoyast-boot",
+    "bootloader",
+    "grub2"
+  ],
+  "area": [
+    {
+      "xpos": 128,
+      "type": "match",
+      "ypos": 43,
+      "width": 546,
+      "height": 236
+    }
+  ]
+}
