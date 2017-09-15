@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 61,
+      "type": "match",
+      "height": 29,
+      "xpos": 963,
+      "ypos": 0
+    },
+    {
+      "type": "match",
+      "width": 252,
+      "xpos": 249,
+      "height": 96,
+      "ypos": 309
+    },
+    {
+      "type": "match",
+      "width": 224,
+      "xpos": 406,
+      "height": 77,
+      "ypos": 656
+    }
+  ],
+  "tags": [
+    " ENV-EXTRATEST-1",
+    "displaymanager"
+  ]
+}
