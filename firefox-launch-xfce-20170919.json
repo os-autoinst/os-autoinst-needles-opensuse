@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 252,
+      "xpos": 374,
+      "ypos": 1,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "height": 33,
+      "ypos": 27,
+      "xpos": 1,
+      "width": 252,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "firefox-launch"
+  ]
+}
