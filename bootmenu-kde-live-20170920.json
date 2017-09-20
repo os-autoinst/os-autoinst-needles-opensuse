@@ -1,0 +1,27 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "width": 800,
+      "height": 280,
+      "ypos": 0,
+      "type": "match"
+    },
+    {
+      "width": 20,
+      "xpos": 574,
+      "ypos": 168,
+      "height": 27,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-LIVECD-1",
+    "bootloader",
+    "inst-bootmenu"
+  ]
+}
