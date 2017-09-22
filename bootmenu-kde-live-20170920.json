@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 275,
+      "ypos": 0,
+      "xpos": 0,
+      "width": 800,
+      "type": "match"
+    },
+    {
+      "type": "exclude",
+      "height": 27,
+      "ypos": 168,
+      "xpos": 574,
+      "width": 20
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-LIVECD-1",
+    "bootloader",
+    "inst-bootmenu"
+  ]
+}

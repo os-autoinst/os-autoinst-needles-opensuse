@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 749,
+      "width": 98,
+      "height": 25,
+      "ypos": 738
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "plasma-has-notification",
+    "tray-without-updates-available"
+  ]
+}
