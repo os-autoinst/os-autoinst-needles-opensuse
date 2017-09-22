@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnomecase-defaultapps-pngopen"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 81,
+      "ypos": 148,
+      "width": 862,
+      "height": 538,
+      "type": "match"
+    }
+  ]
+}

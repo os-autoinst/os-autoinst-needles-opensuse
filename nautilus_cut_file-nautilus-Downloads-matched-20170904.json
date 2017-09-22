@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "nautilus-Downloads-matched"
+  ],
+  "area": [
+    {
+      "xpos": 768,
+      "ypos": 134,
+      "width": 104,
+      "height": 126,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

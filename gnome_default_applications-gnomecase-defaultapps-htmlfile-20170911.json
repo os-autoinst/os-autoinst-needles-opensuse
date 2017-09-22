@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnomecase-defaultapps-htmlfile"
+  ],
+  "area": [
+    {
+      "xpos": 761,
+      "ypos": 339,
+      "width": 99,
+      "height": 125,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "unselected-pub"
+  ],
+  "area": [
+    {
+      "xpos": 566,
+      "ypos": 437,
+      "width": 193,
+      "height": 44,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

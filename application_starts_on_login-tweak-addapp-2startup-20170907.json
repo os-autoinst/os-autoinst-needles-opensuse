@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 618,
+      "ypos": 286,
+      "width": 53,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "tweak-addapp-2startup"
+  ],
+  "properties": []
+}

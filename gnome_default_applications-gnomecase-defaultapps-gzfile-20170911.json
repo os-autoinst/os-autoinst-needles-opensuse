@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnomecase-defaultapps-gzfile"
+  ],
+  "area": [
+    {
+      "xpos": 290,
+      "ypos": 335,
+      "width": 85,
+      "height": 127,
+      "type": "match"
+    }
+  ]
+}

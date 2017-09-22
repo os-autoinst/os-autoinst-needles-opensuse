@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnomecase-defaultapps-gzopen"
+  ],
+  "area": [
+    {
+      "xpos": 593,
+      "ypos": 301,
+      "width": 115,
+      "height": 162,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

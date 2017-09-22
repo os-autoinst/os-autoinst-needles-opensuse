@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 760,
+      "ypos": 170,
+      "width": 93,
+      "height": 124,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnomecase-defaultapps-bz2file"
+  ]
+}

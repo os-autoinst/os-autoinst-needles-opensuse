@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnomecase-defaultapps-firefoxopen"
+  ],
+  "area": [
+    {
+      "xpos": 389,
+      "ypos": 33,
+      "width": 242,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 297,
+      "ypos": 140,
+      "width": 211,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
