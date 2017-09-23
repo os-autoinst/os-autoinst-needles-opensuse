@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "ENV-VIDEOMODE-text",
+    "oci-overview"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 463,
+      "ypos": 22,
+      "xpos": 10,
+      "width": 589,
+      "type": "match"
+    }
+  ]
+}
