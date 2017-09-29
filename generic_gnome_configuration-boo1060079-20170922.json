@@ -1,0 +1,24 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 9,
+      "width": 105,
+      "ypos": 665,
+      "type": "match",
+      "height": 23
+    },
+    {
+      "xpos": 14,
+      "ypos": 83,
+      "width": 69,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "generic_gnome_configuration-boo1060079"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 401,
+      "ypos": 155,
+      "width": 44,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "gnome_settings-wifi-found_network"
+  ]
+}

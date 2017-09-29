@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "gnome_widget-network_search-click"
+  ],
+  "area": [
+    {
+      "ypos": 158,
+      "height": 22,
+      "width": 100,
+      "xpos": 736,
+      "type": "match",
+      "match": 98,
+      "margin": 80
+    }
+  ],
+  "properties": []
+}
