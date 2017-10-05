@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "firefox-html5test"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 74,
+      "height": 165,
+      "width": 662,
+      "xpos": 7
+    },
+    {
+      "ypos": 314,
+      "height": 80,
+      "width": 289,
+      "xpos": 76,
+      "type": "match"
+    },
+    {
+      "width": 234,
+      "xpos": 530,
+      "ypos": 336,
+      "height": 58,
+      "type": "match"
+    }
+  ]
+}
