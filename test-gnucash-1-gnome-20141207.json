@@ -1,6 +1,7 @@
 {
   "tags": [
     "test-gnucash-1",
+    "gnucash",
     "ENV-DESKTOP-gnome",
     "ENV-INSTLANG-en_US"
   ],

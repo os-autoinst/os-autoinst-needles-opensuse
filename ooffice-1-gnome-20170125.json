@@ -10,6 +10,8 @@
   ],
   "tags": [
     "ENV-DESKTOP-gnome",
+    "ooffice",
+    "oowriter",
     "test-ooffice-1"
   ],
   "properties": []
