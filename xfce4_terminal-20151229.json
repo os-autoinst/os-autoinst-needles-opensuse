@@ -11,6 +11,7 @@
   ],
   "tags": [
     "ENV-DESKTOP-xfce",
+    "xfce4-terminal",
     "test-xfce4_terminal-1"
   ]
 }

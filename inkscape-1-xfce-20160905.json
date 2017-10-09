@@ -12,6 +12,7 @@
     "ENV-DESKTOP-xfce",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
+    "inkscape",
     "test-inkscape-1"
   ],
   "properties": []

@@ -11,6 +11,7 @@
   ],
   "tags": [
     "test-gnucash-1",
+    "gnucash",
     "ENV-DESKTOP-lxde",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US"

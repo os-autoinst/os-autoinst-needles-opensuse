@@ -3,7 +3,8 @@
     "ENV-DESKTOP-icewm",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
-    "test-nautilus-1"
+    "test-nautilus-1",
+    "nautilus"
   ],
   "area": [
     {

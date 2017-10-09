@@ -17,6 +17,7 @@
   ],
   "properties": [],
   "tags": [
+    "gnucash",
     "test-gnucash-1",
     "ENV-DESKTOP-xfce"
   ]
