@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-VERSION-Tumbleweed",
+    "generic-desktop",
+    "x11"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 214,
+      "ypos": 3,
+      "xpos": 30,
+      "width": 803
+    },
+    {
+      "width": 65,
+      "xpos": 0,
+      "ypos": 732,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
