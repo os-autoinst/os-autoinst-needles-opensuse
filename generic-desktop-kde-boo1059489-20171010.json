@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "ypos": 4,
+      "height": 113,
+      "width": 217,
+      "xpos": 10,
+      "type": "match"
+    },
+    {
+      "height": 34,
+      "ypos": 734,
+      "xpos": 1,
+      "width": 65,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-VERSION-Tumbleweed",
+    "ENV-WAYLAND-1",
+    "generic-desktop",
+    "x11"
+  ]
+}
