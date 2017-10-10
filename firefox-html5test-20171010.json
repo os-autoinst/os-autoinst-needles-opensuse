@@ -5,25 +5,25 @@
   "properties": [],
   "area": [
     {
-      "xpos": 7,
+      "type": "match",
+      "ypos": 181,
+      "height": 93,
       "width": 662,
-      "height": 165,
-      "ypos": 34,
-      "type": "match"
+      "xpos": 9
     },
     {
       "type": "match",
       "width": 289,
-      "xpos": 75,
-      "ypos": 274,
+      "xpos": 77,
+      "ypos": 349,
       "height": 80
     },
     {
-      "ypos": 296,
+      "type": "match",
       "height": 58,
-      "width": 234,
-      "xpos": 529,
-      "type": "match"
+      "ypos": 371,
+      "xpos": 531,
+      "width": 234
     }
   ]
 }
