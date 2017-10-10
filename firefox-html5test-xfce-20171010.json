@@ -1,36 +1,36 @@
 {
+  "tags": [
+    "firefox-html5test"
+  ],
   "properties": [],
   "area": [
     {
-      "width": 666,
-      "xpos": 5,
-      "ypos": 29,
       "height": 165,
+      "ypos": 29,
+      "xpos": 5,
+      "width": 666,
+      "type": "match"
+    },
+    {
+      "width": 289,
+      "xpos": 78,
+      "ypos": 270,
+      "height": 80,
       "type": "match"
     },
     {
       "type": "match",
-      "height": 80,
-      "ypos": 269,
-      "xpos": 77,
-      "width": 289
-    },
-    {
-      "type": "match",
-      "ypos": 291,
+      "ypos": 292,
       "height": 58,
       "width": 234,
-      "xpos": 531
+      "xpos": 530
     },
     {
-      "xpos": 227,
-      "ypos": 32,
-      "width": 28,
+      "type": "exclude",
       "height": 27,
-      "type": "exclude"
+      "ypos": 32,
+      "xpos": 227,
+      "width": 28
     }
-  ],
-  "tags": [
-    "firefox-html5test"
   ]
 }
