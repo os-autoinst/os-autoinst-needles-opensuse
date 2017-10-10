@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 168,
+      "width": 697,
+      "height": 85,
+      "ypos": 372,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "ENV-DISTRI-opensuse",
+    "test-firefox_audio-1"
+  ]
+}
