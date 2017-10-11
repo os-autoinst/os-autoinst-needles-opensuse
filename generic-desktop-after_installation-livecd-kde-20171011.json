@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 2,
+      "width": 56,
+      "height": 31,
+      "ypos": 734
+    },
+    {
+      "type": "match",
+      "width": 121,
+      "xpos": 112,
+      "ypos": 0,
+      "height": 112
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-LIVECD-1",
+    "generic-desktop-after_installation"
+  ]
+}
