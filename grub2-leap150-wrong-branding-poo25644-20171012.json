@@ -1,0 +1,19 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "ypos": 43,
+      "height": 236,
+      "width": 546,
+      "xpos": 128,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "bootloader",
+    "autoyast-boot",
+    "grub2"
+  ]
+}
