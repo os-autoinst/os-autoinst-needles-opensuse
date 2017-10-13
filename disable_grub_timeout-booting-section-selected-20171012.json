@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "booting-section-selected"
+  ],
+  "area": [
+    {
+      "xpos": 357,
+      "ypos": 124,
+      "width": 55,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
