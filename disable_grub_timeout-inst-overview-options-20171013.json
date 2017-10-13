@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "inst-overview-options"
+  ],
+  "area": [
+    {
+      "xpos": 470,
+      "ypos": 638,
+      "width": 99,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}
