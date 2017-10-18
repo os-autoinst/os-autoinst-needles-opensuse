@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "rescan-devices-warning"
+  ],
+  "area": [
+    {
+      "xpos": 335,
+      "ypos": 336,
+      "width": 355,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}
