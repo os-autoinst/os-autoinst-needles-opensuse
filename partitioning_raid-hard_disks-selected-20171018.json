@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "partitioning_raid-hard_disks-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 42,
+      "ypos": 154,
+      "width": 111,
+      "height": 64,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "partitioning_raid-raid_ext4_added"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 325,
+      "ypos": 181,
+      "width": 49,
+      "height": 49,
+      "type": "match"
+    },
+    {
+      "xpos": 562,
+      "ypos": 220,
+      "width": 25,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
