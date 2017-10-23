@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "width": 165,
+      "ypos": 27,
+      "xpos": 14,
+      "type": "match",
+      "height": 19
+    },
+    {
+      "xpos": 22,
+      "ypos": 50,
+      "width": 144,
+      "height": 18,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "inst-bootloader-settings",
+    "inst-bootloader-settings-first_tab_highlighted"
+  ]
+}
