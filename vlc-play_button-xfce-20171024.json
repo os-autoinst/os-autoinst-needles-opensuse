@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 602,
+      "type": "match",
+      "width": 76,
+      "ypos": 483,
+      "height": 34
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "vlc-play_button"
+  ]
+}
