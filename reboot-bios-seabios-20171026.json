@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 144,
+      "ypos": 1,
+      "height": 20,
+      "xpos": 1,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "bios-boot"
+  ],
+  "properties": []
+}
