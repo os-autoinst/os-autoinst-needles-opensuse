@@ -4,7 +4,9 @@
     "test-systemsettings-1",
     "ENV-DESKTOP-kde"
   ],
-  "properties": [],
+  "properties": [
+    "workaround"
+  ],
   "area": [
     {
       "ypos": 35,
