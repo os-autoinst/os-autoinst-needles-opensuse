@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 338,
+      "type": "match",
+      "xpos": 320,
+      "ypos": 222,
+      "width": 381
+    }
+  ],
+  "tags": [
+    "test-gnome-screenshot-started"
+  ]
+}
