@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "disabledhome"
+  ],
+  "area": [
+    {
+      "height": 15,
+      "type": "match",
+      "ypos": 428,
+      "width": 202,
+      "xpos": 569
+    }
+  ],
+  "properties": []
+}
