@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 414,
+      "ypos": 122,
+      "width": 134,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partitioning-windows"
+  ]
+}
