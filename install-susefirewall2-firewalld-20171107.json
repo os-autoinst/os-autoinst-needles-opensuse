@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "install-susefirewall2"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 167,
+      "ypos": 300,
+      "width": 322,
+      "type": "match",
+      "xpos": 351
+    }
+  ]
+}
