@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-FLAVOR-Argon-Live",
+    "ENV-LIVECD-1",
+    "generic-desktop-after_installation"
+  ],
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 736,
+      "width": 56,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "height": 112,
+      "type": "match",
+      "width": 121,
+      "ypos": 0,
+      "xpos": 339
+    }
+  ],
+  "properties": []
+}
