@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "gnucash-save-changes"
+  ],
+  "area": [
+    {
+      "xpos": 168,
+      "height": 135,
+      "type": "match",
+      "width": 467,
+      "ypos": 287
+    }
+  ],
+  "properties": []
+}
