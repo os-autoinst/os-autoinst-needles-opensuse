@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-VERSION-15.0",
+    "nautilus",
+    "test-nautilus-1"
+  ],
+  "area": [
+    {
+      "ypos": 125,
+      "width": 459,
+      "type": "match",
+      "height": 76,
+      "xpos": 70
+    }
+  ],
+  "properties": []
+}
