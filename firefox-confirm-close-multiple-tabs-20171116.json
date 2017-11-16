@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 138,
+      "ypos": 336,
+      "height": 21,
+      "type": "match",
+      "xpos": 342
+    },
+    {
+      "type": "match",
+      "height": 25,
+      "ypos": 373,
+      "width": 290,
+      "xpos": 366
+    },
+    {
+      "height": 22,
+      "type": "match",
+      "width": 29,
+      "ypos": 285,
+      "xpos": 271
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "firefox-save-and-quit"
+  ]
+}
