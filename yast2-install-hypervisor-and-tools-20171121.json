@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "xpos": 260,
+      "ypos": 373,
+      "width": 108,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 262,
+      "ypos": 430,
+      "width": 110,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 302,
+      "ypos": 483,
+      "width": 104,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 263,
+      "ypos": 241,
+      "width": 206,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 613,
+      "ypos": 555,
+      "width": 44,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2-install-hypervisor-and-tools"
+  ],
+  "properties": []
+}
