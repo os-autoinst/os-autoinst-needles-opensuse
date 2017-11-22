@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "updates_restart_application"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 567,
+      "ypos": 448,
+      "width": 131,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}
