@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 327,
+      "ypos": 377,
+      "width": 79,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_proxy_squid_cannot-open-interface"
+  ],
+  "properties": []
+}
