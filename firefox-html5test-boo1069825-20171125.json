@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "ypos": 108,
+      "width": 662,
+      "type": "match",
+      "height": 93,
+      "xpos": 7
+    },
+    {
+      "xpos": 76,
+      "width": 289,
+      "ypos": 276,
+      "type": "match",
+      "height": 80
+    },
+    {
+      "xpos": 528,
+      "ypos": 298,
+      "width": 234,
+      "height": 58,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox-html5test"
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
