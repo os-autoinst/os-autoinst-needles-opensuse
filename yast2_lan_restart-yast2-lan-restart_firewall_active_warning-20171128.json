@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "yast2-lan-restart_firewall_active_warning"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 292,
+      "ypos": 334,
+      "width": 77,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 290,
+      "ypos": 368,
+      "width": 297,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}
