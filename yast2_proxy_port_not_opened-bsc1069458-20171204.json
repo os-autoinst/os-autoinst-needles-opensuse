@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "yast2_proxy_squid_cannot-open-interface"
+  ],
+  "area": [
+    {
+      "width": 183,
+      "type": "match",
+      "xpos": 382,
+      "height": 18,
+      "ypos": 463
+    }
+  ]
+}
