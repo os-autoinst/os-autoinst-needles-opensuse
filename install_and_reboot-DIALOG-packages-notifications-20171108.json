@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_error"
+  ],
+  "area": [
+    {
+      "width": 206,
+      "type": "match",
+      "ypos": 341,
+      "height": 30,
+      "xpos": 49
+    },
+    {
+      "height": 15,
+      "type": "match",
+      "ypos": 281,
+      "xpos": 37,
+      "width": 59
+    }
+  ]
+}
