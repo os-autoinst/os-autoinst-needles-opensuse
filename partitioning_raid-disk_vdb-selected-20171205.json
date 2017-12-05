@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "partitioning_raid-disk_vdb-selected"
+  ],
+  "area": [
+    {
+      "xpos": 339,
+      "ypos": 149,
+      "width": 129,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 80,
+      "ypos": 290,
+      "width": 29,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}

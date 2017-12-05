@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 338,
+      "ypos": 148,
+      "width": 127,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 85,
+      "ypos": 346,
+      "width": 20,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning_raid-disk_vdc-selected",
+    "storage-ng"
+  ]
+}

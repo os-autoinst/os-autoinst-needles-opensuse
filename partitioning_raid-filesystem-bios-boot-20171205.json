@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "partition-selected-bios-boot-type"
+  ],
+  "area": [
+    {
+      "xpos": 332,
+      "ypos": 482,
+      "width": 109,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}
