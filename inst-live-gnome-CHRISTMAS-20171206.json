@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "CHRISTMAS",
+    "ENV-LIVECD-1",
+    "boot-live-gnome"
+  ],
+  "area": [
+    {
+      "ypos": 160,
+      "height": 32,
+      "xpos": 220,
+      "type": "match",
+      "width": 258
+    }
+  ],
+  "properties": []
+}
