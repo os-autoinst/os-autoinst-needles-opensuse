@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "ypos": 161,
+      "height": 101,
+      "xpos": 213,
+      "type": "match",
+      "width": 273
+    }
+  ],
+  "tags": [
+    "CHRISTMAS",
+    "ENV-LIVECD-1",
+    "bootloader",
+    "inst-bootmenu"
+  ],
+  "properties": []
+}
