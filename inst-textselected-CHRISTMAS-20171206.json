@@ -1,0 +1,20 @@
+{
+  "properties": [],
+  "tags": [
+    "CHRISTMAS",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "inst-textselected",
+    "inst-textselected-with_colormenu"
+  ],
+  "area": [
+    {
+      "xpos": 246,
+      "type": "match",
+      "ypos": 432,
+      "height": 74,
+      "width": 162
+    }
+  ]
+}
