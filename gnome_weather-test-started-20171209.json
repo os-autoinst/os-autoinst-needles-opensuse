@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 104,
+      "height": 23,
+      "xpos": 94,
+      "ypos": 3
+    },
+    {
+      "height": 30,
+      "xpos": 171,
+      "ypos": 122,
+      "width": 203,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-gnome-weather-started"
+  ]
+}
