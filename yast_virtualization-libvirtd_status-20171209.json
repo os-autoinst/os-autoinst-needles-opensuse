@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 86,
+      "ypos": 134,
+      "width": 35,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "libvirtd_status"
+  ]
+}
