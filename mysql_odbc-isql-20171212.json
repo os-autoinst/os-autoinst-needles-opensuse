@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "mysql_odbc-isql"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 19,
+      "xpos": 15,
+      "type": "match",
+      "ypos": 622,
+      "width": 248
+    }
+  ]
+}
