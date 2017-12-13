@@ -1,0 +1,32 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "ypos": 302,
+      "xpos": 323,
+      "type": "match",
+      "height": 10,
+      "width": 37
+    },
+    {
+      "width": 35,
+      "height": 10,
+      "type": "match",
+      "xpos": 506,
+      "ypos": 300
+    },
+    {
+      "xpos": 387,
+      "ypos": 301,
+      "width": 46,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partitioning_raid-part_root_added",
+    "storage-ng"
+  ]
+}
