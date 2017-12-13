@@ -1,0 +1,45 @@
+{
+  "tags": [
+    "ENV-12SP4ORLATER-1",
+    "acceptedpartitioning",
+    "acceptedpartitioningraid0"
+  ],
+  "area": [
+    {
+      "xpos": 454,
+      "ypos": 109,
+      "width": 90,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "xpos": 453,
+      "ypos": 166,
+      "width": 103,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 452,
+      "ypos": 221,
+      "width": 103,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "xpos": 452,
+      "ypos": 278,
+      "width": 104,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "xpos": 416,
+      "ypos": 388,
+      "width": 148,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
