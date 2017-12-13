@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "width": 217,
+      "type": "match",
+      "xpos": 10,
+      "height": 113,
+      "ypos": 4
+    },
+    {
+      "width": 65,
+      "type": "match",
+      "ypos": 734,
+      "height": 34,
+      "xpos": 1
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-ppc64",
+    "ENV-DESKTOP-kde",
+    "generic-desktop",
+    "x11"
+  ]
+}
