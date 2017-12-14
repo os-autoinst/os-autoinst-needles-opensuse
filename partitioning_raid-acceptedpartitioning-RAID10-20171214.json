@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 322,
+      "ypos": 121,
+      "xpos": 411,
+      "width": 147
+    }
+  ],
+  "tags": [
+    "acceptedpartitioning",
+    "storage-ng"
+  ],
+  "properties": []
+}
