@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 23,
+      "ypos": 115,
+      "width": 202,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "main-repo-oss-disabled"
+  ],
+  "properties": []
+}
