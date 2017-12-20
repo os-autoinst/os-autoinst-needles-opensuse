@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "online-repos-disabled"
+  ],
+  "area": [
+    {
+      "xpos": 15,
+      "ypos": 80,
+      "width": 35,
+      "height": 144,
+      "type": "match"
+    }
+  ]
+}
