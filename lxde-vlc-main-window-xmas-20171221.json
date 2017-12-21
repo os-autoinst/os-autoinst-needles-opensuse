@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "CHRISTMAS",
+    "ENV-DESKTOP-lxde",
+    "vlc-main-window"
+  ],
+  "area": [
+    {
+      "xpos": 214,
+      "height": 299,
+      "ypos": 280,
+      "type": "match",
+      "width": 369
+    }
+  ],
+  "properties": []
+}
