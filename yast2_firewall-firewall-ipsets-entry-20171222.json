@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "firewall-ipsets-entry"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 375,
+      "ypos": 219,
+      "width": 72,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 387,
+      "ypos": 640,
+      "width": 84,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}
