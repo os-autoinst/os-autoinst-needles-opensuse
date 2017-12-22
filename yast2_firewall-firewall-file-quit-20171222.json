@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firewall-file-quit"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 25,
+      "ypos": 99,
+      "width": 41,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}

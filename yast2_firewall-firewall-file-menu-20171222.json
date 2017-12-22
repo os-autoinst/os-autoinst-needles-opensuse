@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firewall-file-menu"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 5,
+      "ypos": 69,
+      "width": 38,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}
