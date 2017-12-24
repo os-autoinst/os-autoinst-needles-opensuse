@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "dstat-hello-world"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 4,
+      "ypos": 260,
+      "width": 121,
+      "height": 109,
+      "type": "match"
+    }
+  ]
+}
