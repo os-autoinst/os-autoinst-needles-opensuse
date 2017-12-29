@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-network-settings_overview_hardware-dialog_device-type"
+  ],
+  "area": [
+    {
+      "ypos": 247,
+      "xpos": 466,
+      "width": 15,
+      "type": "match",
+      "height": 20
+    }
+  ],
+  "properties": []
+}
