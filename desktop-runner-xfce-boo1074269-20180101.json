@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "desktop-runner",
+    "ENV-DESKTOP-xfce"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 337,
+      "ypos": 341,
+      "type": "match",
+      "height": 76,
+      "width": 186
+    }
+  ]
+}
