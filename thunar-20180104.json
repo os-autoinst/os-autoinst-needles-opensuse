@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "test-thunar-1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 188,
+      "ypos": 99,
+      "height": 80,
+      "type": "match",
+      "width": 233
+    }
+  ]
+}
