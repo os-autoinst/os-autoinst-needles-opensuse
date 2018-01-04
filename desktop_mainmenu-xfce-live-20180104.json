@@ -1,0 +1,31 @@
+{
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "ENV-LIVETEST-1",
+    "test-desktop_mainmenu-1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 474,
+      "xpos": 833,
+      "width": 183,
+      "type": "match",
+      "height": 288
+    },
+    {
+      "ypos": 744,
+      "xpos": 0,
+      "width": 155,
+      "type": "match",
+      "height": 23
+    },
+    {
+      "xpos": 664,
+      "ypos": 427,
+      "height": 159,
+      "type": "match",
+      "width": 163
+    }
+  ]
+}
