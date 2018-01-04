@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "ENV-INSTLANG-en_US",
+    "test-ristretto-1"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 26,
+      "height": 80,
+      "type": "match",
+      "width": 353
+    }
+  ],
+  "properties": []
+}
