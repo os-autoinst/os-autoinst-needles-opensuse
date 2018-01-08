@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 333,
+      "xpos": 389,
+      "width": 247,
+      "type": "match",
+      "height": 99
+    }
+  ],
+  "tags": [
+    "icewm_confirm_logout"
+  ]
+}
