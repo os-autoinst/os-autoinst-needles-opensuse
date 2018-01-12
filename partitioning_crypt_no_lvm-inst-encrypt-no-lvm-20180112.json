@@ -1,0 +1,44 @@
+{
+  "area": [
+    {
+      "xpos": 415,
+      "ypos": 137,
+      "height": 12,
+      "width": 139,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "width": 73,
+      "height": 11,
+      "xpos": 671,
+      "ypos": 138
+    },
+    {
+      "xpos": 416,
+      "ypos": 166,
+      "type": "match",
+      "width": 139,
+      "height": 10
+    },
+    {
+      "xpos": 667,
+      "ypos": 166,
+      "type": "match",
+      "width": 48,
+      "height": 10
+    },
+    {
+      "type": "match",
+      "height": 10,
+      "width": 141,
+      "ypos": 137,
+      "xpos": 411
+    }
+  ],
+  "tags": [
+    "inst-encrypt-no-lvm",
+    "storage-ng"
+  ],
+  "properties": []
+}
