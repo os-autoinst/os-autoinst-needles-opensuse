@@ -1,15 +1,15 @@
 {
-  "area": [
-    {
-      "type": "match",
-      "height": 19,
-      "width": 57,
-      "xpos": 147,
-      "ypos": 566
-    }
-  ],
   "properties": [],
   "tags": [
     "yast2-lang_secondary-language"
+  ],
+  "area": [
+    {
+      "xpos": 116,
+      "ypos": 566,
+      "width": 97,
+      "height": 19,
+      "type": "match"
+    }
   ]
 }
