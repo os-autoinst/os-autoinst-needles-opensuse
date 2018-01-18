@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "height": 29,
+      "width": 56,
+      "type": "match",
+      "xpos": 2,
+      "ypos": 736
+    },
+    {
+      "ypos": 0,
+      "xpos": 339,
+      "height": 112,
+      "width": 121,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-FLAVOR-Argon-Live",
+    "ENV-LIVECD-1",
+    "generic-desktop-after_installation"
+  ],
+  "properties": []
+}
