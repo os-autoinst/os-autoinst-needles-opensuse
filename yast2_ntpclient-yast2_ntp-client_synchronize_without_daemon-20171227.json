@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 15,
+      "xpos": 25,
+      "ypos": 81,
+      "width": 241,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_ntp-client_synchronize_without_daemon"
+  ]
+}
