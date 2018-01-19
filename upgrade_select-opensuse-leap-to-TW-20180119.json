@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 426,
+      "height": 51,
+      "type": "match",
+      "ypos": 179,
+      "xpos": 357
+    },
+    {
+      "ypos": 209,
+      "xpos": 502,
+      "type": "exclude",
+      "width": 55,
+      "height": 18
+    }
+  ],
+  "tags": [
+    "update-installation-overview"
+  ],
+  "properties": []
+}
