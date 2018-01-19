@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "filesystem-xfs"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 584,
+      "ypos": 295,
+      "type": "match",
+      "height": 47,
+      "width": 66
+    }
+  ]
+}
