@@ -5,11 +5,12 @@
   ],
   "area": [
     {
-      "xpos": 586,
-      "ypos": 293,
+      "type": "match",
       "width": 66,
       "height": 54,
-      "type": "match"
+      "xpos": 586,
+      "ypos": 293,
+      "match": 99
     }
   ]
 }
