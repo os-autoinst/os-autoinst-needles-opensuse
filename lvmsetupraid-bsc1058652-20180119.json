@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 290,
+      "height": 35,
+      "ypos": 97,
+      "xpos": 23
+    },
+    {
+      "ypos": 309,
+      "xpos": 167,
+      "height": 13,
+      "width": 48,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "lvmsetupraid"
+  ]
+}
