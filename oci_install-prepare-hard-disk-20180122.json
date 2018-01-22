@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "prepare-hard-disk"
+  ],
+  "area": [
+    {
+      "width": 300,
+      "height": 39,
+      "type": "match",
+      "xpos": 24,
+      "ypos": 96
+    },
+    {
+      "height": 12,
+      "width": 34,
+      "type": "match",
+      "ypos": 206,
+      "xpos": 321
+    }
+  ]
+}
