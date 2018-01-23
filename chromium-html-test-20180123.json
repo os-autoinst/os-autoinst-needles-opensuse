@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 46,
+      "xpos": 96,
+      "width": 265,
+      "ypos": 215
+    },
+    {
+      "xpos": 550,
+      "ypos": 219,
+      "width": 205,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "chromium-html-test"
+  ]
+}
