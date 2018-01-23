@@ -1,0 +1,20 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VERSION-15.0",
+    "test-eog-1",
+    "test-eog-started"
+  ],
+  "area": [
+    {
+      "ypos": 85,
+      "xpos": 127,
+      "width": 812,
+      "height": 131,
+      "type": "match"
+    }
+  ]
+}
