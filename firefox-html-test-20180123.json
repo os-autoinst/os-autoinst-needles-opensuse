@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-html-test"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 569,
+      "xpos": 241,
+      "ypos": 204,
+      "type": "match",
+      "height": 378
+    }
+  ]
+}

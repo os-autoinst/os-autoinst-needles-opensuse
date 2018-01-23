@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 211,
+      "ypos": 189,
+      "width": 544,
+      "height": 430,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "chromium-html-test"
+  ]
+}
