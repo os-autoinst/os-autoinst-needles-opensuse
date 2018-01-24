@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "acceptedpartitioningraidlvm",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "xpos": 398,
+      "ypos": 116,
+      "width": 314,
+      "height": 299,
+      "type": "match"
+    },
+    {
+      "xpos": 403,
+      "ypos": 416,
+      "width": 155,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}
