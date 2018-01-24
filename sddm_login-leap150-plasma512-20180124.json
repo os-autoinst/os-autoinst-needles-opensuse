@@ -1,6 +1,7 @@
 {
   "tags": [
     "ENV-DESKTOP-kde",
+    "ENV-VERSION-15.0",
     "displaymanager",
     "displaymanager-password-prompt",
     "sddm"
