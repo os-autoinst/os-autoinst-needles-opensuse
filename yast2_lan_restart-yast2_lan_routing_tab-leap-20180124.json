@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_lan_routing_tab"
+  ],
+  "area": [
+    {
+      "ypos": 132,
+      "xpos": 662,
+      "height": 53,
+      "width": 134,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

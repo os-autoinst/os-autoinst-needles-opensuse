@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 107,
+      "height": 18,
+      "xpos": 61,
+      "ypos": 235
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_lan_device_bridge_selected"
+  ]
+}
