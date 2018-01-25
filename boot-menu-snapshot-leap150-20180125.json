@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 42,
+      "width": 298,
+      "ypos": 276,
+      "xpos": 200
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-15.0",
+    "boot-menu-snapshot"
+  ]
+}
