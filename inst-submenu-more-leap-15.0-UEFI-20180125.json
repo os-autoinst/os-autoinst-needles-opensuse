@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 200,
+      "ypos": 319,
+      "type": "match",
+      "height": 24,
+      "width": 316
+    }
+  ],
+  "tags": [
+    "ENV-UEFI-1",
+    "inst-submenu-more"
+  ],
+  "properties": []
+}
