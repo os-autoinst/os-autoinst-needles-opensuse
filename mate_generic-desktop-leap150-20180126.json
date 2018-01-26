@@ -1,0 +1,32 @@
+{
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "ENV-VERSION-15.0",
+    "generic-desktop",
+    "x11"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 1020,
+      "height": 766,
+      "type": "match",
+      "xpos": 1,
+      "ypos": 2
+    },
+    {
+      "xpos": 683,
+      "ypos": 737,
+      "width": 341,
+      "height": 31,
+      "type": "exclude"
+    },
+    {
+      "xpos": 0,
+      "ypos": 172,
+      "type": "exclude",
+      "height": 267,
+      "width": 150
+    }
+  ]
+}
