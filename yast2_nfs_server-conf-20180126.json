@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "nfs-config"
+  ],
+  "area": [
+    {
+      "width": 418,
+      "height": 85,
+      "type": "match",
+      "ypos": 227,
+      "xpos": 248
+    }
+  ]
+}
