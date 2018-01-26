@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-15.0",
+    "inst-onmediacheck"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 34,
+      "width": 287,
+      "ypos": 278,
+      "xpos": 200
+    }
+  ]
+}
