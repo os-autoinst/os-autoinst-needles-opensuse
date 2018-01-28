@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "width": 548,
+      "height": 121,
+      "type": "match",
+      "ypos": 599,
+      "xpos": 476
+    },
+    {
+      "type": "match",
+      "height": 315,
+      "width": 402,
+      "ypos": 0,
+      "xpos": 194
+    }
+  ],
+  "tags": [
+    "ENV-BETA-1",
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-15.0",
+    "bootloader-grub2",
+    "inst-bootmenu"
+  ],
+  "properties": []
+}
