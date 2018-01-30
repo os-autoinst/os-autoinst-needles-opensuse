@@ -1,0 +1,31 @@
+{
+  "tags": [
+    "activate_flag_not_set"
+  ],
+  "area": [
+    {
+      "xpos": 269,
+      "ypos": 329,
+      "width": 230,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 279,
+      "ypos": 398,
+      "width": 183,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 520,
+      "ypos": 439,
+      "width": 61,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
