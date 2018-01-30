@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 361,
+      "ypos": 429,
+      "type": "match",
+      "height": 19,
+      "width": 200
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "proposed-separated-swap"
+  ]
+}
