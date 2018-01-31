@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 63,
+      "width": 206,
+      "xpos": 413,
+      "ypos": 313
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "volume-name-root"
+  ]
+}
