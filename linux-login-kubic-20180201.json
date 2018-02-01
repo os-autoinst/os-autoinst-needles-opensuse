@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 13,
+      "width": 287,
+      "xpos": 0,
+      "ypos": 609
+    },
+    {
+      "type": "match",
+      "height": 13,
+      "width": 59,
+      "ypos": 753,
+      "xpos": 83
+    },
+    {
+      "type": "match",
+      "width": 106,
+      "height": 10,
+      "ypos": 658,
+      "xpos": 2
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "linux-login-casp"
+  ],
+  "properties": []
+}
