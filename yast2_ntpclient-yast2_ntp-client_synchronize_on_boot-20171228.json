@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_ntp-client_synchronize_on_boot"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 25,
+      "ypos": 96,
+      "width": 150,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}

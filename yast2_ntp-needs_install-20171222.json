@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_ntp-needs_install"
+  ],
+  "area": [
+    {
+      "xpos": 363,
+      "ypos": 323,
+      "width": 275,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 444,
+      "ypos": 447,
+      "width": 64,
+      "height": 16,
+      "type": "match"
+    }
+  ]
+}
