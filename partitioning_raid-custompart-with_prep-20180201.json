@@ -1,23 +1,30 @@
 {
   "area": [
     {
-      "xpos": 322,
-      "ypos": 285,
-      "width": 57,
-      "height": 23,
-      "type": "match"
+      "type": "match",
+      "width": 59,
+      "height": 117,
+      "ypos": 205,
+      "xpos": 320
     },
     {
-      "xpos": 520,
-      "ypos": 288,
-      "width": 135,
-      "height": 21,
+      "xpos": 477,
+      "ypos": 238,
+      "width": 10,
+      "height": 11,
+      "type": "exclude"
+    },
+    {
+      "xpos": 512,
+      "ypos": 206,
+      "width": 142,
+      "height": 120,
       "type": "match"
     }
   ],
-  "properties": [],
   "tags": [
     "ENV-OFW-1",
     "custompart"
-  ]
+  ],
+  "properties": []
 }
