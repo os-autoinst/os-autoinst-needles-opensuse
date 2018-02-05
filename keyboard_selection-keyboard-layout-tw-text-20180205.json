@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "keyboard-layout"
+  ],
+  "area": [
+    {
+      "xpos": 518,
+      "ypos": 192,
+      "width": 98,
+      "height": 16,
+      "type": "match"
+    }
+  ]
+}
