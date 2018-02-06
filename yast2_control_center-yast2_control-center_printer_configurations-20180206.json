@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_control-center_printer_configurations"
+  ],
+  "area": [
+    {
+      "width": 174,
+      "height": 32,
+      "type": "match",
+      "ypos": 69,
+      "xpos": 292
+    }
+  ]
+}
