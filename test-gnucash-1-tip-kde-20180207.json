@@ -1,0 +1,26 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "gnucash",
+    "test-gnucash-1"
+  ],
+  "area": [
+    {
+      "xpos": 320,
+      "ypos": 241,
+      "width": 136,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "height": 17,
+      "width": 31,
+      "type": "match",
+      "ypos": 36,
+      "xpos": 432
+    }
+  ]
+}
