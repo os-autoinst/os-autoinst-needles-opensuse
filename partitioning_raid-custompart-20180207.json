@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "custompart"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 425,
+      "height": 88,
+      "xpos": 318,
+      "ypos": 212
+    }
+  ]
+}
