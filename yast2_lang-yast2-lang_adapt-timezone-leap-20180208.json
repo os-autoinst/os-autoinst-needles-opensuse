@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2-lang_adapt-timezone"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 25,
+      "width": 139,
+      "type": "match",
+      "ypos": 272,
+      "xpos": 150
+    }
+  ]
+}
