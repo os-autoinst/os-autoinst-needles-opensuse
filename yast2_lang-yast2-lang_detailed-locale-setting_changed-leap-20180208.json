@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 327,
+      "xpos": 453,
+      "type": "match",
+      "width": 170,
+      "height": 71
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2-lang_detailed-locale-setting_changed"
+  ]
+}
