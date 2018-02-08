@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "partitioning_raid-swap_format-selected"
+  ],
+  "area": [
+    {
+      "xpos": 383,
+      "ypos": 402,
+      "type": "match",
+      "width": 37,
+      "height": 18
+    },
+    {
+      "ypos": 360,
+      "xpos": 339,
+      "type": "match",
+      "width": 128,
+      "height": 68
+    }
+  ]
+}
