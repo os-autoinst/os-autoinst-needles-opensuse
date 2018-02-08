@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "inst-userinfostyped",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 233,
+      "width": 345,
+      "xpos": 557,
+      "ypos": 264
+    }
+  ]
+}
