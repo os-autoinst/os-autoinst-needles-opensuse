@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "partitioning_raid-raid_swap_added",
+    "storage-ng"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 323,
+      "ypos": 183,
+      "type": "match",
+      "height": 70,
+      "width": 51
+    },
+    {
+      "width": 31,
+      "height": 10,
+      "type": "match",
+      "ypos": 240,
+      "xpos": 599
+    }
+  ]
+}
