@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 59,
+      "width": 375,
+      "ypos": 184,
+      "xpos": 357
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "update-installation-overview"
+  ]
+}
