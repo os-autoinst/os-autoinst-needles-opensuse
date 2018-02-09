@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_control-center_user-and-group-management_users"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 18,
+      "ypos": 72,
+      "width": 221,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}

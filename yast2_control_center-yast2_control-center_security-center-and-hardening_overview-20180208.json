@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_control-center_security-center-and-hardening_overview"
+  ],
+  "area": [
+    {
+      "width": 135,
+      "xpos": 301,
+      "ypos": 72,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}

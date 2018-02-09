@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2-bootloader_kernel-parameters"
+  ],
+  "area": [
+    {
+      "xpos": 430,
+      "ypos": 134,
+      "width": 158,
+      "height": 33,
+      "type": "match"
+    }
+  ]
+}

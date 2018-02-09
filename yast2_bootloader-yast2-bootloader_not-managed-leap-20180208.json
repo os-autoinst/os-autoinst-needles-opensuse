@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2-bootloader_not-managed"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 23,
+      "ypos": 261,
+      "xpos": 452,
+      "width": 111
+    }
+  ]
+}

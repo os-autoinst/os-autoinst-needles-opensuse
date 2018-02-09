@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 73,
+      "xpos": 12,
+      "width": 160,
+      "type": "match",
+      "height": 27
+    }
+  ],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_control-center_sound_configuration"
+  ],
+  "properties": []
+}
