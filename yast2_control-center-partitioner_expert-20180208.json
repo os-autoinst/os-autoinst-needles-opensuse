@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "height": 33,
+      "type": "match",
+      "ypos": 72,
+      "xpos": 15,
+      "width": 146
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-LEAP-1",
+    "storage-ng",
+    "yast2_control-center-partitioner_expert"
+  ]
+}

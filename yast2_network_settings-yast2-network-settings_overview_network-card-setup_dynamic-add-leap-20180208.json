@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2-network-settings_overview_network-card-setup_dynamic-add"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 29,
+      "type": "match",
+      "ypos": 262,
+      "xpos": 122,
+      "width": 145
+    },
+    {
+      "width": 152,
+      "xpos": 277,
+      "ypos": 259,
+      "type": "match",
+      "height": 38
+    }
+  ]
+}
