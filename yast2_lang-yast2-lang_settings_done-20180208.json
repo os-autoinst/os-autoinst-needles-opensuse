@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 150,
+      "ypos": 270,
+      "width": 140,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 149,
+      "ypos": 582,
+      "width": 73,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2-lang_settings_done"
+  ],
+  "properties": []
+}

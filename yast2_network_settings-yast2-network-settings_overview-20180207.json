@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 360,
+      "ypos": 140,
+      "width": 115,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2-network-settings_overview"
+  ],
+  "properties": []
+}

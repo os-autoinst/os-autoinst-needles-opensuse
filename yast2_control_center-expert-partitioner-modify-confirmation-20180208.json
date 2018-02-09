@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-LEAP-1",
+    "expert-partitioner-modify-confirmation",
+    "storage-ng"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 344,
+      "ypos": 372,
+      "width": 334,
+      "height": 21,
+      "type": "match"
+    }
+  ]
+}
