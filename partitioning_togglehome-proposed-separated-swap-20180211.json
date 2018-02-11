@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 200,
+      "xpos": 564,
+      "type": "match",
+      "ypos": 505,
+      "height": 19
+    }
+  ],
+  "tags": [
+    "proposed-separated-swap"
+  ]
+}
