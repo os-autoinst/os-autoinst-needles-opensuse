@@ -1,0 +1,46 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 90,
+      "xpos": 454,
+      "type": "match",
+      "height": 27,
+      "ypos": 110
+    },
+    {
+      "width": 103,
+      "xpos": 453,
+      "type": "match",
+      "height": 26,
+      "ypos": 170
+    },
+    {
+      "xpos": 452,
+      "width": 103,
+      "height": 27,
+      "ypos": 229,
+      "type": "match"
+    },
+    {
+      "width": 104,
+      "xpos": 452,
+      "type": "match",
+      "height": 27,
+      "ypos": 290
+    },
+    {
+      "type": "match",
+      "ypos": 393,
+      "height": 14,
+      "width": 148,
+      "xpos": 416
+    }
+  ],
+  "tags": [
+    "ENV-12SP4ORLATER-1",
+    "acceptedpartitioning",
+    "acceptedpartitioningraid0",
+    "storage-ng"
+  ]
+}
