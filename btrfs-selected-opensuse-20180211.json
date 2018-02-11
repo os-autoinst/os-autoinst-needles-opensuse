@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "btrfs-selected"
+  ],
+  "area": [
+    {
+      "xpos": 585,
+      "width": 68,
+      "ypos": 291,
+      "height": 57,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
