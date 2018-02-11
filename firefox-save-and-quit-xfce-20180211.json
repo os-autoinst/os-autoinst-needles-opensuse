@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "firefox-save-and-quit"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 453,
+      "width": 109,
+      "height": 19,
+      "ypos": 296,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 408,
+      "height": 35,
+      "width": 110,
+      "xpos": 628
+    }
+  ]
+}
