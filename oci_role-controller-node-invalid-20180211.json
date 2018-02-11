@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 110,
+      "ypos": 339,
+      "type": "match",
+      "xpos": 286,
+      "width": 455
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "controller-node-invalid"
+  ]
+}
