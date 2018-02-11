@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "logoutdialog"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 429,
+      "xpos": 296,
+      "type": "match",
+      "ypos": 340,
+      "height": 88
+    }
+  ]
+}
