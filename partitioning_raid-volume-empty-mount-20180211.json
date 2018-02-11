@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 519,
+      "width": 186,
+      "ypos": 320,
+      "height": 138,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "storage-ng",
+    "volume-empty-mount"
+  ]
+}
