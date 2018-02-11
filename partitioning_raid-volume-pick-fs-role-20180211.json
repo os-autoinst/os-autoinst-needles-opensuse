@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "storage-ng",
+    "volume-pick-fs-role"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 368,
+      "height": 103,
+      "type": "match",
+      "xpos": 407,
+      "width": 198
+    },
+    {
+      "ypos": 396,
+      "height": 73,
+      "type": "exclude",
+      "xpos": 431,
+      "width": 20
+    }
+  ]
+}
