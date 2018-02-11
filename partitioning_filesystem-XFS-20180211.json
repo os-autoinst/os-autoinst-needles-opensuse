@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "xfs-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 875,
+      "width": 149,
+      "ypos": 42,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 51,
+      "ypos": 294,
+      "width": 62,
+      "xpos": 586
+    }
+  ]
+}
