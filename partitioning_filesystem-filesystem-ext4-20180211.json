@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 54,
+      "ypos": 291,
+      "type": "match",
+      "xpos": 582,
+      "width": 67
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "filesystem-ext4"
+  ]
+}
