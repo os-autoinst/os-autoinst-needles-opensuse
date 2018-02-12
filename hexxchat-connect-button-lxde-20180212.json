@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "hexchat-connect-button",
+    "xchat-connect-button"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 35,
+      "ypos": 585,
+      "width": 84,
+      "xpos": 590
+    }
+  ]
+}
