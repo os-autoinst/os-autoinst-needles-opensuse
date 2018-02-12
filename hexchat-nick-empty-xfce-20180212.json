@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "hexchat-nick-empty"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 167,
+      "xpos": 337,
+      "type": "match",
+      "ypos": 154,
+      "height": 38
+    }
+  ]
+}
