@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "dashboard-url"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 353,
+      "width": 377,
+      "height": 51,
+      "ypos": 489,
+      "type": "match"
+    }
+  ]
+}
