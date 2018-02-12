@@ -1,0 +1,37 @@
+{
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "gnucash-save-changes"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 26,
+      "ypos": 284,
+      "width": 349,
+      "xpos": 235
+    },
+    {
+      "type": "match",
+      "ypos": 376,
+      "height": 41,
+      "width": 145,
+      "xpos": 175
+    },
+    {
+      "width": 147,
+      "xpos": 326,
+      "type": "match",
+      "height": 42,
+      "ypos": 377
+    },
+    {
+      "ypos": 378,
+      "height": 40,
+      "type": "match",
+      "xpos": 483,
+      "width": 148
+    }
+  ]
+}
