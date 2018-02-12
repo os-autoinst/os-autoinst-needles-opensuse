@@ -2,14 +2,15 @@
   "tags": [
     "filesystem-ext4"
   ],
+  "properties": [],
   "area": [
     {
+      "type": "match",
       "height": 54,
       "ypos": 291,
-      "type": "match",
+      "width": 67,
       "xpos": 582,
-      "width": 67
+      "match": 100
     }
-  ],
-  "properties": []
+  ]
 }
