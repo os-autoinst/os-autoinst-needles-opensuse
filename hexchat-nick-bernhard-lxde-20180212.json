@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 444,
+      "width": 77,
+      "ypos": 152,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "hexchat-nick-bernhard"
+  ]
+}
