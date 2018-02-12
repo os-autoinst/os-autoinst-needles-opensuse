@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 346,
+      "ypos": 204,
+      "width": 381,
+      "xpos": 308
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "vlc-first-time-wizard"
+  ]
+}
