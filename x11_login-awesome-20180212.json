@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 47,
+      "xpos": 2,
+      "type": "match",
+      "ypos": 1,
+      "height": 19
+    }
+  ],
+  "tags": [
+    "x11",
+    "generic-desktop",
+    "ENV-DESKTOP-awesome"
+  ]
+}
