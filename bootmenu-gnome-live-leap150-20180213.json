@@ -1,0 +1,19 @@
+{
+  "tags": [
+    "ENV-LIVECD-1",
+    "ENV-VERSION-15.0",
+    "boot-live-gnome",
+    "bootloader",
+    "inst-bootmenu"
+  ],
+  "area": [
+    {
+      "xpos": 199,
+      "width": 372,
+      "ypos": 152,
+      "height": 130,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
