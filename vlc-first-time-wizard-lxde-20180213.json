@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "vlc-first-time-wizard"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 25,
+      "ypos": 201,
+      "width": 136,
+      "xpos": 324
+    },
+    {
+      "ypos": 238,
+      "height": 39,
+      "type": "match",
+      "xpos": 337,
+      "width": 133
+    }
+  ]
+}
