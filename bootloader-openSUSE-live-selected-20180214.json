@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-LIVETEST-1",
+    "ENV-VERSION-15.0",
+    "boot-live-xfce"
+  ],
+  "area": [
+    {
+      "width": 295,
+      "xpos": 211,
+      "type": "match",
+      "ypos": 169,
+      "height": 23
+    }
+  ],
+  "properties": []
+}
