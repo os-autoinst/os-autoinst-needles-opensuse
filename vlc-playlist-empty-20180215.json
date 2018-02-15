@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "vlc-playlist-empty"
+  ],
+  "area": [
+    {
+      "width": 190,
+      "height": 143,
+      "xpos": 512,
+      "type": "match",
+      "ypos": 313
+    }
+  ]
+}
