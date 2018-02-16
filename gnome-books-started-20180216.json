@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 5,
+      "width": 92,
+      "height": 22,
+      "xpos": 92
+    },
+    {
+      "ypos": 314,
+      "type": "match",
+      "xpos": 424,
+      "height": 248,
+      "width": 194
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome-books-started"
+  ]
+}
