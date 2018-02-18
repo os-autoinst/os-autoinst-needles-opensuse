@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 77,
+      "height": 26,
+      "xpos": 97,
+      "type": "match",
+      "ypos": 3
+    },
+    {
+      "width": 333,
+      "height": 258,
+      "xpos": 349,
+      "ypos": 310,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome-news-started"
+  ]
+}
