@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 300,
+      "width": 508,
+      "height": 158,
+      "xpos": 255
+    },
+    {
+      "ypos": 398,
+      "type": "match",
+      "width": 114,
+      "xpos": 309,
+      "height": 33
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "polari-quit"
+  ]
+}
