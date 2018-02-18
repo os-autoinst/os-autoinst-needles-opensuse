@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 32,
+      "width": 249,
+      "xpos": 389,
+      "height": 36
+    },
+    {
+      "width": 131,
+      "height": 28,
+      "xpos": 90,
+      "ypos": 0,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome-documents-started"
+  ]
+}
