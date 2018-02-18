@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 268,
+      "height": 160,
+      "xpos": 382,
+      "type": "match",
+      "ypos": 347
+    },
+    {
+      "ypos": 1,
+      "type": "match",
+      "width": 104,
+      "height": 26,
+      "xpos": 90
+    }
+  ],
+  "tags": [
+    "test-gnome-photos-started"
+  ],
+  "properties": []
+}
