@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 101,
+      "width": 576,
+      "height": 96,
+      "xpos": 193
+    },
+    {
+      "ypos": 5,
+      "type": "match",
+      "xpos": 95,
+      "height": 20,
+      "width": 205
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-vinagre-started"
+  ]
+}
