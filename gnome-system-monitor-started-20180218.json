@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 197,
+      "height": 32,
+      "width": 410,
+      "ypos": 56,
+      "type": "match"
+    },
+    {
+      "ypos": 5,
+      "type": "match",
+      "xpos": 93,
+      "height": 22,
+      "width": 149
+    }
+  ],
+  "tags": [
+    "test-gnome-system-monitor-started"
+  ],
+  "properties": []
+}
