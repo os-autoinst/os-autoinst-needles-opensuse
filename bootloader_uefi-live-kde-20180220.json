@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "boot-live-kde"
+  ],
+  "area": [
+    {
+      "width": 304,
+      "height": 31,
+      "xpos": 159,
+      "type": "match",
+      "ypos": 213
+    }
+  ]
+}
