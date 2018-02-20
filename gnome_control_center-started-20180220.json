@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "gnome-control-center",
+    "gnome-control-center-started"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 33,
+      "type": "match",
+      "xpos": 18,
+      "height": 37,
+      "width": 190
+    },
+    {
+      "xpos": 97,
+      "height": 26,
+      "width": 92,
+      "type": "match",
+      "ypos": 1
+    }
+  ]
+}
