@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 337,
+      "type": "match",
+      "xpos": 399,
+      "height": 70,
+      "width": 159
+    }
+  ],
+  "tags": [
+    "partitioning_raid-custom-size-200MB"
+  ],
+  "properties": []
+}
