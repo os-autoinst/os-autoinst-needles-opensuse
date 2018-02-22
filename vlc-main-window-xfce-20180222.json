@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "vlc-main-window"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 281,
+      "xpos": 213,
+      "height": 299,
+      "width": 369
+    }
+  ]
+}
