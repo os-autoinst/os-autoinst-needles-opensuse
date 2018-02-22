@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "vlc-play_button"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 491,
+      "width": 69,
+      "xpos": 613,
+      "height": 38
+    }
+  ]
+}
