@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "warning-display-manager"
+  ],
+  "area": [
+    {
+      "xpos": 265,
+      "ypos": 334,
+      "width": 72,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 477,
+      "ypos": 407,
+      "width": 60,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

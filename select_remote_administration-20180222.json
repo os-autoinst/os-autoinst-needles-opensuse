@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "select_remote_administration"
+  ],
+  "area": [
+    {
+      "xpos": 167,
+      "ypos": 269,
+      "width": 483,
+      "height": 37,
+      "type": "match"
+    }
+  ]
+}
