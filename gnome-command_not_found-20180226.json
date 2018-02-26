@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "command-not-found"
+  ],
+  "area": [
+    {
+      "xpos": 354,
+      "ypos": 384,
+      "width": 191,
+      "height": 30,
+      "type": "match"
+    }
+  ]
+}
