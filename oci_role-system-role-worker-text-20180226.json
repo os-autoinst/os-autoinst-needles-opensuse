@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "ENV-VIDEOMODE-text",
+    "system-role-worker"
+  ],
+  "area": [
+    {
+      "height": 75,
+      "xpos": 15,
+      "width": 226,
+      "ypos": 445,
+      "type": "match"
+    }
+  ]
+}
