@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 15,
+      "xpos": 588,
+      "width": 28,
+      "ypos": 339,
+      "type": "match"
+    },
+    {
+      "xpos": 577,
+      "ypos": 312,
+      "width": 155,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ext4-selected"
+  ],
+  "properties": []
+}
