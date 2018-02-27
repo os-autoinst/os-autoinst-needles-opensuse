@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "release-notes-Tumbleweed"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 228,
+      "ypos": 168,
+      "width": 117,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 241,
+      "ypos": 347,
+      "width": 129,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}

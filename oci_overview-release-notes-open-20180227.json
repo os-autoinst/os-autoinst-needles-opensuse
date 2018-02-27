@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 89,
+      "ypos": 723,
+      "width": 115,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "release-notes-open"
+  ],
+  "properties": []
+}
