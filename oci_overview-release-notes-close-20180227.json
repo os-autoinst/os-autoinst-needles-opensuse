@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "release-notes-close"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 470,
+      "ypos": 495,
+      "width": 66,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}
