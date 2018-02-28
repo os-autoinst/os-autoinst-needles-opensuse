@@ -1,0 +1,18 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "release-notes-Tumbleweed"
+  ],
+  "area": [
+    {
+      "xpos": 200,
+      "ypos": 192,
+      "width": 310,
+      "height": 109,
+      "type": "match"
+    }
+  ]
+}
