@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "list-of-online-repositories"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 145,
+      "width": 451,
+      "xpos": 111,
+      "height": 170
+    }
+  ]
+}
