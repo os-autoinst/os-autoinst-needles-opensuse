@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "storage-ng",
+    "vda-selected"
+  ],
+  "area": [
+    {
+      "width": 40,
+      "xpos": 66,
+      "height": 11,
+      "ypos": 223,
+      "type": "match",
+      "match": 100
+    }
+  ]
+}
