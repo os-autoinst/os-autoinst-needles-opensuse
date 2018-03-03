@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "after-partitioning",
+    "inst-timezone"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 140,
+      "xpos": 50,
+      "height": 456,
+      "width": 933
+    }
+  ]
+}
