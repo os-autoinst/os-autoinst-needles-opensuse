@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "oci-caption-dud"
+  ],
+  "area": [
+    {
+      "xpos": 146,
+      "ypos": 201,
+      "width": 170,
+      "height": 28,
+      "type": "match"
+    }
+  ]
+}
