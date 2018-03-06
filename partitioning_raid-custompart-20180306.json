@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 320,
+      "width": 425,
+      "ypos": 202,
+      "height": 88
+    }
+  ],
+  "tags": [
+    "custompart"
+  ]
+}
