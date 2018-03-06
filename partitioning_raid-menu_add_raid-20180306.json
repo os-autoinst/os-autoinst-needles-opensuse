@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 22,
+      "type": "match",
+      "height": 31,
+      "ypos": 92,
+      "width": 229
+    }
+  ],
+  "tags": [
+    "partitioning_raid-menu_add_raid"
+  ]
+}
