@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 107,
+      "width": 180,
+      "ypos": 372,
+      "xpos": 420,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partition-role",
+    "ENV-DISTRI-opensuse"
+  ]
+}
