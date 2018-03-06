@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 156,
+      "width": 111,
+      "height": 16,
+      "type": "match",
+      "xpos": 35
+    }
+  ],
+  "tags": [
+    "partitioning_raid-raid_0-selected"
+  ]
+}
