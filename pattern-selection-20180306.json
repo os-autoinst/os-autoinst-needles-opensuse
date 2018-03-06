@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "pattern-selection",
+    "patterns-list-selected"
+  ],
+  "area": [
+    {
+      "width": 487,
+      "ypos": 95,
+      "height": 32,
+      "type": "match",
+      "xpos": 15
+    }
+  ],
+  "properties": []
+}
