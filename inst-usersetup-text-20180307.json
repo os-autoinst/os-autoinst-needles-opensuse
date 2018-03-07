@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "inst-usersetup"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 652,
+      "ypos": 0,
+      "xpos": 0,
+      "width": 844
+    }
+  ]
+}
