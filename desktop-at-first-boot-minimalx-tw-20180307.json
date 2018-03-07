@@ -1,0 +1,20 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-Tumbleweed",
+    "desktop-at-first-boot",
+    "generic-desktop",
+    "x11"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 0,
+      "height": 766,
+      "width": 807,
+      "ypos": 1
+    }
+  ]
+}
