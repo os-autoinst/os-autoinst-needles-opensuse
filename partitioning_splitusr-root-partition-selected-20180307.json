@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "tags": [
+    "root-partition-selected",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "ypos": 304,
+      "width": 43,
+      "height": 15,
+      "xpos": 748,
+      "type": "match",
+      "match": 100
+    },
+    {
+      "type": "match",
+      "width": 92,
+      "ypos": 304,
+      "xpos": 534,
+      "height": 17
+    }
+  ]
+}
