@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 234,
+      "ypos": 614,
+      "height": 26,
+      "type": "match",
+      "xpos": 31,
+      "match": 100
+    },
+    {
+      "ypos": 616,
+      "width": 24,
+      "height": 22,
+      "type": "match",
+      "xpos": 34
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pattern-minimalx-selected"
+  ]
+}
