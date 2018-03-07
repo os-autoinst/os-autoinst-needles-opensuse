@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "default-root-filesystem"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 186,
+      "ypos": 329,
+      "xpos": 566,
+      "height": 37,
+      "match": 100
+    }
+  ]
+}
