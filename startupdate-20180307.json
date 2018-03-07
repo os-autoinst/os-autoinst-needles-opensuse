@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "startupdate"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 552,
+      "ypos": 197,
+      "xpos": 236,
+      "height": 394
+    }
+  ]
+}
