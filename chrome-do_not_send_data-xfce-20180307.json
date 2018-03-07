@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "chrome-do_not_send_data"
+  ],
+  "area": [
+    {
+      "xpos": 324,
+      "height": 15,
+      "width": 382,
+      "ypos": 381,
+      "type": "match"
+    }
+  ]
+}
