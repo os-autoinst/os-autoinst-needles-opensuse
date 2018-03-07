@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 200,
+      "height": 34,
+      "width": 287,
+      "ypos": 278
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-15.0",
+    "inst-onmediacheck"
+  ],
+  "properties": []
+}
