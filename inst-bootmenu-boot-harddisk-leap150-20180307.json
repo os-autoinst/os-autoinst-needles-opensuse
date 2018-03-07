@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 207,
+      "width": 179,
+      "ypos": 207,
+      "height": 42
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-15.0",
+    "inst-bootmenu-boot-harddisk"
+  ]
+}
