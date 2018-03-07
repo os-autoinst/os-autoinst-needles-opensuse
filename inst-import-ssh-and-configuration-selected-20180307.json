@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "inst-import-ssh-and-configuration-selected"
+  ],
+  "area": [
+    {
+      "ypos": 352,
+      "width": 191,
+      "height": 23,
+      "xpos": 271,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 464,
+      "width": 164,
+      "height": 22,
+      "xpos": 296
+    }
+  ]
+}
