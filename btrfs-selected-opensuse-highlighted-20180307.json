@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 57,
+      "xpos": 570,
+      "ypos": 307,
+      "width": 68,
+      "match": 100
+    }
+  ],
+  "tags": [
+    "btrfs-selected",
+    "storage-ng"
+  ],
+  "properties": []
+}
