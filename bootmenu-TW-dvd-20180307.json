@@ -18,7 +18,7 @@
   "tags": [
     "ENV-BETA-1",
     "ENV-DISTRI-opensuse",
-    "ENV-VERSION-15.0",
+    "ENV-VERSION-Tumbleweed",
     "bootloader",
     "inst-bootmenu"
   ],
