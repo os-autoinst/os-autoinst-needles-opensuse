@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 276,
+      "width": 88,
+      "height": 41,
+      "type": "match",
+      "xpos": 204
+    }
+  ],
+  "tags": [
+    "ENV-UEFI-1",
+    "ENV-VERSION-15.0",
+    "inst-onupgrade"
+  ]
+}
