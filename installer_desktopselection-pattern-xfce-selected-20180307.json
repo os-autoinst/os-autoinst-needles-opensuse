@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "pattern-xfce-selected"
+  ],
+  "area": [
+    {
+      "height": 22,
+      "xpos": 34,
+      "ypos": 615,
+      "width": 224,
+      "type": "match"
+    },
+    {
+      "xpos": 34,
+      "height": 22,
+      "width": 23,
+      "ypos": 615,
+      "type": "match"
+    }
+  ]
+}
