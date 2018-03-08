@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 397,
+      "ypos": 128,
+      "height": 457,
+      "xpos": 343,
+      "type": "match"
+    },
+    {
+      "ypos": 722,
+      "width": 193,
+      "type": "match",
+      "xpos": 12,
+      "height": 34
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "oci-overview"
+  ]
+}
