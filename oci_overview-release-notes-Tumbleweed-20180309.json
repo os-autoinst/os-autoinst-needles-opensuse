@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 228,
+      "height": 16,
+      "type": "match",
+      "ypos": 168,
+      "width": 117
+    },
+    {
+      "xpos": 229,
+      "ypos": 255,
+      "width": 126,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "release-notes-Tumbleweed"
+  ]
+}
