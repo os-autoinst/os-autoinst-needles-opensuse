@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 151,
+      "ypos": 193,
+      "height": 16,
+      "xpos": 201,
+      "type": "match"
+    },
+    {
+      "xpos": 201,
+      "ypos": 215,
+      "width": 120,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "release-notes-Tumbleweed"
+  ]
+}
