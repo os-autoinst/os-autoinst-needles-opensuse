@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "gnome-session-quit"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 339,
+      "height": 18,
+      "ypos": 308,
+      "width": 67
+    },
+    {
+      "ypos": 455,
+      "width": 50,
+      "xpos": 619,
+      "height": 21,
+      "type": "match"
+    }
+  ]
+}
