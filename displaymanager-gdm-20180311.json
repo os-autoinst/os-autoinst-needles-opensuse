@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "displaymanager"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 0,
+      "width": 61,
+      "xpos": 963,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "width": 199,
+      "ypos": 322,
+      "type": "match",
+      "height": 95,
+      "xpos": 300
+    },
+    {
+      "width": 247,
+      "ypos": 656,
+      "type": "match",
+      "height": 77,
+      "xpos": 383
+    }
+  ]
+}
