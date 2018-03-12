@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "logoutdialog",
+    "ENV-DESKTOP-xfce"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 268,
+      "xpos": 366,
+      "width": 294,
+      "ypos": 267
+    }
+  ]
+}
