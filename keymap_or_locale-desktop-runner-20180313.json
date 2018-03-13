@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "desktop-runner"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 252,
+      "ypos": 743,
+      "width": 564,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}
