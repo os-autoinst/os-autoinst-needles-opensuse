@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "updates_installed-restart"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 441,
+      "ypos": 336,
+      "width": 148,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}
