@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "height": 250,
+      "type": "match",
+      "ypos": 0,
+      "width": 800
+    },
+    {
+      "width": 22,
+      "ypos": 168,
+      "height": 27,
+      "xpos": 566,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "ENV-LIVECD-1",
+    "ENV-VERSION-15.0",
+    "bootloader",
+    "inst-bootmenu"
+  ]
+}
