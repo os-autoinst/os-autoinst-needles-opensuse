@@ -1,0 +1,26 @@
+{
+  "tags": [
+    "ENV-LIVECD-1",
+    "ENV-VERSION-15.0",
+    "inst-welcome",
+    "installation",
+    "languagepicked"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 42,
+      "xpos": 350,
+      "width": 157,
+      "ypos": 237
+    },
+    {
+      "width": 341,
+      "ypos": 176,
+      "type": "match",
+      "height": 65,
+      "xpos": 308
+    }
+  ]
+}
