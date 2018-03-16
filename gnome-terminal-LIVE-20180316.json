@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 65,
+      "xpos": 147,
+      "type": "match",
+      "width": 181,
+      "ypos": 120
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LIVETEST-1",
+    "gnome-terminal"
+  ]
+}
