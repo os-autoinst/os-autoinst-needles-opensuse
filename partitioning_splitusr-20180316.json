@@ -1,0 +1,46 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "partition-splitusr-finished",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "width": 25,
+      "ypos": 337,
+      "type": "match",
+      "height": 24,
+      "xpos": 506
+    },
+    {
+      "xpos": 505,
+      "height": 23,
+      "type": "match",
+      "ypos": 313,
+      "width": 27
+    },
+    {
+      "ypos": 290,
+      "width": 132,
+      "xpos": 505,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 755,
+      "height": 15,
+      "ypos": 342,
+      "width": 28
+    },
+    {
+      "type": "match",
+      "height": 15,
+      "xpos": 754,
+      "width": 28,
+      "ypos": 320
+    }
+  ],
+  "properties": []
+}
