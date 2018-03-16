@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 30,
+      "xpos": 425,
+      "width": 148,
+      "ypos": 204
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-control-center-ui"
+  ]
+}
