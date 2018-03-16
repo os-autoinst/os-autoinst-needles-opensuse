@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "storage-ng",
+    "volume-mount-as-root"
+  ],
+  "area": [
+    {
+      "width": 160,
+      "ypos": 334,
+      "type": "match",
+      "height": 78,
+      "xpos": 555
+    }
+  ],
+  "properties": []
+}
