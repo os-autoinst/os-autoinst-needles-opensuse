@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 9,
+      "height": 84,
+      "ypos": 87,
+      "width": 206
+    },
+    {
+      "width": 294,
+      "ypos": 387,
+      "height": 152,
+      "xpos": 333,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "repo-list"
+  ]
+}
