@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 247,
+      "ypos": 85,
+      "type": "match",
+      "height": 39,
+      "xpos": 291
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "inst-kdump"
+  ]
+}
