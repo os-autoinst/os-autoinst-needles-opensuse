@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "ntp-servers-missing"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 156,
+      "xpos": 356,
+      "width": 313,
+      "ypos": 321
+    }
+  ],
+  "properties": []
+}
