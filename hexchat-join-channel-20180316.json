@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "hexchat-join-channel",
+    "xchat-join-channel"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 242,
+      "width": 135,
+      "type": "match",
+      "xpos": 407,
+      "height": 50
+    }
+  ]
+}
