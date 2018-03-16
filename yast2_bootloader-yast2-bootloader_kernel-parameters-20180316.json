@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 141,
+      "width": 160,
+      "xpos": 441,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-bootloader_kernel-parameters"
+  ]
+}
