@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "controller-node-invalid"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 286,
+      "height": 110,
+      "ypos": 341,
+      "width": 455
+    }
+  ],
+  "properties": []
+}
