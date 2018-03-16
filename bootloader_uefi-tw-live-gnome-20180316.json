@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "boot-live-gnome",
+    "bootloader-grub2"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 214,
+      "height": 28,
+      "ypos": 214,
+      "width": 289
+    }
+  ],
+  "properties": []
+}
