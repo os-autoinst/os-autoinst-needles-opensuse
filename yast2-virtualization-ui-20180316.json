@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "yast2-virtualization-ui"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 198,
+      "ypos": 252,
+      "height": 10,
+      "xpos": 263,
+      "type": "match"
+    },
+    {
+      "ypos": 547,
+      "width": 61,
+      "xpos": 704,
+      "height": 16,
+      "type": "match"
+    }
+  ]
+}
