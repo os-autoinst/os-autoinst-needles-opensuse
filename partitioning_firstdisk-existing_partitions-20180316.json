@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "existing-partitions",
+    "storage-ng"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 30,
+      "xpos": 558,
+      "type": "match",
+      "width": 281,
+      "ypos": 255
+    },
+    {
+      "width": 263,
+      "ypos": 413,
+      "height": 18,
+      "xpos": 540,
+      "type": "match"
+    },
+    {
+      "width": 214,
+      "ypos": 497,
+      "height": 15,
+      "xpos": 541,
+      "type": "match"
+    }
+  ]
+}
