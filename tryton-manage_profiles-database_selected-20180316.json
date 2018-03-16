@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 18,
+      "xpos": 539,
+      "width": 76,
+      "ypos": 294
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tryton-manage_profiles-database_selected"
+  ]
+}
