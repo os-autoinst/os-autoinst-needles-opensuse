@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-bootloader_not-managed"
+  ],
+  "area": [
+    {
+      "height": 23,
+      "xpos": 452,
+      "type": "match",
+      "width": 111,
+      "ypos": 255
+    }
+  ],
+  "properties": []
+}
