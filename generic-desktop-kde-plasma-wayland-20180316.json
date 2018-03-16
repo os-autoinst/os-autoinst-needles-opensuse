@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VERSION-Tumbleweed",
+    "generic-desktop",
+    "x11"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 0,
+      "height": 192,
+      "ypos": 0,
+      "width": 1021
+    },
+    {
+      "type": "match",
+      "xpos": 2,
+      "height": 34,
+      "ypos": 733,
+      "width": 65
+    }
+  ]
+}
