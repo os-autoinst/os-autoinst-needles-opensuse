@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "seahorse-set_as_default"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 284,
+      "height": 23,
+      "ypos": 221,
+      "width": 143
+    }
+  ]
+}
