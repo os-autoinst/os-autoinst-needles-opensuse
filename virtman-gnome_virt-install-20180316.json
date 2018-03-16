@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 17,
+      "xpos": 229,
+      "width": 194,
+      "ypos": 94
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virtman-gnome_virt-install"
+  ]
+}
