@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-Tumbleweed",
+    "boot-live-kde",
+    "bootloader-grub2"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 213,
+      "width": 260,
+      "type": "match",
+      "xpos": 215,
+      "height": 28
+    }
+  ]
+}
