@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 767,
+      "xpos": 0,
+      "type": "match",
+      "width": 1024,
+      "ypos": 0
+    },
+    {
+      "width": 238,
+      "ypos": 732,
+      "type": "exclude",
+      "height": 36,
+      "xpos": 786
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VERSION-Tumbleweed",
+    "LXDE",
+    "booted",
+    "desktop-at-first-boot",
+    "generic-desktop",
+    "x11"
+  ]
+}
