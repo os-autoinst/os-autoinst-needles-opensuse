@@ -5,42 +5,42 @@
     "partition-splitusr-finished",
     "storage-ng"
   ],
+  "properties": [],
   "area": [
     {
       "width": 25,
-      "ypos": 337,
+      "ypos": 325,
       "type": "match",
       "height": 24,
       "xpos": 506
     },
     {
-      "xpos": 505,
+      "ypos": 300,
+      "width": 27,
+      "xpos": 504,
       "height": 23,
-      "type": "match",
-      "ypos": 313,
-      "width": 27
+      "type": "match"
     },
     {
-      "ypos": 290,
+      "ypos": 278,
       "width": 132,
-      "xpos": 505,
+      "xpos": 506,
       "height": 20,
       "type": "match"
     },
     {
       "type": "match",
-      "xpos": 755,
+      "xpos": 748,
       "height": 15,
-      "ypos": 342,
+      "ypos": 330,
       "width": 28
     },
     {
-      "type": "match",
-      "height": 15,
-      "xpos": 754,
+      "ypos": 305,
       "width": 28,
-      "ypos": 320
+      "xpos": 747,
+      "height": 16,
+      "type": "match"
     }
-  ],
-  "properties": []
+  ]
 }
