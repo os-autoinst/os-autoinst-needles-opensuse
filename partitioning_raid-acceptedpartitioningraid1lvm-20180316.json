@@ -1,0 +1,36 @@
+{
+  "tags": [
+    "acceptedpartitioningraid1lvm"
+  ],
+  "area": [
+    {
+      "ypos": 79,
+      "width": 311,
+      "type": "match",
+      "xpos": 8,
+      "height": 70
+    },
+    {
+      "ypos": 391,
+      "width": 148,
+      "type": "match",
+      "xpos": 416,
+      "height": 13
+    },
+    {
+      "xpos": 645,
+      "height": 12,
+      "type": "match",
+      "ypos": 392,
+      "width": 197
+    },
+    {
+      "type": "match",
+      "xpos": 414,
+      "height": 14,
+      "ypos": 436,
+      "width": 221
+    }
+  ],
+  "properties": []
+}
