@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "yast_virtualization_bridge"
+  ],
+  "area": [
+    {
+      "width": 129,
+      "ypos": 318,
+      "type": "match",
+      "height": 17,
+      "xpos": 263
+    },
+    {
+      "type": "match",
+      "height": 13,
+      "xpos": 268,
+      "width": 233,
+      "ypos": 410
+    },
+    {
+      "ypos": 465,
+      "width": 30,
+      "type": "match",
+      "xpos": 551,
+      "height": 12
+    }
+  ],
+  "properties": []
+}
