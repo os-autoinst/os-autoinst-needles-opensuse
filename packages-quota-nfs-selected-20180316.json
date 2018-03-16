@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 114,
+      "width": 68,
+      "type": "match",
+      "xpos": 320,
+      "height": 14
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "packages-quota-nfs-selected"
+  ]
+}
