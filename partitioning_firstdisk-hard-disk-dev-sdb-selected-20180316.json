@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 562,
+      "height": 18,
+      "type": "match",
+      "ypos": 423,
+      "width": 133
+    }
+  ],
+  "tags": [
+    "hard-disk-dev-sdb-selected"
+  ]
+}
