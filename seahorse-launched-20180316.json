@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "seahorse",
+    "seahorse-launched"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 107,
+      "width": 501,
+      "xpos": 198,
+      "height": 60,
+      "type": "match"
+    }
+  ]
+}
