@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 319,
+      "height": 13,
+      "ypos": 437,
+      "width": 54
+    }
+  ],
+  "tags": [
+    "packages-samba-selected"
+  ]
+}
