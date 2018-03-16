@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 52,
+      "ypos": 207,
+      "type": "match",
+      "height": 39,
+      "xpos": 393
+    }
+  ],
+  "tags": [
+    "virtman-polling"
+  ]
+}
