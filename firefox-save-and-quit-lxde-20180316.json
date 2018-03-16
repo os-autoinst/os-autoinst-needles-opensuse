@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "firefox-save-and-quit"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 443,
+      "height": 19,
+      "type": "match",
+      "ypos": 292,
+      "width": 109
+    },
+    {
+      "type": "match",
+      "height": 35,
+      "xpos": 626,
+      "width": 110,
+      "ypos": 407
+    }
+  ]
+}
