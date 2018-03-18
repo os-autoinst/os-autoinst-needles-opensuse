@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_lan_device_type_bond"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 216,
+      "width": 110,
+      "xpos": 200,
+      "height": 64,
+      "type": "match"
+    }
+  ]
+}
