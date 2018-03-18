@@ -1,0 +1,19 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-FLAVOR-Krypton-Live",
+    "ENV-LIVECD-1",
+    "boot-live-kde",
+    "inst-bootmenu"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 257,
+      "height": 16,
+      "ypos": 174,
+      "width": 152
+    }
+  ]
+}
