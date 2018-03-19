@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 46,
+      "ypos": 407,
+      "height": 18,
+      "xpos": 182,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firewall-zones-public"
+  ]
+}
