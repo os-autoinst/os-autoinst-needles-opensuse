@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-OFW-1",
+    "custompart"
+  ],
+  "area": [
+    {
+      "ypos": 200,
+      "width": 59,
+      "type": "match",
+      "xpos": 320,
+      "height": 117
+    },
+    {
+      "width": 142,
+      "ypos": 200,
+      "type": "match",
+      "height": 120,
+      "xpos": 511
+    },
+    {
+      "type": "exclude",
+      "xpos": 477,
+      "height": 11,
+      "ypos": 238,
+      "width": 10
+    }
+  ],
+  "properties": []
+}
