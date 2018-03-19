@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 114,
+      "height": 20,
+      "ypos": 67,
+      "width": 42
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firewall-view-menu"
+  ]
+}
