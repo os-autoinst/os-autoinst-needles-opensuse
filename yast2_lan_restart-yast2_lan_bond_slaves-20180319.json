@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 110,
+      "xpos": 46,
+      "width": 756,
+      "height": 65,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_lan_bond_slaves"
+  ]
+}
