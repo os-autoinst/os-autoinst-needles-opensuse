@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 391,
+      "width": 21,
+      "height": 27,
+      "ypos": 283
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dns_set-via-dhcp_no"
+  ]
+}
