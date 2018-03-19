@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "partitioning_raid-filesystem_ext4"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 19,
+      "width": 33,
+      "xpos": 429,
+      "ypos": 390
+    },
+    {
+      "type": "match",
+      "width": 150,
+      "height": 74,
+      "xpos": 332,
+      "ypos": 344
+    }
+  ]
+}
