@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 25,
+      "ypos": 95,
+      "width": 339,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 435,
+      "ypos": 395,
+      "width": 112,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "volume-pick-os-role"
+  ]
+}
