@@ -1,15 +1,15 @@
 {
-  "tags": [
-    "yast2_lan_bond_slave_tab_selected"
-  ],
   "area": [
     {
       "type": "match",
-      "xpos": 643,
       "height": 41,
       "width": 168,
+      "xpos": 643,
       "ypos": 135
     }
   ],
-  "properties": []
+  "properties": [],
+  "tags": [
+    "yast2_lan_bond_slave_tab_selected"
+  ]
 }
