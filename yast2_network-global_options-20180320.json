@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_network-global_options-click"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 141,
+      "width": 188,
+      "height": 23,
+      "xpos": 128
+    }
+  ],
+  "properties": []
+}
