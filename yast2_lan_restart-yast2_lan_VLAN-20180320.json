@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_lan_VLAN"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 175,
+      "xpos": 447,
+      "height": 24,
+      "width": 238,
+      "type": "match"
+    }
+  ]
+}
