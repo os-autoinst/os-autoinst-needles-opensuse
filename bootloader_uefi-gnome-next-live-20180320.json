@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "boot-live-gnome",
+    "bootloader-grub2"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 219,
+      "height": 28,
+      "width": 198,
+      "ypos": 214
+    }
+  ],
+  "properties": []
+}
