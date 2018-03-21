@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_network-apply_settings-click"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 811,
+      "height": 35,
+      "width": 91,
+      "ypos": 655
+    }
+  ]
+}
