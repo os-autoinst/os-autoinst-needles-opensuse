@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_network-network_manager-click"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 173,
+      "height": 21,
+      "xpos": 152,
+      "ypos": 210
+    }
+  ],
+  "properties": []
+}
