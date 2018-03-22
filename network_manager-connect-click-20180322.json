@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "network_manager-connect-click"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 691,
+      "height": 28,
+      "width": 86,
+      "xpos": 660
+    }
+  ],
+  "properties": []
+}
