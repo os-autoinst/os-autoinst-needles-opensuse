@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "updates_available"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 49,
+      "ypos": 93,
+      "width": 104,
+      "type": "match",
+      "xpos": 25
+    },
+    {
+      "ypos": 95,
+      "height": 20,
+      "width": 72,
+      "type": "match",
+      "xpos": 234
+    }
+  ]
+}
