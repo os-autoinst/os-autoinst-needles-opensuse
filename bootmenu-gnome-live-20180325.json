@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 192,
+      "type": "match",
+      "width": 262,
+      "height": 25,
+      "ypos": 170
+    },
+    {
+      "width": 197,
+      "ypos": 43,
+      "height": 19,
+      "xpos": 306,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LIVECD-1",
+    "boot-live-gnome",
+    "inst-bootmenu"
+  ]
+}
