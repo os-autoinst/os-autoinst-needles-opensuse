@@ -1,0 +1,31 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-Tumbleweed",
+    "boot-live-kde"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 559,
+      "width": 304,
+      "height": 31,
+      "ypos": 597
+    },
+    {
+      "height": 24,
+      "ypos": 169,
+      "width": 364,
+      "xpos": 218,
+      "type": "match"
+    },
+    {
+      "ypos": 44,
+      "height": 14,
+      "width": 192,
+      "xpos": 305,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
