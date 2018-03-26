@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 292,
+      "ypos": 15,
+      "width": 105,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "target_match_vlc"
+  ],
+  "properties": []
+}
