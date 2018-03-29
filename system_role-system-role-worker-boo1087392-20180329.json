@@ -1,0 +1,18 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 350,
+      "ypos": 311,
+      "width": 226,
+      "height": 77,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "system-role-worker"
+  ]
+}
