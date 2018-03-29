@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 9,
+      "ypos": 28,
+      "width": 367,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-kubic",
+    "ENV-VIDEOMODE-text",
+    "after-partitioning"
+  ]
+}
