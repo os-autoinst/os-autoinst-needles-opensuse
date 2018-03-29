@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 85,
+      "width": 324,
+      "height": 87,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-kubic",
+    "after-partitioning"
+  ]
+}
