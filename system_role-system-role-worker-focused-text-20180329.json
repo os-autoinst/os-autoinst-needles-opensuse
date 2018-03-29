@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "system-role-worker-focused"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 24,
+      "ypos": 381,
+      "width": 190,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}
