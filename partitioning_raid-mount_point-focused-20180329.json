@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 53,
+      "height": 70,
+      "ypos": 358,
+      "type": "match",
+      "xpos": 546
+    }
+  ],
+  "tags": [
+    "partitioning_raid-mount_point-focused"
+  ]
+}
