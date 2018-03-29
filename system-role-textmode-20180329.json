@@ -1,0 +1,21 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 9,
+      "type": "match",
+      "height": 73,
+      "ypos": 29,
+      "width": 609
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "before-package-selection",
+    "desktop-selection",
+    "inst-returned-to-yast",
+    "installation"
+  ]
+}
