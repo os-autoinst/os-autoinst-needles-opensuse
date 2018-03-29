@@ -3,14 +3,16 @@
     "ENV-DISTRI-KUBIC",
     "system-role-admin"
   ],
-  "properties": [],
+  "properties": [
+    "workaround"
+  ],
   "area": [
     {
-      "xpos": 351,
-      "ypos": 253,
       "width": 219,
+      "ypos": 253,
       "height": 80,
-      "type": "match"
+      "type": "match",
+      "xpos": 351
     }
   ]
 }
