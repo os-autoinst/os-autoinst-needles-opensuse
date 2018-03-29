@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 25,
+      "type": "match",
+      "width": 305,
+      "ypos": 135,
+      "height": 65
+    }
+  ],
+  "tags": [
+    " system-role-microos-selected",
+    "ENV-DISTRI=kubic",
+    "ENV-VIDEOMODE=text",
+    "system-role-default-system"
+  ]
+}
