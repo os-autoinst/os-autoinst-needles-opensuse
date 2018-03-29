@@ -1,0 +1,19 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "installation",
+    "before-package-selection",
+    "desktop-selection",
+    "inst-returned-to-yast"
+  ],
+  "area": [
+    {
+      "xpos": 12,
+      "ypos": 87,
+      "width": 683,
+      "height": 57,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
