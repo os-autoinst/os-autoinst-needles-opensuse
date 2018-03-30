@@ -1,0 +1,27 @@
+{
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-kubic",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ],
+  "area": [
+    {
+      "xpos": 23,
+      "type": "match",
+      "width": 313,
+      "height": 15,
+      "ypos": 255
+    },
+    {
+      "width": 148,
+      "ypos": 31,
+      "height": 18,
+      "type": "match",
+      "xpos": 854
+    }
+  ],
+  "properties": []
+}
