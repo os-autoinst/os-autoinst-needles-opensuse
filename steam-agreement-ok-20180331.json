@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "steam-agreement-ok"
+  ],
+  "area": [
+    {
+      "xpos": 429,
+      "ypos": 160,
+      "width": 166,
+      "height": 13,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "xpos": 778,
+      "ypos": 654,
+      "width": 20,
+      "height": 14,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": []
+}
