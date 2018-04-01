@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "steam-startup-libgl_error"
+  ],
+  "area": [
+    {
+      "width": 202,
+      "xpos": 30,
+      "type": "match",
+      "ypos": 183,
+      "height": 10,
+      "match": 80
+    }
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
