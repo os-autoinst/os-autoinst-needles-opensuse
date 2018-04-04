@@ -1,31 +1,31 @@
 {
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 115,
+      "height": 241,
+      "width": 641,
+      "xpos": 99
+    },
+    {
+      "xpos": 381,
+      "width": 154,
+      "height": 26,
+      "type": "match",
+      "ypos": 34
+    },
+    {
+      "xpos": 12,
+      "width": 71,
+      "height": 24,
+      "type": "match",
+      "ypos": 307
+    }
+  ],
   "tags": [
     "ENV-DESKTOP-gnome",
     "evolution-mainwindow-launched",
     "test-evolution-1"
-  ],
-  "area": [
-    {
-      "xpos": 99,
-      "width": 641,
-      "height": 241,
-      "type": "match",
-      "ypos": 126
-    },
-    {
-      "ypos": 34,
-      "type": "match",
-      "height": 26,
-      "width": 154,
-      "xpos": 381
-    },
-    {
-      "ypos": 307,
-      "type": "match",
-      "xpos": 12,
-      "height": 24,
-      "width": 71
-    }
-  ],
-  "properties": []
+  ]
 }
