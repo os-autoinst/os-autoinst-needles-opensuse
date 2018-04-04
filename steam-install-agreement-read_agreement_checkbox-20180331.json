@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "steam-install-agreement"
+  ],
+  "area": [
+    {
+      "xpos": 427,
+      "ypos": 158,
+      "width": 167,
+      "height": 13,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "xpos": 189,
+      "ypos": 618,
+      "width": 54,
+      "height": 15,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": []
+}

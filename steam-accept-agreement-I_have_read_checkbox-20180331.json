@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 433,
+      "ypos": 158,
+      "width": 163,
+      "height": 15,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "xpos": 189,
+      "ypos": 618,
+      "width": 55,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "steam-accept-agreement"
+  ]
+}
