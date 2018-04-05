@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "network-not-configured"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 243,
+      "ypos": 337,
+      "width": 216,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}
