@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 288,
+      "height": 10,
+      "type": "match",
+      "width": 134,
+      "xpos": 445
+    },
+    {
+      "ypos": 432,
+      "type": "match",
+      "width": 42,
+      "xpos": 551,
+      "height": 16
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "wine-package-install-mono-cancel"
+  ],
+  "properties": []
+}
