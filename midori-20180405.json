@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "test-midori-started"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 4,
+      "xpos": 7,
+      "width": 77,
+      "type": "match",
+      "height": 95
+    }
+  ]
+}
