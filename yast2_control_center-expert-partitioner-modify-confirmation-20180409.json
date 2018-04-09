@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "expert-partitioner-modify-confirmation",
+    "storage-ng"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 338,
+      "type": "match",
+      "ypos": 371,
+      "height": 18,
+      "width": 339
+    },
+    {
+      "xpos": 603,
+      "height": 14,
+      "width": 60,
+      "type": "match",
+      "ypos": 415
+    }
+  ]
+}
