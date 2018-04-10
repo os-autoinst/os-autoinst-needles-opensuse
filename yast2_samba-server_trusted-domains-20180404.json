@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 137,
+      "height": 24,
+      "type": "match",
+      "ypos": 44,
+      "xpos": 238
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_samba-server_trusted-domains"
+  ]
+}

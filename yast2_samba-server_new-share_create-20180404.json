@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "yast2_samba-server_new-share_create"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 264,
+      "height": 125,
+      "type": "match",
+      "xpos": 378,
+      "ypos": 236
+    },
+    {
+      "xpos": 401,
+      "ypos": 401,
+      "type": "match",
+      "height": 78,
+      "width": 213
+    }
+  ]
+}

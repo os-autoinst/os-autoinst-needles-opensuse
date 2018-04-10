@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_samba-server_start-during-boot"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 49,
+      "ypos": 96,
+      "width": 121,
+      "height": 16,
+      "type": "match"
+    }
+  ]
+}

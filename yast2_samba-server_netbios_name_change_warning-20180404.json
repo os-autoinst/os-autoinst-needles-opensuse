@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "yast2_samba-server_netbios_name_change_warning"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 73,
+      "height": 18,
+      "type": "match",
+      "xpos": 207,
+      "ypos": 318,
+      "match": 70
+    }
+  ]
+}
