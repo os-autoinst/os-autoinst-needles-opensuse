@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 431,
+      "ypos": 90,
+      "type": "match",
+      "width": 162,
+      "height": 29
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "seahorse",
+    "seahorse-launched"
+  ]
+}
