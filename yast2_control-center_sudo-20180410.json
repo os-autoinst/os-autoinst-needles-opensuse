@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_sudo"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 438,
+      "ypos": 272,
+      "width": 68,
+      "height": 35,
+      "type": "match"
+    }
+  ]
+}
