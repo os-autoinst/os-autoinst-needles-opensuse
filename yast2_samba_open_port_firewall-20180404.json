@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "yast2_samba_open_port_firewall"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 43,
+      "ypos": 160,
+      "width": 71,
+      "height": 13
+    },
+    {
+      "xpos": 180,
+      "ypos": 194,
+      "width": 41,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

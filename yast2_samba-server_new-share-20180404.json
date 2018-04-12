@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 24,
+      "type": "match",
+      "height": 35,
+      "width": 118
+    },
+    {
+      "height": 32,
+      "width": 225,
+      "ypos": 272,
+      "xpos": 399,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "yast2_samba-server_new-share"
+  ]
+}
