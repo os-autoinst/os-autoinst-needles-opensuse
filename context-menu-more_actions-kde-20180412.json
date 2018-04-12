@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 45,
+      "width": 175,
+      "height": 45,
+      "ypos": 105,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "context-menu-more_actions"
+  ]
+}
