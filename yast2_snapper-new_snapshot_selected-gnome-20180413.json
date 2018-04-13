@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "yast2_snapper-new_snapshot_selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 517,
+      "height": 21,
+      "width": 136,
+      "type": "match",
+      "ypos": 583
+    },
+    {
+      "xpos": 654,
+      "width": 66,
+      "height": 18,
+      "ypos": 584,
+      "type": "match"
+    }
+  ]
+}
