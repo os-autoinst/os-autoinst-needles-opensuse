@@ -1,0 +1,24 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "root-gnome-terminal"
+  ],
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 5,
+      "width": 396,
+      "height": 107,
+      "type": "match"
+    },
+    {
+      "xpos": 29,
+      "ypos": 32,
+      "width": 371,
+      "height": 66,
+      "type": "exclude"
+    }
+  ]
+}
