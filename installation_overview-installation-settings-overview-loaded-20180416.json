@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-15.0",
+    "inst-overview",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "xpos": 389,
+      "ypos": 300,
+      "width": 172,
+      "height": 73,
+      "type": "match"
+    }
+  ]
+}
