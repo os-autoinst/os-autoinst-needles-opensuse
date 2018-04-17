@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "ENV-LEAP-1",
+    "ENV-VERSION-15.0",
+    "test-firefox-3"
+  ],
+  "area": [
+    {
+      "xpos": 466,
+      "type": "match",
+      "ypos": 313,
+      "height": 41,
+      "width": 185
+    }
+  ]
+}
