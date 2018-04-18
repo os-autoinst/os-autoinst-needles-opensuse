@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_lan_VLAN"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 447,
+      "ypos": 177,
+      "type": "match",
+      "width": 238,
+      "height": 28
+    }
+  ]
+}
