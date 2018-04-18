@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 188,
+      "height": 18,
+      "type": "match",
+      "xpos": 126,
+      "ypos": 205
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_lan_default_NIC_bridge"
+  ]
+}
