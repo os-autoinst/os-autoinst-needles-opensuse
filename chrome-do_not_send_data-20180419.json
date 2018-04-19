@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 310,
+      "ypos": 377,
+      "width": 361,
+      "type": "match",
+      "height": 22
+    },
+    {
+      "xpos": 307,
+      "ypos": 380,
+      "type": "match",
+      "height": 21,
+      "width": 27
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "chrome-do_not_send_data"
+  ]
+}
