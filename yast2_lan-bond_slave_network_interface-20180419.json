@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_lan_bond_slave_network_interface"
+  ],
+  "area": [
+    {
+      "xpos": 137,
+      "height": 17,
+      "type": "match",
+      "width": 183,
+      "ypos": 201
+    }
+  ],
+  "properties": []
+}
