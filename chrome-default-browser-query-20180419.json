@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 304,
+      "width": 424,
+      "height": 106,
+      "type": "match",
+      "ypos": 342
+    },
+    {
+      "type": "match",
+      "height": 41,
+      "width": 81,
+      "ypos": 407,
+      "xpos": 652
+    }
+  ],
+  "tags": [
+    "chrome-default-browser-query",
+    "chrome-default-browser-query-send-data"
+  ]
+}
