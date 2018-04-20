@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "chrome-default-browser-query"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 378,
+      "type": "match",
+      "height": 19,
+      "width": 301,
+      "xpos": 291
+    },
+    {
+      "xpos": 291,
+      "width": 437,
+      "height": 14,
+      "type": "match",
+      "ypos": 418
+    },
+    {
+      "xpos": 692,
+      "width": 20,
+      "height": 19,
+      "type": "match",
+      "ypos": 463
+    }
+  ]
+}
