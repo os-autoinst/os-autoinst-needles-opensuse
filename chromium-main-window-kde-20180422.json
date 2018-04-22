@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 138,
+      "width": 356,
+      "height": 106,
+      "type": "match",
+      "ypos": 63
+    }
+  ],
+  "tags": [
+    "chromium-main-window"
+  ]
+}
