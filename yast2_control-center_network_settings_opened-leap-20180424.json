@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "ypos": 65,
+      "type": "match",
+      "height": 27,
+      "width": 181,
+      "xpos": 420
+    },
+    {
+      "height": 31,
+      "type": "match",
+      "width": 145,
+      "ypos": 104,
+      "xpos": 118
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-LEAP-1",
+    "yast2_control-center_network-opened"
+  ]
+}
