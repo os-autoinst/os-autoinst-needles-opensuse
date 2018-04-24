@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 51,
+      "height": 236,
+      "type": "match",
+      "width": 546,
+      "ypos": 107
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-QEMUVGA-virtio",
+    "ENV-VERSION-15.0",
+    "autoyast-boot",
+    "bootloader",
+    "grub2"
+  ]
+}
