@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "sw_view"
+  ],
+  "area": [
+    {
+      "xpos": 125,
+      "ypos": 133,
+      "width": 49,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}

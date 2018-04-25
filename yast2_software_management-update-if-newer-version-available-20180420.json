@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "update-if-newer-version-available"
+  ],
+  "area": [
+    {
+      "xpos": 514,
+      "ypos": 451,
+      "width": 227,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

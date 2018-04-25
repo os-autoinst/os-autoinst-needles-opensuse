@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "configured_sw_repo_cancel"
+  ],
+  "area": [
+    {
+      "xpos": 725,
+      "ypos": 659,
+      "width": 76,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

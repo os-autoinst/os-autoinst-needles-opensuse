@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 478,
+      "ypos": 205,
+      "width": 226,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "cleanup-when-deleting-packages"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "show-products"
+  ],
+  "area": [
+    {
+      "xpos": 544,
+      "ypos": 127,
+      "width": 109,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

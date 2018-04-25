@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 253,
+      "ypos": 127,
+      "width": 112,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "configurations_repo"
+  ],
+  "properties": []
+}

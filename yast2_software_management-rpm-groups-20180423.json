@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "rpm-groups"
+  ],
+  "area": [
+    {
+      "xpos": 275,
+      "ypos": 133,
+      "width": 99,
+      "height": 21,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "configured_sw_repo"
+  ],
+  "area": [
+    {
+      "xpos": 132,
+      "ypos": 108,
+      "width": 245,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

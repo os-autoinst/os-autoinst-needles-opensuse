@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 132,
+      "ypos": 107,
+      "width": 213,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "gpg-public-key-management"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "pattern-list"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 195,
+      "ypos": 223,
+      "width": 118,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 193,
+      "ypos": 308,
+      "width": 211,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 193,
+      "ypos": 535,
+      "width": 56,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}

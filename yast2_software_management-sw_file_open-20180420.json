@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "sw_file_open"
+  ],
+  "area": [
+    {
+      "xpos": 120,
+      "ypos": 101,
+      "width": 40,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}

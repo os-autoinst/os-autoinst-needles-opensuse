@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "all-in-this-list_still-selected"
+  ],
+  "area": [
+    {
+      "xpos": 180,
+      "ypos": 345,
+      "width": 125,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}
