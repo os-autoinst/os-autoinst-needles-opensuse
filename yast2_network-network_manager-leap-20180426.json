@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 173,
+      "xpos": 150,
+      "height": 21,
+      "ypos": 204
+    }
+  ],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_network-network_manager-click"
+  ]
+}
