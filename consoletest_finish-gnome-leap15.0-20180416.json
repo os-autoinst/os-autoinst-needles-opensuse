@@ -3,7 +3,6 @@
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
-    "ENV-VERSION-15.0",
     "generic-desktop",
     "reboot-after-installation",
     "x11"
