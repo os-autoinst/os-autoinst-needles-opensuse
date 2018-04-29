@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-15.0",
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ],
+  "area": [
+    {
+      "xpos": 377,
+      "width": 243,
+      "type": "match",
+      "ypos": 295,
+      "height": 62
+    },
+    {
+      "height": 17,
+      "ypos": 734,
+      "type": "match",
+      "width": 42,
+      "xpos": 955
+    }
+  ]
+}
