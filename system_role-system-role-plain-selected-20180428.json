@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 176,
+      "xpos": 343,
+      "type": "match",
+      "ypos": 194,
+      "height": 85
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI=kubic",
+    "system-role-plain-selected"
+  ]
+}

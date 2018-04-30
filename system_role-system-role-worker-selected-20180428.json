@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI=kubic",
+    "system-role-worker-selected"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 235,
+      "xpos": 355,
+      "height": 48,
+      "ypos": 339
+    }
+  ],
+  "properties": []
+}

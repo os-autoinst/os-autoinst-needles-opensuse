@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-VERSION-15.0",
+    "import-untrusted-gpg-key-598D0E63B3FD7E48"
+  ],
+  "area": [
+    {
+      "width": 194,
+      "xpos": 529,
+      "type": "match",
+      "ypos": 239,
+      "height": 21
+    },
+    {
+      "height": 15,
+      "ypos": 344,
+      "type": "match",
+      "width": 131,
+      "xpos": 456
+    }
+  ],
+  "properties": []
+}

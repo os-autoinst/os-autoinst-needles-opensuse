@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_network-apply_settings-click"
+  ],
+  "area": [
+    {
+      "width": 71,
+      "xpos": 819,
+      "type": "match",
+      "ypos": 660,
+      "height": 22,
+      "match": 90
+    }
+  ],
+  "properties": []
+}

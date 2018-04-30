@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "width": 301,
+      "xpos": 375,
+      "type": "match",
+      "ypos": 298,
+      "height": 58
+    },
+    {
+      "ypos": 389,
+      "height": 13,
+      "width": 181,
+      "xpos": 428,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-15.0",
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ],
+  "properties": []
+}

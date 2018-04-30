@@ -1,0 +1,26 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-Tumbleweed",
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ],
+  "area": [
+    {
+      "xpos": 360,
+      "width": 293,
+      "type": "match",
+      "ypos": 295,
+      "height": 46
+    },
+    {
+      "ypos": 420,
+      "height": 13,
+      "xpos": 397,
+      "width": 218,
+      "type": "match"
+    }
+  ]
+}

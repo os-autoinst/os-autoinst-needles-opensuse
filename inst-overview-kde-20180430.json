@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-VERSION-Tumbleweed",
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 233,
+      "xpos": 384,
+      "height": 51,
+      "ypos": 293
+    },
+    {
+      "width": 239,
+      "xpos": 420,
+      "type": "match",
+      "ypos": 389,
+      "height": 14
+    }
+  ],
+  "properties": []
+}
