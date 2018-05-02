@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 418,
+      "width": 189,
+      "height": 27,
+      "ypos": 66,
+      "match": 94
+    },
+    {
+      "ypos": 106,
+      "height": 31,
+      "xpos": 124,
+      "width": 236,
+      "type": "match",
+      "match": 94
+    }
+  ],
+  "tags": [
+    "yast2_network-is_applying"
+  ],
+  "properties": []
+}
