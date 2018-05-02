@@ -1,9 +1,10 @@
 {
   "tags": [
-    "gimp",
-    "test-gimp-1",
+    "ENV-DESKTOP-kde",
     "ENV-DISTRI-opensuse",
-    "ENV-INSTLANG-en_US"
+    "ENV-INSTLANG-en_US",
+    "gimp",
+    "test-gimp-1"
   ],
   "properties": [],
   "area": [
