@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 132,
+      "ypos": 353,
+      "width": 47,
+      "height": 14,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "xpos": 488,
+      "ypos": 399,
+      "width": 33,
+      "height": 18,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "tags": [
+    "yast2_samba-389ds-setup-error-workaround"
+  ]
+}
