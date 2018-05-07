@@ -1,0 +1,18 @@
+{
+  "tags": [
+    " ENV-DESKTOP-serverro",
+    "ENV-VERSION-Tumbleweed",
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 300,
+      "height": 73,
+      "type": "match",
+      "xpos": 384,
+      "width": 215
+    }
+  ]
+}
