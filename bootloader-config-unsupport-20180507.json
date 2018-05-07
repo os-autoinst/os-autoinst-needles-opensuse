@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "bootloader-config-unsupport"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 311,
+      "ypos": 349,
+      "width": 402,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 20,
+      "ypos": 90,
+      "width": 262,
+      "height": 40,
+      "type": "match"
+    }
+  ]
+}
