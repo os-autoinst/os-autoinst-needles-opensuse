@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "update-oss-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 359,
+      "type": "match",
+      "width": 138,
+      "ypos": 183,
+      "height": 10,
+      "match": 80
+    }
+  ]
+}

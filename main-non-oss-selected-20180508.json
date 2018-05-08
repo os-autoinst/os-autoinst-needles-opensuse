@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 168,
+      "type": "match",
+      "height": 11,
+      "ypos": 213,
+      "xpos": 359,
+      "match": 80
+    }
+  ],
+  "tags": [
+    "main-non-oss-selected"
+  ]
+}
