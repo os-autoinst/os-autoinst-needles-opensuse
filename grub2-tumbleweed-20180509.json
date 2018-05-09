@@ -10,7 +10,6 @@
   ],
   "properties": [],
   "tags": [
-    "ENV-VERSION-Tumbleweed",
     "autoyast-boot",
     "bootloader",
     "grub2"
