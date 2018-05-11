@@ -1,0 +1,39 @@
+{
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "ENV-DISTRI-opensuse",
+    "gnucash-save-changes",
+    "x11"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 182,
+      "ypos": 384,
+      "width": 126,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 545,
+      "ypos": 386,
+      "width": 29,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 229,
+      "ypos": 299,
+      "width": 145,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 464,
+      "ypos": 305,
+      "width": 112,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}
