@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "snap-default"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 72,
+      "height": 21,
+      "type": "match",
+      "xpos": 21,
+      "width": 498
+    },
+    {
+      "xpos": 41,
+      "type": "exclude",
+      "height": 29,
+      "ypos": 72,
+      "width": 310
+    }
+  ]
+}
