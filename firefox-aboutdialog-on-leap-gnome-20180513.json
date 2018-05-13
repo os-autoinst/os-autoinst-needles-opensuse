@@ -10,6 +10,7 @@
   ],
   "properties": [],
   "tags": [
+    "ENV-DESKTOP-gnome",
     "ENV-LEAP-1",
     "test-firefox-3"
   ]
