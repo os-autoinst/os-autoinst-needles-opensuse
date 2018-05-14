@@ -1,0 +1,31 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "yast2_control-center_add-on_installed"
+  ],
+  "area": [
+    {
+      "height": 28,
+      "ypos": 71,
+      "type": "match",
+      "width": 196,
+      "xpos": 15
+    },
+    {
+      "height": 23,
+      "ypos": 36,
+      "width": 267,
+      "xpos": 366,
+      "type": "match"
+    },
+    {
+      "xpos": 620,
+      "ypos": 628,
+      "width": 133,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}
