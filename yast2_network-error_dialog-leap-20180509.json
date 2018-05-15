@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "yast2_network-error_dialog"
+  ],
+  "area": [
+    {
+      "height": 118,
+      "ypos": 338,
+      "width": 148,
+      "xpos": 438,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "width": 76,
+      "xpos": 488,
+      "height": 23,
+      "ypos": 423
+    }
+  ]
+}

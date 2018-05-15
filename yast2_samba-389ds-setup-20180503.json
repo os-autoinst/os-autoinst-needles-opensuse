@@ -1,0 +1,50 @@
+{
+  "tags": [
+    "yast2_samba-389ds-setup"
+  ],
+  "area": [
+    {
+      "xpos": 104,
+      "height": 15,
+      "ypos": 336,
+      "type": "match",
+      "width": 153
+    },
+    {
+      "type": "match",
+      "ypos": 401,
+      "height": 12,
+      "xpos": 99,
+      "width": 145
+    },
+    {
+      "width": 59,
+      "xpos": 103,
+      "height": 16,
+      "ypos": 432,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 399,
+      "height": 18,
+      "xpos": 537,
+      "width": 181
+    },
+    {
+      "width": 215,
+      "ypos": 431,
+      "type": "match",
+      "height": 19,
+      "xpos": 536
+    },
+    {
+      "height": 14,
+      "xpos": 105,
+      "type": "match",
+      "ypos": 370,
+      "width": 77
+    }
+  ],
+  "properties": []
+}

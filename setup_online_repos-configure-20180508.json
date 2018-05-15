@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 346,
+      "type": "match",
+      "width": 205,
+      "height": 46,
+      "ypos": 500
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "setup_online_repos-configure"
+  ]
+}

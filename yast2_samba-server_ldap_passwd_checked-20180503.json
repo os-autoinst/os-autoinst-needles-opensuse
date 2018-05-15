@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "yast2_samba-server_ldap_passwd_checked"
+  ],
+  "area": [
+    {
+      "xpos": 40,
+      "ypos": 95,
+      "width": 240,
+      "height": 18,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 188,
+      "height": 26,
+      "xpos": 227,
+      "width": 60,
+      "type": "match"
+    },
+    {
+      "xpos": 258,
+      "ypos": 210,
+      "width": 40,
+      "height": 27,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "yast2_tftp_view_log_show"
+  ],
+  "properties": []
+}

@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 1006,
+      "xpos": 9,
+      "height": 402,
+      "ypos": 28
+    },
+    {
+      "height": 17,
+      "ypos": 96,
+      "width": 113,
+      "xpos": 31,
+      "type": "exclude"
+    },
+    {
+      "type": "exclude",
+      "width": 106,
+      "xpos": 503,
+      "height": 18,
+      "ypos": 95
+    },
+    {
+      "ypos": 223,
+      "height": 53,
+      "type": "exclude",
+      "xpos": 519,
+      "width": 136
+    },
+    {
+      "type": "exclude",
+      "xpos": 215,
+      "width": 84,
+      "ypos": 127,
+      "height": 20
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_lan-hostname-tab"
+  ]
+}

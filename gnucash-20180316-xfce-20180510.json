@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 69,
+      "width": 557,
+      "ypos": 176,
+      "height": 37
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnucash-2",
+    "ENV-DISTRI-opensuse"
+  ]
+}
