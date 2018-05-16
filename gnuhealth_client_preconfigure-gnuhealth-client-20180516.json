@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "gnuhealth-client"
+  ],
+  "area": [
+    {
+      "xpos": 401,
+      "ypos": 259,
+      "width": 306,
+      "height": 61,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

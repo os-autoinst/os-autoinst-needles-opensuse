@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 453,
+      "ypos": 169,
+      "width": 116,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "gnuhealth-module_configuration_wizard-add_users_dialog"
+  ]
+}

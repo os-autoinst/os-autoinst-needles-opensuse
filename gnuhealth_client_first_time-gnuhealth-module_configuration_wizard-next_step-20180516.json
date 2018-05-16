@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "gnuhealth-module_configuration_wizard-next_step"
+  ],
+  "area": [
+    {
+      "ypos": 145,
+      "width": 197,
+      "type": "match",
+      "height": 25,
+      "xpos": 70
+    },
+    {
+      "xpos": 887,
+      "ypos": 732,
+      "width": 68,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
