@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "gnuhealth-admin_view"
+  ],
+  "area": [
+    {
+      "xpos": 27,
+      "height": 16,
+      "type": "match",
+      "width": 118,
+      "ypos": 153
+    },
+    {
+      "xpos": 416,
+      "ypos": 36,
+      "width": 195,
+      "height": 20,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "gnuhealth-client-manage_profiles"
+  ],
+  "area": [
+    {
+      "xpos": 623,
+      "ypos": 375,
+      "width": 131,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
