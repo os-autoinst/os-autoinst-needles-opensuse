@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 351,
+      "width": 207,
+      "type": "match",
+      "ypos": 296,
+      "height": 26
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "system-role-admin"
+  ]
+}

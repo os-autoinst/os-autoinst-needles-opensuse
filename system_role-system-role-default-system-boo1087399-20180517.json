@@ -1,0 +1,17 @@
+{
+  "tags": [
+    " system-role-microos-selected",
+    "ENV-DISTRI=kubic",
+    "system-role-default-system"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 159,
+      "height": 80,
+      "type": "match",
+      "xpos": 341,
+      "width": 474
+    }
+  ]
+}
