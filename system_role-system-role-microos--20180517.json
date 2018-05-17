@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "system-role-microos"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 140,
+      "xpos": 350,
+      "height": 29,
+      "ypos": 170
+    }
+  ]
+}
