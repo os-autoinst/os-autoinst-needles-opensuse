@@ -1,22 +1,22 @@
 {
-  "area": [
-    {
-      "xpos": 379,
-      "ypos": 103,
-      "width": 374,
-      "height": 179,
-      "type": "match"
-    },
-    {
-      "xpos": 503,
-      "ypos": 7,
-      "width": 373,
-      "height": 93,
-      "type": "match"
-    }
-  ],
+  "properties": [],
   "tags": [
     "network_manager-wrong_card_selected"
   ],
-  "properties": []
+  "area": [
+    {
+      "ypos": 103,
+      "height": 179,
+      "type": "match",
+      "xpos": 379,
+      "width": 374
+    },
+    {
+      "height": 61,
+      "ypos": 21,
+      "width": 373,
+      "xpos": 503,
+      "type": "match"
+    }
+  ]
 }
