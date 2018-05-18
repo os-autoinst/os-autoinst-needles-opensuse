@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "network_manager-wrong_card_selected"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 374,
+      "xpos": 394,
+      "height": 179,
+      "ypos": 103
+    },
+    {
+      "ypos": 29,
+      "height": 42,
+      "xpos": 603,
+      "width": 210,
+      "type": "match"
+    }
+  ]
+}
