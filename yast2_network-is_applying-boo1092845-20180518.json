@@ -1,0 +1,24 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "yast2_network-is_applying"
+  ],
+  "area": [
+    {
+      "width": 241,
+      "xpos": 331,
+      "type": "match",
+      "height": 27,
+      "ypos": 67
+    },
+    {
+      "type": "match",
+      "xpos": 127,
+      "width": 236,
+      "ypos": 106,
+      "height": 31
+    }
+  ]
+}
