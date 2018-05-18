@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 124,
+      "width": 720,
+      "ypos": 65,
+      "height": 132
+    }
+  ],
+  "tags": [
+    "yast2-host-ui"
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
