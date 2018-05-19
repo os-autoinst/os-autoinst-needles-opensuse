@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "startinstall-blocked"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 393,
+      "width": 235,
+      "ypos": 364,
+      "height": 32
+    }
+  ]
+}
