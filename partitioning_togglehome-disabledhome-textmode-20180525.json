@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "ypos": 367,
+      "height": 17,
+      "xpos": 360,
+      "width": 282,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-opensuse",
+    "disabledhome",
+    "storage-ng"
+  ]
+}
