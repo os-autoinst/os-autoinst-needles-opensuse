@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "enabledhome-partition"
+  ],
+  "area": [
+    {
+      "width": 202,
+      "type": "match",
+      "height": 15,
+      "ypos": 402,
+      "xpos": 563
+    }
+  ],
+  "properties": []
+}
