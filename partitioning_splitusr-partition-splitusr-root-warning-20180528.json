@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 366,
+      "ypos": 307,
+      "width": 59,
+      "height": 25,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "xpos": 451,
+      "ypos": 457,
+      "width": 47,
+      "height": 18,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "tags": [
+    "partition-splitusr-root-warning"
+  ],
+  "properties": []
+}
