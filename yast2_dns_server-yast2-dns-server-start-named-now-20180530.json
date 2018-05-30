@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2-dns-server-start-named-now"
+  ],
+  "area": [
+    {
+      "xpos": 18,
+      "ypos": 177,
+      "width": 268,
+      "height": 15,
+      "type": "match",
+      "match": 90
+    }
+  ]
+}

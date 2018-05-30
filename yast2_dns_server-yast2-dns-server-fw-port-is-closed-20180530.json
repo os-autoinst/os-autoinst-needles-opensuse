@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2-dns-server-fw-port-is-closed"
+  ],
+  "area": [
+    {
+      "xpos": 25,
+      "ypos": 82,
+      "width": 182,
+      "height": 12,
+      "type": "match",
+      "match": 90
+    }
+  ]
+}
