@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "height": 764,
+      "xpos": 3,
+      "type": "match",
+      "width": 1019,
+      "ypos": 4
+    },
+    {
+      "xpos": 6,
+      "type": "exclude",
+      "width": 328,
+      "ypos": 0,
+      "height": 87
+    },
+    {
+      "ypos": 730,
+      "width": 102,
+      "type": "exclude",
+      "xpos": 862,
+      "height": 38
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-enlightenment",
+    "enlightenment_generic_desktop",
+    "x11",
+    "generic-desktop"
+  ]
+}
