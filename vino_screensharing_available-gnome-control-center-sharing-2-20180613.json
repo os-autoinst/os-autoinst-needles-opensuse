@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "vino_screensharing_available-gnome-control-center-sharing"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 89,
+      "ypos": 39,
+      "width": 63,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 605,
+      "ypos": 40,
+      "width": 57,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}
