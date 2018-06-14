@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "with_screensharing"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 337,
+      "ypos": 279,
+      "xpos": 464,
+      "height": 32
+    }
+  ]
+}
