@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 189,
+      "type": "match",
+      "width": 45,
+      "xpos": 422,
+      "height": 20
+    },
+    {
+      "ypos": 218,
+      "type": "match",
+      "width": 61,
+      "height": 20,
+      "xpos": 644
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "url_check"
+  ],
+  "properties": []
+}
