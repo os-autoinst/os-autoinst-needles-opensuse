@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 285,
+      "type": "match",
+      "width": 54,
+      "xpos": 535,
+      "height": 20
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "vino_screensharing_available-gnome-control-center-sharing"
+  ]
+}
