@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "windows-dont-user-my-location"
+  ],
+  "area": [
+    {
+      "xpos": 273,
+      "ypos": 399,
+      "width": 477,
+      "height": 95,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 137,
+      "ypos": 112,
+      "width": 756,
+      "height": 71,
+      "type": "match"
+    },
+    {
+      "xpos": 250,
+      "ypos": 576,
+      "width": 478,
+      "height": 62,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "windows-start-with-region"
+  ],
+  "properties": []
+}

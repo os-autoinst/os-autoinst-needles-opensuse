@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "windows-security-question"
+  ],
+  "area": [
+    {
+      "xpos": 281,
+      "ypos": 504,
+      "width": 121,
+      "height": 21,
+      "type": "match"
+    }
+  ]
+}

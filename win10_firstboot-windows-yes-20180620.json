@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "windows-yes"
+  ],
+  "area": [
+    {
+      "xpos": 824,
+      "ypos": 650,
+      "width": 186,
+      "height": 52,
+      "type": "match"
+    }
+  ]
+}

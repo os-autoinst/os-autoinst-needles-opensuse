@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "windows-skip-second-keyboard"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 829,
+      "ypos": 650,
+      "width": 179,
+      "height": 52,
+      "type": "match"
+    }
+  ]
+}

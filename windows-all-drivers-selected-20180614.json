@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "windows-all-drivers-selected"
+  ],
+  "area": [
+    {
+      "xpos": 233,
+      "ypos": 182,
+      "type": "match",
+      "height": 92,
+      "width": 411
+    }
+  ]
+}
