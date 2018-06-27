@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "height": 113,
+      "xpos": 14,
+      "ypos": 0,
+      "width": 313,
+      "type": "match"
+    },
+    {
+      "xpos": 1,
+      "height": 34,
+      "type": "match",
+      "width": 65,
+      "ypos": 734
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-FLAVOR-Krypton-Live",
+    "ENV-VERSION-42.2",
+    "generic-desktop"
+  ],
+  "properties": []
+}
