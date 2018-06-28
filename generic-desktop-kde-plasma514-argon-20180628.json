@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-FLAVOR-Argon-Live",
+    "generic-desktop",
+    "x11"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 328,
+      "ypos": 0,
+      "height": 254,
+      "xpos": 0
+    },
+    {
+      "xpos": 2,
+      "height": 33,
+      "width": 65,
+      "type": "match",
+      "ypos": 734
+    }
+  ]
+}
