@@ -1,0 +1,31 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-FLAVOR-Argon-Live",
+    "screenlock"
+  ],
+  "area": [
+    {
+      "height": 458,
+      "xpos": 43,
+      "ypos": 129,
+      "width": 953,
+      "type": "match"
+    },
+    {
+      "width": 15,
+      "type": "match",
+      "ypos": 68,
+      "xpos": 428,
+      "height": 59
+    },
+    {
+      "type": "exclude",
+      "width": 558,
+      "ypos": 133,
+      "height": 90,
+      "xpos": 227
+    }
+  ]
+}
