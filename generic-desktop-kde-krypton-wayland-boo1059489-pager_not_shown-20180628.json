@@ -1,0 +1,26 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-WAYLAND-1",
+    "generic-desktop"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 7,
+      "height": 113,
+      "ypos": 4,
+      "type": "match",
+      "width": 326
+    },
+    {
+      "ypos": 734,
+      "width": 54,
+      "type": "match",
+      "xpos": 0,
+      "height": 34
+    }
+  ]
+}
