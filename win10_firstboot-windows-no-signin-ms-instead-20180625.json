@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "windows-no-signin-ms-instead"
+  ],
+  "area": [
+    {
+      "xpos": 632,
+      "ypos": 645,
+      "width": 196,
+      "height": 58,
+      "type": "match"
+    }
+  ]
+}

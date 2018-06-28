@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 230,
+      "ypos": 114,
+      "width": 550,
+      "height": 74,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "windows-signin-with-ms"
+  ],
+  "properties": []
+}

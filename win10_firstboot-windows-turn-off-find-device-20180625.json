@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "windows-turn-off-find-device"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 272,
+      "ypos": 398,
+      "width": 478,
+      "height": 87,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "windows-account"
+  ],
+  "area": [
+    {
+      "xpos": 235,
+      "ypos": 451,
+      "width": 540,
+      "height": 75,
+      "type": "match"
+    }
+  ]
+}
