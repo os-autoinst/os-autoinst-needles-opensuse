@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "partitioning_raid-raid_noformat_added",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "xpos": 320,
+      "height": 65,
+      "type": "match",
+      "width": 55,
+      "ypos": 182
+    },
+    {
+      "height": 65,
+      "xpos": 499,
+      "ypos": 180,
+      "width": 126,
+      "type": "match"
+    }
+  ]
+}
