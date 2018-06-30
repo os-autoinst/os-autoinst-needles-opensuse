@@ -1,0 +1,19 @@
+{
+  "tags": [
+    "ENV-FLAVOR-Argon-Live",
+    "before-package-selection",
+    "desktop-selection",
+    "inst-returned-to-yast",
+    "installation"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 303,
+      "xpos": 21,
+      "ypos": 97,
+      "type": "match",
+      "width": 499
+    }
+  ]
+}
