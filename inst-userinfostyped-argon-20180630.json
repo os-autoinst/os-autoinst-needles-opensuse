@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "ypos": 264,
+      "type": "match",
+      "width": 345,
+      "xpos": 557,
+      "height": 233
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-Argon-Live",
+    "ENV-INSTLANG-en_US",
+    "inst-userinfostyped"
+  ],
+  "properties": []
+}
