@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 345,
+      "type": "match",
+      "width": 444,
+      "height": 125,
+      "xpos": 288
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ooffice-save-prompt",
+    "ENV-DESKTOP-gnome"
+  ]
+}
