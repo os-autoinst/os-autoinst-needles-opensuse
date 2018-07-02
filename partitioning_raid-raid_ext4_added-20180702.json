@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 321,
+      "height": 118,
+      "width": 55,
+      "type": "match",
+      "ypos": 146
+    },
+    {
+      "ypos": 181,
+      "type": "match",
+      "width": 135,
+      "height": 85,
+      "xpos": 518
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "partitioning_raid-raid_ext4_added"
+  ]
+}
