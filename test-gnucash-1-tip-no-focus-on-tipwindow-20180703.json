@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "test-gnucash-1",
+    "gnucash",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 179,
+      "height": 43,
+      "width": 210,
+      "type": "match",
+      "ypos": 370
+    },
+    {
+      "type": "match",
+      "width": 136,
+      "ypos": 94,
+      "xpos": 58,
+      "height": 22
+    }
+  ]
+}
