@@ -36,13 +36,12 @@ for needle in sorted(needles):
         error("Needle '{}' is missing its PNG file!".format(needle))
 
     # Check JSON content
-    n = None
+    n = {}
     with open(jsonfile) as f:
         n = json.load(f)
 
     # Check if workaround tag exists if bugref is in name
-    if re.search(r'-(poo|bsc|bnc|boo)[0-9]+-', needle):
-        if not 'workaround' in n['properties']:
-            error("Needle '{}' has bugid in name but no workaround tag set!".format(needle))
+    if 'workaround' in n.get('properties', '') and not re.search(r'(poo|bsc|bnc|boo)#?[0-9]+', needle):
+        error("Needle '{}' includes a workaround tag but has no bug-ID in filename!".format(needle))
 
 sys.exit(returncode)
