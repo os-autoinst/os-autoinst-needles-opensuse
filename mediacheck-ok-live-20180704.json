@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "mediacheck-ok",
+    "ENV-LIVECD-1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 303,
+      "margin": 500,
+      "type": "match",
+      "width": 488,
+      "xpos": 235,
+      "height": 17
+    },
+    {
+      "margin": 500,
+      "ypos": 335,
+      "type": "match",
+      "width": 150,
+      "xpos": 239,
+      "height": 18
+    }
+  ]
+}
