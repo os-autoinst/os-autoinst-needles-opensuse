@@ -1,4 +1,5 @@
 os-autoinst/openQA needles for openSUSE
+[![Build Status](https://travis-ci.org/os-autoinst/os-autoinst-needles-opensuse.svg?branch=master)](https://travis-ci.org/os-autoinst/os-autoinst-needles-opensuse)
 =================================================================================================================================================================================================================================
 os-autoinst-needles-opensuse is repo which contains needles for the tests which
 are stored in [os-autoinst-distri-opensuse](https://github.com/os-autoinst/os-autoinst-distri-opensuse)
