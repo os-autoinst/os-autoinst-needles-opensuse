@@ -1,5 +1,7 @@
 {
-  "properties": [],
+  "properties": [
+    "workaround"
+  ],
   "area": [
     {
       "ypos": 0,
