@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "ENV-VERSION-Tumbleweed",
+    "test-firefox-3"
+  ],
+  "area": [
+    {
+      "xpos": 460,
+      "ypos": 314,
+      "height": 131,
+      "width": 335,
+      "type": "match"
+    }
+  ]
+}
