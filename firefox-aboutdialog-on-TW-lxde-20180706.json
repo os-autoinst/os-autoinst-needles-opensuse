@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 335,
+      "type": "match",
+      "xpos": 458,
+      "height": 131,
+      "ypos": 313
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "ENV-VERSION-Tumbleweed",
+    "test-firefox-3"
+  ],
+  "properties": []
+}
