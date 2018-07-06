@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 225,
+      "height": 52,
+      "ypos": 29,
+      "xpos": 349
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "firefox-help-menu"
+  ]
+}
