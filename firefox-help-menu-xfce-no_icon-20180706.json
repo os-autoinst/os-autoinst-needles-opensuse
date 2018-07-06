@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "firefox-help-menu"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 229,
+      "height": 24,
+      "ypos": 52,
+      "xpos": 347
+    },
+    {
+      "width": 38,
+      "type": "match",
+      "xpos": 355,
+      "ypos": 24,
+      "height": 22
+    }
+  ]
+}
