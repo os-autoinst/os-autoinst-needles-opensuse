@@ -7,6 +7,13 @@
       "height": 159,
       "width": 197,
       "type": "match"
+    },
+    {
+      "xpos": 278,
+      "ypos": 209,
+      "width": 190,
+      "height": 23,
+      "type": "exclude"
     }
   ],
   "tags": [
