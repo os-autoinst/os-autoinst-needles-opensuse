@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 162,
+      "ypos": 166,
+      "width": 421,
+      "height": 164,
+      "type": "match"
+    },
+    {
+      "xpos": 248,
+      "ypos": 189,
+      "width": 316,
+      "height": 25,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dolphin_force_remove"
+  ]
+}
