@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "dolphin_create_new"
+  ],
+  "area": [
+    {
+      "xpos": 339,
+      "ypos": 154,
+      "height": 22,
+      "width": 215,
+      "type": "match"
+    }
+  ]
+}
