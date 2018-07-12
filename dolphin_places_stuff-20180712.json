@@ -1,15 +1,15 @@
 {
   "properties": [],
-  "tags": [
-    "dolphin_places_stuff"
-  ],
   "area": [
     {
-      "height": 25,
-      "ypos": 210,
       "xpos": 1,
-      "type": "match",
-      "width": 184
+      "height": 25,
+      "ypos": 209,
+      "width": 135,
+      "type": "match"
     }
+  ],
+  "tags": [
+    "dolphin_places_stuff"
   ]
 }
