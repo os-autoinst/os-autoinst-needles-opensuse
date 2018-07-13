@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 135,
+      "type": "match",
+      "xpos": 1,
+      "height": 25,
+      "ypos": 210
+    }
+  ],
+  "tags": [
+    "dolphin_places_stuff"
+  ]
+}
