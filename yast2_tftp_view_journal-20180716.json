@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "yast2_tftp_view_journal"
+  ],
+  "area": [
+    {
+      "xpos": 448,
+      "ypos": 29,
+      "width": 121,
+      "height": 18,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": []
+}
