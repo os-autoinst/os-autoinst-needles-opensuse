@@ -1,0 +1,19 @@
+{
+  "tags": [
+    "gnucash",
+    "ENV-DESKTOP-lxde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "height": 326,
+      "type": "match",
+      "xpos": 3,
+      "ypos": 29,
+      "width": 566,
+      "match": 80
+    }
+  ],
+  "properties": []
+}
