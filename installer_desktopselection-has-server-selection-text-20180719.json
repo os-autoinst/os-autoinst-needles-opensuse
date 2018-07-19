@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 25,
+      "xpos": 25,
+      "ypos": 363,
+      "type": "match",
+      "width": 90
+    }
+  ],
+  "tags": [
+    "has-server-selection"
+  ],
+  "properties": []
+}
