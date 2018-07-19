@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "desktop-runner-program-found"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 260,
+      "ypos": 13,
+      "width": 32,
+      "height": 37,
+      "type": "match"
+    },
+    {
+      "xpos": 708,
+      "ypos": 12,
+      "width": 56,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}
