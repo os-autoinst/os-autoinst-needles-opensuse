@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "dolphin_create_new_text_file"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 24,
+      "width": 158,
+      "ypos": 184,
+      "xpos": 553
+    }
+  ],
+  "properties": []
+}
