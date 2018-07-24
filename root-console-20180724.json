@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "root-console",
+    "log-console"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 34,
+      "ypos": 112,
+      "type": "match",
+      "xpos": 96,
+      "height": 13
+    }
+  ]
+}
