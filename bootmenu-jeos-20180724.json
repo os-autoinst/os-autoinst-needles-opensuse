@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 384,
+      "ypos": 207,
+      "type": "match",
+      "xpos": 207,
+      "height": 68
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-JeOS-for-kvm",
+    "ENV-UEFI-1",
+    "ENV-VERSION-15.0",
+    "bootloader-grub2"
+  ],
+  "properties": []
+}
