@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "jeos-timezone-en_US"
+  ],
+  "area": [
+    {
+      "xpos": 341,
+      "ypos": 45,
+      "width": 135,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}
