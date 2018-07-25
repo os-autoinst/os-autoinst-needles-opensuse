@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-jeos-1",
+    "ssh-login"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 130,
+      "width": 409,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 2,
+      "ypos": 753,
+      "width": 450,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 721,
+      "width": 525,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
