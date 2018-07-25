@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 109,
+      "ypos": 111,
+      "width": 143,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "keymap-letter-data-en_US"
+  ]
+}
