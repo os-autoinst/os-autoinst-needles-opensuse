@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "height": 113,
+      "xpos": 6,
+      "type": "match",
+      "ypos": 4,
+      "width": 326
+    },
+    {
+      "xpos": 0,
+      "height": 34,
+      "width": 54,
+      "type": "match",
+      "ypos": 734
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-FLAVOR-Argon-Live",
+    "ENV-VERSION-15.0",
+    "ENV-WAYLAND-1",
+    "generic-desktop"
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
