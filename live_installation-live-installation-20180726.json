@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-LIVECD-1",
+    "ENV-LIVETEST-1",
+    "live-installation"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 73,
+      "type": "match",
+      "ypos": 6,
+      "xpos": 247,
+      "height": 88
+    }
+  ]
+}
