@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 537,
+      "height": 19,
+      "width": 75,
+      "ypos": 294,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnuhealth-client-manage_profiles-database_selected"
+  ]
+}
