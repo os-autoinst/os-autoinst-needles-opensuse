@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 62,
+      "width": 751,
+      "height": 392,
+      "xpos": 117
+    }
+  ],
+  "tags": [
+    "dconf-editor-mainwindow"
+  ],
+  "properties": []
+}
