@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "gnuhealth-client-module_configuration_wizard-next_step"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 144,
+      "width": 197,
+      "height": 25,
+      "xpos": 70
+    },
+    {
+      "width": 68,
+      "type": "match",
+      "ypos": 732,
+      "xpos": 888,
+      "height": 20,
+      "match": 90
+    }
+  ]
+}
