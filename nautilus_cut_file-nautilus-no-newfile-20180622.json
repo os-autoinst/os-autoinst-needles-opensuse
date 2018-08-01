@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "nautilus-no-newfile"
+  ],
+  "area": [
+    {
+      "ypos": 127,
+      "height": 429,
+      "width": 882,
+      "type": "match",
+      "xpos": 66
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "firefox-gnome"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 525,
+      "height": 27,
+      "width": 114,
+      "ypos": 32
+    },
+    {
+      "ypos": 105,
+      "width": 41,
+      "height": 28,
+      "xpos": 210,
+      "type": "match"
+    },
+    {
+      "ypos": 102,
+      "height": 33,
+      "width": 37,
+      "type": "match",
+      "xpos": 5
+    }
+  ],
+  "properties": []
+}
