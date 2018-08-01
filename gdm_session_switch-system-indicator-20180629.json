@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "system-indicator"
+  ],
+  "area": [
+    {
+      "ypos": 2,
+      "height": 22,
+      "width": 51,
+      "type": "match",
+      "xpos": 969
+    }
+  ],
+  "properties": []
+}

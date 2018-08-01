@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "startapp-firefox-added"
+  ],
+  "area": [
+    {
+      "ypos": 35,
+      "width": 167,
+      "height": 34,
+      "xpos": 531,
+      "type": "match"
+    },
+    {
+      "xpos": 226,
+      "type": "match",
+      "width": 114,
+      "height": 49,
+      "ypos": 96
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome"
+  ],
+  "area": [
+    {
+      "xpos": 645,
+      "ypos": 115,
+      "width": 360,
+      "height": 479,
+      "type": "match"
+    },
+    {
+      "xpos": 504,
+      "ypos": 123,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
