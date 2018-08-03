@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "chromium-main-window"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 130,
+      "width": 372,
+      "type": "match",
+      "height": 57,
+      "ypos": 63
+    },
+    {
+      "xpos": 131,
+      "ypos": 92,
+      "width": 370,
+      "height": 27,
+      "type": "exclude"
+    }
+  ]
+}
