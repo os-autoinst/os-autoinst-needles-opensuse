@@ -13,14 +13,6 @@
       "width": 382,
       "height": 24,
       "type": "exclude"
-    },
-    {
-      "xpos": 229,
-      "ypos": 30,
-      "width": 176,
-      "height": 19,
-      "type": "match",
-      "match": 93
     }
   ],
   "tags": [
