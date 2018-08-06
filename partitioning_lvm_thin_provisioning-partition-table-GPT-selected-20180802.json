@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 434,
+      "ypos": 417,
+      "width": 46,
+      "height": 18,
+      "type": "match",
+      "match": 93
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partition-table-GPT-selected"
+  ]
+}

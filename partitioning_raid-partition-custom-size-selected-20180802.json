@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "partition-custom-size-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 357,
+      "xpos": 398,
+      "width": 90,
+      "type": "match",
+      "height": 16,
+      "match": 92
+    }
+  ]
+}

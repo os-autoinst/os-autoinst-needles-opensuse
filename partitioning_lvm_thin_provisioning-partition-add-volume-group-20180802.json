@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "partition-add-volume-group"
+  ],
+  "area": [
+    {
+      "xpos": 18,
+      "ypos": 88,
+      "width": 244,
+      "height": 40,
+      "type": "match",
+      "match": 94
+    }
+  ],
+  "properties": []
+}
