@@ -1,0 +1,47 @@
+{
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "before-role-selection",
+    "desktop-selection",
+    "inst-returned-to-yast",
+    "installation"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 11,
+      "type": "match",
+      "height": 131,
+      "ypos": 33,
+      "width": 496
+    },
+    {
+      "xpos": 24,
+      "width": 192,
+      "ypos": 255,
+      "type": "match",
+      "height": 16
+    },
+    {
+      "width": 87,
+      "ypos": 366,
+      "height": 21,
+      "type": "match",
+      "xpos": 25
+    },
+    {
+      "ypos": 482,
+      "width": 197,
+      "height": 10,
+      "type": "match",
+      "xpos": 26
+    },
+    {
+      "type": "match",
+      "height": 16,
+      "width": 94,
+      "ypos": 367,
+      "xpos": 24
+    }
+  ]
+}
