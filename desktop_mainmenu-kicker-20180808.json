@@ -1,0 +1,45 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 75,
+      "ypos": 125,
+      "width": 367,
+      "type": "exclude",
+      "xpos": 85
+    },
+    {
+      "xpos": 57,
+      "ypos": 378,
+      "width": 237,
+      "height": 56,
+      "type": "match"
+    },
+    {
+      "xpos": 10,
+      "ypos": 383,
+      "width": 36,
+      "height": 79,
+      "type": "match"
+    },
+    {
+      "xpos": 11,
+      "ypos": 607,
+      "width": 35,
+      "height": 114,
+      "type": "match"
+    },
+    {
+      "xpos": 55,
+      "ypos": 664,
+      "width": 255,
+      "height": 64,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "desktop_mainmenu-kicker",
+    "test-desktop_mainmenu-1"
+  ]
+}
