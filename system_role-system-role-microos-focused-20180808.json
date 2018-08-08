@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 27,
+      "ypos": 142,
+      "width": 178,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-microos-focused"
+  ]
+}
