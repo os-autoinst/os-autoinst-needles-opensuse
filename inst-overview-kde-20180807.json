@@ -1,0 +1,31 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ],
+  "area": [
+    {
+      "ypos": 293,
+      "width": 233,
+      "type": "match",
+      "height": 51,
+      "xpos": 384
+    },
+    {
+      "ypos": 359,
+      "width": 239,
+      "height": 14,
+      "type": "match",
+      "xpos": 420
+    },
+    {
+      "type": "match",
+      "height": 12,
+      "ypos": 390,
+      "width": 228,
+      "xpos": 429
+    }
+  ]
+}
