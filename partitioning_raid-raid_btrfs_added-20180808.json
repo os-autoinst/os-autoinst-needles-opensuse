@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 77,
+      "ypos": 147,
+      "width": 54,
+      "type": "match",
+      "xpos": 321
+    },
+    {
+      "height": 46,
+      "ypos": 179,
+      "xpos": 591,
+      "width": 49,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partitioning_raid-raid_btrfs_added"
+  ],
+  "properties": []
+}
