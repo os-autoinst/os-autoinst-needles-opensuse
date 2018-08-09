@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "user#03_selected"
+  ],
+  "area": [
+    {
+      "height": 84,
+      "ypos": 316,
+      "xpos": 332,
+      "width": 167,
+      "type": "match"
+    }
+  ]
+}
