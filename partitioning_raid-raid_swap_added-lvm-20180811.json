@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "xpos": 65,
+      "type": "match",
+      "width": 56,
+      "ypos": 454,
+      "height": 48
+    },
+    {
+      "height": 23,
+      "ypos": 226,
+      "xpos": 519,
+      "width": 119,
+      "type": "match"
+    },
+    {
+      "height": 17,
+      "ypos": 234,
+      "xpos": 717,
+      "width": 34,
+      "type": "match"
+    },
+    {
+      "xpos": 322,
+      "width": 54,
+      "type": "match",
+      "height": 17,
+      "ypos": 234
+    },
+    {
+      "width": 18,
+      "type": "match",
+      "xpos": 452,
+      "height": 20,
+      "ypos": 228
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning_raid-raid_swap_added-lvm"
+  ]
+}
