@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_control-center_online-update"
+  ],
+  "area": [
+    {
+      "xpos": 438,
+      "type": "match",
+      "width": 143,
+      "ypos": 383,
+      "height": 35
+    }
+  ]
+}
