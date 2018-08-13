@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 85,
+      "ypos": 205,
+      "xpos": 321,
+      "width": 55,
+      "type": "match"
+    },
+    {
+      "height": 85,
+      "ypos": 206,
+      "width": 132,
+      "type": "match",
+      "xpos": 519
+    },
+    {
+      "xpos": 716,
+      "width": 74,
+      "type": "match",
+      "height": 87,
+      "ypos": 205
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "partitioning_raid-raid_swap_added"
+  ]
+}
