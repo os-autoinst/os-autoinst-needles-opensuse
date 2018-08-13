@@ -1,7 +1,4 @@
 {
-  "properties": [
-    "workaround"
-  ],
   "tags": [
     "ENV-LEAP-1",
     "storage-ng",
