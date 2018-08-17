@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "height": 19,
+      "type": "match",
+      "xpos": 415,
+      "width": 45,
+      "ypos": 192
+    },
+    {
+      "height": 17,
+      "type": "match",
+      "width": 59,
+      "ypos": 220,
+      "xpos": 654,
+      "match": 80
+    },
+    {
+      "xpos": 707,
+      "ypos": 215,
+      "width": 10,
+      "height": 23,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "url_check"
+  ]
+}
