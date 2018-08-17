@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "xterm"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 442,
+      "ypos": 96,
+      "xpos": 0,
+      "type": "match",
+      "height": 252,
+      "match": 80
+    },
+    {
+      "height": 18,
+      "type": "match",
+      "xpos": 191,
+      "width": 30,
+      "ypos": 30,
+      "match": 80
+    }
+  ]
+}
