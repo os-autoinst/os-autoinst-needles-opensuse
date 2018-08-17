@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 12,
+      "xpos": 194,
+      "ypos": 517,
+      "width": 236
+    }
+  ],
+  "tags": [
+    "google-key-installed"
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
