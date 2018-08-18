@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "test-gnucash-tips-closed"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 788,
+      "xpos": 114,
+      "height": 544,
+      "ypos": 103
+    }
+  ]
+}
