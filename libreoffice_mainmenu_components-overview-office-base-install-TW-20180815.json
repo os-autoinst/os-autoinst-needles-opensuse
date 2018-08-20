@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 310,
+      "ypos": 39,
+      "width": 392,
+      "height": 56,
+      "type": "match"
+    },
+    {
+      "xpos": 104,
+      "ypos": 111,
+      "width": 145,
+      "height": 45,
+      "type": "match"
+    },
+    {
+      "xpos": 499,
+      "ypos": 116,
+      "width": 236,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "base-install"
+  ]
+}

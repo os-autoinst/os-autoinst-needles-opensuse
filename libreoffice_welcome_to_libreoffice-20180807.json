@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 319,
+      "ypos": 182,
+      "width": 651,
+      "height": 461,
+      "type": "match"
+    },
+    {
+      "xpos": 8,
+      "ypos": 321,
+      "width": 235,
+      "height": 274,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ooffice",
+    "welcome-to-libreoffice"
+  ],
+  "properties": []
+}

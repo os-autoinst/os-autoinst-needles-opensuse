@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "tracker-mainmenu-launched"
+  ],
+  "area": [
+    {
+      "ypos": 26,
+      "xpos": 275,
+      "height": 82,
+      "width": 450,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
