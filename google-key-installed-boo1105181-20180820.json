@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "google-key-installed"
+  ],
+  "area": [
+    {
+      "height": 12,
+      "type": "match",
+      "ypos": 394,
+      "width": 236,
+      "xpos": 53
+    }
+  ]
+}
