@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "empty-update-list"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 12,
+      "ypos": 87,
+      "width": 239,
+      "height": 43,
+      "type": "match"
+    },
+    {
+      "xpos": 333,
+      "ypos": 107,
+      "width": 390,
+      "height": 137,
+      "type": "match"
+    }
+  ]
+}

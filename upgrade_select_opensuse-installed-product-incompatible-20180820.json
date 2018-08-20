@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 359,
+      "ypos": 337,
+      "width": 305,
+      "height": 69,
+      "type": "match"
+    },
+    {
+      "xpos": 447,
+      "ypos": 427,
+      "width": 56,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "installed-product-incompatible"
+  ],
+  "properties": []
+}
