@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "evince-search-1stresult"
+  ],
+  "area": [
+    {
+      "ypos": 125,
+      "xpos": 2,
+      "height": 20,
+      "type": "match",
+      "width": 119
+    },
+    {
+      "ypos": 747,
+      "xpos": 610,
+      "height": 18,
+      "type": "match",
+      "width": 111
+    }
+  ],
+  "properties": []
+}

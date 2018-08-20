@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 100,
+      "height": 26,
+      "xpos": 524,
+      "ypos": 205
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gedit-about-credits"
+  ]
+}

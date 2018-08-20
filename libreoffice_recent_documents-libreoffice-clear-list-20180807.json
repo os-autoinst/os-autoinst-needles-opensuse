@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "libreoffice-clear-list"
+  ],
+  "area": [
+    {
+      "width": 78,
+      "height": 20,
+      "ypos": 205,
+      "type": "match",
+      "xpos": 337
+    }
+  ],
+  "properties": []
+}
