@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "width": 682,
+      "ypos": 2,
+      "height": 766,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-42.1",
+    "desktop-at-first-boot",
+    "x11",
+    "generic-desktop"
+  ]
+}
