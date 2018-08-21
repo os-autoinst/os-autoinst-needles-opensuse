@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "tracker-info-newpl"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 31,
+      "xpos": 33,
+      "ypos": 324,
+      "width": 183
+    }
+  ]
+}
