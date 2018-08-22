@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "tracker-cmdsearch-newfile"
+  ],
+  "area": [
+    {
+      "xpos": 162,
+      "width": 275,
+      "ypos": 229,
+      "height": 52,
+      "type": "match",
+      "match": 80
+    }
+  ]
+}
