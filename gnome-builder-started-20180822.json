@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "test-gnome-builder-started"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 29,
+      "xpos": 93,
+      "width": 93,
+      "ypos": 0
+    },
+    {
+      "type": "match",
+      "height": 123,
+      "xpos": 212,
+      "width": 529,
+      "ypos": 78
+    }
+  ]
+}
