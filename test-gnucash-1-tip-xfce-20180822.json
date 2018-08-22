@@ -1,0 +1,26 @@
+{
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "gnucash",
+    "test-gnucash-1"
+  ],
+  "area": [
+    {
+      "width": 471,
+      "ypos": 540,
+      "type": "match",
+      "xpos": 281,
+      "height": 40
+    },
+    {
+      "ypos": 264,
+      "height": 22,
+      "type": "match",
+      "xpos": 323,
+      "width": 136
+    }
+  ],
+  "properties": []
+}
