@@ -1,0 +1,45 @@
+{
+  "area": [
+    {
+      "xpos": 17,
+      "width": 677,
+      "ypos": 92,
+      "height": 105,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 18,
+      "ypos": 291,
+      "width": 137,
+      "xpos": 359
+    },
+    {
+      "type": "match",
+      "height": 24,
+      "xpos": 358,
+      "ypos": 387,
+      "width": 56
+    },
+    {
+      "height": 19,
+      "type": "match",
+      "width": 127,
+      "ypos": 491,
+      "xpos": 359
+    },
+    {
+      "type": "match",
+      "height": 21,
+      "width": 65,
+      "ypos": 604,
+      "xpos": 358
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "before-role-selection",
+    "desktop-selection",
+    "installation"
+  ]
+}
