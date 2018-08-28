@@ -1,0 +1,45 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "desktop_mainmenu-kicker",
+    "test-desktop_mainmenu-1"
+  ],
+  "area": [
+    {
+      "height": 56,
+      "type": "match",
+      "width": 237,
+      "ypos": 318,
+      "xpos": 57
+    },
+    {
+      "width": 36,
+      "ypos": 323,
+      "xpos": 10,
+      "height": 197,
+      "type": "match"
+    },
+    {
+      "ypos": 607,
+      "width": 35,
+      "xpos": 11,
+      "type": "match",
+      "height": 114
+    },
+    {
+      "xpos": 54,
+      "ypos": 661,
+      "width": 255,
+      "height": 64,
+      "type": "match"
+    },
+    {
+      "type": "exclude",
+      "height": 75,
+      "xpos": 85,
+      "width": 367,
+      "ypos": 125
+    }
+  ]
+}
