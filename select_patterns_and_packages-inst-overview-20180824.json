@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 20,
+      "ypos": 95,
+      "width": 260,
+      "height": 35,
+      "type": "match"
+    },
+    {
+      "xpos": 955,
+      "ypos": 733,
+      "width": 44,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 388,
+      "ypos": 295,
+      "width": 187,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-overview"
+  ]
+}
