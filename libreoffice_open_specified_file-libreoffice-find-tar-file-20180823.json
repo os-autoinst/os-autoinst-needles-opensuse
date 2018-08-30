@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 10,
+      "ypos": 448,
+      "xpos": 598,
+      "width": 238,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "libreoffice-find-tar-file"
+  ],
+  "properties": []
+}
