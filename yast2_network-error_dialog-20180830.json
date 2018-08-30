@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 57,
+      "ypos": 339,
+      "xpos": 437,
+      "type": "match",
+      "height": 40
+    },
+    {
+      "ypos": 426,
+      "width": 44,
+      "xpos": 511,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 443,
+      "ypos": 386,
+      "width": 142,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_network-error_dialog"
+  ],
+  "properties": []
+}
