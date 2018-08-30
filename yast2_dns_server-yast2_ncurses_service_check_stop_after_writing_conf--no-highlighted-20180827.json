@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "yast2_ncurses_service_check_stop_after_writing_conf"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 14,
+      "xpos": 320,
+      "width": 224,
+      "type": "match",
+      "ypos": 97
+    },
+    {
+      "xpos": 432,
+      "ypos": 82,
+      "width": 110,
+      "height": 28,
+      "type": "match"
+    }
+  ]
+}
