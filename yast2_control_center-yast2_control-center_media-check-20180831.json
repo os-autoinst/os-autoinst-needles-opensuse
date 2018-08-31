@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 74,
+      "xpos": 403,
+      "ypos": 272,
+      "width": 155
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center_media-check"
+  ]
+}
