@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "yast2_control-center_media-check_close"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 666,
+      "ypos": 541,
+      "width": 122,
+      "height": 35,
+      "type": "match"
+    },
+    {
+      "xpos": 705,
+      "ypos": 622,
+      "width": 85,
+      "height": 31,
+      "type": "match"
+    }
+  ]
+}
