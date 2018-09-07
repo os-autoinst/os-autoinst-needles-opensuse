@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "chromium-main-window"
+  ],
+  "area": [
+    {
+      "xpos": 143,
+      "width": 356,
+      "type": "match",
+      "height": 66,
+      "ypos": 63
+    },
+    {
+      "ypos": 4,
+      "height": 21,
+      "width": 199,
+      "type": "match",
+      "xpos": 421
+    },
+    {
+      "width": 354,
+      "type": "exclude",
+      "xpos": 143,
+      "ypos": 98,
+      "height": 26
+    }
+  ]
+}
