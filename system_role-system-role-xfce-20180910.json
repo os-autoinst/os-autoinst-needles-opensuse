@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "system-role-xfce"
+  ],
+  "area": [
+    {
+      "xpos": 358,
+      "ypos": 315,
+      "width": 106,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
