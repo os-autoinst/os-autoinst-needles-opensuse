@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "on-pattern",
+    "pattern-lxde"
+  ],
+  "area": [
+    {
+      "xpos": 98,
+      "width": 150,
+      "height": 23,
+      "type": "match",
+      "ypos": 363
+    }
+  ],
+  "properties": []
+}
