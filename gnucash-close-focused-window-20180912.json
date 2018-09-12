@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "gnucash-close-window"
+  ],
+  "area": [
+    {
+      "xpos": 322,
+      "ypos": 2,
+      "width": 157,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 777,
+      "ypos": 5,
+      "width": 18,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}
