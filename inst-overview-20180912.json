@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 357,
+      "width": 243,
+      "type": "match",
+      "height": 60,
+      "ypos": 269
+    },
+    {
+      "xpos": 955,
+      "width": 42,
+      "type": "match",
+      "ypos": 734,
+      "height": 17
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ]
+}
