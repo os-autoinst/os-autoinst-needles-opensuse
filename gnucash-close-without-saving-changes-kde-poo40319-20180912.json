@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "gnucash-close-without-saving-changes"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 709,
+      "ypos": 209,
+      "type": "match",
+      "height": 177,
+      "width": 269
+    }
+  ]
+}
