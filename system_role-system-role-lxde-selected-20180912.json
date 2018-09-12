@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 356,
+      "ypos": 311,
+      "width": 118,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "system-role-lxde-selected"
+  ]
+}
