@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "system-role-lxde"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 357,
+      "ypos": 315,
+      "width": 121,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}
