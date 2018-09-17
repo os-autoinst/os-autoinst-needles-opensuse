@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "tags": [
+    "vim-showing-passwd-jeos"
+  ],
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 115,
+      "width": 403,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 1,
+      "ypos": 100,
+      "width": 528,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 4,
+      "ypos": 84,
+      "width": 420,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}
