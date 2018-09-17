@@ -24,6 +24,20 @@
       "width": 420,
       "height": 10,
       "type": "match"
+    },
+    {
+      "xpos": 2,
+      "ypos": 2,
+      "width": 246,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 19,
+      "width": 485,
+      "height": 10,
+      "type": "match"
     }
   ]
 }
