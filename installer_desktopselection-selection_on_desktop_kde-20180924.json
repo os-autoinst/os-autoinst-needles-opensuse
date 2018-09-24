@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-FLAVOR-Krypton-Live",
+    "selection_on_desktop_kde"
+  ],
+  "area": [
+    {
+      "xpos": 372,
+      "type": "match",
+      "ypos": 174,
+      "height": 25,
+      "width": 144
+    }
+  ],
+  "properties": []
+}
