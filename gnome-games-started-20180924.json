@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "test-gnome-games-started"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 96,
+      "type": "match",
+      "ypos": 6,
+      "width": 85,
+      "height": 19
+    },
+    {
+      "type": "match",
+      "xpos": 344,
+      "ypos": 35,
+      "width": 97,
+      "height": 30
+    }
+  ]
+}
