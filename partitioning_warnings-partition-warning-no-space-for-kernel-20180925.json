@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 275,
+      "ypos": 256,
+      "width": 34,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 307,
+      "ypos": 335,
+      "width": 434,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partition-warning-no-space-for-kernel"
+  ],
+  "properties": []
+}
