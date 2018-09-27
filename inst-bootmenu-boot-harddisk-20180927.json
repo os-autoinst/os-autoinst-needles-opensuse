@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "inst-bootmenu-boot-harddisk"
+  ],
+  "area": [
+    {
+      "xpos": 253,
+      "type": "match",
+      "ypos": 169,
+      "height": 26,
+      "width": 170
+    }
+  ],
+  "properties": []
+}
