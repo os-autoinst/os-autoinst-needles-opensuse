@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 364,
+      "ypos": 313,
+      "width": 61,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 367,
+      "ypos": 344,
+      "width": 238,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 458,
+      "ypos": 458,
+      "width": 31,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partition-warning-too-small-for-snapshots"
+  ]
+}

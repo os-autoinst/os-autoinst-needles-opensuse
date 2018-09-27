@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "partition-selected-btrfs-type"
+  ],
+  "area": [
+    {
+      "xpos": 345,
+      "ypos": 358,
+      "width": 41,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
