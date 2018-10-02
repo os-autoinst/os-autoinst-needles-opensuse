@@ -1,0 +1,24 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 321,
+      "ypos": 65,
+      "height": 13,
+      "width": 215
+    },
+    {
+      "xpos": 448,
+      "ypos": 62,
+      "width": 88,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_ncurses_service_inactive"
+  ]
+}
