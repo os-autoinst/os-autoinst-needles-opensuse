@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "oomath-prompt",
+    "ENV-DESKTOP-gnome"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 344,
+      "width": 450,
+      "height": 126,
+      "type": "match",
+      "xpos": 286
+    }
+  ]
+}
