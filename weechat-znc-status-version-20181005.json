@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "weechat-znc-status-version"
+  ],
+  "area": [
+    {
+      "xpos": 179,
+      "ypos": 32,
+      "width": 115,
+      "height": 31,
+      "type": "match"
+    },
+    {
+      "xpos": 287,
+      "ypos": 738,
+      "width": 62,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
