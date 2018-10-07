@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 169,
+      "ypos": 513,
+      "width": 171,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "weechat-server-added"
+  ]
+}
