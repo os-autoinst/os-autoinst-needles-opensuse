@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "on-pattern",
+    "pattern-xfce"
+  ],
+  "area": [
+    {
+      "xpos": 32,
+      "type": "match",
+      "ypos": 647,
+      "width": 269,
+      "height": 26
+    }
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
