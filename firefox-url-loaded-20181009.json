@@ -1,21 +1,14 @@
 {
+  "properties": [],
   "area": [
     {
-      "xpos": 74,
-      "ypos": 69,
-      "width": 58,
+      "ypos": 104,
       "height": 26,
-      "type": "match"
-    },
-    {
-      "xpos": 649,
-      "ypos": 6,
-      "width": 90,
-      "height": 15,
+      "width": 58,
+      "xpos": 74,
       "type": "match"
     }
   ],
-  "properties": [],
   "tags": [
     "firefox-url-loaded"
   ]
