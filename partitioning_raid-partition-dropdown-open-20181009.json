@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "partition-dropdown-open"
+  ],
+  "area": [
+    {
+      "xpos": 393,
+      "ypos": 645,
+      "width": 163,
+      "height": 100,
+      "type": "match"
+    }
+  ]
+}
