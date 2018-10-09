@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 339,
+      "ypos": 337,
+      "width": 301,
+      "height": 67
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "displaymanager-bernhard"
+  ]
+}
