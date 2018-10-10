@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 21,
+      "ypos": 5,
+      "width": 132,
+      "type": "match",
+      "xpos": 384
+    },
+    {
+      "xpos": 863,
+      "ypos": 3,
+      "width": 22,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "close_kontact"
+  ]
+}
