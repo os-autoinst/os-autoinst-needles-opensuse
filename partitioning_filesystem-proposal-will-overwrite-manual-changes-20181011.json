@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "proposal-will-overwrite-manual-changes"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 360,
+      "height": 40,
+      "width": 307,
+      "ypos": 354
+    }
+  ]
+}
