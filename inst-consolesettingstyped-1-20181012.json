@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 264,
+      "ypos": 144,
+      "height": 15,
+      "width": 88
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-UEFI-1",
+    "inst-consolesettingstyped"
+  ]
+}
