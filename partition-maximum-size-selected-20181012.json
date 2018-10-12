@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "partition-maximum-size-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 100,
+      "height": 19,
+      "ypos": 312,
+      "xpos": 398,
+      "type": "match"
+    }
+  ]
+}
