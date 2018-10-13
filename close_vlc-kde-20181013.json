@@ -1,23 +1,25 @@
 {
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "close_vlc"
+  ],
+  "properties": [],
   "area": [
     {
-      "ypos": 1,
-      "width": 194,
-      "height": 29,
+      "xpos": 251,
       "type": "match",
-      "xpos": 200
+      "ypos": 7,
+      "height": 14,
+      "width": 107,
+      "match": 60
     },
     {
       "height": 23,
       "width": 23,
       "ypos": 5,
+      "type": "match",
       "xpos": 580,
-      "type": "match"
+      "match": 80
     }
-  ],
-  "properties": [],
-  "tags": [
-    "ENV-DESKTOP-kde",
-    "close_vlc"
   ]
 }
