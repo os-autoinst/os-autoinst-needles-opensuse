@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "close_vlc"
+  ],
+  "area": [
+    {
+      "ypos": 5,
+      "height": 18,
+      "width": 105,
+      "xpos": 229,
+      "type": "match",
+      "match": 60
+    },
+    {
+      "width": 23,
+      "height": 23,
+      "ypos": 2,
+      "type": "match",
+      "xpos": 578,
+      "match": 80
+    }
+  ],
+  "properties": []
+}
