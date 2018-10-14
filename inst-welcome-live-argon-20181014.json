@@ -1,0 +1,28 @@
+{
+  "tags": [
+    "ENV-FLAVOR-Argon-Live",
+    "ENV-LIVECD-1",
+    "inst-welcome",
+    "installation",
+    "languagepicked"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 107,
+      "ypos": 273,
+      "height": 32,
+      "type": "match",
+      "xpos": 360,
+      "match": 60
+    },
+    {
+      "xpos": 22,
+      "ypos": 111,
+      "height": 136,
+      "type": "match",
+      "width": 322,
+      "match": 60
+    }
+  ]
+}
