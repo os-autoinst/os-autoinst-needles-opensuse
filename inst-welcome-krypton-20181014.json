@@ -1,0 +1,27 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 316,
+      "xpos": 13,
+      "type": "match",
+      "height": 70,
+      "ypos": 121,
+      "match": 60
+    },
+    {
+      "width": 175,
+      "xpos": 351,
+      "height": 51,
+      "ypos": 238,
+      "type": "match",
+      "match": 60
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-Krypton-Live",
+    "inst-welcome",
+    "installation",
+    "languagepicked"
+  ]
+}
