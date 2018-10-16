@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "partition-select-vg-vg-no-thin"
+  ],
+  "area": [
+    {
+      "height": 17,
+      "xpos": 82,
+      "type": "match",
+      "ypos": 320,
+      "width": 69
+    },
+    {
+      "xpos": 336,
+      "height": 24,
+      "ypos": 138,
+      "width": 206,
+      "type": "match"
+    }
+  ]
+}

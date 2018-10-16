@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "partition-select-vg-vg-no-thin"
+  ],
+  "area": [
+    {
+      "xpos": 82,
+      "height": 17,
+      "ypos": 320,
+      "width": 69,
+      "type": "match"
+    },
+    {
+      "xpos": 336,
+      "ypos": 138,
+      "width": 206,
+      "height": 29,
+      "type": "match"
+    }
+  ]
+}
