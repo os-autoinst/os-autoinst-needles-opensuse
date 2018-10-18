@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "vlc-first-time-wizard"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 370,
+      "type": "match",
+      "ypos": 210,
+      "xpos": 298,
+      "width": 420,
+      "match": 50
+    }
+  ]
+}
