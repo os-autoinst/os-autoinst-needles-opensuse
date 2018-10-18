@@ -1,0 +1,36 @@
+{
+  "tags": [
+    "partitioning-full-lvm-encrypt-unencrypted-boot"
+  ],
+  "area": [
+    {
+      "xpos": 675,
+      "ypos": 220,
+      "width": 142,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 415,
+      "ypos": 220,
+      "width": 170,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 415,
+      "ypos": 251,
+      "width": 268,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 747,
+      "ypos": 248,
+      "width": 230,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
