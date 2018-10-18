@@ -1,0 +1,36 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 676,
+      "ypos": 205,
+      "width": 128,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 415,
+      "ypos": 204,
+      "width": 170,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 746,
+      "ypos": 235,
+      "width": 231,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 414,
+      "ypos": 233,
+      "width": 271,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partitioning-full-lvm-encrypt"
+  ]
+}
