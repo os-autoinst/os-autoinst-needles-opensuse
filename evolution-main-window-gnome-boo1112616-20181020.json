@@ -3,7 +3,9 @@
     "ENV-DESKTOP-gnome",
     "evolution-main-window"
   ],
-  "properties": [],
+  "properties": [
+    "workaround"
+  ],
   "area": [
     {
       "width": 121,
