@@ -1,26 +1,28 @@
 {
-  "area": [
-    {
-      "width": 612,
-      "xpos": 44,
-      "ypos": 96,
-      "type": "match",
-      "height": 30,
-      "match": 80
-    },
-    {
-      "xpos": 304,
-      "ypos": 45,
-      "width": 122,
-      "height": 14,
-      "type": "match",
-      "match": 60
-    }
+  "properties": [
+    "workaround"
   ],
   "tags": [
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-opensuse",
     "test-gnucash-2"
   ],
-  "properties": []
+  "area": [
+    {
+      "type": "match",
+      "height": 27,
+      "xpos": 44,
+      "ypos": 99,
+      "width": 612,
+      "match": 60
+    },
+    {
+      "xpos": 304,
+      "ypos": 46,
+      "width": 120,
+      "height": 14,
+      "type": "match",
+      "match": 60
+    }
+  ]
 }
