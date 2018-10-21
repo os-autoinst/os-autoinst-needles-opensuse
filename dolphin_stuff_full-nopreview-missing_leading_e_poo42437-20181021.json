@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "dolphin_stuff_full"
+  ],
+  "area": [
+    {
+      "width": 240,
+      "height": 140,
+      "type": "match",
+      "xpos": 186,
+      "ypos": 76,
+      "match": 80
+    }
+  ]
+}
