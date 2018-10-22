@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2-datetime-ui"
+  ],
+  "area": [
+    {
+      "ypos": 107,
+      "xpos": 131,
+      "type": "match",
+      "height": 26,
+      "width": 150
+    }
+  ]
+}
