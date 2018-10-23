@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "dolphin_stuff_folder"
+  ],
+  "area": [
+    {
+      "width": 79,
+      "type": "match",
+      "height": 96,
+      "ypos": 105,
+      "xpos": 219
+    }
+  ]
+}
