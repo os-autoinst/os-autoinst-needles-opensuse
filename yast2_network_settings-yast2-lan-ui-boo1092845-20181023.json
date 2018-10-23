@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "yast2-lan-ui"
+  ],
+  "area": [
+    {
+      "width": 594,
+      "xpos": 127,
+      "ypos": 68,
+      "type": "match",
+      "height": 67
+    }
+  ]
+}
