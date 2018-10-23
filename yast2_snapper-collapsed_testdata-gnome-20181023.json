@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 201,
+      "type": "match",
+      "height": 20,
+      "ypos": 77,
+      "xpos": 24
+    },
+    {
+      "width": 114,
+      "xpos": 22,
+      "ypos": 158,
+      "type": "match",
+      "height": 22
+    }
+  ],
+  "tags": [
+    "yast2_snapper-collapsed_testdata"
+  ],
+  "properties": []
+}
