@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "custompart_systemview-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 79,
+      "height": 43,
+      "type": "match",
+      "xpos": 20,
+      "ypos": 146
+    }
+  ]
+}
