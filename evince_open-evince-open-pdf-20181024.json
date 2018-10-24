@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "evince-open-pdf"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 237,
+      "xpos": 206,
+      "ypos": 270,
+      "height": 42,
+      "type": "match"
+    },
+    {
+      "width": 111,
+      "xpos": 820,
+      "ypos": 590,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}
