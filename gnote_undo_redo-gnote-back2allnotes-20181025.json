@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "gnote-back2allnotes"
+  ],
+  "area": [
+    {
+      "xpos": 64,
+      "ypos": 166,
+      "height": 45,
+      "type": "match",
+      "width": 39
+    }
+  ]
+}
