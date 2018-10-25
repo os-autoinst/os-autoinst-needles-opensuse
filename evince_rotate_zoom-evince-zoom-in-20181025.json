@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "evince-zoom-in"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 211,
+      "xpos": 205,
+      "ypos": 243,
+      "type": "match",
+      "height": 88
+    }
+  ]
+}
