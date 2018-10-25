@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "ypos": 255,
+      "xpos": 385,
+      "type": "match",
+      "width": 47,
+      "height": 43
+    },
+    {
+      "width": 131,
+      "height": 43,
+      "type": "match",
+      "xpos": 511,
+      "ypos": 258
+    },
+    {
+      "width": 52,
+      "height": 41,
+      "type": "match",
+      "xpos": 325,
+      "ypos": 258
+    }
+  ],
+  "tags": [
+    "partitioning_raid-part_boot_added",
+    "storage-ng"
+  ],
+  "properties": []
+}
