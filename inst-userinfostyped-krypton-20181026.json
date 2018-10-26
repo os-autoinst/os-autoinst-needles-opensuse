@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "width": 345,
+      "type": "match",
+      "height": 233,
+      "xpos": 557,
+      "ypos": 264
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-Krypton-Live",
+    "ENV-INSTLANG-en_US",
+    "inst-userinfostyped"
+  ],
+  "properties": []
+}
