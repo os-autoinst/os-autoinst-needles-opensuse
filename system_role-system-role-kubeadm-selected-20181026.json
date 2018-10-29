@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 357,
+      "ypos": 260,
+      "width": 100,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "system-role-kubeadm-selected"
+  ],
+  "properties": []
+}
