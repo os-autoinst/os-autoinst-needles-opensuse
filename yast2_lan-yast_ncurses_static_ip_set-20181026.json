@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast_ncurses_static_ip_set"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 25,
+      "ypos": 135,
+      "width": 636,
+      "height": 42,
+      "type": "match"
+    }
+  ]
+}

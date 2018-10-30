@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 24,
+      "type": "match",
+      "width": 308,
+      "xpos": 6,
+      "ypos": 22,
+      "match": 94
+    }
+  ],
+  "tags": [
+    "yast_ncurses_network_card_setup"
+  ],
+  "properties": []
+}
