@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 33,
+      "xpos": 17,
+      "ypos": 72,
+      "width": 146
+    },
+    {
+      "ypos": 626,
+      "xpos": 717,
+      "height": 21,
+      "type": "match",
+      "width": 56
+    }
+  ],
+  "tags": [
+    "storage-ng",
+    "yast2_control-center-partitioner_expert"
+  ],
+  "properties": []
+}
