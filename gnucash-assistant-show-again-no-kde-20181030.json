@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "gnucash-assistant-show-again-no"
+  ],
+  "area": [
+    {
+      "width": 263,
+      "height": 23,
+      "type": "match",
+      "xpos": 414,
+      "ypos": 302,
+      "match": 80
+    },
+    {
+      "ypos": 453,
+      "xpos": 579,
+      "type": "match",
+      "height": 17,
+      "width": 34,
+      "match": 80
+    }
+  ]
+}
