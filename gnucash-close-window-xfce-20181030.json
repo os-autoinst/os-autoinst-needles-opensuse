@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "height": 13,
+      "type": "match",
+      "xpos": 269,
+      "ypos": 6,
+      "width": 157,
+      "match": 80
+    },
+    {
+      "xpos": 783,
+      "ypos": 5,
+      "height": 16,
+      "type": "match",
+      "width": 15,
+      "match": 80
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "gnucash-close-window"
+  ],
+  "properties": []
+}
