@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ok_on_top",
+    "seahorse-name-new-keyring"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 325,
+      "width": 539,
+      "height": 75,
+      "xpos": 195,
+      "type": "match"
+    },
+    {
+      "width": 97,
+      "ypos": 262,
+      "xpos": 744,
+      "type": "match",
+      "height": 60
+    }
+  ]
+}
