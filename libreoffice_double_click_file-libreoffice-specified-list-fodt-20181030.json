@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "libreoffice-specified-list-fodt",
+    "ooffice-tools-options-view"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 823,
+      "ypos": 540,
+      "height": 130,
+      "type": "match",
+      "width": 80
+    }
+  ]
+}
