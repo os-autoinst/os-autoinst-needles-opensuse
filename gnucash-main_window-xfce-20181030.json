@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "ENV-INSTLANG-en_US",
+    "gnucash"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 7,
+      "ypos": 30,
+      "type": "match",
+      "height": 161,
+      "width": 575,
+      "match": 60
+    }
+  ]
+}
