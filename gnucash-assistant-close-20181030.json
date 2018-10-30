@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "gnucash-assistant-close"
+  ],
+  "area": [
+    {
+      "xpos": 248,
+      "ypos": 132,
+      "width": 174,
+      "height": 14,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "xpos": 413,
+      "ypos": 365,
+      "width": 48,
+      "height": 16,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": []
+}

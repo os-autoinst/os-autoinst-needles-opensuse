@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "gnucash"
+  ],
+  "area": [
+    {
+      "xpos": 59,
+      "ypos": 176,
+      "width": 575,
+      "height": 161,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 303,
+      "xpos": 321,
+      "type": "match",
+      "width": 136,
+      "height": 22,
+      "match": 80
+    },
+    {
+      "xpos": 633,
+      "ypos": 550,
+      "width": 47,
+      "height": 18,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "gnucash-tip-close"
+  ]
+}

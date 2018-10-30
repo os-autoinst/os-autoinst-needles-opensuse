@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 489,
+      "width": 160,
+      "type": "match",
+      "xpos": 197,
+      "height": 24,
+      "match": 60
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "gnucash-close-without-saving-changes"
+  ]
+}
