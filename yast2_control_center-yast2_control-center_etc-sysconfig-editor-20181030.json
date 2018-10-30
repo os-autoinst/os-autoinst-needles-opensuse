@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 301,
+      "ypos": 74,
+      "type": "match",
+      "height": 31,
+      "width": 233
+    }
+  ],
+  "tags": [
+    "yast2_control-center_etc-sysconfig-editor"
+  ],
+  "properties": []
+}
