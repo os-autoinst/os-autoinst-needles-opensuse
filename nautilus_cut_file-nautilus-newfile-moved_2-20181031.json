@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "nautilus-newfile-moved"
+  ],
+  "area": [
+    {
+      "width": 360,
+      "xpos": 102,
+      "ypos": 125,
+      "height": 193,
+      "type": "match"
+    },
+    {
+      "xpos": 156,
+      "ypos": 82,
+      "width": 196,
+      "height": 28,
+      "type": "match"
+    }
+  ]
+}
