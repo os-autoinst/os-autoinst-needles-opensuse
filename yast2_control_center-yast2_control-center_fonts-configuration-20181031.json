@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_control-center_fonts-configuration"
+  ],
+  "area": [
+    {
+      "width": 169,
+      "type": "match",
+      "height": 28,
+      "xpos": 12,
+      "ypos": 74
+    }
+  ]
+}
