@@ -1,0 +1,36 @@
+{
+  "tags": [
+    "acceptedpartitioningraid1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 92,
+      "xpos": 26,
+      "type": "match",
+      "height": 33,
+      "width": 281
+    },
+    {
+      "type": "match",
+      "height": 14,
+      "ypos": 459,
+      "xpos": 414,
+      "width": 130
+    },
+    {
+      "ypos": 488,
+      "xpos": 499,
+      "height": 16,
+      "type": "match",
+      "width": 67
+    },
+    {
+      "ypos": 491,
+      "xpos": 625,
+      "height": 14,
+      "type": "match",
+      "width": 79
+    }
+  ]
+}
