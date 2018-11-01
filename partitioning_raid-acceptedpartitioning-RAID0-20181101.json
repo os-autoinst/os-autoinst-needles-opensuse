@@ -1,0 +1,46 @@
+{
+  "tags": [
+    "ENV-12SP4ORLATER-1",
+    "acceptedpartitioning",
+    "acceptedpartitioningraid0",
+    "storage-ng"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 90,
+      "ypos": 161,
+      "xpos": 454,
+      "type": "match",
+      "height": 27
+    },
+    {
+      "width": 103,
+      "height": 26,
+      "type": "match",
+      "ypos": 221,
+      "xpos": 453
+    },
+    {
+      "width": 103,
+      "type": "match",
+      "height": 27,
+      "ypos": 280,
+      "xpos": 452
+    },
+    {
+      "width": 104,
+      "ypos": 341,
+      "xpos": 452,
+      "type": "match",
+      "height": 27
+    },
+    {
+      "width": 126,
+      "ypos": 459,
+      "xpos": 417,
+      "type": "match",
+      "height": 10
+    }
+  ]
+}
