@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firewall-start-page"
+  ],
+  "area": [
+    {
+      "xpos": 418,
+      "height": 16,
+      "type": "match",
+      "width": 186,
+      "ypos": 71
+    }
+  ],
+  "properties": []
+}
