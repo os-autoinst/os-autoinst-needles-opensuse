@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "tags": [
+    "expert-partitioner-overview"
+  ],
+  "area": [
+    {
+      "width": 235,
+      "height": 43,
+      "type": "match",
+      "xpos": 17,
+      "ypos": 87
+    },
+    {
+      "height": 24,
+      "type": "match",
+      "xpos": 311,
+      "ypos": 140,
+      "width": 125
+    },
+    {
+      "ypos": 171,
+      "xpos": 454,
+      "type": "match",
+      "height": 21,
+      "width": 75
+    }
+  ]
+}
