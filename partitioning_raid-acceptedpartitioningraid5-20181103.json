@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 46,
+      "xpos": 23,
+      "ypos": 88,
+      "width": 292
+    },
+    {
+      "height": 15,
+      "type": "match",
+      "ypos": 460,
+      "xpos": 414,
+      "width": 129
+    },
+    {
+      "width": 152,
+      "xpos": 416,
+      "ypos": 490,
+      "type": "match",
+      "height": 14
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "acceptedpartitioningraid5"
+  ]
+}
