@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "tags": [
+    "acceptedpartitioningraid10"
+  ],
+  "area": [
+    {
+      "height": 44,
+      "type": "match",
+      "ypos": 87,
+      "xpos": 21,
+      "width": 294
+    },
+    {
+      "ypos": 459,
+      "xpos": 394,
+      "type": "match",
+      "height": 15,
+      "width": 154
+    },
+    {
+      "width": 150,
+      "height": 13,
+      "type": "match",
+      "ypos": 490,
+      "xpos": 415
+    }
+  ]
+}
