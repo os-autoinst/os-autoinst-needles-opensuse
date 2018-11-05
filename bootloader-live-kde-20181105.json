@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 167,
+      "xpos": 216,
+      "type": "match",
+      "height": 31,
+      "width": 304
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-15.1",
+    "boot-live-kde"
+  ],
+  "properties": []
+}
