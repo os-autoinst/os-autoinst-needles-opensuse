@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "logoutdialog",
+    "sddm_shutdown_option_btn"
+  ],
+  "area": [
+    {
+      "width": 70,
+      "type": "match",
+      "height": 78,
+      "xpos": 544,
+      "ypos": 430
+    }
+  ]
+}
