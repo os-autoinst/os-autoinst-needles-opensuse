@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "yast2_control-center_sound"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 81,
+      "height": 33,
+      "type": "match",
+      "ypos": 273,
+      "xpos": 438,
+      "match": 90
+    }
+  ]
+}
