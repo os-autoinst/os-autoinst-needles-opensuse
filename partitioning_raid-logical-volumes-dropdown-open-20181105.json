@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 404,
+      "ypos": 650,
+      "width": 106,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 409,
+      "ypos": 676,
+      "width": 141,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 410,
+      "ypos": 700,
+      "width": 141,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 413,
+      "ypos": 724,
+      "width": 136,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "logical-volumes-dropdown-open"
+  ]
+}
