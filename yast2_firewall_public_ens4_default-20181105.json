@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_firewall_public_ens4_default"
+  ],
+  "area": [
+    {
+      "xpos": 363,
+      "ypos": 321,
+      "width": 181,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

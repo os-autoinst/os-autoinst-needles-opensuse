@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_firewall_zone_service_warning"
+  ],
+  "area": [
+    {
+      "xpos": 323,
+      "ypos": 333,
+      "width": 373,
+      "height": 73,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

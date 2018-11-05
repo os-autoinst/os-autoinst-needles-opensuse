@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 188,
+      "ypos": 315,
+      "xpos": 316,
+      "type": "match",
+      "height": 72
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_firewall_interfaces_change_zone"
+  ]
+}
