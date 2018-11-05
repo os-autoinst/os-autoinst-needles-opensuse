@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "volume_management_feature"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 95,
+      "ypos": 542,
+      "type": "match",
+      "height": 16,
+      "width": 120
+    }
+  ]
+}
