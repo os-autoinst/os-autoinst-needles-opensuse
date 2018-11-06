@@ -1,17 +1,17 @@
 {
-  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 145,
+      "ypos": 303,
+      "xpos": 301,
+      "width": 414
+    }
+  ],
   "tags": [
     "ENV-FLAVOR-JeOS-for-kvm",
     "jeos-locale",
-    "jeos-system-locale-en_US-jeos-system-locale-en_US"
+    "jeos-system-locale-en_US"
   ],
-  "area": [
-    {
-      "ypos": 303,
-      "xpos": 301,
-      "type": "match",
-      "height": 145,
-      "width": 414
-    }
-  ]
+  "properties": []
 }
