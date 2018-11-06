@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 480,
+      "ypos": 376,
+      "width": 72,
+      "height": 63,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "kubeadm-ntp-empty"
+  ],
+  "properties": []
+}
