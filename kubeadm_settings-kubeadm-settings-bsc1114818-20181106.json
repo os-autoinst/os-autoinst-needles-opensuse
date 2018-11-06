@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 17,
+      "ypos": 88,
+      "width": 183,
+      "height": 73,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "kubeadm-settings"
+  ],
+  "properties": [
+  	  "workaround"
+  ]
+}
