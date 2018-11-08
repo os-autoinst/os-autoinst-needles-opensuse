@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 28,
+      "type": "match",
+      "xpos": 854,
+      "width": 79,
+      "ypos": 184
+    },
+    {
+      "xpos": 65,
+      "ypos": 285,
+      "width": 184,
+      "height": 110,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "startapp-delete"
+  ],
+  "properties": []
+}
