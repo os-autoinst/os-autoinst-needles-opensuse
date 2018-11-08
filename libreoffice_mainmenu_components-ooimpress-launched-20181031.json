@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ooimpress-select-a-template"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 671,
+      "ypos": 83,
+      "xpos": 126,
+      "height": 91,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 94,
+      "xpos": 677,
+      "ypos": 620,
+      "width": 226
+    }
+  ]
+}

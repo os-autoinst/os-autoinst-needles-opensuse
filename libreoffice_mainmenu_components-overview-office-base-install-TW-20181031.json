@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "base-install"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 330,
+      "ypos": 44,
+      "width": 357,
+      "height": 48,
+      "type": "match"
+    }
+  ]
+}
