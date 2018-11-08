@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_firewall_interfaces_enp0s3_default"
+  ],
+  "area": [
+    {
+      "xpos": 362,
+      "ypos": 206,
+      "width": 125,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
