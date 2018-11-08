@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "NICsetup_ncurses_IP_empty"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 21,
+      "ypos": 145,
+      "width": 261,
+      "height": 35,
+      "type": "match"
+    }
+  ]
+}
