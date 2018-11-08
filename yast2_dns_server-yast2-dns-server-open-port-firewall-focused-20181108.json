@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 51,
+      "ypos": 65,
+      "width": 80,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2-dns-server-open-port-firewall-focused"
+  ]
+}
