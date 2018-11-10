@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "user-logout-sector"
+  ],
+  "area": [
+    {
+      "height": 36,
+      "type": "match",
+      "ypos": 150,
+      "width": 35,
+      "xpos": 731
+    }
+  ]
+}
