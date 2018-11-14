@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "kdialog_places_stuff"
+  ],
+  "area": [
+    {
+      "xpos": 190,
+      "ypos": 107,
+      "height": 150,
+      "type": "match",
+      "width": 108
+    }
+  ]
+}
