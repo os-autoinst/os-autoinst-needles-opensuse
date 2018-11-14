@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 66,
+      "ypos": 183,
+      "xpos": 202,
+      "width": 210
+    },
+    {
+      "ypos": 550,
+      "xpos": 397,
+      "height": 38,
+      "type": "match",
+      "width": 230
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-betawarning"
+  ]
+}
