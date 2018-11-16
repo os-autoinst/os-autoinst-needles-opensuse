@@ -1,0 +1,33 @@
+{
+  "tags": [
+    "ENV-ARCH-ppc64le",
+    "log-console",
+    "root-console"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "width": 14,
+      "height": 14,
+      "type": "match",
+      "ypos": 192,
+      "xpos": 0
+    },
+    {
+      "xpos": 1,
+      "ypos": 98,
+      "width": 159,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 255,
+      "ypos": 130,
+      "width": 59,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}
