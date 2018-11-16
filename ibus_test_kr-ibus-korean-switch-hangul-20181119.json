@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "ibus-korean-switch-hangul"
+  ],
+  "area": [
+    {
+      "xpos": 891,
+      "ypos": 155,
+      "width": 119,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ibus_switch_ch"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 521,
+      "ypos": 322,
+      "width": 122,
+      "height": 123,
+      "type": "match"
+    }
+  ]
+}
