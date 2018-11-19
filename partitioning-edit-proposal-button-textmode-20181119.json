@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 459,
+      "ypos": 673,
+      "width": 106,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 425,
+      "ypos": 691,
+      "width": 166,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "partitioning-edit-proposal-button",
+    "storage-ng"
+  ]
+}

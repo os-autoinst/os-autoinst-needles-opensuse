@@ -1,0 +1,39 @@
+{
+  "tags": [
+    "inst-userpasswdtoosimple",
+    "ENV-VIDEOMODE-text",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 372,
+      "ypos": 338,
+      "width": 266,
+      "height": 34,
+      "type": "match"
+    },
+    {
+      "xpos": 374,
+      "ypos": 383,
+      "width": 206,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 469,
+      "ypos": 419,
+      "width": 33,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 513,
+      "ypos": 417,
+      "width": 28,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}

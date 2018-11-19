@@ -1,0 +1,41 @@
+{
+  "area": [
+    {
+      "xpos": 15,
+      "ypos": 33,
+      "width": 153,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 42,
+      "ypos": 48,
+      "width": 44,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 37,
+      "ypos": 65,
+      "width": 228,
+      "height": 256,
+      "type": "match"
+    },
+    {
+      "xpos": 520,
+      "ypos": 50,
+      "width": 72,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "inst",
+    "after-partitioning",
+    "inst-timezone"
+  ]
+}

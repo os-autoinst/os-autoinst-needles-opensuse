@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "inst-bootloader-settings"
+  ],
+  "area": [
+    {
+      "xpos": 14,
+      "height": 21,
+      "type": "match",
+      "width": 163,
+      "ypos": 29
+    },
+    {
+      "xpos": 28,
+      "ypos": 52,
+      "width": 130,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
