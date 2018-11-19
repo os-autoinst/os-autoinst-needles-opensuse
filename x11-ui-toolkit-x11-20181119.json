@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ui-toolkit-x11"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 144,
+      "ypos": 630,
+      "width": 137,
+      "height": 46,
+      "type": "match"
+    }
+  ]
+}

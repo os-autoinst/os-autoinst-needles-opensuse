@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "ui-toolkit-swing"
+  ],
+  "area": [
+    {
+      "xpos": 381,
+      "ypos": 379,
+      "width": 175,
+      "height": 41,
+      "type": "match"
+    }
+  ]
+}

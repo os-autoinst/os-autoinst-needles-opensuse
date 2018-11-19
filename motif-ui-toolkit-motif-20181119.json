@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "ui-toolkit-motif"
+  ],
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 69,
+      "width": 111,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
