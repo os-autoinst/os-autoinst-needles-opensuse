@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 272,
+      "height": 13,
+      "type": "match",
+      "width": 34
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-OFW-1",
+    "log-console",
+    "root-console"
+  ]
+}
