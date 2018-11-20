@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 20,
+      "xpos": 312,
+      "ypos": 255,
+      "width": 173,
+      "type": "match"
+    },
+    {
+      "xpos": 453,
+      "ypos": 499,
+      "width": 64,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "startinstall"
+  ]
+}
