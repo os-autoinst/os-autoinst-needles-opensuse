@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "on-pattern",
+    "pattern-wayland"
+  ],
+  "area": [
+    {
+      "xpos": 101,
+      "ypos": 205,
+      "width": 188,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
