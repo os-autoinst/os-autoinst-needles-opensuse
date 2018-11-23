@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "akregator-not-closed"
+  ],
+  "area": [
+    {
+      "xpos": 432,
+      "ypos": 9,
+      "width": 153,
+      "height": 43,
+      "type": "match"
+    },
+    {
+      "xpos": 442,
+      "ypos": 181,
+      "width": 206,
+      "height": 74,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
