@@ -20,5 +20,7 @@
       "type": "match"
     }
   ],
-  "properties": []
+  "properties": [
+    "workaround"
+  ]
 }
