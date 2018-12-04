@@ -1,0 +1,20 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 346,
+      "height": 137,
+      "type": "match",
+      "xpos": 217,
+      "ypos": 160
+    }
+  ],
+  "tags": [
+    "CHRISTMAS",
+    "ENV-DESKTOP-kde",
+    "ENV-LIVECD-1",
+    "ENV-VERSION-15.1",
+    "bootloader",
+    "inst-bootmenu"
+  ]
+}
