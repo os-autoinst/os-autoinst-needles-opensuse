@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 226,
+      "ypos": 42,
+      "type": "match",
+      "height": 31,
+      "width": 109
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_lan-hostname-tab"
+  ]
+}
