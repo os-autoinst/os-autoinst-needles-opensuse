@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 1024,
+      "height": 767,
+      "type": "match"
+    },
+    {
+      "xpos": 813,
+      "ypos": 737,
+      "width": 211,
+      "height": 31,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VERSION-15.1",
+    "LXDE",
+    "generic-desktop",
+    "x11"
+  ]
+}
