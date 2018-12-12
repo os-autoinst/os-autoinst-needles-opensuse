@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ui-toolkit-tk"
+  ],
+  "area": [
+    {
+      "ypos": 33,
+      "width": 104,
+      "xpos": 749,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
