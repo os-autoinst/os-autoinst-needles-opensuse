@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 239,
+      "type": "match",
+      "ypos": 277,
+      "width": 225,
+      "xpos": 318
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "inst-betawarning"
+  ]
+}
