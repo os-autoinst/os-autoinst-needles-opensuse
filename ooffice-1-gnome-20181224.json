@@ -3,9 +3,9 @@
     {
       "type": "match",
       "ypos": 64,
-      "width": 509,
       "height": 220,
-      "xpos": 2
+      "xpos": 2,
+      "width": 509
     }
   ],
   "properties": [],
