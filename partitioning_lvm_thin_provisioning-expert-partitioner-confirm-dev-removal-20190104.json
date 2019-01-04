@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 385,
+      "ypos": 448,
+      "width": 174,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "expert-partitioner-confirm-dev-removal"
+  ]
+}
