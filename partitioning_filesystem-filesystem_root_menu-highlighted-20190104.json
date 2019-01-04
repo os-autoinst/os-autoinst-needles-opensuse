@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 544,
+      "height": 53,
+      "width": 160,
+      "type": "match",
+      "ypos": 277
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "filesystem-root-menu-selected"
+  ]
+}
