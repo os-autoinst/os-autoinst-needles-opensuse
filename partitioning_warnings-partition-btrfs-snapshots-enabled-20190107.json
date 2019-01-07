@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 359,
+      "height": 17,
+      "width": 124,
+      "type": "match",
+      "ypos": 353
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partition-btrfs-snapshots-enabled"
+  ]
+}
