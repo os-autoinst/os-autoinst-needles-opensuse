@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 400,
+      "height": 43,
+      "width": 158,
+      "type": "match",
+      "ypos": 240
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "hexchat-join-channel"
+  ]
+}
