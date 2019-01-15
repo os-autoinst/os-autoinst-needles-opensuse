@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 362,
+      "ypos": 135,
+      "width": 577,
+      "xpos": 411
+    }
+  ],
+  "tags": [
+    "acceptedpartitioningraid0efi",
+    "storage-ng"
+  ]
+}
