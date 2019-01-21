@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 238,
+      "xpos": 383,
+      "height": 81,
+      "ypos": 377,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "disabledhome",
+    "inst-partition-radio-buttons"
+  ]
+}
