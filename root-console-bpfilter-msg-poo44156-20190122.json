@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 13,
+      "ypos": 0,
+      "xpos": 16,
+      "width": 71
+    },
+    {
+      "width": 13,
+      "xpos": 0,
+      "ypos": 0,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-OFW-1",
+    "log-console",
+    "root-console"
+  ]
+}
