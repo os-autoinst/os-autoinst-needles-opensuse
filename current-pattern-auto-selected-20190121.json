@@ -15,9 +15,7 @@
       "type": "match"
     }
   ],
-  "properties": [
-    "workaround"
-  ],
+  "properties": [],
   "tags": [
     "current-pattern-selected"
   ]
