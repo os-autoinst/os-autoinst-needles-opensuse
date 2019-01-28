@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 389,
+      "ypos": 317,
+      "width": 152,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_rmt_ssl_add_name"
+  ]
+}
