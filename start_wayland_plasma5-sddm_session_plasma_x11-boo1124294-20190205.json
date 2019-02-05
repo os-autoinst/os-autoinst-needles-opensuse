@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 146,
+      "ypos": 709,
+      "width": 86,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "sddm_session_plasma_x11"
+  ]
+}
