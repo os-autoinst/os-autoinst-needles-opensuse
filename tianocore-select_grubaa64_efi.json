@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 23,
+      "ypos": 172,
+      "width": 98,
+      "height": 21
+      
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-select_grubaa64_efi"
+  ]
+}
