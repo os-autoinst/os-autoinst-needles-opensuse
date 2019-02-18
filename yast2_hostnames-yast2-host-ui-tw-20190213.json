@@ -3,14 +3,12 @@
     {
       "xpos": 119,
       "ypos": 105,
-      "width": 523,
-      "height": 91,
+      "width": 203,
+      "height": 95,
       "type": "match"
     }
   ],
-  "properties": [
-    "workaround"
-  ],
+  "properties": [],
   "tags": [
     "yast2-host-ui"
   ]
