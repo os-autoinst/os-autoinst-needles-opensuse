@@ -1,24 +1,24 @@
 {
   "area": [
     {
-      "width": 548,
       "xpos": 476,
+      "width": 548,
       "height": 121,
       "type": "match",
       "ypos": 599
     },
     {
-      "type": "match",
-      "ypos": 0,
       "xpos": 22,
       "width": 574,
-      "height": 315
+      "height": 315,
+      "type": "match",
+      "ypos": 0
     },
     {
       "type": "exclude",
       "ypos": 170,
-      "xpos": 528,
       "width": 25,
+      "xpos": 528,
       "height": 26
     }
   ],
@@ -27,7 +27,7 @@
     "ENV-BETA-1",
     "ENV-DISTRI-opensuse",
     "ENV-VERSION-Tumbleweed",
-    "bootloader-grub2",
-    "grub2"
+    "bootloader",
+    "bootloader-grub2"
   ]
 }
