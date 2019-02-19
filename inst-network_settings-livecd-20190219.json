@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 9,
+      "type": "match",
+      "height": 74,
+      "width": 257,
+      "xpos": 10
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LIVECD-1",
+    "inst-network_settings-livecd"
+  ]
+}
