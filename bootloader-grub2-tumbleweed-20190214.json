@@ -8,27 +8,26 @@
       "ypos": 599
     },
     {
-      "height": 315,
+      "type": "match",
+      "ypos": 0,
       "xpos": 22,
       "width": 574,
-      "ypos": 0,
-      "type": "match"
+      "height": 315
     },
     {
-      "xpos": 528,
+      "type": "exclude",
       "ypos": 170,
+      "xpos": 528,
       "width": 25,
-      "height": 26,
-      "type": "exclude"
+      "height": 26
     }
   ],
   "properties": [],
   "tags": [
-    " inst-bootmenu-boot-harddisk",
     "ENV-BETA-1",
     "ENV-DISTRI-opensuse",
     "ENV-VERSION-Tumbleweed",
     "bootloader-grub2",
-    "inst-bootmenu"
+    "grub2"
   ]
 }
