@@ -18,6 +18,13 @@
       "type": "match",
       "ypos": 94,
       "xpos": 241
+    },
+    {
+      "xpos": 849,
+      "ypos": 43,
+      "width": 111,
+      "height": 15,
+      "type": "match"
     }
   ]
 }

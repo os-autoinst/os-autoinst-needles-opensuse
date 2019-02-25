@@ -13,6 +13,13 @@
       "ypos": 85,
       "xpos": 420,
       "height": 20
+    },
+    {
+      "xpos": 721,
+      "ypos": 732,
+      "width": 111,
+      "height": 25,
+      "type": "match"
     }
   ],
   "tags": [
