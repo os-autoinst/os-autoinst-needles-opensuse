@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 407,
+      "ypos": 31,
+      "width": 204,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 207,
+      "ypos": 194,
+      "width": 616,
+      "height": 107,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_overview-empty"
+  ]
+}

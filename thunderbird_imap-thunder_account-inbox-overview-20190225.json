@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 410,
+      "ypos": 35,
+      "width": 205,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 202,
+      "ypos": 166,
+      "width": 635,
+      "height": 61,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunder_account-inbox-overview"
+  ]
+}

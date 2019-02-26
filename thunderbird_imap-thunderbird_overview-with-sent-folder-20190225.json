@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 411,
+      "ypos": 34,
+      "width": 201,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 32,
+      "ypos": 169,
+      "width": 73,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_overview-with-sent-folder"
+  ]
+}

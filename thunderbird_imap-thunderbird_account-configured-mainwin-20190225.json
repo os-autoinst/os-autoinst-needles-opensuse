@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 205,
+      "ypos": 134,
+      "width": 175,
+      "height": 42,
+      "type": "match"
+    },
+    {
+      "xpos": 225,
+      "ypos": 210,
+      "width": 110,
+      "height": 31,
+      "type": "match"
+    },
+    {
+      "xpos": 540,
+      "ypos": 31,
+      "width": 141,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 2,
+      "ypos": 126,
+      "width": 174,
+      "height": 44,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_account-configured-mainwin"
+  ]
+}
