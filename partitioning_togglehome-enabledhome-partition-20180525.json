@@ -1,7 +1,7 @@
 {
   "tags": [
     "ENV-DISTRI-opensuse",
-    "enabledhome"
+    "checked_separate_home_checkbox"
   ],
   "area": [
     {

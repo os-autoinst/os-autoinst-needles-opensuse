@@ -2,7 +2,7 @@
   "tags": [
     "ENV-DESKTOP-textmode",
     "ENV-DISTRI-opensuse",
-    "disabledhome"
+    "unchecked_separate_home_checkbox"
   ],
   "area": [
     {
