@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "width": 175,
+      "type": "match",
+      "height": 61,
+      "xpos": 266,
+      "ypos": 165
+    },
+    {
+      "width": 445,
+      "type": "match",
+      "height": 35,
+      "xpos": 259,
+      "ypos": 9
+    },
+    {
+      "xpos": 958,
+      "ypos": 735,
+      "height": 19,
+      "width": 41,
+      "type": "match"
+    },
+    {
+      "ypos": 54,
+      "xpos": 271,
+      "type": "match",
+      "width": 130,
+      "height": 60
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-welcome",
+    "installation",
+    "languagepicked"
+  ]
+}
