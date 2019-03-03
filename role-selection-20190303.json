@@ -1,0 +1,59 @@
+{
+  "area": [
+    {
+      "xpos": 287,
+      "ypos": 214,
+      "width": 137,
+      "type": "match",
+      "height": 20
+    },
+    {
+      "ypos": 342,
+      "xpos": 288,
+      "type": "match",
+      "width": 70,
+      "height": 24
+    },
+    {
+      "height": 19,
+      "type": "match",
+      "width": 151,
+      "ypos": 400,
+      "xpos": 286
+    },
+    {
+      "width": 165,
+      "type": "match",
+      "height": 21,
+      "xpos": 286,
+      "ypos": 139
+    },
+    {
+      "height": 27,
+      "width": 127,
+      "type": "match",
+      "xpos": 259,
+      "ypos": 18
+    },
+    {
+      "ypos": 52,
+      "xpos": 264,
+      "type": "match",
+      "width": 374,
+      "height": 37
+    },
+    {
+      "width": 116,
+      "type": "match",
+      "height": 21,
+      "xpos": 288,
+      "ypos": 287
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "before-role-selection",
+    "desktop-selection",
+    "installation"
+  ]
+}
