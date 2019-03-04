@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 73,
+      "xpos": 372,
+      "type": "match",
+      "width": 51,
+      "height": 19
+    },
+    {
+      "type": "match",
+      "width": 323,
+      "height": 29,
+      "ypos": 130,
+      "xpos": 115
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-sw_single-ui"
+  ]
+}
