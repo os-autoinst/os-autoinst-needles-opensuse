@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 85,
+      "ypos": 424,
+      "height": 49,
+      "xpos": 320
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partition-selected-raid-type"
+  ]
+}
