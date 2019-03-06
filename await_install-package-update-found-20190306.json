@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 261,
+      "ypos": 302,
+      "width": 396,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 452,
+      "ypos": 458,
+      "width": 46,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "package-update-found"
+  ]
+}
