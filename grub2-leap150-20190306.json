@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 21,
+      "ypos": 7,
+      "width": 344,
+      "height": 244,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "bootloader-grub2-leap150"
+  ]
+}
