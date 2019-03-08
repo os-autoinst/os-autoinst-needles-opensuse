@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 561,
+      "xpos": 63,
+      "height": 23,
+      "type": "match",
+      "width": 168
+    }
+  ],
+  "properties": [],
+  "tags": [
+    " ENV-VERSION-15.1",
+    "ENV-DISTRI-opensuse",
+    "inst-video-typed"
+  ]
+}
