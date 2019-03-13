@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "height": 373,
+      "xpos": 0,
+      "width": 632,
+      "ypos": 0,
+      "type": "match"
+    },
+    {
+      "height": 33,
+      "xpos": 374,
+      "width": 47,
+      "ypos": 166,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-kubic",
+    "ENV-VERSION-Tumbleweed",
+    "bootloader-grub2",
+    "inst-bootmenu"
+  ]
+}
