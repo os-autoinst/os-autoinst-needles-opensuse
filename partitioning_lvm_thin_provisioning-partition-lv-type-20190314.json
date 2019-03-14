@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 11,
+      "type": "match",
+      "xpos": 6,
+      "height": 39,
+      "width": 329
+    },
+    {
+      "height": 17,
+      "xpos": 416,
+      "width": 94,
+      "ypos": 269,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partition-lv-type"
+  ]
+}
