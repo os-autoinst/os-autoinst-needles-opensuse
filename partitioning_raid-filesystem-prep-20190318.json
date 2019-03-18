@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 127,
+      "xpos": 328,
+      "height": 26,
+      "ypos": 447,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "filesystem-prep"
+  ]
+}
