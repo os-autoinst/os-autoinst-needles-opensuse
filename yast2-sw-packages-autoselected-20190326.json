@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "width": 677,
+      "xpos": 111,
+      "height": 76,
+      "type": "match",
+      "ypos": 76
+    },
+    {
+      "xpos": 109,
+      "ypos": 150,
+      "width": 71,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 232,
+      "ypos": 150,
+      "width": 85,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 462,
+      "ypos": 151,
+      "width": 105,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 664,
+      "ypos": 152,
+      "width": 157,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-sw-packages-autoselected"
+  ]
+}
