@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 166,
+      "height": 55,
+      "xpos": 9,
+      "ypos": 55,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-sw_install-locate-filter"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 21,
+      "xpos": 84,
+      "height": 252,
+      "ypos": 118,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning_raid-hard_disks-unfolded"
+  ]
+}

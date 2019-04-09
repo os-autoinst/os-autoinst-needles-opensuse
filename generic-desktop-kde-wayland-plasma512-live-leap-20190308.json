@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "height": 113,
+      "width": 448,
+      "type": "match",
+      "xpos": 4,
+      "ypos": 5
+    },
+    {
+      "height": 34,
+      "width": 65,
+      "type": "match",
+      "xpos": 1,
+      "ypos": 734
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-LIVECD-1",
+    "ENV-VERSION-15.0",
+    "ENV-WAYLAND-1",
+    "generic-desktop",
+    "x11"
+  ]
+}
