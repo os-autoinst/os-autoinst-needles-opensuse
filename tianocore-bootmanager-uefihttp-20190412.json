@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "tianocore-bootmanager-uefihttp"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 21,
+      "ypos": 285,
+      "width": 78,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}
