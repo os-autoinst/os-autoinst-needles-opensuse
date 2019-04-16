@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 275,
+      "width": 192,
+      "ypos": 131,
+      "height": 16
+    },
+    {
+      "xpos": 275,
+      "ypos": 167,
+      "width": 163,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "update-repos-selected"
+  ]
+}

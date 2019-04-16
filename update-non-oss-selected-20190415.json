@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 275,
+      "type": "match",
+      "width": 193,
+      "ypos": 131,
+      "height": 17
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "update-non-oss-selected"
+  ]
+}
