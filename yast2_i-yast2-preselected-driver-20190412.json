@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "height": 55,
+      "xpos": 8,
+      "type": "match",
+      "ypos": 53,
+      "width": 167,
+      "match": 90
+    },
+    {
+      "ypos": 369,
+      "type": "match",
+      "xpos": 4,
+      "height": 377,
+      "width": 80,
+      "match": 92
+    },
+    {
+      "ypos": 0,
+      "type": "match",
+      "height": 105,
+      "xpos": 3,
+      "width": 68,
+      "match": 92
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-preselected-driver"
+  ]
+}
