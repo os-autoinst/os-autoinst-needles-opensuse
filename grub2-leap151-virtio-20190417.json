@@ -11,6 +11,7 @@
   "properties": [],
   "tags": [
     "ENV-QEMUVGA-virtio",
+    "ENV-VERSION-15.1",
     "autoyast-boot",
     "bootloader",
     "grub2"
