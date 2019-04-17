@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 63,
+      "xpos": 1,
+      "height": 26,
+      "type": "match",
+      "ypos": 109
+    },
+    {
+      "width": 176,
+      "xpos": 0,
+      "height": 16,
+      "ypos": 0,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "qemu-uefi-shell"
+  ]
+}
