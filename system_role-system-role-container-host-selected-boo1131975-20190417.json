@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 181,
+      "type": "match",
+      "height": 18,
+      "xpos": 355,
+      "width": 157
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "system-role-container-host-selected"
+  ]
+}
