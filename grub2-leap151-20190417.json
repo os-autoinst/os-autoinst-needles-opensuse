@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "width": 431,
+      "height": 342,
+      "xpos": 0,
+      "ypos": 0,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-15.1",
+    "autoyast-boot",
+    "bootloader",
+    "grub2"
+  ]
+}
