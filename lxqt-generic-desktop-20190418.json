@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "height": 766,
+      "width": 1021,
+      "type": "match",
+      "ypos": 2
+    },
+    {
+      "type": "exclude",
+      "ypos": 733,
+      "width": 158,
+      "height": 34,
+      "xpos": 832
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxqt",
+    "x11",
+    "generic-desktop"
+  ]
+}
