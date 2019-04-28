@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 34,
+      "type": "match",
+      "height": 27,
+      "xpos": 32,
+      "width": 71
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-awesome",
+    "test-awesome-menu-1"
+  ]
+}
