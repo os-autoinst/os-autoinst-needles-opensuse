@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 375,
+      "ypos": 370,
+      "width": 156,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "home_dir_popup__checking"
+  ]
+}

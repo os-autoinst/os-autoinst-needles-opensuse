@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 394,
+      "ypos": 262,
+      "width": 100,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "new_user_has_been_created"
+  ]
+}
