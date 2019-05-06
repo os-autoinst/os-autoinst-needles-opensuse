@@ -10,6 +10,6 @@
     }
   ],
   "tags": [
-    "gpg-incorrect-passphrase"
+    "gpg-passphrase-insecure"
   ]
 }
