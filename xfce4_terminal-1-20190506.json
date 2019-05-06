@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 43,
+      "xpos": 2,
+      "width": 773,
+      "type": "match",
+      "ypos": 364
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "xfce4-terminal",
+    "test-xfce4_terminal-1"
+  ]
+}
