@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 294,
+      "xpos": 354,
+      "height": 222,
+      "width": 328
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "Policykit",
+    "ENV-DESKTOP-lxde"
+  ]
+}
