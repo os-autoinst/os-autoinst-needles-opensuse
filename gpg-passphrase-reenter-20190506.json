@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 301,
+      "ypos": 334,
+      "width": 253,
+      "height": 18,
+      "type": "match",
+      "match": 75,
+      "margin": 150
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gpg-passphrase-reenter"
+  ]
+}
