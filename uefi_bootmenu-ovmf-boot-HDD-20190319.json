@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 158,
+      "xpos": 14,
+      "height": 16,
+      "type": "match",
+      "ypos": 232
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-UEFI-1",
+    "ovmf-boot-HDD"
+  ]
+}
