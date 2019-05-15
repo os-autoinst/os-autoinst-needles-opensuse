@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 659,
+      "ypos": 451,
+      "width": 75,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "quit-and-close-tabs"
+  ]
+}
