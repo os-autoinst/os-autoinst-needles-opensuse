@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 350,
+      "ypos": 307,
+      "width": 44,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_storage_ng-btrfs"
+  ]
+}
