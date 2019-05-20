@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "width": 953,
+      "xpos": 43,
+      "height": 458,
+      "type": "match",
+      "ypos": 146
+    },
+    {
+      "width": 15,
+      "height": 59,
+      "xpos": 428,
+      "type": "match",
+      "ypos": 81,
+      "match": 90
+    },
+    {
+      "height": 53,
+      "xpos": 580,
+      "width": 50,
+      "type": "match",
+      "ypos": 84,
+      "match": 90
+    },
+    {
+      "ypos": 147,
+      "type": "exclude",
+      "width": 558,
+      "xpos": 229,
+      "height": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-FLAVOR-Argon-Live",
+    "screenlock"
+  ]
+}
