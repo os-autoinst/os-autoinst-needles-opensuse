@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "width": 1021,
+      "xpos": 0,
+      "height": 192,
+      "type": "match",
+      "ypos": 0
+    },
+    {
+      "ypos": 733,
+      "type": "match",
+      "width": 65,
+      "height": 34,
+      "xpos": 2
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-Argon-Live",
+    "ENV-INSTLANG-en_US",
+    "ENV-VERSION-15.0",
+    "generic-desktop",
+    "x11"
+  ]
+}
