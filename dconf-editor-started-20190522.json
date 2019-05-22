@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 4,
+      "width": 131,
+      "type": "match",
+      "height": 20,
+      "xpos": 93
+    },
+    {
+      "width": 505,
+      "ypos": 223,
+      "type": "match",
+      "height": 178,
+      "xpos": 200
+    },
+    {
+      "xpos": 54,
+      "width": 104,
+      "ypos": 75,
+      "type": "match",
+      "height": 275
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-dconf-editor-started"
+  ]
+}
