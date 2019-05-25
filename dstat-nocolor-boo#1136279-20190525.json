@@ -15,7 +15,9 @@
       "width": 35
     }
   ],
-  "properties": [],
+  "properties": [
+    "workaround"
+  ],
   "tags": [
     "dstat-nocolor"
   ]
