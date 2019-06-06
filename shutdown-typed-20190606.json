@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 318,
+      "ypos": 10,
+      "width": 175,
+      "height": 88,
+      "type": "match",
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "shutdown-typed"
+  ]
+}
