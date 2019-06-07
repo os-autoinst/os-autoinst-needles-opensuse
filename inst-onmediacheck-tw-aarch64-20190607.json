@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 34,
+      "type": "match",
+      "ypos": 598,
+      "xpos": 513,
+      "width": 287
+    },
+    {
+      "type": "match",
+      "height": 39,
+      "ypos": 277,
+      "xpos": 90,
+      "width": 108
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-15.0",
+    "inst-onmediacheck"
+  ]
+}
