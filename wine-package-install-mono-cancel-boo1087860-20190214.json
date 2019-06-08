@@ -2,20 +2,22 @@
   "area": [
     {
       "width": 131,
-      "xpos": 446,
       "height": 11,
       "type": "match",
+      "xpos": 446,
       "ypos": 306
     },
     {
-      "ypos": 458,
-      "type": "match",
       "height": 16,
       "width": 42,
-      "xpos": 551
+      "type": "match",
+      "xpos": 551,
+      "ypos": 458
     }
   ],
-  "properties": [],
+  "properties": [
+    "workaround"
+  ],
   "tags": [
     "wine-package-install-mono-cancel"
   ]
