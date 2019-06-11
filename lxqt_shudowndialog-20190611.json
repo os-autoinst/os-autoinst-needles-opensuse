@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 286,
+      "ypos": 339,
+      "width": 467,
+      "height": 87,
+      "type": "match",
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "lxqt_shutdowndialog"
+  ]
+}
