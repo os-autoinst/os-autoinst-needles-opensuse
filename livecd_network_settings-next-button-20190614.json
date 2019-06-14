@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 70,
+      "xpos": 945,
+      "ypos": 725,
+      "height": 31
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "next-button"
+  ]
+}
