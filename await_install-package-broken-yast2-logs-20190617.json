@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 313,
+      "ypos": 313,
+      "width": 323,
+      "height": 136,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "package-broken"
+  ]
+}
