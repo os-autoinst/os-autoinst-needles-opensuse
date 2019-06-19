@@ -8,9 +8,7 @@
       "type": "match"
     }
   ],
-  "properties": [
-    "workaround"
-  ],
+  "properties": [],
   "tags": [
     "package-broken"
   ]
