@@ -9,10 +9,10 @@
     },
     {
       "type": "exclude",
-      "ypos": 220,
-      "width": 389,
-      "height": 25,
-      "xpos": 170
+      "ypos": 191,
+      "width": 168,
+      "height": 18,
+      "xpos": 289
     }
   ],
   "properties": [],
