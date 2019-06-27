@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 204,
+      "ypos": 79,
+      "width": 85,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "dconf-search-bar"
+  ]
+}
