@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 124,
+      "ypos": 132,
+      "width": 18,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 118,
+      "ypos": 8,
+      "width": 78,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dconf-editor"
+  ]
+}
