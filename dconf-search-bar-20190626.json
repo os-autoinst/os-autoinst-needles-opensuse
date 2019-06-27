@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 118,
+      "ypos": 122,
+      "width": 67,
+      "height": 38,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dconf-search-bar"
+  ]
+}
