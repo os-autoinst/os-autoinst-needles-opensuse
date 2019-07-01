@@ -26,6 +26,7 @@
     "workaround"
   ],
   "tags": [
+    "xorg-tty",
     "xorg-tty7"
   ]
 }
