@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 256,
+      "type": "match",
+      "width": 203,
+      "height": 137,
+      "xpos": 538
+    }
+  ],
+  "properties": [
+    "workaround",
+    "workaround"
+  ],
+  "tags": [
+    "test-oomath-1",
+    "ENV-INSTLANG-en_US"
+  ]
+}
