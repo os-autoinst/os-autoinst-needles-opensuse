@@ -1,0 +1,14 @@
+{
+    "area": [
+        {
+            "height": 18,
+            "type": "match",
+            "width": 98,
+            "xpos": 345,
+            "ypos": 315
+        }
+    ],
+    "tags": [
+        "grub-prompt-extra_cmdline"
+    ]
+}
