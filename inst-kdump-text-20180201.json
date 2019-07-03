@@ -2,14 +2,15 @@
   "area": [
     {
       "type": "match",
-      "width": 106,
+      "width": 116,
       "height": 18,
-      "ypos": 260,
-      "xpos": 358
+      "ypos": 30,
+      "xpos": 310
     }
   ],
   "properties": [],
   "tags": [
-    "system-role-kubeadm-selected"
+    "ENV-VIDEOMODE-text",
+    "inst-kdump"
   ]
 }

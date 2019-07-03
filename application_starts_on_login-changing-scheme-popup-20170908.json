@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 174,
+      "ypos": 83,
+      "width": 264,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "changing-scheme-popup"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-VERSION-42.1",
+    "desktop-runner-border"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 704,
+      "height": 23,
+      "ypos": 9,
+      "width": 64
+    }
+  ]
+}

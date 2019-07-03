@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 31,
+      "ypos": 83,
+      "height": 106,
+      "type": "match",
+      "xpos": 17
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-opensuse",
+    "online-repos-disabled"
+  ]
+}

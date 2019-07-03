@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 80,
+      "width": 35,
+      "height": 144,
+      "xpos": 15
+    }
+  ],
+  "tags": [
+    "online-repos-disabled"
+  ],
+  "properties": []
+}

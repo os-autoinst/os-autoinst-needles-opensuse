@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "main-update-repo-disabled"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 148,
+      "ypos": 183,
+      "xpos": 357,
+      "height": 12
+    }
+  ]
+}

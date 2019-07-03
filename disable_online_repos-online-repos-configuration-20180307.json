@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "online-repos-configuration"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 9,
+      "height": 84,
+      "width": 193,
+      "ypos": 82,
+      "type": "match"
+    },
+    {
+      "height": 22,
+      "xpos": 949,
+      "ypos": 730,
+      "width": 53,
+      "type": "match"
+    }
+  ]
+}

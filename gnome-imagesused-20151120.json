@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "gnome-imagesused",
+    "ENV-DESKTOP-gnome"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 378,
+      "ypos": 470,
+      "height": 32,
+      "width": 191
+    }
+  ]
+}
