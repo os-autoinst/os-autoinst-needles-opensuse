@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 472,
+      "ypos": 57,
+      "width": 80,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "cura-save"
+  ]
+}

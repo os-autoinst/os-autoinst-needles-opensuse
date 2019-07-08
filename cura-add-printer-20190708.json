@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 934,
+      "ypos": 669,
+      "width": 77,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "cura-add-printer"
+  ]
+}

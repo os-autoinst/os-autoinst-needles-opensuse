@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 560,
+      "ypos": 110,
+      "width": 91,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "cura-openfiles"
+  ]
+}

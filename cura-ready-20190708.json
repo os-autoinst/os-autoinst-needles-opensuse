@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 815,
+      "ypos": 735,
+      "width": 182,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "cura-ready"
+  ]
+}
