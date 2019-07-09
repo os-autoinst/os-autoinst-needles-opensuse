@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "height": 25,
+      "type": "match",
+      "width": 286,
+      "ypos": 213,
+      "xpos": 97
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LIVECD-1",
+    "ENV-VERSION-Tumbleweed",
+    "bootloader",
+    "inst-bootmenu"
+  ]
+}
