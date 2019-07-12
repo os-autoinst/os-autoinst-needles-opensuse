@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 213,
+      "width": 172,
+      "type": "match",
+      "xpos": 93,
+      "height": 33
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-FLAVOR-Krypton-Live",
+    "ENV-LIVECD-1",
+    "boot-live-kde",
+    "bootloader-grub2"
+  ]
+}
