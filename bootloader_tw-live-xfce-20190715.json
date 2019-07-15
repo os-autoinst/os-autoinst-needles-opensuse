@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 213,
+      "width": 260,
+      "xpos": 95,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-Tumbleweed",
+    "boot-live-xfce",
+    "bootloader",
+    "bootloader-grub2"
+  ]
+}
