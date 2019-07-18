@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 22,
+      "width": 55,
+      "xpos": 278,
+      "ypos": 413
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "kexec_opt_realmode"
+  ]
+}
