@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 12,
+      "ypos": 95,
+      "width": 365,
+      "height": 69
+    },
+    {
+      "height": 19,
+      "width": 33,
+      "ypos": 169,
+      "type": "match",
+      "xpos": 320
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-client-target-connected-fs"
+  ]
+}
