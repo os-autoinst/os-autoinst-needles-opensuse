@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 220,
+      "width": 200,
+      "ypos": 64,
+      "xpos": 3
+    },
+    {
+      "xpos": 218,
+      "ypos": 258,
+      "width": 68,
+      "height": 283,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ooffice",
+    "ooffice-tip-of-the-day",
+    "oowriter",
+    "test-ooffice-1"
+  ]
+}
