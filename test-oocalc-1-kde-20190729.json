@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "width": 189,
+      "ypos": 0,
+      "xpos": 0,
+      "type": "match",
+      "height": 253
+    },
+    {
+      "xpos": 265,
+      "ypos": 280,
+      "width": 77,
+      "height": 240,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "oocalc",
+    "oocalc-first-run",
+    "ooffice-tip-of-the-day",
+    "test-oocalc-1"
+  ]
+}
