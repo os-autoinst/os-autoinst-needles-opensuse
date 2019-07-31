@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 411,
+      "ypos": 285,
+      "type": "match",
+      "width": 248,
+      "height": 33
+    },
+    {
+      "xpos": 597,
+      "ypos": 346,
+      "width": 45,
+      "height": 17,
+      "type": "match",
+      "click_point": {
+        "xpos": 22.5,
+        "ypos": 8.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "authorization_failed_ok_btn"
+  ]
+}
