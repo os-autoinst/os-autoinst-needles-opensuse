@@ -1,32 +1,32 @@
 {
   "area": [
     {
-      "width": 184,
-      "xpos": 10,
       "type": "match",
       "height": 212,
+      "width": 184,
+      "xpos": 10,
       "ypos": 93
     },
     {
-      "xpos": 217,
-      "ypos": 330,
+      "xpos": 241,
       "width": 52,
-      "height": 142,
-      "type": "match"
+      "ypos": 330,
+      "type": "match",
+      "height": 142
     },
     {
-      "xpos": 204,
-      "ypos": 508,
-      "width": 175,
       "height": 30,
-      "type": "match"
+      "type": "match",
+      "ypos": 477,
+      "width": 175,
+      "xpos": 228
     }
   ],
   "properties": [],
   "tags": [
-    " ooffice-tip-of-the-day",
     "ENV-DESKTOP-gnome",
     "oocalc",
+    "ooffice-tip-of-the-day",
     "test-oocalc-1"
   ]
 }
