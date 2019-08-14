@@ -1,0 +1,15 @@
+{
+    "properties": [],
+    "area": [
+        {
+            "height": 12,
+            "width": 147,
+            "xpos": 26,
+            "ypos": 114,
+            "type": "match"
+        }
+    ],
+    "tags": [
+        "dynamic-address-selected"
+    ]
+}
