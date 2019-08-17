@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "ypos": 0,
+      "type": "match",
+      "height": 182,
+      "width": 347,
+      "xpos": 0
+    },
+    {
+      "xpos": 2,
+      "ypos": 733,
+      "height": 34,
+      "type": "match",
+      "width": 65
+    },
+    {
+      "type": "match",
+      "height": 16,
+      "width": 112,
+      "ypos": 599,
+      "xpos": 644,
+      "click_point": {
+        "xpos": 56,
+        "ypos": 8
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "generic-desktop",
+    "openSUSE-welcome",
+    "x11"
+  ]
+}
