@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 123,
+      "ypos": 100,
+      "width": 780,
+      "height": 529,
+      "type": "match"
+    },
+    {
+      "xpos": 140,
+      "ypos": 139,
+      "width": 363,
+      "height": 29,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "opensuse-welcome"
+  ]
+}
