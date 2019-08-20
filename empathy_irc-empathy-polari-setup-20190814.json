@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 225,
+      "ypos": 122,
+      "width": 343,
+      "height": 103,
+      "type": "match"
+    },
+    {
+      "xpos": 343,
+      "ypos": 38,
+      "width": 110,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "empathy-polari-setup"
+  ]
+}

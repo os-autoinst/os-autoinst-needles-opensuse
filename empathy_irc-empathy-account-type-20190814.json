@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 803,
+      "ypos": 197,
+      "width": 104,
+      "height": 38,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "empathy-account-type"
+  ]
+}

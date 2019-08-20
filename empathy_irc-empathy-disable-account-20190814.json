@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 937,
+      "ypos": 128,
+      "width": 63,
+      "height": 43,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "empathy-disable-account"
+  ]
+}

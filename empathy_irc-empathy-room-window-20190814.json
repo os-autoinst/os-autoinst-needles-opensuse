@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 4,
+      "ypos": 109,
+      "width": 80,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 463,
+      "ypos": 40,
+      "width": 71,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "empathy-room-window"
+  ]
+}

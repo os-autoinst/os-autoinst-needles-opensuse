@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 621,
+      "ypos": 163,
+      "width": 158,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "empathy-irc-network-choose"
+  ]
+}

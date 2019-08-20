@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 185,
+      "ypos": 260,
+      "width": 290,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_wizard-receiving-opts"
+  ]
+}

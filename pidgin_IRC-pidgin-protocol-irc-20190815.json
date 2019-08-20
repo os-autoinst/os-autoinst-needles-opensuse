@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 512,
+      "ypos": 401,
+      "width": 94,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pidgin-protocol-irc"
+  ]
+}

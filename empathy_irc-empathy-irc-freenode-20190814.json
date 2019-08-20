@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 500,
+      "ypos": 201,
+      "width": 74,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "empathy-irc-freenode"
+  ]
+}
