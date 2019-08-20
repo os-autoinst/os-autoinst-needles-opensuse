@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 4,
+      "ypos": 390,
+      "width": 259,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-menu-quit"
+  ]
+}
