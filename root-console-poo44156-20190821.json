@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "ypos": 19,
+      "type": "match",
+      "xpos": 1,
+      "width": 32,
+      "height": 13
+    },
+    {
+      "ypos": 0,
+      "width": 13,
+      "height": 16,
+      "type": "match",
+      "xpos": 0
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "poo44156"
+    }
+  ],
+  "tags": [
+    "root-console"
+  ]
+}
