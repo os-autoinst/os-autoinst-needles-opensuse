@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 26,
+      "ypos": 225,
+      "width": 173,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-gnome"
+  ]
+}
