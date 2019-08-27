@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 130,
+      "ypos": 104,
+      "width": 89,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-pdf-page"
+  ]
+}
