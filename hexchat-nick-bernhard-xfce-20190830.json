@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 37,
+      "type": "match",
+      "ypos": 179,
+      "width": 85,
+      "xpos": 433
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "hexchat-nick-bernhard"
+  ]
+}
