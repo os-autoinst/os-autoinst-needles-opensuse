@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "width": 260,
+      "ypos": 213,
+      "height": 28,
+      "xpos": 96,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-15.2",
+    "boot-live-kde",
+    "bootloader-grub2"
+  ]
+}
