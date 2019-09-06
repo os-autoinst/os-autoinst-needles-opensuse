@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 272,
+      "ypos": 10,
+      "width": 222,
+      "height": 242,
+      "type": "match"
+    },
+    {
+      "xpos": 17,
+      "ypos": 13,
+      "width": 476,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub2-cancelled-timeout"
+  ]
+}
