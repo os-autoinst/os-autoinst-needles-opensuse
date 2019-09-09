@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 0,
+      "xpos": 0,
+      "height": 215,
+      "width": 50
+    },
+    {
+      "xpos": 2,
+      "ypos": 0,
+      "width": 257,
+      "height": 31,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 654,
+      "width": 42,
+      "height": 111,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-first-boot"
+  ]
+}
