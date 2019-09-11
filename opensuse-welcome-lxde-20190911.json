@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 515,
+      "xpos": 123,
+      "width": 780,
+      "ypos": 114,
+      "type": "match"
+    },
+    {
+      "xpos": 140,
+      "height": 29,
+      "ypos": 139,
+      "type": "exclude",
+      "width": 363
+    },
+    {
+      "height": 42,
+      "xpos": 132,
+      "width": 769,
+      "ypos": 529,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "opensuse-welcome"
+  ]
+}
