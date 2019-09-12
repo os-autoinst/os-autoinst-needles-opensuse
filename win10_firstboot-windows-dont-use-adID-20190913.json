@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 180,
+      "ypos": 403,
+      "height": 59,
+      "width": 415
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-dont-use-adID"
+  ]
+}
