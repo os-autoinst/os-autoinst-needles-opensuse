@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 703,
+      "xpos": 50,
+      "height": 113,
+      "ypos": 69
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-enable-more-devices"
+  ]
+}

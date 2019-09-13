@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 34,
+      "ypos": 426,
+      "type": "match",
+      "xpos": 172,
+      "width": 416
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-dont-use-speech-recognition"
+  ]
+}
