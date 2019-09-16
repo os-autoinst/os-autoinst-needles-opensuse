@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 286,
+      "width": 133,
+      "xpos": 470,
+      "height": 30
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nautilus-registered-user-login"
+  ]
+}
