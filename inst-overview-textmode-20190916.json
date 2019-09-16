@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "height": 35,
+      "xpos": 28,
+      "ypos": 303,
+      "width": 278,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-Tumbleweed",
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ]
+}
