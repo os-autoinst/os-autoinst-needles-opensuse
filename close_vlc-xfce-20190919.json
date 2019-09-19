@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 6,
+      "type": "match",
+      "xpos": 185,
+      "width": 157,
+      "height": 19
+    },
+    {
+      "ypos": 5,
+      "xpos": 579,
+      "type": "match",
+      "width": 17,
+      "height": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "close_vlc"
+  ]
+}
