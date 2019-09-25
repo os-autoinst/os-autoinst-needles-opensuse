@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 159,
+      "xpos": 278,
+      "ypos": 225,
+      "type": "match",
+      "width": 285
+    },
+    {
+      "ypos": 538,
+      "type": "match",
+      "xpos": 737,
+      "height": 44,
+      "width": 54
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-screensaver"
+  ]
+}
