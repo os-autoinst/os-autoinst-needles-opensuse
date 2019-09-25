@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 274,
+      "ypos": 84,
+      "width": 72,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_wizard-sending-smtp"
+  ]
+}

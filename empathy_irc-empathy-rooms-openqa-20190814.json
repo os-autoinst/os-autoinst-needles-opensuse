@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 144,
+      "ypos": 211,
+      "width": 67,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "empathy-rooms-openqa"
+  ]
+}

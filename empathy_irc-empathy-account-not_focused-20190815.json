@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 405,
+      "ypos": 119,
+      "width": 209,
+      "height": 24,
+      "type": "match",
+      "click_point": {
+        "xpos": 104.5,
+        "ypos": 12
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "empathy-account-not_focused"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 321,
+      "ypos": 118,
+      "width": 74,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 728,
+      "ypos": 149,
+      "width": 90,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "empathy-irc-account-added"
+  ]
+}

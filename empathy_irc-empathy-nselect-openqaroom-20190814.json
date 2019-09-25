@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 8,
+      "ypos": 108,
+      "width": 65,
+      "height": 25,
+      "type": "match",
+      "click_point": {
+        "xpos": 32.5,
+        "ypos": 12.5
+      }
+    },
+    {
+      "xpos": 470,
+      "ypos": 36,
+      "width": 62,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "empathy-nselect-openqaroom"
+  ]
+}

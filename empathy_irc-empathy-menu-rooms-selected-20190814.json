@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "click_point": {
+        "ypos": 14,
+        "xpos": 51
+      },
+      "height": 28,
+      "ypos": 196,
+      "width": 102,
+      "xpos": 141,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "empathy-menu-rooms"
+  ]
+}
