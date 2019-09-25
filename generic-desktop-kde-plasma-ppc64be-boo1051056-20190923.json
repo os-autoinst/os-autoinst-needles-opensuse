@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 192,
+      "width": 350,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 0
+    },
+    {
+      "ypos": 734,
+      "xpos": 0,
+      "width": 65,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1051056 wrong purple icon color"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-ppc64",
+    "ENV-DESKTOP-kde",
+    "generic-desktop",
+    "x11"
+  ]
+}
