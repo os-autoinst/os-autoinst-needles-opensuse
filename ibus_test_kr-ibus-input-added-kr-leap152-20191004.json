@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 498,
+      "height": 40,
+      "type": "match",
+      "width": 508,
+      "xpos": 379
+    },
+    {
+      "width": 99,
+      "xpos": 367,
+      "ypos": 265,
+      "type": "match",
+      "height": 26
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ibus-input-added-kr"
+  ]
+}
