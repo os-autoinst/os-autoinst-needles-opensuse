@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 82,
+      "xpos": 159,
+      "ypos": 79,
+      "height": 32,
+      "type": "match"
+    },
+    {
+      "height": 15,
+      "ypos": 449,
+      "xpos": 57,
+      "width": 175,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dynamic-ip-address-set"
+  ]
+}
