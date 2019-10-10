@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 296,
+      "type": "match",
+      "width": 72,
+      "height": 141,
+      "ypos": 284
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-sw_single-disk_usage"
+  ]
+}
