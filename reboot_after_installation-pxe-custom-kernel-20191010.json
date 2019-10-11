@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 319,
+      "ypos": 16,
+      "width": 78,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 104,
+      "ypos": 48,
+      "width": 122,
+      "height": 48,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pxe-custom-kernel"
+  ]
+}
