@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 963,
+      "type": "match",
+      "ypos": 0,
+      "height": 29,
+      "width": 61
+    },
+    {
+      "ypos": 325,
+      "width": 364,
+      "height": 81,
+      "xpos": 339,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 363,
+      "height": 77,
+      "width": 304,
+      "ypos": 656
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-Tumbleweed",
+    "displaymanager",
+    "displaymanager-user-prompt"
+  ]
+}
