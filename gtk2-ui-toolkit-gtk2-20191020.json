@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 124,
+      "height": 24,
+      "ypos": 37,
+      "type": "match",
+      "xpos": 746
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ui-toolkit-gtk2"
+  ]
+}
