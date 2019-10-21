@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 31,
+      "ypos": 320,
+      "width": 166,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "quick-features-menu"
+  ]
+}

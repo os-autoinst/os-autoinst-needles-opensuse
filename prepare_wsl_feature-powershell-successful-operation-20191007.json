@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 9,
+      "ypos": 133,
+      "width": 253,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "powershell-successful-operation"
+  ]
+}

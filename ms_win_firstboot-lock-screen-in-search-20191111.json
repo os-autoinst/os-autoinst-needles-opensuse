@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 98,
+      "width": 163,
+      "ypos": 179,
+      "height": 47
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "lock-screen-in-search"
+  ]
+}

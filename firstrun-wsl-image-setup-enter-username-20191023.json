@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 54,
+      "ypos": 288,
+      "width": 137,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-image-setup-enter-username"
+  ]
+}

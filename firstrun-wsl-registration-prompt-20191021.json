@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 10,
+      "ypos": 176,
+      "width": 186,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-registration-prompt"
+  ]
+}
