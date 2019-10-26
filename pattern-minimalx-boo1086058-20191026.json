@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 643,
+      "width": 175,
+      "xpos": 63,
+      "height": 22
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo1086058"
+    }
+  ],
+  "tags": [
+    "on-pattern",
+    "pattern-x11",
+    "pattern-minimalx"
+  ]
+}
