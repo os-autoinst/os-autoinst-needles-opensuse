@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 197,
+      "ypos": 32,
+      "width": 250,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "shared-desktop-window-title"
+  ]
+}
