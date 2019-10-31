@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 511,
+      "ypos": 507,
+      "height": 20,
+      "width": 138,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "autologindisabled",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
