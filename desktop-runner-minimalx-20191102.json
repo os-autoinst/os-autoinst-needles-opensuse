@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 743,
+      "height": 23,
+      "xpos": 231,
+      "width": 542,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "ENV-DISTRI-opensuse",
+    "desktop-runner"
+  ]
+}
