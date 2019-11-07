@@ -1,0 +1,34 @@
+{
+  "area": [
+    {
+      "ypos": 139,
+      "width": 363,
+      "height": 29,
+      "xpos": 140,
+      "type": "exclude"
+    },
+    {
+      "height": 42,
+      "xpos": 132,
+      "width": 769,
+      "ypos": 529,
+      "type": "exclude"
+    },
+    {
+      "xpos": 837,
+      "ypos": 594,
+      "width": 56,
+      "height": 25,
+      "type": "match",
+      "click_point": {
+        "xpos": 28,
+        "ypos": 12.5
+      },
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "close-welcome"
+  ]
+}
