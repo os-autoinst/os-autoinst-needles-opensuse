@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 46,
+      "ypos": 159,
+      "width": 122,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_snapper-unselected_testdata"
+  ]
+}
