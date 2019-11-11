@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 125,
+      "ypos": 252,
+      "type": "match",
+      "xpos": 452,
+      "height": 139
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "nautilus-Documents-matched"
+  ]
+}
