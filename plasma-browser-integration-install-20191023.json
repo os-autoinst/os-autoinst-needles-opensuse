@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 459,
+      "ypos": 473,
+      "width": 129,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "plasma-browser-integration-install"
+  ]
+}
