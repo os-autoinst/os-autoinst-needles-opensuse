@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 248,
+      "ypos": 510,
+      "width": 82,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "system-properties-ok"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 149,
+      "ypos": 428,
+      "width": 309,
+      "height": 42,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "allow-connections-without-nla-enabled"
+  ]
+}

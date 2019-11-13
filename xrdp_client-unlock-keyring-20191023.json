@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 581,
+      "ypos": 461,
+      "width": 108,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "unlock-keyring"
+  ]
+}
