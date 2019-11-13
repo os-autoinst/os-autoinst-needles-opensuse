@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 186,
+      "ypos": 49,
+      "width": 94,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_snapper-current_configuration_root"
+  ]
+}
