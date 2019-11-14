@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 665,
+      "xpos": 762,
+      "click_point": {
+        "xpos": 25,
+        "ypos": 27
+      },
+      "height": 54,
+      "width": 50,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "plasma-mpris-pause"
+  ]
+}
