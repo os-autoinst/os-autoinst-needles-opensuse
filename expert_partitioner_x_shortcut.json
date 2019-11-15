@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 579,
+      "ypos": 676,
+      "width": 109,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "expert_partitioner_x_shortcut"
+  ]
+}
