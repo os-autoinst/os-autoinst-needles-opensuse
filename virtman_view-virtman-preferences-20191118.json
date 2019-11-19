@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 304,
+      "ypos": 227,
+      "width": 94,
+      "height": 20,
+      "type": "match",
+      "match": 86,
+      "click_point": {
+        "xpos": 47,
+        "ypos": 10
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virtman-preferences"
+  ]
+}
