@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 238,
+      "ypos": 169,
+      "width": 279,
+      "height": 19,
+      "type": "match",
+      "match": 93
+    },
+    {
+      "xpos": 732,
+      "ypos": 542,
+      "width": 79,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-partitions"
+  ]
+}

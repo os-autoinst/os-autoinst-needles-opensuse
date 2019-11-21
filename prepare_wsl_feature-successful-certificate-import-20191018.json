@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 302,
+      "ypos": 240,
+      "width": 126,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "successful-certificate-import"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 139,
+      "height": 81,
+      "width": 163,
+      "xpos": 1,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "powershell-ready-prompt"
+  ]
+}

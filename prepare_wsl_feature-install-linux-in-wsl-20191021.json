@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 587,
+      "ypos": 356,
+      "width": 51,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "install-linux-in-wsl"
+  ]
+}

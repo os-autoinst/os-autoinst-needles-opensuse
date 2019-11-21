@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 512,
+      "ypos": 451,
+      "width": 73,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "install-certificate"
+  ]
+}

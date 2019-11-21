@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 183,
+      "ypos": 490,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 544,
+      "ypos": 257,
+      "width": 64,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "open-details-windows"
+  ]
+}

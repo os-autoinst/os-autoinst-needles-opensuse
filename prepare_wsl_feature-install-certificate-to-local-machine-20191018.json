@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 331,
+      "ypos": 347,
+      "width": 68,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "install-certificate-to-local-machine"
+  ]
+}
