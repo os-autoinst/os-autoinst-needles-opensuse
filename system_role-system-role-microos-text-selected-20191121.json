@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 126,
+      "xpos": 25,
+      "width": 95,
+      "type": "match",
+      "height": 23
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI=microos",
+    "ENV-VIDEOMODE=text",
+    "system-role-microos-selected"
+  ]
+}
