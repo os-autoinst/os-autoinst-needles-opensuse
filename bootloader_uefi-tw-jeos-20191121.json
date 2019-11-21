@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "height": 57,
+      "type": "match",
+      "ypos": 217,
+      "width": 328,
+      "xpos": 97
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-JeOS-for-AArch64",
+    "ENV-VERSION-Tumbleweed",
+    "bootloader-grub2"
+  ]
+}
