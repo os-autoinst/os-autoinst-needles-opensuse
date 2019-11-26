@@ -17,6 +17,7 @@
   ],
   "tags": [
     "linux-login",
+    "ENV-DESKTOP-textmode",
     "reboot-after-installation"
   ],
   "properties": []
