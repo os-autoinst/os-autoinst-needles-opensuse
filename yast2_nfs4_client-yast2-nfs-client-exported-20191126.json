@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 354,
+      "ypos": 287,
+      "width": 100,
+      "height": 48,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-nfs-client-exported"
+  ]
+}
