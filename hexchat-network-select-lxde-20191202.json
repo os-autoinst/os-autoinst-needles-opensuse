@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 61,
+      "width": 168,
+      "xpos": 340,
+      "type": "match",
+      "ypos": 127
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "hexchat-network-select",
+    "xchat-network-select"
+  ]
+}
