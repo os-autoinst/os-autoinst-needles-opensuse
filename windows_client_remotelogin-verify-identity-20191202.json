@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 322,
+      "height": 232,
+      "ypos": 128,
+      "width": 379
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "verify-identity"
+  ]
+}
