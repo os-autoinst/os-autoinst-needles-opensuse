@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 86,
+      "xpos": 486,
+      "height": 46,
+      "ypos": 302
+    },
+    {
+      "xpos": 525,
+      "ypos": 308,
+      "width": 10,
+      "height": 26,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnuhealth-client-manage_profiles-username_selected"
+  ]
+}
