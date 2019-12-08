@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "width": 16,
+      "xpos": 88,
+      "ypos": 0,
+      "height": 14,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "width": 39,
+      "xpos": 119,
+      "ypos": 64,
+      "height": 15,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo1116598"
+    }
+  ],
+  "tags": [
+    "ENV-OFW-1",
+    "log-console",
+    "root-console"
+  ]
+}
