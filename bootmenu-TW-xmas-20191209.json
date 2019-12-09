@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "height": 288,
+      "xpos": 0,
+      "type": "match",
+      "width": 755,
+      "ypos": 0
+    },
+    {
+      "width": 26,
+      "ypos": 163,
+      "xpos": 494,
+      "height": 22,
+      "type": "exclude"
+    },
+    {
+      "type": "exclude",
+      "height": 47,
+      "xpos": 187,
+      "width": 396,
+      "ypos": 88
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "CHRISTMAS",
+    "ENV-VERSION-Tumbleweed",
+    "bootloader",
+    "inst-bootmenu",
+    "inst-bootmenu-boot-harddisk"
+  ]
+}
