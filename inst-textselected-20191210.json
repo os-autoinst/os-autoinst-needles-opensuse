@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 161,
+      "height": 78,
+      "xpos": 219,
+      "type": "match",
+      "ypos": 471
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "inst-textselected",
+    "inst-textselected-with_colormenu"
+  ]
+}
