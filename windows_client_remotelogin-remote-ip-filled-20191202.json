@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 120,
+      "width": 402,
+      "height": 248,
+      "xpos": 311
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "remote-ip-filled"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 676,
+      "height": 24,
+      "width": 30,
+      "ypos": 121
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "close-remote-desktop-connection"
+  ]
+}
