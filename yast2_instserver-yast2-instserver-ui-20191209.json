@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 286,
+      "ypos": 66,
+      "width": 224,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-instserver-ui"
+  ]
+}
