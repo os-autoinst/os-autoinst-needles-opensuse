@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 299,
+      "type": "match",
+      "xpos": 220,
+      "height": 26,
+      "ypos": 214
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "CHRISTMAS",
+    "inst-onupgrade"
+  ]
+}
