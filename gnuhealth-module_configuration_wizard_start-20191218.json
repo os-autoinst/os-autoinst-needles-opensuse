@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 586,
+      "ypos": 197,
+      "height": 19,
+      "xpos": 256,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnuhealth-client-module_configuration_wizard_start"
+  ]
+}
