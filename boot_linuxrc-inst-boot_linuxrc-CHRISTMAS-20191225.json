@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 220,
+      "width": 97,
+      "height": 21,
+      "ypos": 188
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "CHRISTMAS",
+    "inst-boot_linuxrc"
+  ]
+}
