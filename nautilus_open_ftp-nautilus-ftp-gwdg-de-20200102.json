@@ -10,14 +10,19 @@
     {
       "type": "match",
       "ypos": 451,
-      "xpos": 75,
       "height": 111,
-      "width": 260
+      "width": 260,
+      "xpos": 75,
+      "click_point": {
+        "xpos": 66,
+        "ypos": 44.5
+      }
     }
   ],
   "properties": [],
   "tags": [
     "ENV-DESKTOP-gnome",
+    "ftp-path-selected",
     "nautilus-ftp-gwdg-de",
     "nautilus-ftp-server-connected"
   ]
