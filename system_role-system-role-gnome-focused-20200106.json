@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 211,
+      "width": 178,
+      "xpos": 26,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-gnome-focused"
+  ]
+}
