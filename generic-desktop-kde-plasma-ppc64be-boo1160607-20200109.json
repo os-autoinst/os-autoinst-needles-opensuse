@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "width": 88,
+      "xpos": 3,
+      "height": 290,
+      "ypos": 6,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 7,
+      "height": 416,
+      "xpos": 364,
+      "width": 200
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1160607 ignore bad kde desktop for ppc64 (BE)"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-ppc64",
+    "ENV-DESKTOP-kde",
+    "generic-desktop",
+    "x11"
+  ]
+}
