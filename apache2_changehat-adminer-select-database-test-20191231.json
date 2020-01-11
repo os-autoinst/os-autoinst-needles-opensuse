@@ -1,22 +1,22 @@
 {
   "area": [
     {
-      "width": 160,
       "height": 24,
+      "ypos": 159,
+      "width": 160,
       "type": "match",
-      "xpos": 303,
-      "ypos": 159
+      "xpos": 303
     },
     {
       "height": 24,
-      "type": "match",
-      "xpos": 306,
+      "width": 60,
       "ypos": 422,
-      "width": 60
+      "type": "match",
+      "xpos": 306
     }
   ],
   "properties": [],
   "tags": [
-    "adminer-select-database-test"
+    "adminer-select-database-test-DELETEME"
   ]
 }
