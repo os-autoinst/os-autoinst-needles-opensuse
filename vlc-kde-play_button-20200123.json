@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 598,
+      "height": 38,
+      "type": "match",
+      "ypos": 483,
+      "width": 69
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "vlc-play_button"
+  ]
+}
