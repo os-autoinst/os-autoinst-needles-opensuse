@@ -10,6 +10,7 @@
   ],
   "properties": [],
   "tags": [
-    "ENV-UEFI-1"
+    "ENV-UEFI-1",
+    "inst-oninstallation"
   ]
 }
