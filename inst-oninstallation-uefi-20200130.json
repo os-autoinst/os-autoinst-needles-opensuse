@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 241,
+      "height": 42,
+      "width": 300,
+      "xpos": 90,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-UEFI-1"
+  ]
+}
