@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "width": 755,
+      "ypos": 0,
+      "type": "match",
+      "height": 250,
+      "xpos": 0
+    },
+    {
+      "width": 26,
+      "ypos": 163,
+      "xpos": 494,
+      "height": 22,
+      "type": "exclude"
+    },
+    {
+      "width": 396,
+      "ypos": 88,
+      "xpos": 187,
+      "height": 47,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "CHRISTMAS",
+    "ENV-DISTRI-kubic",
+    "bootloader",
+    "inst-bootmenu"
+  ]
+}
