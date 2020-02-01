@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 80,
+      "width": 210,
+      "type": "match",
+      "height": 22,
+      "ypos": 166
+    },
+    {
+      "ypos": 84,
+      "height": 23,
+      "type": "match",
+      "width": 365,
+      "xpos": 365
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "on-pattern",
+    "pattern-wayland"
+  ]
+}
