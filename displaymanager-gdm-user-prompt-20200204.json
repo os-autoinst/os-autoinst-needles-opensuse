@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "ypos": 0,
+      "width": 61,
+      "height": 29,
+      "type": "match",
+      "xpos": 963
+    },
+    {
+      "xpos": 334,
+      "type": "match",
+      "height": 45,
+      "ypos": 324,
+      "width": 364
+    },
+    {
+      "height": 77,
+      "width": 247,
+      "ypos": 656,
+      "xpos": 383,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "displaymanager",
+    "displaymanager-user-prompt"
+  ]
+}
