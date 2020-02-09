@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 78,
+      "xpos": 584,
+      "click_point": {
+        "xpos": 39,
+        "ypos": 16
+      },
+      "ypos": 394,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "shutdowndialog-yes"
+  ]
+}
