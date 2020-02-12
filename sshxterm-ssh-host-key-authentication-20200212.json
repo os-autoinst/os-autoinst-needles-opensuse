@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 410,
+      "height": 14,
+      "xpos": 17,
+      "type": "match",
+      "ypos": 213
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ssh-xterm-host-key-authentication"
+  ]
+}
