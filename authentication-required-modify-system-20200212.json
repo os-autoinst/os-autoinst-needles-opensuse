@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 235,
+      "xpos": 266,
+      "type": "match",
+      "height": 297,
+      "width": 181,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "authentication-required-modify-system"
+  ]
+}
