@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "xpos": 357,
+
+      "ypos": 181,
+
+      "width": 260,
+
+      "height": 81,
+
+      "type": "match"
+    },
+
+    {
+      "xpos": 409,
+
+      "ypos": 267,
+
+      "width": 142,
+
+      "height": 16,
+
+      "type": "match"
+    }
+  ],
+
+  "properties": [],
+
+  "tags": ["rstudio"]
+}
