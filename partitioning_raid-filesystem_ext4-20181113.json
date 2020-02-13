@@ -16,7 +16,7 @@
     }
   ],
   "tags": [
-    "partitioning_raid-filesystem_ext4"
+    "partitioning_ext4-format-selected"
   ],
   "properties": []
 }
