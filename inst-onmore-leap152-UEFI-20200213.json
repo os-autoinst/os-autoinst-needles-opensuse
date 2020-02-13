@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 88,
+      "type": "match",
+      "ypos": 312,
+      "width": 136,
+      "height": 38
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "UEFI-1",
+    "inst-onmore"
+  ]
+}
