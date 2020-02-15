@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "width": 262,
+      "type": "match",
+      "height": 19,
+      "xpos": 94,
+      "ypos": 217
+    },
+    {
+      "height": 52,
+      "type": "match",
+      "width": 197,
+      "ypos": 8,
+      "xpos": 18
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-LIVECD-1",
+    "ENV-VERSION-15.2",
+    "boot-live-xfce",
+    "inst-bootmenu"
+  ]
+}
