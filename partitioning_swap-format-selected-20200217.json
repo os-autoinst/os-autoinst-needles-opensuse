@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 136,
+      "ypos": 264,
+      "height": 73,
+      "xpos": 315
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning_swap-format-selected"
+  ]
+}
