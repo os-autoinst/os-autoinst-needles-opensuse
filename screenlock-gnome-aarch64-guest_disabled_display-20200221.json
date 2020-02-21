@@ -11,6 +11,7 @@
   ],
   "properties": [],
   "tags": [
+    "ENV-ARCH-aarch64",
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-opensuse",
     "screenlock"
