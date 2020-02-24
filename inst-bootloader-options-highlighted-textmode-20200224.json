@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 143,
+      "type": "match",
+      "height": 11,
+      "xpos": 328,
+      "ypos": 50
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "inst-bootloader-options-highlighted"
+  ]
+}
