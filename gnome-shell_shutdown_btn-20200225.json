@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 594,
+      "type": "match",
+      "ypos": 434,
+      "width": 134,
+      "height": 34
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnome-shell_shutdown_btn"
+  ]
+}
