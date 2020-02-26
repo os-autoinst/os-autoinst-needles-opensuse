@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 216,
+      "height": 25,
+      "width": 257,
+      "xpos": 97,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-JeOS-for-AArch64",
+    "ENV-UEFI-1",
+    "ENV-VERSION-15.2",
+    "bootloader-grub2"
+  ]
+}
