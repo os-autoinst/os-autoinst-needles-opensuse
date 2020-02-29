@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "height": 13,
+      "width": 71,
+      "xpos": 873,
+      "type": "match",
+      "ypos": 177,
+      "match": 80
+    },
+    {
+      "height": 14,
+      "width": 22,
+      "type": "match",
+      "xpos": 0,
+      "ypos": 176,
+      "match": 80
+    },
+    {
+      "xpos": 322,
+      "ypos": 179,
+      "width": 63,
+      "height": 10,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1165357"
+    }
+  ],
+  "tags": [
+    "log-console",
+    "root-console"
+  ]
+}
