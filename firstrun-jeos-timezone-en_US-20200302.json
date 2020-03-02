@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 135,
+      "type": "match",
+      "xpos": 341,
+      "ypos": 45,
+      "height": 18
+    },
+    {
+      "xpos": 373,
+      "ypos": 77,
+      "width": 31,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-timezone-en_US"
+  ]
+}
