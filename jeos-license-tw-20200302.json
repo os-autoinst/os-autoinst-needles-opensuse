@@ -1,0 +1,37 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 170,
+      "height": 38,
+      "width": 178,
+      "ypos": 44
+    },
+    {
+      "xpos": 5,
+      "ypos": 3,
+      "width": 167,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "xpos": 173,
+      "ypos": 95,
+      "width": 537,
+      "height": 31,
+      "type": "match"
+    },
+    {
+      "xpos": 173,
+      "ypos": 419,
+      "width": 575,
+      "height": 45,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-JeOS-for-kvm",
+    "jeos-license"
+  ]
+}

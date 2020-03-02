@@ -1,6 +1,7 @@
 {
   "area": [
     {
+<<<<<<< HEAD
       "width": 135,
       "type": "match",
       "xpos": 341,
@@ -12,6 +13,19 @@
       "ypos": 77,
       "width": 31,
       "height": 20,
+=======
+      "height": 18,
+      "ypos": 45,
+      "width": 135,
+      "type": "match",
+      "xpos": 341
+    },
+    {
+      "xpos": 375,
+      "ypos": 83,
+      "width": 26,
+      "height": 11,
+>>>>>>> Add openSUSE license needles for JeOS
       "type": "match"
     }
   ],
