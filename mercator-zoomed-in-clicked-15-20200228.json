@@ -1,0 +1,34 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 275,
+      "xpos": 240,
+      "width": 562,
+      "height": 179
+    },
+    {
+      "ypos": 546,
+      "type": "match",
+      "height": 42,
+      "width": 606,
+      "xpos": 215,
+      "click_point": {
+        "xpos": 303,
+        "ypos": 21
+      }
+    },
+    {
+      "ypos": 633,
+      "type": "match",
+      "height": 12,
+      "width": 10,
+      "xpos": 181
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "mercator-zoomed-in-clicked"
+  ]
+}

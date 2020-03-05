@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "width": 46,
+      "xpos": 13,
+      "height": 11,
+      "type": "match",
+      "ypos": 139
+    },
+    {
+      "width": 68,
+      "xpos": 289,
+      "height": 16,
+      "type": "match",
+      "ypos": 164
+    },
+    {
+      "xpos": 293,
+      "width": 107,
+      "height": 18,
+      "type": "match",
+      "ypos": 202
+    },
+    {
+      "ypos": 726,
+      "click_point": {
+        "ypos": 8,
+        "xpos": 18.5
+      },
+      "type": "match",
+      "height": 16,
+      "width": 37,
+      "xpos": 952
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_wizard-identity-next"
+  ]
+}
