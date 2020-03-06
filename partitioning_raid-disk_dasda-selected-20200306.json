@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 13,
+      "ypos": 141,
+      "xpos": 85,
+      "width": 36,
+      "type": "match"
+    },
+    {
+      "xpos": 73,
+      "width": 125,
+      "type": "match",
+      "height": 19,
+      "ypos": 279
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning_raid-disk_dasda-selected"
+  ]
+}
