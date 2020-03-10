@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 63,
+      "ypos": 172,
+      "xpos": 35,
+      "height": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-gitignore-file-unsaved"
+  ]
+}

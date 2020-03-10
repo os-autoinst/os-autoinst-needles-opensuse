@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 17,
+      "xpos": 16,
+      "width": 56,
+      "ypos": 125,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "width": 229,
+      "ypos": 471,
+      "xpos": 26,
+      "height": 17
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_desktop-x-data-entered"
+  ]
+}

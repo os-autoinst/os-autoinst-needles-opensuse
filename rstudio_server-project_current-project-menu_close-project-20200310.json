@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "ypos": 110,
+      "type": "match",
+      "height": 49,
+      "width": 51,
+      "xpos": 17
+    },
+    {
+      "width": 68,
+      "xpos": 655,
+      "height": 20,
+      "type": "match",
+      "ypos": 407
+    },
+    {
+      "xpos": 812,
+      "width": 87,
+      "click_point": {
+        "ypos": 8.5,
+        "xpos": 43.5
+      },
+      "height": 17,
+      "type": "match",
+      "ypos": 219
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-project_current-project-menu_close-project"
+  ]
+}

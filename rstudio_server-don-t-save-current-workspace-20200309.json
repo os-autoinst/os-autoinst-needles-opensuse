@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 334,
+      "height": 14,
+      "type": "match",
+      "width": 142,
+      "ypos": 377
+    },
+    {
+      "xpos": 482,
+      "height": 19,
+      "type": "match",
+      "ypos": 464,
+      "width": 71,
+      "click_point": {
+        "xpos": 35.5,
+        "ypos": 9.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-don-t-save-current-workspace"
+  ]
+}

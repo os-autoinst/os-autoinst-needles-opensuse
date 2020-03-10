@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 173,
+      "width": 55,
+      "type": "match",
+      "height": 15,
+      "xpos": 38
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-gitignore-file"
+  ]
+}

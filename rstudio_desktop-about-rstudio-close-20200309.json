@@ -1,0 +1,47 @@
+{
+  "area": [
+    {
+      "xpos": 220,
+      "height": 16,
+      "type": "match",
+      "width": 80,
+      "ypos": 172
+    },
+    {
+      "xpos": 451,
+      "height": 29,
+      "type": "match",
+      "ypos": 204,
+      "width": 120
+    },
+    {
+      "type": "match",
+      "width": 115,
+      "ypos": 240,
+      "xpos": 446,
+      "height": 14
+    },
+    {
+      "xpos": 389,
+      "height": 15,
+      "type": "match",
+      "ypos": 283,
+      "width": 174
+    },
+    {
+      "click_point": {
+        "xpos": 26,
+        "ypos": 8.5
+      },
+      "height": 17,
+      "xpos": 738,
+      "width": 52,
+      "ypos": 663,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_desktop-about-rstudio-close"
+  ]
+}

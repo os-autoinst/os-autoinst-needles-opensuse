@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 562,
+      "height": 17,
+      "type": "match",
+      "ypos": 364,
+      "width": 38
+    },
+    {
+      "type": "match",
+      "ypos": 410,
+      "width": 69,
+      "xpos": 655,
+      "height": 15
+    },
+    {
+      "click_point": {
+        "xpos": 30.5,
+        "ypos": 8
+      },
+      "height": 17,
+      "xpos": 615,
+      "ypos": 473,
+      "width": 62,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-files-tab_select-gitignore"
+  ]
+}

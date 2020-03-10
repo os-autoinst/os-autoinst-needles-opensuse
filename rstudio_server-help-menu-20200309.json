@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 606,
+      "height": 17,
+      "click_point": {
+        "ypos": 8.5,
+        "xpos": 17
+      },
+      "type": "match",
+      "width": 34,
+      "ypos": 113
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-help-menu"
+  ]
+}

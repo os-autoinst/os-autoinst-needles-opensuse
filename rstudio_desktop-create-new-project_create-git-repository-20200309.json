@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "width": 71,
+      "ypos": 242,
+      "type": "match",
+      "height": 19,
+      "xpos": 252
+    },
+    {
+      "xpos": 374,
+      "height": 31,
+      "type": "match",
+      "width": 166,
+      "ypos": 274
+    },
+    {
+      "click_point": {
+        "xpos": 9,
+        "ypos": 9
+      },
+      "height": 18,
+      "xpos": 380,
+      "ypos": 429,
+      "width": 156,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_desktop-create-new-project_create-git-repository"
+  ]
+}

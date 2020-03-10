@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "xpos": 33,
+      "height": 38,
+      "type": "match",
+      "width": 86,
+      "ypos": 135
+    },
+    {
+      "xpos": 26,
+      "height": 24,
+      "type": "match",
+      "width": 111,
+      "ypos": 32
+    },
+    {
+      "type": "match",
+      "ypos": 316,
+      "width": 66,
+      "xpos": 375,
+      "height": 16
+    },
+    {
+      "height": 15,
+      "click_point": {
+        "xpos": 40.5,
+        "ypos": 7.5
+      },
+      "xpos": 469,
+      "width": 81,
+      "ypos": 338,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-login-username"
+  ]
+}

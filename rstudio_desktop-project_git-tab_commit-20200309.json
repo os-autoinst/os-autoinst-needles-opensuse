@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 26,
+      "ypos": 124,
+      "xpos": 822,
+      "height": 18
+    },
+    {
+      "xpos": 638,
+      "click_point": {
+        "xpos": 22.5,
+        "ypos": 7.5
+      },
+      "height": 15,
+      "type": "match",
+      "width": 51,
+      "ypos": 148
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_desktop-project_git-tab_commit"
+  ]
+}

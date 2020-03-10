@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "xpos": 422,
+      "height": 23,
+      "type": "match",
+      "ypos": 33,
+      "width": 180
+    },
+    {
+      "xpos": 628,
+      "height": 16,
+      "type": "match",
+      "ypos": 94,
+      "width": 104
+    },
+    {
+      "xpos": 633,
+      "height": 21,
+      "type": "match",
+      "width": 120,
+      "ypos": 115
+    },
+    {
+      "height": 15,
+      "click_point": {
+        "ypos": 7.5,
+        "xpos": 26
+      },
+      "xpos": 956,
+      "ypos": 269,
+      "width": 52,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_desktop-project_git-commit-window_commit-button"
+  ]
+}

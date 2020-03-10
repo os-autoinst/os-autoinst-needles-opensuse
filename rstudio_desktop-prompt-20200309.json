@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 480,
+      "height": 23,
+      "type": "match",
+      "ypos": 33,
+      "width": 64
+    },
+    {
+      "width": 54,
+      "ypos": 126,
+      "type": "match",
+      "height": 14,
+      "xpos": 16
+    },
+    {
+      "height": 23,
+      "click_point": {
+        "ypos": 11.5,
+        "xpos": 8
+      },
+      "xpos": 13,
+      "ypos": 469,
+      "width": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_desktop-prompt"
+  ]
+}

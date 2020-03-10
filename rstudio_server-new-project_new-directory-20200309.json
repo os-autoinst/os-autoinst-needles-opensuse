@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "click_point": {
+        "xpos": 198,
+        "ypos": 35
+      },
+      "height": 70,
+      "xpos": 257,
+      "width": 396,
+      "ypos": 329,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-new-project_new-directory"
+  ]
+}

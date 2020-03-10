@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 181,
+      "ypos": 35,
+      "xpos": 422,
+      "height": 21
+    },
+    {
+      "type": "match",
+      "width": 92,
+      "ypos": 113,
+      "xpos": 156,
+      "height": 17
+    },
+    {
+      "xpos": 554,
+      "height": 16,
+      "type": "match",
+      "ypos": 113,
+      "width": 246
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_desktop-project_commit-history"
+  ]
+}

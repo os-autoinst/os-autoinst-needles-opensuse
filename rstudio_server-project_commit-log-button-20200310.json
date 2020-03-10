@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 770,
+      "width": 23,
+      "click_point": {
+        "ypos": 8,
+        "xpos": 11.5
+      },
+      "height": 16,
+      "type": "match",
+      "ypos": 194
+    },
+    {
+      "ypos": 172,
+      "height": 16,
+      "type": "match",
+      "width": 24,
+      "xpos": 823
+    },
+    {
+      "xpos": 5,
+      "width": 178,
+      "ypos": 33,
+      "type": "match",
+      "height": 22
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-project_commit-log-button"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 15,
+      "height": 17,
+      "type": "match",
+      "width": 57,
+      "ypos": 171
+    },
+    {
+      "height": 25,
+      "click_point": {
+        "ypos": 12.5,
+        "xpos": 8.5
+      },
+      "xpos": 13,
+      "width": 17,
+      "ypos": 527,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-prompt"
+  ]
+}

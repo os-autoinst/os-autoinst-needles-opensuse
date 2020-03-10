@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "height": 47,
+      "type": "match",
+      "ypos": 111,
+      "width": 48,
+      "xpos": 19
+    },
+    {
+      "width": 83,
+      "xpos": 900,
+      "click_point": {
+        "xpos": 67.5,
+        "ypos": 9
+      },
+      "type": "match",
+      "height": 18,
+      "ypos": 113
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-sign-out"
+  ]
+}

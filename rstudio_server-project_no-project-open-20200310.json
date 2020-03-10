@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 111,
+      "height": 47,
+      "type": "match",
+      "width": 51,
+      "xpos": 16
+    },
+    {
+      "height": 19,
+      "type": "match",
+      "ypos": 139,
+      "xpos": 914,
+      "width": 89
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-project_no-project-open"
+  ]
+}

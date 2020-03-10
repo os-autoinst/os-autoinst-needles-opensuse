@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 250,
+      "height": 18,
+      "type": "match",
+      "width": 78,
+      "ypos": 242
+    },
+    {
+      "xpos": 380,
+      "height": 26,
+      "type": "match",
+      "ypos": 278,
+      "width": 164
+    },
+    {
+      "type": "match",
+      "width": 104,
+      "ypos": 332,
+      "xpos": 377,
+      "height": 17
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_desktop-create-new-project"
+  ]
+}

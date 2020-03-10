@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 249,
+      "height": 18,
+      "type": "match",
+      "ypos": 241,
+      "width": 76
+    },
+    {
+      "xpos": 380,
+      "height": 26,
+      "type": "match",
+      "ypos": 279,
+      "width": 106
+    },
+    {
+      "height": 19,
+      "click_point": {
+        "xpos": 36,
+        "ypos": 9.5
+      },
+      "xpos": 278,
+      "ypos": 333,
+      "width": 76,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_desktop-new-project_project-type"
+  ]
+}

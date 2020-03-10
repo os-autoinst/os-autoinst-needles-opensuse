@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 116,
+      "ypos": 161,
+      "xpos": 71,
+      "click_point": {
+        "xpos": 64,
+        "ypos": 10
+      },
+      "height": 20
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-file-menu_new-project"
+  ]
+}

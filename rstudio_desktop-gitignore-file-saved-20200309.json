@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 127,
+      "width": 57,
+      "type": "match",
+      "height": 14,
+      "xpos": 37
+    },
+    {
+      "ypos": 148,
+      "width": 27,
+      "type": "match",
+      "height": 19,
+      "xpos": 91
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_desktop-gitignore-file-saved"
+  ]
+}

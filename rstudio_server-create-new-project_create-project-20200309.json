@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "ypos": 282,
+      "width": 160,
+      "type": "match",
+      "height": 25,
+      "xpos": 380
+    },
+    {
+      "type": "match",
+      "width": 104,
+      "ypos": 594,
+      "xpos": 572,
+      "height": 18,
+      "click_point": {
+        "ypos": 9,
+        "xpos": 52
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-create-new-project_create-project"
+  ]
+}

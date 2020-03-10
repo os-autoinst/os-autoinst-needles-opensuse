@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 23,
+      "xpos": 481,
+      "width": 65,
+      "ypos": 33,
+      "type": "match"
+    },
+    {
+      "ypos": 126,
+      "width": 53,
+      "type": "match",
+      "height": 14,
+      "xpos": 17
+    },
+    {
+      "height": 18,
+      "xpos": 27,
+      "width": 124,
+      "ypos": 487,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_desktop-plot-cmd-entered"
+  ]
+}

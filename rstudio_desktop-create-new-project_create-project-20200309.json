@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "xpos": 251,
+      "height": 18,
+      "type": "match",
+      "ypos": 241,
+      "width": 74
+    },
+    {
+      "xpos": 379,
+      "height": 19,
+      "type": "match",
+      "width": 156,
+      "ypos": 427
+    },
+    {
+      "height": 19,
+      "click_point": {
+        "xpos": 41.5,
+        "ypos": 9.5
+      },
+      "xpos": 572,
+      "width": 104,
+      "ypos": 589,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 277,
+      "width": 165,
+      "xpos": 378,
+      "height": 28
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_desktop-create-new-project_create-project"
+  ]
+}

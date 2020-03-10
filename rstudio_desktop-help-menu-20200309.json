@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "width": 66,
+      "ypos": 33,
+      "type": "match",
+      "height": 23,
+      "xpos": 479
+    },
+    {
+      "click_point": {
+        "xpos": 21.5,
+        "ypos": 10.5
+      },
+      "height": 21,
+      "xpos": 558,
+      "ypos": 66,
+      "width": 43,
+      "type": "match"
+    },
+    {
+      "xpos": 16,
+      "height": 15,
+      "type": "match",
+      "width": 58,
+      "ypos": 126
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_desktop-help-menu"
+  ]
+}
