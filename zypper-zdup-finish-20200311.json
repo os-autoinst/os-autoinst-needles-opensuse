@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 94,
+      "ypos": 737,
+      "xpos": 2,
+      "type": "match",
+      "height": 11
+    },
+    {
+      "xpos": 86,
+      "type": "match",
+      "height": 14,
+      "ypos": 753,
+      "width": 20
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "zypper-dup-finish"
+  ]
+}
