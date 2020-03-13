@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 64,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 47,
+      "width": 39,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 128,
+      "width": 216,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "initboot_ESC_prompt"
+  ]
+}

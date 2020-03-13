@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 16,
+      "width": 227,
+      "height": 32,
+      "type": "match"
+    },
+    {
+      "xpos": 139,
+      "ypos": 220,
+      "width": 85,
+      "height": 76,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-initiator-startup-and-authentication"
+  ]
+}
