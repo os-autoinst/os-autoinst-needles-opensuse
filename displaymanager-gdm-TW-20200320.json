@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "ypos": 0,
+      "type": "match",
+      "xpos": 963,
+      "width": 61,
+      "height": 29
+    },
+    {
+      "height": 95,
+      "ypos": 93,
+      "type": "match",
+      "xpos": 302,
+      "width": 199
+    },
+    {
+      "height": 41,
+      "xpos": 355,
+      "width": 313,
+      "ypos": 676,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "displaymanager"
+  ]
+}
