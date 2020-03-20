@@ -1,24 +1,24 @@
 {
   "area": [
     {
+      "ypos": 314,
       "type": "match",
-      "ypos": 317,
-      "width": 221,
-      "xpos": 452,
+      "width": 85,
+      "xpos": 454,
       "height": 32
     },
     {
-      "width": 84,
-      "xpos": 587,
-      "ypos": 425,
+      "height": 38,
       "type": "match",
-      "height": 38
+      "ypos": 425,
+      "xpos": 596,
+      "width": 84
     }
   ],
   "properties": [
     {
-      "name": "workaround",
-      "value": "bsc981596"
+      "value": "bsc981596",
+      "name": "workaround"
     }
   ],
   "tags": [
