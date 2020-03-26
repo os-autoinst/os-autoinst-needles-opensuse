@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 605,
+      "height": 23,
+      "width": 84,
+      "ypos": 577
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "hexchat-connect-button",
+    "xchat-connect-button"
+  ]
+}
