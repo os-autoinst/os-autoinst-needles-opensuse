@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 273,
+      "ypos": 336,
+      "width": 103,
+      "height": 55,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "no_nfs_server_found"
+  ]
+}

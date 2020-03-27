@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 20,
+      "type": "match",
+      "width": 62,
+      "xpos": 318,
+      "ypos": 381
+    },
+    {
+      "xpos": 322,
+      "ypos": 407,
+      "width": 221,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nfs-server-directory-mount-opts-selected"
+  ]
+}
