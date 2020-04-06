@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 167,
+      "ypos": 378,
+      "width": 109,
+      "height": 52,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nis-client-add-nfs-share-mountpoint"
+  ]
+}

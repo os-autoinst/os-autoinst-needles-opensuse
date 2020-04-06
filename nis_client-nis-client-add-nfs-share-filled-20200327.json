@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 167,
+      "ypos": 256,
+      "width": 56,
+      "height": 51,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nis-client-add-nfs-share-filled"
+  ]
+}

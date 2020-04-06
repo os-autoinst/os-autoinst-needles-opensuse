@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 249,
+      "ypos": 390,
+      "width": 174,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "disable_auto_login_popup"
+  ]
+}

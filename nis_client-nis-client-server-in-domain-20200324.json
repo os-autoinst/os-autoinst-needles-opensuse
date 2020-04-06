@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 281,
+      "ypos": 274,
+      "width": 154,
+      "height": 59,
+      "type": "match"
+    }
+  ],
+  "tags": [
+      "nis_servers_in_domain_empty"	  
+  ]
+}
