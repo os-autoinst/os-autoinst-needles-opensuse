@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 574,
+      "type": "match",
+      "width": 138,
+      "height": 32,
+      "ypos": 412
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution_wizard-sending-setauthtype"
+  ]
+}

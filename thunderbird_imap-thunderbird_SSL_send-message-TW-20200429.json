@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 27,
+      "ypos": 103,
+      "width": 36,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_maximized_send-message"
+  ]
+}
