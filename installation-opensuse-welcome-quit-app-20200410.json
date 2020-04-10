@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 43,
+      "ypos": 281,
+      "width": 28,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "opensuse-welcome-quit-app"
+  ]
+}
