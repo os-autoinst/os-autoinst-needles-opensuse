@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 106,
+      "ypos": 4,
+      "width": 100,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "opensuse-welcome-open-title-bar-menu"
+  ]
+}
