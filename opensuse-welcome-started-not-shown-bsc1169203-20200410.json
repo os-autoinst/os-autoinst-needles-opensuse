@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "xpos": 105,
+      "ypos": 2,
+      "width": 104,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 218,
+      "ypos": 135,
+      "width": 614,
+      "height": 459,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "Bad performance of Wayland/GNOME"
+    }
+  ],
+  "tags": [
+    "opensuse-welcome-started-not-shown-bsc1169203"
+  ]
+}
