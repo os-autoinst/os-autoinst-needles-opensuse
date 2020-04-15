@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 493,
+      "xpos": 0,
+      "type": "match",
+      "height": 144,
+      "width": 617
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-testsuite-binary-tests-summary"
+  ]
+}
