@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 14,
+      "xpos": 366,
+      "width": 232,
+      "ypos": 317,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "reboot-after-installation"
+  ]
+}
