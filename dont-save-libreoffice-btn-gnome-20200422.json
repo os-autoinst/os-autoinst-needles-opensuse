@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 301,
+      "type": "match",
+      "width": 93,
+      "height": 31,
+      "ypos": 435
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "dont-save-libreoffice-btn"
+  ]
+}
