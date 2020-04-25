@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 49,
+      "width": 177,
+      "ypos": 209,
+      "xpos": 214,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnote",
+    "gnote-first-launched"
+  ]
+}
