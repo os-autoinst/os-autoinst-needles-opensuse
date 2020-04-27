@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 23,
+      "width": 111,
+      "xpos": 553,
+      "type": "match",
+      "ypos": 141
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-network-settings_hostname-dns"
+  ]
+}
