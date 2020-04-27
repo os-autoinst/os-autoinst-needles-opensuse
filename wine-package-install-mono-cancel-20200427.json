@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 23,
+      "width": 154,
+      "xpos": 431,
+      "type": "match",
+      "ypos": 298
+    },
+    {
+      "xpos": 551,
+      "width": 42,
+      "height": 16,
+      "ypos": 458,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wine-package-install-mono-cancel"
+  ]
+}
