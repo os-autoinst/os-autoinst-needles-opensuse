@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 192,
+      "type": "match",
+      "xpos": 139,
+      "width": 46,
+      "height": 26
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_security-login-settings"
+  ]
+}
