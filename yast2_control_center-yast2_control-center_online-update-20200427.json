@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 67,
+      "width": 164,
+      "xpos": 419,
+      "type": "match",
+      "ypos": 273
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center_online-update"
+  ]
+}
