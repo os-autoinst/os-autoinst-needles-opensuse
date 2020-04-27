@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 72,
+      "height": 20,
+      "xpos": 293,
+      "width": 276
+    },
+    {
+      "ypos": 130,
+      "type": "match",
+      "width": 323,
+      "xpos": 114,
+      "height": 29
+    }
+  ],
+  "properties": [
+    {
+      "value": "boo1092845",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "yast2-sw_single-ui"
+  ]
+}
