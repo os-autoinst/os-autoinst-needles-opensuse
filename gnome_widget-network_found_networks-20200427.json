@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 168,
+      "type": "match",
+      "width": 447,
+      "xpos": 286,
+      "height": 140
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome_widget-network_found_networks"
+  ]
+}
