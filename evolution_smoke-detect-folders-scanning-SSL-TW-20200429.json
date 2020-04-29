@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "evolution_smoke-detect-folders-scanning"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 84,
+      "height": 27,
+      "ypos": 482,
+      "width": 114
+    }
+  ],
+  "properties": []
+}

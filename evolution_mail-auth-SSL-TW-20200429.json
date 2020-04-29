@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 170,
+      "width": 244,
+      "height": 35,
+      "xpos": 243
+    },
+    {
+      "width": 82,
+      "ypos": 306,
+      "type": "match",
+      "height": 30,
+      "xpos": 162
+    }
+  ],
+  "tags": [
+    "NAO_evolution_mail-auth"
+  ]
+}
