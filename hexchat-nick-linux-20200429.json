@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 340,
+      "ypos": 178,
+      "width": 159,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hexchat-nick-linux"
+  ]
+}
