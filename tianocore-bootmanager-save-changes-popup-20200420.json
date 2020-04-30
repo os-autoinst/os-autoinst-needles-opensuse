@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 196,
+      "ypos": 197,
+      "width": 238,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-bootmanager-save-changes"
+  ]
+}
