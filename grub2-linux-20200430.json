@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 16,
+      "ypos": 349,
+      "width": 111,
+      "xpos": 87
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub2-linux"
+  ]
+}
