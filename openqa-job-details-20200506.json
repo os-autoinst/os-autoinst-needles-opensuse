@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 52,
+      "ypos": 342,
+      "width": 51,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "openqa-job-details"
+  ]
+}
