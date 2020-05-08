@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 412,
+      "width": 185,
+      "type": "match",
+      "height": 22,
+      "xpos": 595
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gpg-passphrase-insecure"
+  ]
+}
