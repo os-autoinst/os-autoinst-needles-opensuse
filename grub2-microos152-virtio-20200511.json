@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 118,
+      "ypos": 160,
+      "width": 168,
+      "type": "match",
+      "xpos": 68
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "wrong resolution https://bugzilla.opensuse.org/show_bug.cgi?id=1171455"
+    }
+  ],
+  "tags": [
+    "ENV-QEMUVGA-virtio",
+    "ENV-VERSION-15.2",
+    "autoyast-boot",
+    "bootloader",
+    "grub2"
+  ]
+}
