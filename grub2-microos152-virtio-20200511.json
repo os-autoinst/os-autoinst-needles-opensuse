@@ -1,20 +1,16 @@
 {
   "area": [
     {
-      "height": 118,
       "ypos": 160,
+      "xpos": 68,
       "width": 168,
-      "type": "match",
-      "xpos": 68
+      "height": 118,
+      "type": "match"
     }
   ],
-  "properties": [
-    {
-      "name": "workaround",
-      "value": "wrong resolution https://bugzilla.opensuse.org/show_bug.cgi?id=1171455"
-    }
-  ],
+  "properties": [],
   "tags": [
+    "ENV-DISTRI-microos",
     "ENV-QEMUVGA-virtio",
     "ENV-VERSION-15.2",
     "autoyast-boot",
