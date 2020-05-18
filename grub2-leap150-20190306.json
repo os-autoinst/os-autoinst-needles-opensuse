@@ -10,6 +10,8 @@
   ],
   "properties": [],
   "tags": [
+    "ENV-LEAP-1",
+    "ENV-VERSION-15.0",
     "bootloader-grub2-leap150"
   ]
 }

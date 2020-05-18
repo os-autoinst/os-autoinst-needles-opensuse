@@ -10,6 +10,9 @@
   ],
   "properties": [],
   "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-Tumbleweed",
+    "ENV-FLAVOR-Rescue-CD",
     "boot-live-gnome",
     "boot-live-rescue",
     "bootloader-grub2"

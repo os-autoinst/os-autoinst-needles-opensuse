@@ -11,6 +11,7 @@
   "properties": [],
   "tags": [
     "ENV-DISTRI-opensuse",
+    "ENV-LEAP-1",
     "ENV-VERSION-15.2",
     "boot-live-kde",
     "bootloader-grub2"

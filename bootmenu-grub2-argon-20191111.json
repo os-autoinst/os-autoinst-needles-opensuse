@@ -20,6 +20,7 @@
     "ENV-DISTRI-opensuse",
     "ENV-FLAVOR-Argon-Live",
     "ENV-LIVECD-1",
+    "ENV-LEAP-1",
     "ENV-VERSION-15.1",
     "boot-live-kde",
     "bootloader-grub2",

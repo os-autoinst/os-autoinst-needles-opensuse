@@ -19,6 +19,7 @@
   "tags": [
     "ENV-DISTRI-opensuse",
     "ENV-LIVECD-1",
+    "ENV-LEAP-1",
     "ENV-VERSION-15.2",
     "boot-live-gnome",
     "bootloader-grub2",

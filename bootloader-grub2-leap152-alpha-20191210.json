@@ -25,6 +25,7 @@
   "properties": [],
   "tags": [
     "ENV-DISTRI-opensuse",
+    "ENV-LEAP-1",
     "ENV-VERSION-15.2",
     "bootloader-grub2",
     "inst-bootmenu"

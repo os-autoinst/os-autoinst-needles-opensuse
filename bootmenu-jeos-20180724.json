@@ -12,6 +12,7 @@
     "ENV-DISTRI-opensuse",
     "ENV-FLAVOR-JeOS-for-kvm",
     "ENV-UEFI-1",
+    "ENV-LEAP-1",
     "ENV-VERSION-15.0",
     "bootloader-grub2"
   ],
