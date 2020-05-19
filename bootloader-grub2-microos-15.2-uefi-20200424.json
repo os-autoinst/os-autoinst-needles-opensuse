@@ -19,6 +19,7 @@
   "tags": [
     "ENV-DISTRI-microos",
     "ENV-UEFI-1",
+    "ENV-LEAP-1",
     "ENV-VERSION-15.2",
     "bootloader-grub2",
     "inst-bootmenu"

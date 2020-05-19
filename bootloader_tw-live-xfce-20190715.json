@@ -12,6 +12,7 @@
   "tags": [
     "ENV-DISTRI-opensuse",
     "ENV-VERSION-Tumbleweed",
+    "ENV-FLAVOR-XFCE-Live",
     "boot-live-xfce",
     "bootloader",
     "bootloader-grub2"

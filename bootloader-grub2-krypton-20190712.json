@@ -19,6 +19,7 @@
   "tags": [
     "ENV-DISTRI-opensuse",
     "ENV-FLAVOR-Krypton-Live",
+    "ENV-VERSION-Tumbleweed",
     "bootloader-grub2",
     "inst-bootmenu"
   ]

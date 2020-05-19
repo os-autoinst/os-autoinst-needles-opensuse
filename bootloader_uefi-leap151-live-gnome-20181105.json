@@ -1,6 +1,7 @@
 {
   "tags": [
     "boot-live-gnome",
+    "ENV-LEAP-1",
     "bootloader-grub2"
   ],
   "properties": [],

@@ -1,5 +1,8 @@
 {
   "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-Gnome-Live",
+    "ENV-UEFI-1",
     "boot-live-gnome",
     "bootloader-grub2"
   ],
