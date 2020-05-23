@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 99,
+      "xpos": 25,
+      "width": 168,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "ypos": 129,
+      "xpos": 201,
+      "type": "match",
+      "height": 14,
+      "width": 35
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_lan-set-hostname-via-dhcp-NO-selected"
+  ]
+}
