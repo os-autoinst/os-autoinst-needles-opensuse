@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 30,
+      "width": 570,
+      "xpos": 0,
+      "ypos": 736
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-aarch64",
+    "ENV-DISTRI-KUBIC",
+    "startshell"
+  ]
+}
