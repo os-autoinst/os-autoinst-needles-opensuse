@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 125,
+      "type": "match",
+      "xpos": 507,
+      "ypos": 419,
+      "height": 99
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-send-full-diagnostic-data"
+  ]
+}
