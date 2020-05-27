@@ -13,13 +13,20 @@
       "type": "match",
       "height": 336,
       "width": 700
+    },
+    {
+      "xpos": 387,
+      "ypos": 176,
+      "width": 27,
+      "height": 17,
+      "type": "exclude"
     }
   ],
   "properties": [],
   "tags": [
     "ENV-DISTRI-opensuse",
     "ENV-LEAP-1",
-    "ENV-VERSION-15.1",
+    "ENV-VERSION-15.2",
     "bootloader-grub2",
     "inst-bootmenu"
   ]
