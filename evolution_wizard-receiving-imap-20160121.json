@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 286,
+      "ypos": 167,
+      "width": 103,
+      "height": 31,
+      "type": "match",
+      "click_point": {
+        "xpos": 51.5,
+        "ypos": 15.5
+      }
+    }
+  ],
+  "tags": [
+    "evolution_wizard-receiving-imap"
+  ],
+  "properties": []
+}

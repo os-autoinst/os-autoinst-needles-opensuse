@@ -1,0 +1,20 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "evolution_wizard-receiving-imap"
+  ],
+  "area": [
+    {
+      "width": 103,
+      "ypos": 124,
+      "type": "match",
+      "height": 31,
+      "xpos": 365,
+	"click_point": {
+        "xpos": 51.5,
+        "ypos": 15.5
+      }
+    }
+  ]
+}

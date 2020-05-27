@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "height": 70,
+      "width": 145,
+      "xpos": 208,
+      "ypos": 502,
+      "type": "match"
+    },
+    {
+      "xpos": 750,
+      "ypos": 589,
+      "width": 38,
+      "height": 16,
+      "type": "match",
+      "click_point": {
+        "xpos": 19,
+        "ypos": 8
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "asia-shanghai-timezone-setup-click"
+  ]
+}

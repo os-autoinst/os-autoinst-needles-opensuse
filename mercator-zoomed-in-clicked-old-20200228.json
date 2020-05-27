@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 240,
+      "width": 562,
+      "height": 179,
+      "type": "match",
+      "ypos": 275
+    },
+    {
+      "xpos": 228,
+      "width": 576,
+      "height": 28,
+      "type": "match",
+      "ypos": 522,
+      "click_point": {
+        "xpos": 288,
+        "ypos": 14
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "mercator-zoomed-in-clicked"
+  ]
+}
