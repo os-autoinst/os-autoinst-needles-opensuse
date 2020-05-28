@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 2,
+      "type": "match",
+      "height": 11,
+      "width": 62,
+      "xpos": 16
+    },
+    {
+      "xpos": 6,
+      "width": 313,
+      "height": 10,
+      "type": "match",
+      "ypos": 227
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nano"
+  ]
+}
