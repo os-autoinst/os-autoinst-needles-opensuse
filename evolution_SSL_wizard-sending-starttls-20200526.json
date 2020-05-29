@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 178,
+      "height": 18,
+      "type": "match",
+      "ypos": 300,
+      "xpos": 327
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_SSL_wizard-sending-starttls"
+  ]
+}

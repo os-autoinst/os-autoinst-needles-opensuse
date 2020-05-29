@@ -1,16 +1,15 @@
 {
   "area": [
     {
-      "xpos": 236,
-      "height": 23,
       "type": "match",
-      "ypos": 582,
+      "ypos": 84,
+      "xpos": 274,
       "width": 54,
-      "match": 85
+      "height": 18
     }
   ],
   "properties": [],
   "tags": [
-    "timezone-asia"
+    "evolution_wizard-sending-smtp"
   ]
 }

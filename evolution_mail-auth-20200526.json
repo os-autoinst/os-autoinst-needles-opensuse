@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 412,
+      "height": 24,
+      "type": "match",
+      "ypos": 250,
+      "width": 196
+    },
+    {
+      "ypos": 421,
+      "width": 77,
+      "height": 28,
+      "xpos": 203,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_mail-auth"
+  ]
+}
