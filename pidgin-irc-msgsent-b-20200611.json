@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 183,
+      "type": "match",
+      "height": 21,
+      "width": 124,
+      "xpos": 350,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pidgin-irc-msgsent"
+  ]
+}
