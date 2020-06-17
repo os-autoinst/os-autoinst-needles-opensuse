@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 550,
+      "ypos": 13,
+      "width": 91,
+      "height": 48,
+      "type": "match"
+    },
+    {
+      "xpos": 395,
+      "ypos": 10,
+      "width": 77,
+      "height": 50,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1173063"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "chromium-main-window",
+    "desktop-runner-border"
+  ]
+}
