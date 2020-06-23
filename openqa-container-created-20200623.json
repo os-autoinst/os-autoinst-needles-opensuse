@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 892,
+      "type": "match",
+      "ypos": 736,
+      "xpos": 0,
+      "height": 17
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "openqa-container-created"
+  ]
+}
