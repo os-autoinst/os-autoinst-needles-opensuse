@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 627,
+      "height": 373,
+      "xpos": 0,
+      "ypos": 0
+    },
+    {
+      "xpos": 298,
+      "ypos": 127,
+      "type": "exclude",
+      "width": 47,
+      "height": 33
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-Krypton-Live",
+    "ENV-VERSION-Tumbleweed",
+    "bootloader-grub2",
+    "inst-bootmenu"
+  ]
+}
