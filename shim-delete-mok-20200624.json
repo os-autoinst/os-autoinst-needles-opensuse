@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 310,
+      "ypos": 83,
+      "width": 181,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 359,
+      "ypos": 277,
+      "width": 88,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "shim-delete-mok"
+  ]
+}
