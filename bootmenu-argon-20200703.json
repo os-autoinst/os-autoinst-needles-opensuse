@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "ypos": 16,
+      "xpos": 70,
+      "type": "match",
+      "width": 684,
+      "height": 154
+    },
+    {
+      "ypos": 215,
+      "xpos": 95,
+      "type": "match",
+      "width": 128,
+      "height": 23
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-FLAVOR-Argon-Live",
+    "ENV-LIVECD-1",
+    "boot-live-kde",
+    "bootloader",
+    "inst-bootmenu"
+  ]
+}
