@@ -1,23 +1,26 @@
 {
   "area": [
     {
-      "width": 144,
-      "ypos": 737,
+      "xpos": 659,
       "type": "match",
-      "height": 27,
-      "xpos": 734
+      "width": 130,
+      "ypos": 598,
+      "height": 18
     },
     {
-      "xpos": 659,
-      "ypos": 598,
-      "width": 130,
-      "height": 18,
-      "type": "match"
+      "xpos": 935,
+      "ypos": 669,
+      "width": 40,
+      "height": 12,
+      "type": "match",
+      "click_point": {
+        "xpos": 20,
+        "ypos": 6
+      }
     }
   ],
   "properties": [],
   "tags": [
-    "updates_installed-restart",
-    "updates_none"
+    "updates_installed-restart"
   ]
 }
