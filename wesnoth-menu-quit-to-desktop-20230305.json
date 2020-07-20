@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 129,
+      "type": "ocr",
+      "ypos": 460,
+      "xpos": 23,
+      "height": 24,
+      "refstr": "Quit to Desktop",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-menu-quit-to-desktop"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 35,
+      "type": "match",
+      "height": 49,
+      "xpos": 544,
+      "ypos": 373
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-fortress-field"
+  ]
+}

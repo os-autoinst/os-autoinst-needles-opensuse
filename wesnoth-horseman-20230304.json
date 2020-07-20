@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 50,
+      "height": 60,
+      "ypos": 404,
+      "xpos": 485
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-horseman"
+  ]
+}
