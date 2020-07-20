@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 842,
+      "ypos": 344,
+      "width": 109,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-campaign-button"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 713,
+      "ypos": 701,
+      "width": 165,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-play-btn"
+  ]
+}

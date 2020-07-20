@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 0,
+      "width": 1019,
+      "height": 720,
+      "type": "match"
+    },
+    {
+      "xpos": 38,
+      "ypos": 433,
+      "width": 707,
+      "height": 186,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth"
+  ]
+}

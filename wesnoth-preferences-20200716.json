@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 842,
+      "ypos": 543,
+      "width": 108,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-preferences"
+  ]
+}

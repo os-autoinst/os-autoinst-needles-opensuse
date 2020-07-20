@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 399,
+      "ypos": 515,
+      "width": 103,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-difficulty-confirm"
+  ]
+}

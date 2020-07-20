@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 24,
+      "ypos": 188,
+      "width": 255,
+      "height": 69,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-campaign-brothers-select"
+  ]
+}

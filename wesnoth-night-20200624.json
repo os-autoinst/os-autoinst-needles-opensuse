@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 850,
+      "ypos": 314,
+      "width": 160,
+      "height": 42,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-night"
+  ]
+}

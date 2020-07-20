@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 16,
+      "ypos": 166,
+      "width": 238,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-save-game"
+  ]
+}

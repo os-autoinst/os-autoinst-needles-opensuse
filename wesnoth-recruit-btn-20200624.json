@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 525,
+      "ypos": 648,
+      "width": 102,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-recruit-btn"
+  ]
+}

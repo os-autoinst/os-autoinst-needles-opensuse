@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 551,
+      "ypos": 392,
+      "width": 95,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-confirm-endturn"
+  ]
+}
