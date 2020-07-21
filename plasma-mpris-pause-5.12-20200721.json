@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 105,
+      "height": 67,
+      "ypos": 649,
+      "xpos": 748
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "plasma-mpris-pause"
+  ]
+}
