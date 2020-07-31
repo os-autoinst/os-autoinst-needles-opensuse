@@ -1,36 +1,34 @@
 {
   "area": [
     {
-      "width": 57,
-      "ypos": 149,
-      "type": "match",
       "height": 20,
-      "xpos": 901
+      "type": "match",
+      "xpos": 901,
+      "ypos": 149,
+      "width": 57
     },
     {
-      "width": 129,
-      "type": "match",
+      "width": 80,
       "ypos": 70,
       "xpos": 6,
-      "height": 23
+      "height": 23,
+      "type": "match"
     },
     {
-      "width": 225,
-      "type": "match",
-      "ypos": 32,
+      "xpos": 403,
       "height": 24,
-      "xpos": 398
+      "type": "match",
+      "width": 220,
+      "ypos": 32
     },
     {
-      "width": 39,
       "ypos": 151,
+      "width": 39,
       "type": "match",
-      "xpos": 252,
-      "height": 16
+      "height": 16,
+      "xpos": 252
     }
   ],
   "properties": [],
-  "tags": [
-    "rstudio_server-logged-in"
-  ]
+  "tags": ["rstudio_server-logged-in"]
 }
