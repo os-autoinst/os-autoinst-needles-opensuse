@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "ypos": 720,
+      "width": 570,
+      "type": "match",
+      "height": 10,
+      "xpos": 0
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1174858"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "startshell"
+  ]
+}
