@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 24,
+      "ypos": 216,
+      "width": 219,
+      "xpos": 92,
+      "type": "match"
+    },
+    {
+      "xpos": 13,
+      "type": "match",
+      "height": 54,
+      "ypos": 6,
+      "width": 235
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-15.1",
+    "bootloader-grub2"
+  ]
+}
