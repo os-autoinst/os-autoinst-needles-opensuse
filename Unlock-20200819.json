@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 472,
+      "ypos": 457,
+      "width": 80,
+      "height": 39,
+      "type": "match",
+      "match": 86,
+      "click_point": {
+        "xpos": 40,
+        "ypos": 19.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "Unlock"
+  ]
+}
