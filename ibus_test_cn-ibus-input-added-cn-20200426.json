@@ -12,7 +12,11 @@
       "width": 547,
       "height": 36,
       "ypos": 367,
-      "xpos": 382
+      "xpos": 382,
+      "click_point": {
+        "xpos": 522,
+        "ypos": 20
+      }
     }
   ],
   "properties": [],
