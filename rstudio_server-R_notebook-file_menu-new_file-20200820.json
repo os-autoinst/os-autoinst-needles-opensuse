@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 74,
+      "ypos": 149,
+      "width": 26,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 91,
+      "ypos": 176,
+      "width": 72,
+      "height": 19,
+      "type": "match",
+      "click_point": {
+        "xpos": 36,
+        "ypos": 9.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-R_notebook-file_menu-new_file"
+  ]
+}
