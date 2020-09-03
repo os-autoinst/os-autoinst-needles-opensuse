@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 119,
+      "ypos": 34,
+      "width": 217,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "win-ad-powershell"
+  ]
+}

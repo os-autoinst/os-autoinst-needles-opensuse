@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 487,
+      "ypos": 515,
+      "width": 58,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "mmc-geeko-unix-gid-ok"
+  ]
+}

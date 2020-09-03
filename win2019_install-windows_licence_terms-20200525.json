@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 238,
+      "ypos": 501,
+      "width": 19,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 750,
+      "ypos": 550,
+      "width": 42,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows_licence_terms"
+  ]
+}

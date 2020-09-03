@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 61,
+      "xpos": 532,
+      "height": 21,
+      "ypos": 439,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "VMDP-reboot"
+  ]
+}

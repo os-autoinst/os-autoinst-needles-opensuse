@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 376,
+      "ypos": 372,
+      "width": 268,
+      "height": 54,
+      "type": "match"
+    },
+    {
+      "xpos": 406,
+      "ypos": 456,
+      "width": 134,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows_server_login"
+  ]
+}
