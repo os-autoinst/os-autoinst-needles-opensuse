@@ -10,8 +10,7 @@
   ],
   "tags": [
     "ENV-FLAVOR-JeOS-for-kvm",
-    "jeos-locale",
-    "jeos-system-locale-en_US"
+    "jeos-lang-warning"
   ],
   "properties": []
 }
