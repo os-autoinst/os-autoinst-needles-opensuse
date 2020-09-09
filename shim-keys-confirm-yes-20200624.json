@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 385,
+      "ypos": 295,
+      "width": 35,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "shim-keys-confirm-yes"
+  ]
+}

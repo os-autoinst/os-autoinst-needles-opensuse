@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 298,
+      "ypos": 86,
+      "width": 194,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 371,
+      "ypos": 258,
+      "width": 54,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "shim-perform-mok-reboot"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 330,
+      "ypos": 273,
+      "width": 127,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 307,
+      "ypos": 84,
+      "width": 194,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "shim-enroll-mok"
+  ]
+}

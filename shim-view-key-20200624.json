@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 368,
+      "ypos": 274,
+      "height": 11,
+      "type": "match",
+      "width": 64
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "shim-view-key"
+  ]
+}

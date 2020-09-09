@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 197,
+      "type": "match",
+      "xpos": 298,
+      "ypos": 84,
+      "height": 10
+    },
+    {
+      "xpos": 237,
+      "ypos": 294,
+      "height": 16,
+      "type": "match",
+      "width": 326
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-UEFI-1",
+    "shim-key-management"
+  ]
+}
