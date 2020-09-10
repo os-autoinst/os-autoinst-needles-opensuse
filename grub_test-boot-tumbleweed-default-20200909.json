@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 97,
+      "ypos": 218,
+      "width": 155,
+      "height": 23,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 363,
+      "ypos": 220,
+      "width": 55,
+      "height": 17,
+      "type": "match",
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "boot-tumbleweed-default"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 100,
+      "ypos": 220,
+      "width": 99,
+      "height": 17,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 415,
+      "ypos": 218,
+      "width": 52,
+      "height": 20,
+      "type": "match",
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "boot-leap-default"
+  ]
+}
