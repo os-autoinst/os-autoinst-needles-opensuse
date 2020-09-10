@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 27,
+      "ypos": 80,
+      "width": 271,
+      "height": 85,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-ppc64le",
+    "ENV-DISTRI-microos",
+    "inst-bootmenu"
+  ]
+}

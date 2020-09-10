@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 218,
+      "height": 18,
+      "xpos": 0,
+      "ypos": 63
+    },
+    {
+      "ypos": 209,
+      "xpos": 75,
+      "type": "match",
+      "width": 59,
+      "height": 13
+    },
+    {
+      "xpos": 2,
+      "type": "match",
+      "height": 10,
+      "width": 106,
+      "ypos": 146
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-microos",
+    "linux-login-casp"
+  ]
+}
