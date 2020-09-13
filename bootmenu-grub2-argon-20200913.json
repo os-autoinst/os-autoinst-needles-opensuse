@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "width": 81,
+      "xpos": 69,
+      "ypos": 178,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "width": 197,
+      "xpos": 18,
+      "ypos": 8,
+      "height": 52,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-FLAVOR-Argon-Live",
+    "ENV-LIVECD-1",
+    "ENV-LEAP-1",
+    "boot-live-kde",
+    "bootloader-grub2",
+    "inst-bootmenu"
+  ]
+}
