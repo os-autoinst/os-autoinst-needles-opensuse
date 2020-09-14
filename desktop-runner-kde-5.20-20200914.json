@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 247,
+      "type": "match",
+      "height": 38,
+      "ypos": 0,
+      "width": 528
+    },
+    {
+      "xpos": 291,
+      "ypos": 11,
+      "width": 407,
+      "height": 21,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "desktop-runner",
+    "ENV-DESKTOP-kde"
+  ]
+}
