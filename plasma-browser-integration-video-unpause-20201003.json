@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 12,
+      "type": "match",
+      "ypos": 687,
+      "height": 29,
+      "width": 44
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "plasma-browser-integration-video-unpause"
+  ]
+}
