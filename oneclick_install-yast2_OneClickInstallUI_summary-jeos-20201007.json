@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 17,
+      "height": 12,
+      "ypos": 35,
+      "width": 163,
+      "type": "match"
+    },
+    {
+      "width": 214,
+      "type": "match",
+      "ypos": 67,
+      "xpos": 33,
+      "height": 46
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_OneClickInstallUI_summary"
+  ]
+}
