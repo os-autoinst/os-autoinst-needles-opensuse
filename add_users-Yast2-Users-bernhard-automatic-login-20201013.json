@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 210,
+      "ypos": 315,
+      "width": 380,
+      "height": 61,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "Yast2-Users-bernhard-automatic-login"
+  ]
+}
