@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 96,
+      "width": 114,
+      "height": 54,
+      "type": "match",
+      "ypos": 251,
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "opensuse-leap"
+  ]
+}
