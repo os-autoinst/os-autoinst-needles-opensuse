@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 192,
+      "width": 174,
+      "height": 17,
+      "xpos": 27
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "system-role-gnome-selected"
+  ]
+}
