@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 789,
+      "ypos": 30,
+      "width": 215,
+      "height": 42,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wint_manage_server"
+  ]
+}

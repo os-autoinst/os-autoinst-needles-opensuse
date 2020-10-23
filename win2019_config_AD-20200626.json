@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 706,
+      "width": 211,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "InstallAD-pwd"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 515,
+      "ypos": 373,
+      "width": 33,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-additional-partitions"
+  ]
+}
