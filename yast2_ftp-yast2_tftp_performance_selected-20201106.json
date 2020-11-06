@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 44,
+      "width": 106,
+      "ypos": 81,
+      "height": 14
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_tftp_performance_selected"
+  ]
+}
