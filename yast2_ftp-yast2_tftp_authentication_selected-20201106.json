@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 38,
+      "width": 142,
+      "ypos": 97,
+      "height": 14
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_tftp_authentication_selected"
+  ]
+}
