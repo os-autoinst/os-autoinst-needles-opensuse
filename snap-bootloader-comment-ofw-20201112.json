@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 14,
+      "ypos": 97,
+      "width": 148,
+      "xpos": 215,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-OFW-1",
+    "snap-bootloader-comment"
+  ]
+}
