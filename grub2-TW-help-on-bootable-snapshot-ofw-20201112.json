@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "height": 236,
+      "ypos": 244,
+      "type": "match",
+      "width": 546,
+      "xpos": 4
+    },
+    {
+      "height": 20,
+      "ypos": 218,
+      "width": 55,
+      "xpos": 271,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-OFW-1",
+    "ENV-VERSION-Tumbleweed",
+    "bootloader",
+    "grub2"
+  ]
+}
