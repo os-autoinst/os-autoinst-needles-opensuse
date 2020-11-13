@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 478,
+      "ypos": 353,
+      "width": 171,
+      "height": 19,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 170,
+      "ypos": 351,
+      "width": 36,
+      "height": 26,
+      "type": "match",
+      "margin": 50,
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "snapshot-before-upgrade"
+  ]
+}

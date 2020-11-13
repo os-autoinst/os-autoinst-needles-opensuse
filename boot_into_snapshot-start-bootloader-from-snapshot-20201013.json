@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 98,
+      "ypos": 285,
+      "width": 303,
+      "height": 23,
+      "type": "match",
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "start-bootloader-from-snapshot"
+  ]
+}
