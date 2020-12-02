@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 474,
+      "type": "match",
+      "width": 113,
+      "ypos": 236,
+      "height": 44,
+      "match": 80
+    },
+    {
+      "ypos": 245,
+      "height": 30,
+      "type": "exclude",
+      "xpos": 524,
+      "width": 10
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnuhealth-client-manage_profiles-host_textfield_selected"
+  ]
+}
