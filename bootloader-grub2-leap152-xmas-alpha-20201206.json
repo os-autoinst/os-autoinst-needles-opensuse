@@ -1,0 +1,41 @@
+{
+  "area": [
+    {
+      "ypos": 595,
+      "type": "match",
+      "xpos": 475,
+      "height": 121,
+      "width": 548
+    },
+    {
+      "type": "match",
+      "ypos": 0,
+      "width": 574,
+      "height": 315,
+      "xpos": 22
+    },
+    {
+      "type": "exclude",
+      "ypos": 166,
+      "width": 18,
+      "xpos": 502,
+      "height": 21
+    },
+    {
+      "type": "exclude",
+      "ypos": 90,
+      "width": 389,
+      "height": 44,
+      "xpos": 194
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-LEAP-1",
+    "ENV-VERSION-15.2",
+    "CHRISTMAS",
+    "bootloader-grub2",
+    "inst-bootmenu"
+  ]
+}
