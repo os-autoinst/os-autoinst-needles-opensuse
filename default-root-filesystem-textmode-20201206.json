@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 308,
+      "width": 132,
+      "height": 29,
+      "xpos": 384
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "default-root-filesystem"
+  ]
+}
