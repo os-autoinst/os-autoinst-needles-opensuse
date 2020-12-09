@@ -12,7 +12,11 @@
       "ypos": 34,
       "height": 23,
       "type": "match",
-      "xpos": 740
+      "xpos": 740,
+      "click_point": {
+        "xpos": 11.5,
+        "ypos": 11.5
+      }
     }
   ],
   "properties": [],
