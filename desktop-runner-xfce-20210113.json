@@ -4,16 +4,18 @@
       "xpos": 316,
       "width": 392,
       "height": 94,
-      "type": "match",
-      "ypos": 336
-    }
-  ],
-  "properties": [
+      "ypos": 336,
+      "type": "match"
+    },
     {
-      "name": "workaround",
-      "value": "boo#1180853"
+      "xpos": 494,
+      "ypos": 373,
+      "width": 42,
+      "height": 36,
+      "type": "exclude"
     }
   ],
+  "properties": [],
   "tags": [
     "desktop-runner",
     "ENV-DESKTOP-xfce"
