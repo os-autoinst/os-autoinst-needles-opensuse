@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 316,
+      "width": 392,
+      "height": 94,
+      "type": "match",
+      "ypos": 336
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1180853"
+    }
+  ],
+  "tags": [
+    "desktop-runner",
+    "ENV-DESKTOP-xfce"
+  ]
+}
