@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 685,
+      "width": 83,
+      "height": 27,
+      "xpos": 606
+    },
+    {
+      "xpos": 787,
+      "width": 10,
+      "height": 10,
+      "ypos": 729,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "plasma_kickoff_leave"
+  ]
+}
