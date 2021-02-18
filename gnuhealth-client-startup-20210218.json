@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 268,
+      "xpos": 263,
+      "height": 72,
+      "width": 293
+    },
+    {
+      "height": 20,
+      "type": "match",
+      "xpos": 683,
+      "ypos": 554,
+      "width": 67
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnuhealth-client-startup"
+  ]
+}
