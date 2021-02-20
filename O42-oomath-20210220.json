@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "height": 137,
+      "ypos": 263,
+      "type": "match",
+      "xpos": 568,
+      "width": 203
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1127895"
+    }
+  ],
+  "tags": [
+    "test-oomath-1",
+    "ENV-INSTLANG-en_US"
+  ]
+}
