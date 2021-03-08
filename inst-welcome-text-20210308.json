@@ -1,0 +1,49 @@
+{
+  "area": [
+    {
+      "height": 30,
+      "xpos": 11,
+      "width": 340,
+      "ypos": 32,
+      "type": "match"
+    },
+    {
+      "xpos": 18,
+      "height": 14,
+      "width": 93,
+      "type": "match",
+      "ypos": 82
+    },
+    {
+      "width": 136,
+      "xpos": 514,
+      "height": 32,
+      "type": "match",
+      "ypos": 66
+    },
+    {
+      "ypos": 122,
+      "type": "match",
+      "width": 189,
+      "height": 54,
+      "xpos": 9
+    },
+    {
+      "ypos": 722,
+      "type": "match",
+      "height": 23,
+      "xpos": 956,
+      "width": 48
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "inst-welcome",
+    "installation",
+    "languagepicked"
+  ]
+}
