@@ -1,0 +1,37 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 426,
+      "xpos": 295,
+      "height": 81,
+      "ypos": 307
+    },
+    {
+      "xpos": 954,
+      "width": 28,
+      "type": "match",
+      "ypos": 720,
+      "height": 19
+    },
+    {
+      "ypos": 721,
+      "height": 16,
+      "width": 47,
+      "xpos": 9,
+      "type": "match"
+    },
+    {
+      "ypos": 402,
+      "height": 19,
+      "width": 293,
+      "xpos": 289,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "online-repos-popup"
+  ]
+}
