@@ -1,0 +1,45 @@
+{
+  "area": [
+    {
+      "width": 340,
+      "height": 30,
+      "ypos": 30,
+      "xpos": 11,
+      "type": "match"
+    },
+    {
+      "width": 93,
+      "ypos": 80,
+      "height": 14,
+      "xpos": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 518,
+      "type": "match",
+      "width": 136,
+      "ypos": 62,
+      "height": 32
+    },
+    {
+      "type": "match",
+      "xpos": 9,
+      "height": 54,
+      "ypos": 121,
+      "width": 189
+    },
+    {
+      "xpos": 954,
+      "type": "match",
+      "width": 48,
+      "ypos": 721,
+      "height": 18
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "inst-welcome"
+  ]
+}
