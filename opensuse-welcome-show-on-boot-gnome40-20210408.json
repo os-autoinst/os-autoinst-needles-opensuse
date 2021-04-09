@@ -8,11 +8,11 @@
       "ypos": 137
     },
     {
-      "height": 34,
-      "xpos": 0,
-      "type": "match",
+      "ypos": 0,
       "width": 100,
-      "ypos": 0
+      "type": "match",
+      "height": 34,
+      "xpos": 0
     },
     {
       "ypos": 169,
@@ -22,18 +22,18 @@
       "height": 29
     },
     {
-      "width": 672,
-      "ypos": 507,
-      "height": 36,
+      "type": "exclude",
       "xpos": 161,
-      "type": "exclude"
+      "height": 36,
+      "ypos": 507,
+      "width": 672
     },
     {
-      "ypos": 556,
-      "width": 62,
-      "type": "ocr",
-      "xpos": 473,
-      "height": 64
+      "type": "match",
+      "height": 59,
+      "xpos": 474,
+      "ypos": 560,
+      "width": 62
     }
   ],
   "properties": [],
