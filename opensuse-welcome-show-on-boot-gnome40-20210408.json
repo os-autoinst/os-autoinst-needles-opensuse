@@ -1,15 +1,44 @@
 {
   "area": [
     {
+      "width": 676,
+      "ypos": 137,
+      "height": 456,
+      "xpos": 164,
+      "type": "match"
+    },
+    {
+      "width": 149,
       "ypos": 565,
-      "type": "match",
-      "width": 153,
-      "xpos": 604,
-      "height": 16
+      "height": 19,
+      "xpos": 608,
+      "type": "match"
+    },
+    {
+      "width": 363,
+      "ypos": 169,
+      "height": 29,
+      "xpos": 177,
+      "type": "exclude"
+    },
+    {
+      "type": "exclude",
+      "xpos": 161,
+      "height": 36,
+      "ypos": 507,
+      "width": 672
+    },
+    {
+      "xpos": 474,
+      "ypos": 556,
+      "width": 62,
+      "height": 64,
+      "type": "exclude"
     }
   ],
   "properties": [],
   "tags": [
+    "opensuse-welcome",
     "opensuse-welcome-show-on-boot"
   ]
 }
