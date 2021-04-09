@@ -1,22 +1,22 @@
 {
   "area": [
     {
-      "xpos": 151,
-      "height": 252,
-      "type": "match",
-      "width": 442,
-      "ypos": 215
+      "width": 81,
+      "ypos": 532,
+      "xpos": 462,
+      "height": 84,
+      "type": "match"
     },
     {
-      "ypos": 178,
-      "width": 40,
-      "type": "match",
-      "height": 22,
-      "xpos": 322
+      "width": 97,
+      "ypos": 0,
+      "height": 30,
+      "xpos": 0,
+      "type": "match"
     }
   ],
   "properties": [],
   "tags": [
-    "xterm"
+    "xterm-activities"
   ]
 }
