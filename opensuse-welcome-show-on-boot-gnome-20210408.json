@@ -15,25 +15,32 @@
       "type": "match"
     },
     {
-      "width": 363,
       "ypos": 169,
+      "width": 363,
+      "type": "exclude",
       "height": 29,
-      "xpos": 177,
-      "type": "exclude"
+      "xpos": 177
     },
     {
       "type": "exclude",
-      "xpos": 161,
       "height": 36,
+      "xpos": 161,
       "ypos": 507,
       "width": 672
     },
     {
-      "xpos": 474,
-      "ypos": 556,
-      "width": 62,
       "height": 64,
-      "type": "exclude"
+      "xpos": 474,
+      "type": "exclude",
+      "width": 62,
+      "ypos": 556
+    },
+    {
+      "xpos": 614,
+      "ypos": 564,
+      "width": 15,
+      "height": 17,
+      "type": "match"
     }
   ],
   "properties": [],
