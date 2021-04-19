@@ -1,0 +1,13 @@
+{
+  "properties": [],
+  "tags": ["Firefox-transferring_data_from_localhost"],
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 749,
+      "width": 232,
+      "height": 20,
+      "type": "match"
+    }
+  ]
+}
