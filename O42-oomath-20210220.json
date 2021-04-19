@@ -1,19 +1,14 @@
 {
   "area": [
     {
-      "height": 137,
-      "ypos": 263,
       "type": "match",
-      "xpos": 568,
-      "width": 203
+      "ypos": 263,
+      "width": 203,
+      "height": 137,
+      "xpos": 568
     }
   ],
-  "properties": [
-    {
-      "name": "workaround",
-      "value": "bsc#1127895"
-    }
-  ],
+  "properties": [],
   "tags": [
     "test-oomath-1",
     "ENV-INSTLANG-en_US"
