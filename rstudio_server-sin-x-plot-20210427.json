@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 561,
+      "width": 440,
+      "height": 290,
+      "type": "match",
+      "ypos": 460
+    },
+    {
+      "xpos": 611,
+      "width": 38,
+      "height": 17,
+      "type": "match",
+      "ypos": 368
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-sin-x-plot"
+  ]
+}

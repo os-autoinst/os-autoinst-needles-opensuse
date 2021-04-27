@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "width": 150,
+      "xpos": 437,
+      "ypos": 320,
+      "type": "match",
+      "height": 22
+    },
+    {
+      "xpos": 622,
+      "width": 79,
+      "click_point": {
+        "ypos": 9.5,
+        "xpos": 39.5
+      },
+      "type": "match",
+      "height": 19,
+      "ypos": 453
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-firefox_quit-and-close-tabs"
+  ]
+}
