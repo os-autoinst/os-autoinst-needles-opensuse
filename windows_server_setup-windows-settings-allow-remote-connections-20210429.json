@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 370,
+      "ypos": 325,
+      "width": 311,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-settings-allow-remote-connections"
+  ]
+}
