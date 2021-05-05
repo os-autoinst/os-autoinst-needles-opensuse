@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 168,
+      "type": "match",
+      "height": 21,
+      "ypos": 600,
+      "width": 98
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "openqa-testresult"
+  ]
+}
