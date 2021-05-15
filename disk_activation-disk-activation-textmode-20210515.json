@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 13,
+      "xpos": 16,
+      "width": 119,
+      "type": "match",
+      "ypos": 34
+    },
+    {
+      "xpos": 424,
+      "height": 13,
+      "ypos": 338,
+      "type": "match",
+      "width": 159
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "disk-activation"
+  ]
+}
