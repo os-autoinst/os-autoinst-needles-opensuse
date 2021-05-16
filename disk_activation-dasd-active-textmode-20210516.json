@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 142,
+      "type": "match",
+      "width": 85,
+      "height": 16,
+      "ypos": 113
+    },
+    {
+      "type": "match",
+      "xpos": 71,
+      "width": 66,
+      "height": 11,
+      "ypos": 114
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "dasd-active"
+  ]
+}
