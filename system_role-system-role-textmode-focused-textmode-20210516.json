@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 25,
+      "width": 79,
+      "ypos": 384,
+      "height": 14
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-textmode-focused"
+  ]
+}
