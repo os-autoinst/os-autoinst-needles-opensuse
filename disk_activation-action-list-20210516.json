@@ -1,11 +1,11 @@
 {
   "area": [
     {
-      "xpos": 878,
+      "type": "match",
       "ypos": 658,
       "width": 103,
-      "height": 78,
-      "type": "match"
+      "xpos": 878,
+      "height": 78
     }
   ],
   "properties": [],
