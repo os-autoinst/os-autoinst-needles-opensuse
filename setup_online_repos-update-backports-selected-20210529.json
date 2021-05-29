@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 278,
+      "ypos": 152,
+      "width": 263,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "update-backports-selected"
+  ]
+}
