@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 21,
+      "xpos": 12,
+      "ypos": 82,
+      "width": 209
+    },
+    {
+      "xpos": 17,
+      "ypos": 115,
+      "height": 18,
+      "type": "match",
+      "width": 46
+    },
+    {
+      "xpos": 20,
+      "ypos": 586,
+      "height": 28,
+      "type": "match",
+      "width": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "Yast2-Users-Add"
+  ]
+}
