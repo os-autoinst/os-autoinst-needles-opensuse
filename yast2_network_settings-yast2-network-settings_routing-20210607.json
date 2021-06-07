@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 144,
+      "type": "match",
+      "width": 67,
+      "xpos": 440,
+      "height": 25
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-network-settings_routing"
+  ]
+}
