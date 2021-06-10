@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 118,
+      "width": 147,
+      "height": 50,
+      "type": "match",
+      "ypos": 105
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst_release_notes",
+    "libqt5-qtbase"
+  ]
+}
