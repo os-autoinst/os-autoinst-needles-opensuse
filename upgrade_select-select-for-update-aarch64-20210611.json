@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 277,
+      "ypos": 140,
+      "width": 91,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 503,
+      "ypos": 142,
+      "width": 43,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "select-for-update-aarch64"
+  ]
+}
