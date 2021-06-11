@@ -1,11 +1,11 @@
 {
   "area": [
     {
-      "ypos": 17,
-      "type": "match",
-      "height": 29,
+      "xpos": 4,
       "width": 233,
-      "xpos": 4
+      "height": 29,
+      "type": "match",
+      "ypos": 17
     },
     {
       "type": "match",
@@ -16,22 +16,21 @@
     },
     {
       "type": "match",
-      "ypos": 58,
-      "xpos": 116,
-      "width": 126,
-      "height": 23
+      "ypos": 48,
+      "xpos": 105,
+      "width": 145,
+      "height": 44
     },
     {
-      "ypos": 55,
-      "type": "match",
-      "height": 25,
+      "xpos": 449,
       "width": 122,
-      "xpos": 449
+      "height": 25,
+      "type": "match",
+      "ypos": 55
     }
   ],
   "properties": [],
   "tags": [
-    "ENV-DISTRI-KUBIC",
     "inst-bootloader-settings"
   ]
 }
