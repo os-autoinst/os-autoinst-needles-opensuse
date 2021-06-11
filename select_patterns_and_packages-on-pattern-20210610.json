@@ -1,26 +1,21 @@
 {
   "area": [
     {
+      "height": 31,
       "width": 321,
       "xpos": 383,
-      "height": 31,
-      "type": "match",
-      "ypos": 81
+      "ypos": 81,
+      "type": "match"
     },
     {
-      "type": "match",
       "ypos": 199,
+      "type": "match",
+      "height": 20,
       "width": 172,
-      "xpos": 125,
-      "height": 20
+      "xpos": 125
     }
   ],
-  "properties": [
-    {
-      "name": "workaround",
-      "value": "boo#1176530"
-    }
-  ],
+  "properties": [],
   "tags": [
     "on-pattern",
     "pattern-gnome_x11"
