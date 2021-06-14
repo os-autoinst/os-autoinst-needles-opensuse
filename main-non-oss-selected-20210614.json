@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 185,
+      "type": "match",
+      "height": 16,
+      "xpos": 275,
+      "width": 146
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "main-non-oss-selected"
+  ]
+}
