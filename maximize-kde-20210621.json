@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "width": 68,
+      "ypos": 3,
+      "type": "match",
+      "xpos": 730,
+      "height": 22,
+      "click_point": {
+        "xpos": 34,
+        "ypos": 11
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "maximize"
+  ]
+}
