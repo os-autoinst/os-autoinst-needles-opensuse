@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 615,
+      "type": "match",
+      "width": 67,
+      "height": 29,
+      "ypos": 352,
+      "click_point": {
+        "ypos": 14.5,
+        "xpos": 33.5
+      },
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-click-save-login"
+  ]
+}
