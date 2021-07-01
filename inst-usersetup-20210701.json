@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "ypos": 206,
+      "type": "match",
+      "height": 363,
+      "width": 341,
+      "xpos": 471
+    },
+    {
+      "xpos": 496,
+      "ypos": 378,
+      "width": 32,
+      "height": 38,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-usersetup",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
