@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 14,
+      "height": 11,
+      "ypos": 433,
+      "type": "match",
+      "width": 133,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ui-toolkit-tk"
+  ]
+}
