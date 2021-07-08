@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 308,
+      "ypos": 289,
+      "width": 252,
+      "height": 133,
+      "type": "match",
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pidgin-welcome"
+  ]
+}
