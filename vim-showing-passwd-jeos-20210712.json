@@ -1,0 +1,64 @@
+{
+  "area": [
+    {
+      "width": 334,
+      "height": 10,
+      "xpos": 121,
+      "ypos": 131,
+      "type": "match"
+    },
+    {
+      "width": 384,
+      "height": 15,
+      "ypos": 144,
+      "type": "match",
+      "xpos": 132
+    },
+    {
+      "type": "match",
+      "ypos": 100,
+      "xpos": 2,
+      "height": 10,
+      "width": 422
+    },
+    {
+      "height": 10,
+      "width": 246,
+      "type": "match",
+      "ypos": 2,
+      "xpos": 2
+    },
+    {
+      "ypos": 83,
+      "type": "match",
+      "xpos": 168,
+      "width": 337,
+      "height": 10
+    },
+    {
+      "type": "match",
+      "ypos": 129,
+      "xpos": 0,
+      "height": 14,
+      "width": 54
+    },
+    {
+      "width": 70,
+      "height": 16,
+      "xpos": 0,
+      "ypos": 143,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 80,
+      "xpos": 0,
+      "height": 16,
+      "width": 99
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "vim-showing-passwd-jeos"
+  ]
+}
