@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 361,
+      "ypos": 323,
+      "width": 290,
+      "height": 142,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "os-prober-warning"
+  ]
+}
