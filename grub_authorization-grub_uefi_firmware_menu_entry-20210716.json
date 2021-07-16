@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 96,
+      "ypos": 215,
+      "width": 147,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub_uefi_firmware_menu_entry"
+  ]
+}
