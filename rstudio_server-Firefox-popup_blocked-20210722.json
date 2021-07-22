@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "width": 385,
+      "height": 22,
+      "xpos": 41,
+      "ypos": 126,
+      "type": "match"
+    },
+    {
+      "click_point": {
+        "xpos": 42,
+        "ypos": 10
+      },
+      "xpos": 453,
+      "ypos": 129,
+      "type": "match",
+      "width": 84,
+      "height": 20
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-Firefox-popup_blocked"
+  ]
+}
