@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 28,
+      "type": "match",
+      "xpos": 235,
+      "ypos": 312,
+      "width": 354
+    },
+    {
+      "width": 120,
+      "xpos": 313,
+      "ypos": 355,
+      "type": "match",
+      "height": 14
+    },
+    {
+      "height": 10,
+      "type": "match",
+      "xpos": 234,
+      "ypos": 372,
+      "width": 276
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hexchat-SASL-only-error"
+  ]
+}
