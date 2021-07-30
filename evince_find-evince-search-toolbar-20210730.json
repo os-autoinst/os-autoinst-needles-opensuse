@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 83,
+      "xpos": 315,
+      "height": 39,
+      "type": "match",
+      "width": 391
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "evince-search-toolbar"
+  ]
+}
