@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 20,
+      "ypos": 670,
+      "width": 252,
+      "height": 30,
+      "click_point": {
+        "xpos": 22,
+        "ypos": 18
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_I-understand-the-risks"
+  ]
+}
