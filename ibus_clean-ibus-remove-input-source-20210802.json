@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 832,
+      "ypos": 425,
+      "width": 136,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ibus-remove-input-source"
+  ]
+}
