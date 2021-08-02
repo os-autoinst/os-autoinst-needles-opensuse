@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 318,
+      "ypos": 45,
+      "width": 641,
+      "height": 146,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-control-center-keyboard"
+  ]
+}
