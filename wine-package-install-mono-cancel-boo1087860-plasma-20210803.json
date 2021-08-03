@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 10,
+      "xpos": 445,
+      "ypos": 274,
+      "width": 125
+    },
+    {
+      "height": 16,
+      "width": 42,
+      "xpos": 550,
+      "ypos": 422,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "wine-package-install-mono-cancel"
+  ]
+}
