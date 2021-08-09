@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 115,
+      "ypos": 5,
+      "width": 112,
+      "type": "match",
+      "height": 20
+    },
+    {
+      "xpos": 366,
+      "height": 28,
+      "type": "match",
+      "width": 242,
+      "ypos": 122
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome-calculator-started"
+  ]
+}
