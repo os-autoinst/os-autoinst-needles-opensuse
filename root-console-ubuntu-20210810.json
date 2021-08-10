@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 13,
+      "xpos": 97,
+      "width": 34,
+      "ypos": 449
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "root-console",
+    "log-console"
+  ]
+}
