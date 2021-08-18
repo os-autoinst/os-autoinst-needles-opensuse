@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 8,
+      "width": 180,
+      "type": "match",
+      "height": 169,
+      "ypos": 102
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "poo#90074 - \"Hello World!\" mistyped"
+    }
+  ],
+  "tags": [
+    "test-oocalc-2",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
