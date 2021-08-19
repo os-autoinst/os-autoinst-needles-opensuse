@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 124,
+      "type": "match",
+      "ypos": 32,
+      "xpos": 4,
+      "height": 124
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ui-toolkit-motif"
+  ]
+}
