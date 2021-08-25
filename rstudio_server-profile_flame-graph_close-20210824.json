@@ -1,0 +1,47 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 18,
+      "height": 17,
+      "ypos": 233,
+      "width": 79
+    },
+    {
+      "type": "match",
+      "xpos": 375,
+      "height": 15,
+      "width": 54,
+      "ypos": 253
+    },
+    {
+      "xpos": 470,
+      "type": "match",
+      "width": 34,
+      "ypos": 253,
+      "height": 13
+    },
+    {
+      "xpos": 257,
+      "type": "match",
+      "width": 73,
+      "ypos": 271,
+      "height": 12
+    },
+    {
+      "click_point": {
+        "ypos": 10,
+        "xpos": 70
+      },
+      "width": 80,
+      "ypos": 186,
+      "height": 20,
+      "xpos": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-profile_flame-graph_close"
+  ]
+}
