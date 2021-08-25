@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "ypos": 190,
+      "height": 17,
+      "xpos": 572,
+      "type": "match",
+      "click_point": {
+        "ypos": 8.5,
+        "xpos": 8.5
+      },
+      "width": 149
+    },
+    {
+      "xpos": 825,
+      "type": "match",
+      "ypos": 130,
+      "width": 19,
+      "height": 15
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_desktop-project_git-tab_stage-gitignore"
+  ]
+}

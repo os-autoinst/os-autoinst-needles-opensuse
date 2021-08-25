@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 17,
+      "height": 15,
+      "ypos": 188,
+      "width": 71
+    },
+    {
+      "ypos": 249,
+      "width": 80,
+      "height": 14,
+      "xpos": 127,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 159,
+      "height": 16,
+      "ypos": 316,
+      "width": 79
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_server-R_notebook-open"
+  ]
+}
