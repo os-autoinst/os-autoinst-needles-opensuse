@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "height": 16,
+      "width": 81,
+      "ypos": 285,
+      "type": "match",
+      "xpos": 220
+    },
+    {
+      "width": 101,
+      "ypos": 313,
+      "height": 29,
+      "xpos": 435,
+      "type": "match"
+    },
+    {
+      "click_point": {
+        "ypos": 8.5,
+        "xpos": 26
+      },
+      "width": 52,
+      "xpos": 737,
+      "type": "match",
+      "ypos": 551,
+      "height": 17
+    },
+    {
+      "height": 68,
+      "ypos": 314,
+      "width": 76,
+      "type": "match",
+      "xpos": 346
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rstudio_desktop-about-rstudio-close"
+  ]
+}
