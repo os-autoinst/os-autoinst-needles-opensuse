@@ -1,0 +1,34 @@
+{
+  "area": [
+    {
+      "ypos": 720,
+      "xpos": 179,
+      "width": 502,
+      "type": "match",
+      "height": 34
+    },
+    {
+      "ypos": 733,
+      "xpos": 392,
+      "type": "exclude",
+      "width": 167,
+      "height": 21
+    },
+    {
+      "width": 61,
+      "type": "exclude",
+      "height": 16,
+      "ypos": 720,
+      "xpos": 531
+    }
+  ],
+  "properties": [
+    {
+      "value": "poo#65633 - kernel output from wpa_supplicant test polutes console",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "user-console"
+  ]
+}
