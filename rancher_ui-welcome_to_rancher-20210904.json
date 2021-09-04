@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 223,
+      "ypos": 154,
+      "height": 21,
+      "xpos": 144
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "welcome_to_rancher"
+  ]
+}
