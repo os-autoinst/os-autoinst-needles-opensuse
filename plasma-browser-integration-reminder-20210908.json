@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 25,
+      "xpos": 786,
+      "width": 30,
+      "type": "match",
+      "ypos": 737
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "plasma-browser-integration-reminder"
+  ]
+}
