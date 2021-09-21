@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 525,
+      "ypos": 196,
+      "width": 654,
+      "type": "match",
+      "xpos": 0
+    },
+    {
+      "xpos": 39,
+      "type": "exclude",
+      "width": 258,
+      "height": 41,
+      "ypos": 201
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "kde#442776"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "desktop_mainmenu-kickoff",
+    "test-desktop_mainmenu-1"
+  ]
+}
