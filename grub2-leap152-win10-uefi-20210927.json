@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 0,
+      "width": 490,
+      "ypos": 0,
+      "height": 313
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-UEFI-1",
+    "ENV-VERSION-15.1",
+    "autoyast-boot",
+    "bootloader",
+    "grub2"
+  ]
+}
