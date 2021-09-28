@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "xpos": 361,
+      "ypos": 7,
+      "type": "match",
+      "height": 14,
+      "width": 107
+    },
+    {
+      "type": "match",
+      "width": 23,
+      "height": 23,
+      "click_point": {
+        "ypos": 11.5,
+        "xpos": 11.5
+      },
+      "xpos": 742,
+      "ypos": 3
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "close_vlc"
+  ]
+}
