@@ -1,16 +1,17 @@
 {
   "area": [
     {
-      "type": "match",
-      "width": 38,
-      "height": 36,
+      "ypos": 38,
       "xpos": 933,
-      "ypos": 38
+      "height": 36,
+      "width": 38,
+      "type": "match"
     }
   ],
   "properties": [],
   "tags": [
     "ENV-DESKTOP-gnome",
+    "gedit-menu-icon",
     "gedit-options-icon"
   ]
 }
