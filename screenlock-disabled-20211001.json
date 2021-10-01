@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 231,
+      "type": "match",
+      "ypos": 83,
+      "xpos": 424,
+      "height": 33
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "screenlock-disabled"
+  ]
+}
