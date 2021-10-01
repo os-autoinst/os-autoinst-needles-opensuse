@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 175,
+      "type": "match",
+      "ypos": 184,
+      "xpos": 185,
+      "height": 54
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ibus-daemon-started"
+  ]
+}
