@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 90,
+      "xpos": 26,
+      "ypos": 130,
+      "type": "match",
+      "height": 14
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-microos-selected"
+  ]
+}
