@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 144,
+      "xpos": 12,
+      "ypos": 30,
+      "type": "match",
+      "height": 17
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ntp_config_settings"
+  ]
+}
