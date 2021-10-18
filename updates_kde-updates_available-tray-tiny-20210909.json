@@ -1,17 +1,17 @@
 {
   "area": [
     {
-      "width": 20,
       "type": "match",
-      "xpos": 868,
-      "ypos": 745,
-      "height": 19
+      "xpos": 873,
+      "ypos": 741,
+      "height": 27,
+      "width": 21
     }
   ],
   "properties": [
     {
-      "name": "workaround",
-      "value": "boo#1007701"
+      "value": "boo#1007701",
+      "name": "workaround"
     }
   ],
   "tags": [
