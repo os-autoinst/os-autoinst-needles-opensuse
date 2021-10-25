@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 90,
+      "width": 66,
+      "ypos": 418,
+      "type": "match",
+      "xpos": 749
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "logout-button",
+    "ENV-DESKTOP-kde"
+  ]
+}
