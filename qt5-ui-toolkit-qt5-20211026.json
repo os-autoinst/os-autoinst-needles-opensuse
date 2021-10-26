@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 105,
+      "ypos": 35,
+      "height": 22,
+      "xpos": 747,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ui-toolkit-qt5"
+  ]
+}
