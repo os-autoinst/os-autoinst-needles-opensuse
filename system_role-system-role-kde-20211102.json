@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 291,
+      "type": "match",
+      "ypos": 159,
+      "height": 20,
+      "width": 189
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-kde"
+  ]
+}
