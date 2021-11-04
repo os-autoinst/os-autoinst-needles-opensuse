@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 333,
+      "height": 125,
+      "type": "match",
+      "width": 208,
+      "xpos": 408
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-userpasswdtoosimple",
+    "ENV-DISTRI-opensuse"
+  ]
+}
