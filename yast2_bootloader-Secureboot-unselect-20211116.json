@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 35,
+      "ypos": 130,
+      "width": 181,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_bootloader-Secureboot-unselect"
+  ]
+}
