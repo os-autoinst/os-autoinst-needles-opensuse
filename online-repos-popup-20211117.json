@@ -1,37 +1,37 @@
 {
   "area": [
     {
-      "type": "match",
-      "ypos": 524,
-      "height": 20,
       "width": 39,
-      "xpos": 531
+      "xpos": 531,
+      "height": 20,
+      "type": "match",
+      "ypos": 524
     },
     {
-      "type": "match",
-      "ypos": 525,
       "height": 19,
+      "ypos": 525,
+      "type": "match",
       "width": 46,
       "xpos": 450
     },
     {
       "height": 16,
-      "type": "match",
       "ypos": 487,
+      "type": "match",
       "xpos": 304,
       "width": 199
     },
     {
-      "height": 17,
-      "type": "match",
-      "ypos": 226,
+      "xpos": 24,
       "width": 124,
-      "xpos": 24
+      "ypos": 226,
+      "type": "match",
+      "height": 17
     }
   ],
   "properties": [],
   "tags": [
-    "ENV-VIDEOMODE-text",
+    "ENV-DESKTOP-textmode",
     "online-repos-popup"
   ]
 }
