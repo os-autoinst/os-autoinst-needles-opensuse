@@ -25,6 +25,7 @@
   "properties": [],
   "tags": [
     "ENV-VERSION-Tumbleweed",
+    "ENV-DESKTOP-gnome",
     "displaymanager"
   ]
 }

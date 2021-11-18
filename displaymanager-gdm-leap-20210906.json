@@ -24,6 +24,7 @@
   ],
   "properties": [],
   "tags": [
+    "ENV-DESKTOP-gnome",
     "displaymanager"
   ]
 }
