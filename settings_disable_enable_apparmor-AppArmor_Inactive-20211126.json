@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 201,
+      "ypos": 268,
+      "width": 155,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "AppArmor_Inactive"
+  ]
+}
