@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 32,
+      "type": "match",
+      "height": 13,
+      "ypos": 97,
+      "width": 104
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-bootloder-GRUB2-for-EFI"
+  ]
+}
