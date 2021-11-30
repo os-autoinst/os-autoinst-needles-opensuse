@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 16,
+      "ypos": 96,
+      "type": "match",
+      "xpos": 208,
+      "width": 15
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_lan-hostname-DHCP-no-selected"
+  ]
+}
