@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "height": 19,
+      "type": "match",
+      "ypos": 219,
+      "width": 213,
+      "xpos": 94
+    },
+    {
+      "width": 197,
+      "xpos": 18,
+      "ypos": 8,
+      "type": "match",
+      "height": 52
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-LIVECD-1",
+    "ENV-VERSION-15.4",
+    "boot-live-kde",
+    "inst-bootmenu"
+  ]
+}
