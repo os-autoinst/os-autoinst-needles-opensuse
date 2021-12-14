@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 583,
+      "ypos": 335,
+      "width": 137,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 611,
+      "ypos": 291,
+      "width": 167,
+      "height": 40,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pkit_installing_state"
+  ]
+}
