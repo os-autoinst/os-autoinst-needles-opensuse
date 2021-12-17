@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 282,
+      "click_point": {
+        "ypos": 96,
+        "xpos": 226.5
+      },
+      "height": 192,
+      "ypos": 227,
+      "width": 453,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pidgin-welcome-not-focused"
+  ]
+}
