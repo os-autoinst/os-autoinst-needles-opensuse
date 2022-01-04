@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-ppc64le",
+    "OFW",
+    "grub2"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 92,
+      "height": 32,
+      "ypos": 63,
+      "xpos": 11
+    }
+  ]
+}
