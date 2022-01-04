@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "ypos": 2,
+      "xpos": 0,
+      "type": "match",
+      "height": 11,
+      "width": 31,
+      "match": 80
+    },
+    {
+      "xpos": 176,
+      "type": "match",
+      "ypos": 3,
+      "width": 116,
+      "height": 10,
+      "match": 80
+    }
+  ],
+  "properties": [
+    {
+      "value": "bsc#1126782",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "root-console",
+    "log-console"
+  ]
+}
