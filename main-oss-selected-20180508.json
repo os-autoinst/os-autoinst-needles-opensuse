@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "main-oss-selected"
+  ],
+  "area": [
+    {
+      "xpos": 360,
+      "ypos": 195,
+      "height": 15,
+      "type": "match",
+      "width": 143,
+      "match": 80
+    }
+  ],
+  "properties": []
+}
