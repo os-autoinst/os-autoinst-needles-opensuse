@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-VERSION-15.0",
+    "autoyast-boot",
+    "bootloader",
+    "grub2"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 0,
+      "type": "match",
+      "width": 380,
+      "height": 280,
+      "xpos": 0
+    }
+  ]
+}
