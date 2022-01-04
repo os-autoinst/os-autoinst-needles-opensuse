@@ -1,0 +1,36 @@
+{
+  "tags": [
+    "installation-bootloader-options"
+  ],
+  "area": [
+    {
+      "width": 151,
+      "type": "match",
+      "ypos": 44,
+      "xpos": 324,
+      "height": 22
+    },
+    {
+      "xpos": 429,
+      "ypos": 177,
+      "width": 161,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 533,
+      "ypos": 99,
+      "width": 132,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 538,
+      "ypos": 128,
+      "width": 139,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
