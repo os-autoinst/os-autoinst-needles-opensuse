@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 632,
+      "ypos": 452,
+      "height": 21,
+      "xpos": 185,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome_terminal-1",
+    "ENV-DESKTOP-gnome"
+  ]
+}
