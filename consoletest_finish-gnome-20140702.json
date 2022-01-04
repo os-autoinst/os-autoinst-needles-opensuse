@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "width": 1024,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 0,
+      "height": 633
+    },
+    {
+      "xpos": 433,
+      "ypos": 0,
+      "width": 152,
+      "height": 42,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "x11",
+    "generic-desktop"
+  ]
+}
