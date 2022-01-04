@@ -1,0 +1,19 @@
+{
+  "properties": [],
+  "tags": [
+    "before-role-selection",
+    "desktop-selection",
+    "inst-returned-to-yast",
+    "installation"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 73,
+      "height": 279,
+      "width": 573,
+      "ypos": 181,
+      "match": 100
+    }
+  ]
+}
