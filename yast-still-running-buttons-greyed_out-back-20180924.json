@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 867,
+      "type": "match",
+      "ypos": 724,
+      "height": 41,
+      "width": 77,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast-still-running"
+  ]
+}
