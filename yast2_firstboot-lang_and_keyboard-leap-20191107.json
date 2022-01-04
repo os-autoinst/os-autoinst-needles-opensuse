@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 264,
+      "height": 33,
+      "type": "match",
+      "width": 306,
+      "ypos": 13
+    },
+    {
+      "ypos": 9,
+      "width": 221,
+      "type": "match",
+      "xpos": 11,
+      "height": 93
+    },
+    {
+      "xpos": 453,
+      "height": 76,
+      "type": "match",
+      "width": 156,
+      "ypos": 274
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "lang_and_keyboard"
+  ]
+}
