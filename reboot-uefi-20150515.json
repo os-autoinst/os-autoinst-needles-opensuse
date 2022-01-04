@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 303,
+      "ypos": 267,
+      "width": 196,
+      "height": 66,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-UEFI-1",
+    "bios-boot"
+  ],
+  "properties": []
+}
