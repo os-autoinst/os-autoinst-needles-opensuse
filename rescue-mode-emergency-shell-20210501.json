@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 69,
+      "ypos": 639,
+      "type": "match",
+      "width": 634,
+      "xpos": 0
+    },
+    {
+      "height": 33,
+      "xpos": 0,
+      "type": "match",
+      "width": 267,
+      "ypos": 734
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "emergency-mode"
+  ]
+}
