@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "inst-partitioning-scheme",
+    "storage-ng"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 20,
+      "ypos": 86,
+      "width": 263,
+      "height": 49
+    }
+  ]
+}
