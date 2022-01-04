@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "bootloader",
+    "autoyast-boot",
+    "grub2"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 31,
+      "ypos": 10,
+      "width": 201,
+      "height": 97
+    },
+    {
+      "xpos": 154,
+      "ypos": 209,
+      "type": "match",
+      "height": 38,
+      "width": 135
+    }
+  ]
+}
