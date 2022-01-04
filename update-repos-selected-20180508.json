@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 356,
+      "width": 172,
+      "type": "match",
+      "ypos": 168,
+      "height": 27,
+      "match": 80
+    }
+  ],
+  "tags": [
+    "update-repos-selected"
+  ]
+}
