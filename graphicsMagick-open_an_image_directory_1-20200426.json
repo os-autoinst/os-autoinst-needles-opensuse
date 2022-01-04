@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 30,
+      "height": 32,
+      "width": 215,
+      "xpos": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "open_an_image_directory_1"
+  ]
+}
