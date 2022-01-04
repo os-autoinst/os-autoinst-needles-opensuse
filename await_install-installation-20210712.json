@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 35,
+      "width": 191,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 48,
+      "ypos": 98,
+      "width": 40,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "installation"
+  ]
+}
