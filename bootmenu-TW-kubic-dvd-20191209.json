@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 250,
+      "xpos": 0,
+      "ypos": 0,
+      "width": 800
+    },
+    {
+      "width": 26,
+      "ypos": 170,
+      "xpos": 525,
+      "height": 22,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-kubic",
+    "bootloader",
+    "inst-bootmenu"
+  ]
+}
