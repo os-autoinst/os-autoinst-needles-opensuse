@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "inst-networksettings"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 29,
+      "height": 37,
+      "type": "match",
+      "ypos": 91,
+      "width": 259
+    }
+  ]
+}
