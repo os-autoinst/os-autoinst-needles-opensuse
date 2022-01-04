@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ssh-second-xterm"
+  ],
+  "area": [
+    {
+      "xpos": 525,
+      "width": 76,
+      "type": "match",
+      "ypos": 31,
+      "height": 17
+    }
+  ],
+  "properties": []
+}
