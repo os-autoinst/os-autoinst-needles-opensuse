@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 387,
+      "ypos": 119,
+      "width": 62,
+      "height": 45,
+      "type": "match"
+    },
+    {
+      "xpos": 7,
+      "ypos": 412,
+      "width": 20,
+      "height": 23,
+      "type": "match",
+      "match": 60
+    }
+  ],
+  "tags": [
+    "vlc-done-playing"
+  ],
+  "properties": []
+}

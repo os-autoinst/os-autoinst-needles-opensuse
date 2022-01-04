@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "xterm"
+  ],
+  "area": [
+    {
+      "width": 442,
+      "ypos": 62,
+      "xpos": 0,
+      "type": "match",
+      "height": 252
+    },
+    {
+      "height": 18,
+      "type": "match",
+      "ypos": 30,
+      "xpos": 127,
+      "width": 30
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 455,
+      "ypos": 431,
+      "width": 39,
+      "type": "match",
+      "height": 20
+    },
+    {
+      "ypos": 429,
+      "xpos": 526,
+      "type": "match",
+      "width": 46,
+      "height": 19
+    },
+    {
+      "height": 16,
+      "type": "match",
+      "width": 199,
+      "ypos": 391,
+      "xpos": 376
+    },
+    {
+      "ypos": 259,
+      "xpos": 49,
+      "type": "match",
+      "width": 124,
+      "height": 17
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "online-repos-popup"
+  ]
+}

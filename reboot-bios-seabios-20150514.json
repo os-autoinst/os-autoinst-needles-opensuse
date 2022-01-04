@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "bios-boot",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US"
+
+  ],
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 1,
+      "width": 165,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

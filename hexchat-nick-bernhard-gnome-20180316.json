@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "hexchat-nick-bernhard"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 331,
+      "height": 37,
+      "ypos": 183,
+      "width": 326
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 146,
+      "height": 35,
+      "width": 201,
+      "type": "match",
+      "ypos": 199
+    },
+    {
+      "width": 35,
+      "ypos": 171,
+      "type": "match",
+      "height": 29,
+      "xpos": 800
+    }
+  ],
+  "tags": [
+    "gnome-terminal-second-tab"
+  ]
+}

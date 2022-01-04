@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 345,
+      "width": 166,
+      "height": 26,
+      "type": "match",
+      "ypos": 292
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-userinfostyped-expected-typefaces"
+  ]
+}

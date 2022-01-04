@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "yast2_bootloader-missing_package",
+    "yast2-missing_package"
+  ],
+  "area": [
+    {
+      "xpos": 362,
+      "ypos": 323,
+      "width": 284,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "xpos": 448,
+      "ypos": 450,
+      "width": 58,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

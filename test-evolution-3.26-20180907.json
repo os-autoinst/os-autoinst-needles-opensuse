@@ -1,0 +1,31 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "evolution-mainwindow-launched",
+    "test-evolution-1"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "type": "match",
+      "width": 223,
+      "height": 224,
+      "ypos": 65
+    },
+    {
+      "ypos": 1,
+      "height": 26,
+      "width": 113,
+      "type": "match",
+      "xpos": 91
+    },
+    {
+      "width": 156,
+      "type": "match",
+      "xpos": 174,
+      "ypos": 331,
+      "height": 24
+    }
+  ]
+}

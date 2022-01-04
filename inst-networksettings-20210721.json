@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 17,
+      "height": 130,
+      "type": "match",
+      "width": 200,
+      "ypos": 11
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-networksettings"
+  ]
+}

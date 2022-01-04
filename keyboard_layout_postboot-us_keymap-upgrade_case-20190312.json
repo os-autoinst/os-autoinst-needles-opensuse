@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 17,
+      "type": "match",
+      "ypos": 95,
+      "xpos": 145,
+      "width": 207,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "us_keymap"
+  ]
+}

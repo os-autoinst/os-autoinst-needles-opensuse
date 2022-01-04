@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "gnome-tweak-tool-fonts-dialog"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 800,
+      "height": 317,
+      "type": "match",
+      "ypos": 89,
+      "xpos": 214
+    }
+  ]
+}

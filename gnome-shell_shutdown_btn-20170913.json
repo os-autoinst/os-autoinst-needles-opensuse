@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnome-shell_shutdown_btn"
+  ],
+  "area": [
+    {
+      "width": 163,
+      "height": 34,
+      "type": "match",
+      "xpos": 606,
+      "ypos": 441
+    }
+  ]
+}

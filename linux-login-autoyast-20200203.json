@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 154,
+      "ypos": 704,
+      "type": "match",
+      "xpos": 0,
+      "height": 19
+    },
+    {
+      "height": 17,
+      "xpos": 70,
+      "type": "match",
+      "ypos": 751,
+      "width": 55
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "linux-login"
+  ]
+}

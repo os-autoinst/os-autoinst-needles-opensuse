@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "linuxrc-dhcp-question"
+  ],
+  "area": [
+    {
+      "xpos": 372,
+      "ypos": 352,
+      "width": 276,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 414,
+      "ypos": 415,
+      "width": 30,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

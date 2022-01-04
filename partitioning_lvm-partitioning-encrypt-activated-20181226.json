@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 171,
+      "type": "match",
+      "width": 134,
+      "height": 14,
+      "xpos": 328
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning-encrypt-activated",
+    "storage-ng"
+  ]
+}

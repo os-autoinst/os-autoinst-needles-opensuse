@@ -1,0 +1,34 @@
+{
+  "area": [
+    {
+      "width": 110,
+      "xpos": 640,
+      "click_point": {
+        "ypos": 19.5,
+        "xpos": 56
+      },
+      "type": "match",
+      "ypos": 232,
+      "height": 35
+    },
+    {
+      "xpos": 276,
+      "width": 148,
+      "height": 23,
+      "ypos": 161,
+      "type": "match"
+    },
+    {
+      "xpos": 270,
+      "width": 331,
+      "height": 28,
+      "type": "match",
+      "ypos": 193
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "firefox-save-and-quit"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "vlc-network-window"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 269,
+      "type": "match",
+      "height": 57,
+      "ypos": 203,
+      "width": 217
+    }
+  ]
+}

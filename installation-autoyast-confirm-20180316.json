@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "autoyast-confirm"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 38,
+      "xpos": 20,
+      "width": 292,
+      "ypos": 92
+    },
+    {
+      "ypos": 726,
+      "width": 52,
+      "type": "match",
+      "xpos": 951,
+      "height": 22
+    }
+  ]
+}

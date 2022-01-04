@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "partitioning-edit-proposal-button",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 402,
+      "type": "match",
+      "height": 44,
+      "xpos": 574,
+      "width": 215
+    }
+  ]
+}

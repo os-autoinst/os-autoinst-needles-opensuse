@@ -1,0 +1,34 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 767,
+      "xpos": 0,
+      "ypos": 1,
+      "width": 1024
+    },
+    {
+      "ypos": 0,
+      "width": 152,
+      "height": 42,
+      "xpos": 433,
+      "type": "exclude"
+    },
+    {
+      "type": "exclude",
+      "ypos": 28,
+      "width": 515,
+      "height": 69,
+      "xpos": 253
+    }
+  ],
+  "tags": [
+    "x11",
+    "generic-desktop",
+    "reboot-after-installation",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "properties": []
+}

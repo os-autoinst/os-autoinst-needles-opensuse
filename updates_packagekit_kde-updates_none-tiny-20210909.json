@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "height": 28,
+      "xpos": 843,
+      "ypos": 740,
+      "type": "match",
+      "width": 117
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1007701"
+    }
+  ],
+  "tags": [
+    "tray-without-updates-available",
+    "updates_none"
+  ]
+}

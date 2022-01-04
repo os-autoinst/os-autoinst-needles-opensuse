@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "installation",
+    "rebootnow"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 228,
+      "xpos": 271,
+      "type": "match",
+      "ypos": 262,
+      "height": 45
+    }
+  ]
+}

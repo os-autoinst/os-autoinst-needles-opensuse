@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 21,
+      "ypos": 97,
+      "width": 499,
+      "height": 231,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "before-package-selection",
+    "desktop-selection",
+    "inst-returned-to-yast",
+    "installation"
+  ]
+}

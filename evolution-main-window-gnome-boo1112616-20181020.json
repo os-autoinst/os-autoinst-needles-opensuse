@@ -1,0 +1,26 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "evolution-main-window"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "width": 121,
+      "ypos": 48,
+      "xpos": 303,
+      "height": 12,
+      "type": "match",
+      "match": 60
+    },
+    {
+      "type": "match",
+      "height": 63,
+      "xpos": 237,
+      "ypos": 139,
+      "width": 473
+    }
+  ]
+}
