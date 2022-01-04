@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "gnome-tweak-tool",
+    "gnome-tweak-tool-started"
+  ],
+  "area": [
+    {
+      "width": 198,
+      "height": 133,
+      "type": "match",
+      "ypos": 28,
+      "xpos": 1
+    }
+  ]
+}
