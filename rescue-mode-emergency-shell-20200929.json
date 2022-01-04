@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 32,
+      "width": 426,
+      "xpos": 0,
+      "ypos": 66
+    },
+    {
+      "width": 267,
+      "xpos": 0,
+      "ypos": 158,
+      "type": "match",
+      "height": 33
+    },
+    {
+      "ypos": 37,
+      "width": 10,
+      "xpos": 661,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "emergency-mode"
+  ]
+}
