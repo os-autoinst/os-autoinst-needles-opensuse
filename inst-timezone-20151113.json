@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "width": 933,
+      "xpos": 49,
+      "ypos": 149,
+      "height": 456,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "after-partitioning",
+    "inst-timezone"
+  ]
+}
