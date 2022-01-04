@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 169,
+      "type": "match",
+      "xpos": 8,
+      "ypos": 94,
+      "width": 180
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-oocalc-2",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
