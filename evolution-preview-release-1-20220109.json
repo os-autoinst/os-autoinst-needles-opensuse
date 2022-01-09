@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 300,
+      "height": 116,
+      "ypos": 170,
+      "width": 418
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "evolution-preview-release"
+  ]
+}
