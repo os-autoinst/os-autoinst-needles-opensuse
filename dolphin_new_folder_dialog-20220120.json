@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 414,
+      "height": 138,
+      "ypos": 253,
+      "xpos": 295,
+      "type": "match"
+    },
+    {
+      "xpos": 425,
+      "ypos": 288,
+      "width": 200,
+      "height": 19,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dolphin_new_folder_dialog"
+  ]
+}
