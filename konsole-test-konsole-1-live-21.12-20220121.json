@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 516,
+      "width": 642,
+      "ypos": 98,
+      "xpos": 112
+    },
+    {
+      "xpos": 639,
+      "ypos": 601,
+      "width": 141,
+      "height": 26,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-konsole-1"
+  ]
+}
