@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 804,
+      "ypos": 630,
+      "width": 218,
+      "height": 96,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "no-network-discover-popup"
+  ]
+}
