@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 235,
+      "xpos": 346,
+      "ypos": 322,
+      "height": 48
+    },
+    {
+      "height": 10,
+      "xpos": 461,
+      "width": 66,
+      "ypos": 401,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-init-config-screen"
+  ]
+}
