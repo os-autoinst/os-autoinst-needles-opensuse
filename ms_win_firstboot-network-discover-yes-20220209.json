@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 20,
+      "type": "match",
+      "width": 76,
+      "ypos": 362,
+      "xpos": 791
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "network-discover-yes"
+  ]
+}
