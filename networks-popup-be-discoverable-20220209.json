@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 91,
+      "width": 102,
+      "ypos": 31,
+      "type": "match",
+      "xpos": 713,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "networks-popup-be-discoverable"
+  ]
+}
