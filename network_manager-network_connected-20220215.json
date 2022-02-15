@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 47,
+      "type": "match",
+      "xpos": 406,
+      "height": 19,
+      "ypos": 157
+    },
+    {
+      "width": 78,
+      "type": "match",
+      "ypos": 152,
+      "xpos": 801,
+      "height": 34
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "network_manager-network_connected"
+  ]
+}
