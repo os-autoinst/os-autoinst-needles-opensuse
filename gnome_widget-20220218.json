@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 3,
+      "xpos": 933,
+      "type": "match",
+      "width": 88,
+      "height": 24
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome_widget"
+  ]
+}
