@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 210,
+      "height": 22,
+      "xpos": 86,
+      "ypos": 171
+    },
+    {
+      "height": 23,
+      "xpos": 382,
+      "ypos": 85,
+      "type": "match",
+      "width": 365
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1176530"
+    }
+  ],
+  "tags": [
+    "on-pattern",
+    "pattern-wayland"
+  ]
+}
