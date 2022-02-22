@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 317,
+      "type": "match",
+      "height": 149,
+      "ypos": 550,
+      "xpos": 678
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "oomath",
+    "oomath-textfield-ready"
+  ]
+}
