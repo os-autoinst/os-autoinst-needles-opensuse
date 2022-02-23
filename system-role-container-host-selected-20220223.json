@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 14,
+      "ypos": 309,
+      "xpos": 368,
+      "width": 172
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-container-host-selected"
+  ]
+}
