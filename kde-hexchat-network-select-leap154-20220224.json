@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 117,
+      "type": "match",
+      "width": 360,
+      "xpos": 332,
+      "height": 56,
+      "match": 92
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "hexchat-network-select"
+  ]
+}
