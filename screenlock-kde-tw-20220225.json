@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 28,
+      "width": 953,
+      "ypos": 145,
+      "height": 458
+    },
+    {
+      "width": 15,
+      "type": "match",
+      "xpos": 447,
+      "ypos": 81,
+      "height": 59
+    },
+    {
+      "height": 90,
+      "ypos": 152,
+      "width": 558,
+      "xpos": 225,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-VERSION-Tumbleweed",
+    "screenlock"
+  ]
+}
