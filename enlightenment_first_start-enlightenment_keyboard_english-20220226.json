@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 486,
+      "height": 19,
+      "type": "match",
+      "ypos": 11,
+      "width": 50
+    },
+    {
+      "width": 101,
+      "xpos": 215,
+      "height": 18,
+      "ypos": 652,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-enlightenment",
+    "enlightenment_keyboard_english"
+  ]
+}
