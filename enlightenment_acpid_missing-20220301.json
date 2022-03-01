@@ -35,7 +35,6 @@
   ],
   "properties": [],
   "tags": [
-    "ENV-ARCH-arm",
     "ENV-DESKTOP-enlightenment",
     "enlightenment_acpid_missing"
   ]
