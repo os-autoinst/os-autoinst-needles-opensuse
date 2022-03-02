@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 66,
+      "height": 18,
+      "xpos": 337,
+      "ypos": 151
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "packages-shim-selected"
+  ]
+}
