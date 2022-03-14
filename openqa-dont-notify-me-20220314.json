@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "ypos": 299,
+      "xpos": 9,
+      "width": 50,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "openqa-dont-notify-me"
+  ]
+}
