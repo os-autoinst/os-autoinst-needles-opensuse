@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "ypos": 442,
+      "type": "match",
+      "width": 70,
+      "xpos": 588,
+      "height": 23,
+      "click_point": {
+        "xpos": 35,
+        "ypos": 11.5
+      }
+    },
+    {
+      "width": 78,
+      "xpos": 425,
+      "height": 21,
+      "ypos": 327,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-session-quit"
+  ]
+}
