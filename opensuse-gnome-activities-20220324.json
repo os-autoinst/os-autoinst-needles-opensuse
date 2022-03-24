@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "type": "match",
+      "xpos": 0,
+      "ypos": 3,
+      "width": 100
+    },
+    {
+      "width": 361,
+      "height": 53,
+      "type": "match",
+      "xpos": 332,
+      "ypos": 37
+    },
+    {
+      "width": 32,
+      "xpos": 658,
+      "ypos": 700,
+      "height": 42,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 19,
+      "ypos": 640,
+      "xpos": 457,
+      "width": 132
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-activities"
+  ]
+}
