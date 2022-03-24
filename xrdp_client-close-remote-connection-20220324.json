@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 30,
+      "ypos": 76,
+      "xpos": 146,
+      "type": "match",
+      "height": 24
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "close-remote-connection"
+  ]
+}
