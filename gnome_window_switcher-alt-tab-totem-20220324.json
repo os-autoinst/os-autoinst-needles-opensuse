@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 328,
+      "xpos": 312,
+      "type": "match",
+      "height": 118,
+      "width": 110
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "alt-tab-totem"
+  ]
+}
