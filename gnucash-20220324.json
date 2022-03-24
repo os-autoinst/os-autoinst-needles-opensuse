@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 560,
+      "type": "match",
+      "height": 114,
+      "ypos": 36,
+      "xpos": 3
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnucash"
+  ]
+}
