@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 154,
+      "height": 261,
+      "type": "match",
+      "xpos": 6,
+      "ypos": 472
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "test-desktop_mainmenu-1"
+  ]
+}
