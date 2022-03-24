@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 589,
+      "ypos": 579,
+      "height": 35,
+      "type": "match",
+      "width": 84
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "hexchat-connect-button",
+    "xchat-connect-button"
+  ]
+}
