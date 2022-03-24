@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 491,
+      "xpos": 283,
+      "ypos": 279,
+      "height": 297,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "authentication-required-user-settings"
+  ]
+}
