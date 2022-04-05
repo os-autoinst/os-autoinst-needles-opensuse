@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 923,
+      "ypos": 658,
+      "width": 62,
+      "height": 34,
+      "type": "match",
+      "click_point": {
+        "xpos": 31,
+        "ypos": 17
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "plasma-updates_installed-restart"
+  ]
+}
