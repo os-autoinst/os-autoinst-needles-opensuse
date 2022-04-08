@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "ypos": 171,
+      "width": 103,
+      "height": 98,
+      "type": "match",
+      "xpos": 450
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "kde#449273"
+    }
+  ],
+  "tags": [
+    "dolphin_icon_stuff"
+  ]
+}
