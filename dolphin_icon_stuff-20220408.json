@@ -8,12 +8,7 @@
       "xpos": 450
     }
   ],
-  "properties": [
-    {
-      "name": "workaround",
-      "value": "kde#449273"
-    }
-  ],
+  "properties": [],
   "tags": [
     "dolphin_icon_stuff"
   ]
