@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 61,
+      "ypos": 178,
+      "width": 258,
+      "xpos": 124
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "khelpcenter",
+    "test-khelpcenter-1",
+    "ENV-DESKTOP-kde"
+  ]
+}
