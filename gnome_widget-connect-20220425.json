@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 518,
+      "width": 219,
+      "ypos": 575,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome_widget-connect-click"
+  ]
+}
