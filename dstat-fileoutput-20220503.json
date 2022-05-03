@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 343,
+      "type": "match",
+      "xpos": 2,
+      "height": 26,
+      "ypos": 20
+    },
+    {
+      "xpos": 0,
+      "type": "match",
+      "height": 90,
+      "ypos": 100,
+      "width": 726
+    },
+    {
+      "width": 208,
+      "ypos": 141,
+      "height": 16,
+      "type": "exclude",
+      "xpos": 457
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dstat-fileoutput"
+  ]
+}
