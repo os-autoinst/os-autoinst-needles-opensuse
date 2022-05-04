@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "height": 341,
+      "width": 602,
+      "type": "match",
+      "xpos": 211,
+      "ypos": 35
+    },
+    {
+      "xpos": 251,
+      "ypos": 57,
+      "type": "match",
+      "width": 143,
+      "height": 15,
+      "click_point": {
+        "xpos": 71.5,
+        "ypos": 7.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-enlightenment",
+    "enlightenment_profile_selection"
+  ]
+}
