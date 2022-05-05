@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 74,
+      "ypos": 169,
+      "width": 190,
+      "height": 66,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-microos",
+    "bootloader-grub2",
+    "grub2",
+    "inst-bootmenu"
+  ]
+}
