@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 82,
+      "ypos": 135,
+      "width": 487,
+      "height": 47,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scap-workbench-OpenSCAP-Evaluation-Report"
+  ]
+}
