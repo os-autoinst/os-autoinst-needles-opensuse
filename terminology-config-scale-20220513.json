@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 7,
+      "width": 476,
+      "type": "match",
+      "height": 250,
+      "click_point": {
+        "xpos": 238,
+        "ypos": 139.5
+      },
+      "ypos": 52
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "terminology-config-scale"
+  ]
+}
