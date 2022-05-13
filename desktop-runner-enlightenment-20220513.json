@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 71,
+      "xpos": 280,
+      "width": 453,
+      "type": "match",
+      "ypos": 148
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-enlightenment",
+    "desktop-runner"
+  ]
+}
