@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 418,
+      "ypos": 156,
+      "width": 146,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 213,
+      "ypos": 291,
+      "width": 73,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnuhealth-client-configure-language"
+  ]
+}
