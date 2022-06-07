@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 219,
+      "ypos": 321,
+      "width": 255,
+      "height": 19,
+      "type": "match",
+      "click_point": {
+        "xpos": 127.5,
+        "ypos": 9.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "AppArmor-Scan-system-log"
+  ]
+}
