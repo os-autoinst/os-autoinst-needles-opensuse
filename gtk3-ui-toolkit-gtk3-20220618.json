@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 441,
+      "ypos": 360,
+      "width": 145,
+      "height": 33
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ui-toolkit-gtk3"
+  ]
+}
