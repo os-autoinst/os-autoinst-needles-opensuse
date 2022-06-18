@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 313,
+      "ypos": 253,
+      "width": 136,
+      "height": 29
+    },
+    {
+      "width": 40,
+      "height": 17,
+      "ypos": 507,
+      "xpos": 643,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-INSTLANG-en_US",
+    "gnucash-tip-close"
+  ]
+}
