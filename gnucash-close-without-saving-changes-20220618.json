@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 135,
+      "height": 23,
+      "xpos": 294,
+      "ypos": 435
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnucash-close-without-saving-changes"
+  ]
+}
