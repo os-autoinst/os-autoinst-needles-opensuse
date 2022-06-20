@@ -1,0 +1,48 @@
+{
+  "area": [
+    {
+      "height": 12,
+      "type": "match",
+      "xpos": 229,
+      "ypos": 683,
+      "width": 50
+    },
+    {
+      "ypos": 711,
+      "width": 163,
+      "height": 10,
+      "type": "match",
+      "xpos": 1
+    },
+    {
+      "ypos": 696,
+      "width": 153,
+      "height": 13,
+      "type": "match",
+      "xpos": 2
+    },
+    {
+      "width": 28,
+      "ypos": 347,
+      "type": "match",
+      "xpos": 2,
+      "height": 11
+    },
+    {
+      "xpos": 664,
+      "ypos": 671,
+      "width": 157,
+      "height": 27,
+      "type": "match",
+      "match": 90,
+      "click_point": {
+        "xpos": 78.5,
+        "ypos": 13.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "install-SUSE-WSL-finish"
+  ]
+}
