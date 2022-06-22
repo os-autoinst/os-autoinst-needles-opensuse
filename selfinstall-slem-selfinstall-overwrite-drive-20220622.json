@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 333,
+      "type": "match",
+      "width": 183,
+      "height": 21,
+      "xpos": 196,
+      "match": 90
+    },
+    {
+      "xpos": 392,
+      "type": "match",
+      "ypos": 401,
+      "height": 10,
+      "width": 55
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "slem-selfinstall-overwrite-drive"
+  ]
+}
