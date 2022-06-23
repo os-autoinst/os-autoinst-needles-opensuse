@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "xpos": 7,
+      "ypos": 86,
+      "width": 138,
+      "height": 10,
+      "type": "match",
+      "match": 85
+    },
+    {
+      "xpos": 8,
+      "ypos": 134,
+      "width": 87,
+      "height": 12,
+      "type": "match",
+      "match": 85
+    },
+    {
+      "xpos": 11,
+      "ypos": 65,
+      "width": 258,
+      "height": 14,
+      "type": "match",
+      "match": 85
+    },
+    {
+      "xpos": 689,
+      "ypos": 61,
+      "width": 100,
+      "height": 22,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-install-cmd"
+  ]
+}
