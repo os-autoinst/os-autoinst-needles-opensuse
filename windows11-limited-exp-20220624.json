@@ -3,22 +3,21 @@
     {
       "xpos": 547,
       "ypos": 104,
-      "width": 317,
-      "height": 35,
       "type": "match",
-      "match": 90
+      "height": 35,
+      "width": 317
     },
     {
-      "xpos": 677,
-      "ypos": 633,
       "width": 99,
-      "height": 45,
-      "type": "match",
-      "match": 85,
       "click_point": {
-        "xpos": 49.5,
+        "xpos": 46.5,
         "ypos": 22.5
-      }
+      },
+      "height": 45,
+      "ypos": 633,
+      "type": "match",
+      "xpos": 677,
+      "match": 85
     }
   ],
   "properties": [],
