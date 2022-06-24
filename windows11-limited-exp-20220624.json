@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "xpos": 547,
+      "ypos": 104,
+      "width": 317,
+      "height": 35,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "xpos": 677,
+      "ypos": 633,
+      "width": 99,
+      "height": 45,
+      "type": "match",
+      "match": 85,
+      "click_point": {
+        "xpos": 49.5,
+        "ypos": 22.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows11-limited-exp"
+  ]
+}
