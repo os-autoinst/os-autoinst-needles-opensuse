@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 547,
+      "ypos": 387,
+      "width": 333,
+      "height": 131,
+      "type": "match",
+      "match": 85,
+      "click_point": {
+        "xpos": 25.5,
+        "ypos": 111.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows11-turn-off-find-device"
+  ]
+}
