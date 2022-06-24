@@ -1,20 +1,20 @@
 {
   "area": [
     {
-      "xpos": 547,
-      "ypos": 265,
+      "xpos": 550,
+      "ypos": 264,
+      "width": 334,
+      "height": 129,
       "type": "match",
-      "width": 340,
-      "height": 130,
       "match": 85,
       "click_point": {
-        "xpos": 27,
-        "ypos": 113
+        "xpos": 21,
+        "ypos": 113.5
       }
     }
   ],
   "properties": [],
   "tags": [
-    "windows-dont-user-my-location"
+    "windows11-dont-user-my-location"
   ]
 }
