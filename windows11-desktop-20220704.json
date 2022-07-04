@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 341,
+      "ypos": 723,
+      "width": 35,
+      "height": 41,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "xpos": 4,
+      "ypos": 3,
+      "width": 73,
+      "height": 188,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows11-desktop"
+  ]
+}
