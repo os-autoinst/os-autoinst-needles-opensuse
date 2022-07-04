@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "xpos": 146,
+      "ypos": 590,
+      "width": 179,
+      "height": 28,
+      "type": "match",
+      "match": 85,
+      "click_point": {
+        "xpos": 89.5,
+        "ypos": 14
+      }
+    },
+    {
+      "xpos": 51,
+      "ypos": 75,
+      "width": 348,
+      "height": 104,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows11-edge-decline"
+  ]
+}
