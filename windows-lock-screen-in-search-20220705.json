@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "height": 47,
+      "ypos": 180,
+      "type": "match",
+      "xpos": 97,
+      "width": 163,
+      "click_point": {
+        "xpos": 81.5,
+        "ypos": 23.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-lock-screen-in-search"
+  ]
+}
