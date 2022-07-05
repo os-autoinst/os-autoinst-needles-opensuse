@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 399,
+      "ypos": 535,
+      "width": 126,
+      "height": 24,
+      "type": "match",
+      "match": 85,
+      "click_point": {
+        "xpos": 63,
+        "ypos": 12
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-lock-screen-background"
+  ]
+}
