@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 96,
+      "xpos": 9,
+      "height": 18,
+      "width": 218
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-devicemanager-select-secure-boot"
+  ]
+}
