@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 67,
+      "xpos": 109,
+      "ypos": 261,
+      "width": 348
+    },
+    {
+      "xpos": 16,
+      "ypos": 4,
+      "width": 201,
+      "height": 46,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "autoyast-boot",
+    "bootloader",
+    "grub2"
+  ]
+}
