@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 244,
+      "ypos": 118,
+      "width": 68,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-ovmf-settings-select-resolution-800x600"
+  ]
+}
