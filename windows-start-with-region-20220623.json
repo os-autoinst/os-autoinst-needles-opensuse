@@ -2,28 +2,33 @@
   "area": [
     {
       "type": "match",
+      "height": 71,
+      "xpos": 159,
+      "width": 756,
+      "ypos": 112
+    },
+    {
+      "xpos": 250,
       "height": 62,
-      "xpos": 554,
-      "width": 360,
-      "ypos": 390
-    },
-    {
-      "ypos": 297,
-      "width": 182,
-      "height": 174,
-      "xpos": 195,
-      "type": "match"
-    },
-    {
       "type": "match",
-      "xpos": 547,
-      "height": 38,
-      "width": 373,
-      "ypos": 105
+      "ypos": 576,
+      "width": 478
+    },
+    {
+      "xpos": 831,
+      "ypos": 656,
+      "width": 169,
+      "height": 40,
+      "type": "match",
+      "match": 90,
+      "click_point": {
+        "xpos": 84.5,
+        "ypos": 20
+      }
     }
   ],
   "properties": [],
   "tags": [
-    "windows11-start-with-region"
+    "windows-start-with-region"
   ]
 }

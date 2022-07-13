@@ -1,28 +1,26 @@
 {
   "area": [
     {
-      "xpos": 309,
-      "ypos": 515,
-      "width": 208,
-      "height": 35,
+      "width": 224,
       "type": "match",
-      "match": 90,
-      "click_point": {
-        "xpos": 104,
-        "ypos": 17.5
-      }
+      "xpos": 304,
+      "ypos": 337,
+      "height": 53
     },
     {
-      "xpos": 305,
-      "ypos": 245,
-      "width": 342,
-      "height": 56,
+      "height": 23,
+      "ypos": 488,
+      "click_point": {
+        "xpos": 98,
+        "ypos": 11.5
+      },
+      "width": 196,
       "type": "match",
-      "match": 85
+      "xpos": 312
     }
   ],
   "properties": [],
   "tags": [
-    "windows11-user-acount-ctl-yes"
+    "windows-user-acount-ctl-yes"
   ]
 }
