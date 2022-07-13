@@ -4,28 +4,19 @@
       "height": 21,
       "ypos": 167,
       "type": "match",
-      "xpos": 179,
-      "width": 223,
-      "match": 85
+      "width": 192,
+      "xpos": 179
     },
     {
-      "type": "match",
-      "xpos": 434,
-      "width": 144,
-      "ypos": 140,
-      "height": 12
-    },
-    {
-      "xpos": 719,
       "ypos": 163,
-      "width": 32,
-      "height": 22,
-      "type": "match",
       "click_point": {
-        "xpos": 16,
-        "ypos": 10
+        "ypos": 10,
+        "xpos": 16
       },
-      "match": 85
+      "type": "match",
+      "width": 32,
+      "xpos": 719,
+      "height": 22
     }
   ],
   "properties": [],
