@@ -1,24 +1,16 @@
 {
   "area": [
     {
-      "type": "match",
-      "height": 35,
-      "xpos": 282,
-      "width": 32,
-      "ypos": 284,
-      "match": 85
-    },
-    {
-      "xpos": 198,
-      "ypos": 125,
-      "width": 629,
-      "height": 56,
+      "xpos": 554,
+      "ypos": 255,
+      "width": 359,
+      "height": 59,
       "type": "match",
       "match": 90
     }
   ],
   "properties": [],
   "tags": [
-    "windows-keyboard-layout-english-us"
+    "windows11-keyboard-layout-english-us"
   ]
 }
