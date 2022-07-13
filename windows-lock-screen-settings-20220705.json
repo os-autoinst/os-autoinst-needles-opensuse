@@ -1,32 +1,29 @@
 {
   "area": [
     {
-      "xpos": 370,
-      "ypos": 93,
-      "width": 386,
-      "height": 32,
+      "xpos": 377,
       "type": "match",
-      "match": 85
+      "width": 163,
+      "height": 48,
+      "ypos": 81
     },
     {
-      "xpos": 61,
-      "ypos": 344,
-      "width": 151,
-      "height": 43,
+      "height": 25,
+      "ypos": 502,
       "type": "match",
-      "match": 90
+      "xpos": 379,
+      "width": 103
     },
     {
-      "xpos": 640,
-      "ypos": 409,
-      "width": 170,
-      "height": 42,
+      "xpos": 54,
       "type": "match",
-      "match": 90
+      "width": 128,
+      "height": 82,
+      "ypos": 38
     }
   ],
   "properties": [],
   "tags": [
-    "windows11-lock-screen-settings"
+    "windows-lock-screen-settings"
   ]
 }

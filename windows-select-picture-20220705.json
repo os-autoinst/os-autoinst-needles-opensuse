@@ -1,28 +1,19 @@
 {
   "area": [
     {
-      "xpos": 650,
-      "ypos": 452,
-      "width": 63,
-      "height": 34,
+      "width": 55,
+      "xpos": 399,
       "type": "match",
-      "match": 85,
+      "height": 15,
+      "ypos": 570,
       "click_point": {
-        "xpos": 31.5,
-        "ypos": 17
+        "xpos": 27.5,
+        "ypos": 7.5
       }
-    },
-    {
-      "xpos": 368,
-      "ypos": 91,
-      "width": 391,
-      "height": 37,
-      "type": "match",
-      "match": 90
     }
   ],
   "properties": [],
   "tags": [
-    "windows11-select-picture"
+    "windows-select-picture"
   ]
 }
