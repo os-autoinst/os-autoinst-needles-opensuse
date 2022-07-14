@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "xpos": 204,
+      "ypos": 132,
+      "width": 613,
+      "height": 46,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "xpos": 656,
+      "ypos": 659,
+      "width": 161,
+      "height": 33,
+      "type": "match",
+      "match": 90,
+      "click_point": {
+        "xpos": 80.5,
+        "ypos": 16.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-custom-experience"
+  ]
+}
