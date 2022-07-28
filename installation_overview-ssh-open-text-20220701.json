@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 53,
+      "ypos": 656,
+      "width": 173,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "ssh-open"
+  ]
+}
