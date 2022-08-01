@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "xpos": 810,
+      "ypos": 219,
+      "width": 89,
+      "height": 23,
+      "type": "match",
+      "match": 85,
+      "click_point": {
+        "xpos": 44.5,
+        "ypos": 11.5
+      }
+    },
+    {
+      "xpos": 130,
+      "ypos": 114,
+      "width": 200,
+      "height": 20,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "powershell-max-window-right-click"
+  ]
+}
