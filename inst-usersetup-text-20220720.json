@@ -1,0 +1,60 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 15,
+      "xpos": 14,
+      "ypos": 32,
+      "width": 82
+    },
+    {
+      "ypos": 255,
+      "width": 150,
+      "xpos": 306,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "ypos": 274,
+      "width": 130,
+      "height": 30,
+      "xpos": 343,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 343,
+      "height": 30,
+      "width": 127,
+      "ypos": 306
+    },
+    {
+      "type": "match",
+      "height": 30,
+      "xpos": 345,
+      "ypos": 338,
+      "width": 123
+    },
+    {
+      "xpos": 344,
+      "height": 28,
+      "type": "match",
+      "width": 126,
+      "ypos": 372
+    },
+    {
+      "ypos": 495,
+      "width": 181,
+      "height": 17,
+      "xpos": 304,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "inst-usersetup"
+  ]
+}
