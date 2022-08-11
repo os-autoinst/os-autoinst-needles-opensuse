@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 160,
+      "ypos": 67,
+      "type": "match",
+      "width": 173,
+      "height": 19
+    },
+    {
+      "ypos": 133,
+      "xpos": 19,
+      "height": 47,
+      "width": 132,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "chromium-main-window"
+  ]
+}
