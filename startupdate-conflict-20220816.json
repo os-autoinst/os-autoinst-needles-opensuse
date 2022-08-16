@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 330,
+      "xpos": 380,
+      "type": "match",
+      "width": 258,
+      "height": 143
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "startupdate-conflict"
+  ]
+}
