@@ -2,15 +2,15 @@
   "area": [
     {
       "width": 93,
-      "ypos": 5,
-      "xpos": 114,
       "type": "match",
-      "height": 29
+      "xpos": 116,
+      "ypos": 7,
+      "height": 21
     },
     {
       "width": 282,
-      "ypos": 143,
-      "xpos": 242,
+      "ypos": 82,
+      "xpos": 254,
       "type": "match",
       "height": 71
     }
