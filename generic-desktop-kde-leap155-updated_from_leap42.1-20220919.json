@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 1,
+      "type": "match",
+      "height": 767,
+      "width": 480,
+      "xpos": 4
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo1007701"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "x11",
+    "generic-desktop"
+  ]
+}
