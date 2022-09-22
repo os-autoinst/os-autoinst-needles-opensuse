@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "width": 97,
+      "ypos": 500,
+      "type": "match",
+      "height": 122,
+      "xpos": 507
+    }
+  ],
+  "properties": [
+    {
+      "value": "boo#1199056",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "libreoffice-specified-list-odf"
+  ]
+}
