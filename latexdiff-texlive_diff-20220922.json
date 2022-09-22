@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 349,
+      "ypos": 151,
+      "type": "match",
+      "height": 360,
+      "xpos": 198
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "texlive_diff"
+  ]
+}
