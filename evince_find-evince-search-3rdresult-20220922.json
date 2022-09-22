@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "width": 144,
+      "ypos": 175,
+      "type": "match",
+      "height": 24,
+      "xpos": 2
+    },
+    {
+      "xpos": 395,
+      "height": 13,
+      "type": "match",
+      "ypos": 690,
+      "width": 88
+    },
+    {
+      "ypos": 0,
+      "width": 38,
+      "type": "match",
+      "xpos": 0,
+      "height": 10
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "evince-search-3rdresult"
+  ]
+}
