@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 1,
+      "type": "match",
+      "xpos": 353,
+      "height": 106,
+      "width": 96
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "live-upgrade"
+  ]
+}
