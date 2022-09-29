@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 18,
+      "type": "match",
+      "width": 285,
+      "ypos": 41,
+      "xpos": 299
+    },
+    {
+      "ypos": 743,
+      "xpos": 10,
+      "type": "match",
+      "height": 23,
+      "width": 20
+    },
+    {
+      "type": "match",
+      "height": 16,
+      "width": 43,
+      "ypos": 718,
+      "xpos": 976
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "boo#1102838",
+    "vlc-stuck-never-played"
+  ]
+}
