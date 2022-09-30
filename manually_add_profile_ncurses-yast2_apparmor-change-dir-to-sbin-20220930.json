@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 19,
+      "ypos": 96,
+      "width": 81,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 44,
+      "ypos": 303,
+      "width": 40,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_apparmor-change-dir-to-sbin"
+  ]
+}
