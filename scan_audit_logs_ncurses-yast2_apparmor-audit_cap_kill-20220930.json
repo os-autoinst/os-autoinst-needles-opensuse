@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 443,
+      "ypos": 94,
+      "width": 136,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_apparmor-audit_cap_kill"
+  ]
+}
