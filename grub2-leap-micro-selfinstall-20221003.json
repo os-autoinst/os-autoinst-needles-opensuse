@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 66,
+      "ypos": 173,
+      "width": 190,
+      "xpos": 63,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "bootloader-grub2",
+    "grub2",
+    "inst-bootmenu"
+  ]
+}
