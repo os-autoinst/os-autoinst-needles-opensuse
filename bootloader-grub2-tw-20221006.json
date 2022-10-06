@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "height": 33,
+      "ypos": 15,
+      "type": "match",
+      "width": 190,
+      "xpos": 19
+    },
+    {
+      "height": 23,
+      "type": "match",
+      "ypos": 306,
+      "width": 87,
+      "xpos": 119
+    },
+    {
+      "ypos": 42,
+      "type": "match",
+      "width": 105,
+      "xpos": 501,
+      "height": 15
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-Tumbleweed",
+    "bootloader-grub2",
+    "inst-bootmenu"
+  ]
+}
