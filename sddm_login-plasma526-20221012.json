@@ -17,7 +17,6 @@
   ],
   "properties": [],
   "tags": [
-    "ENV-DESKTOP-kde",
     "displaymanager",
     "displaymanager-password-prompt",
     "sddm"
