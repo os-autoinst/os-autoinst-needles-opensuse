@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "type": "match",
+      "height": 143,
+      "ypos": 0,
+      "width": 600
+    },
+    {
+      "ypos": 17,
+      "width": 404,
+      "xpos": 79,
+      "type": "exclude",
+      "height": 14
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "mutt-send-reply"
+  ]
+}
