@@ -1,0 +1,48 @@
+{
+  "area": [
+    {
+      "height": 49,
+      "type": "match",
+      "ypos": 23,
+      "xpos": 8,
+      "width": 142,
+      "match": 85
+    },
+    {
+      "ypos": 314,
+      "xpos": 42,
+      "width": 550,
+      "type": "match",
+      "height": 13,
+      "match": 85
+    },
+    {
+      "type": "match",
+      "height": 18,
+      "width": 66,
+      "ypos": 86,
+      "xpos": 30,
+      "match": 85
+    },
+    {
+      "type": "match",
+      "height": 33,
+      "xpos": 21,
+      "ypos": 647,
+      "width": 324,
+      "match": 85
+    },
+    {
+      "width": 67,
+      "xpos": 922,
+      "ypos": 671,
+      "height": 31,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-license"
+  ]
+}

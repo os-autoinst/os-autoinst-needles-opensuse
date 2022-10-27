@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 696,
+      "ypos": 726,
+      "width": 33,
+      "height": 34,
+      "type": "match",
+      "click_point": {
+        "xpos": 16.5,
+        "ypos": 17
+      },
+      "match": 85
+    },
+    {
+      "xpos": 18,
+      "ypos": 5,
+      "width": 199,
+      "height": 22,
+      "type": "match",
+      "match": 85
+    },
+    {
+      "xpos": 8,
+      "ypos": 175,
+      "width": 298,
+      "height": 16,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "install-linux-in-wsl-background"
+  ]
+}

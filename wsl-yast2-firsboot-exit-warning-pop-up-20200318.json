@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 398,
+      "ypos": 345,
+      "width": 96,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 453,
+      "ypos": 397,
+      "width": 89,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-firsboot-exit-warning-pop-up"
+  ]
+}
