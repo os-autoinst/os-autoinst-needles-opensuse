@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 18,
+      "ypos": 61,
+      "width": 251,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 9,
+      "ypos": 25,
+      "width": 134,
+      "height": 44,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-extension-module-selection"
+  ]
+}
