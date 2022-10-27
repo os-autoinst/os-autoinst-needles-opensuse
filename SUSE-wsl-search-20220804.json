@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "width": 56,
+      "height": 59,
+      "xpos": 654,
+      "type": "match",
+      "ypos": 215
+    },
+    {
+      "ypos": 251,
+      "type": "match",
+      "xpos": 164,
+      "width": 24,
+      "height": 27
+    },
+    {
+      "type": "match",
+      "xpos": 193,
+      "width": 30,
+      "height": 21,
+      "ypos": 274
+    },
+    {
+      "height": 33,
+      "width": 78,
+      "xpos": 510,
+      "type": "match",
+      "ypos": 379,
+      "click_point": {
+        "xpos": 39,
+        "ypos": 16.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "SUSE-wsl-search"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 16,
+      "width": 517,
+      "ypos": 157,
+      "xpos": 6,
+      "type": "match"
+    },
+    {
+      "height": 14,
+      "ypos": 177,
+      "width": 299,
+      "type": "match",
+      "xpos": 7
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "install-winget-wsl-finish"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 62,
+      "ypos": 71,
+      "width": 73,
+      "height": 93,
+      "type": "match"
+    },
+    {
+      "xpos": 88,
+      "ypos": 177,
+      "width": 465,
+      "height": 43,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "bsod"
+  ]
+}

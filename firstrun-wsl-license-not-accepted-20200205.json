@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 318,
+      "ypos": 348,
+      "width": 378,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-license-not-accepted"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 282,
+      "ypos": 333,
+      "width": 361,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 454,
+      "ypos": 409,
+      "width": 45,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-registration-repository-offer"
+  ]
+}

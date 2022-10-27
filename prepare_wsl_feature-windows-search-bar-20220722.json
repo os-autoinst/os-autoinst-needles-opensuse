@@ -1,16 +1,16 @@
 {
   "area": [
     {
-      "height": 20,
+      "ypos": 81,
+      "width": 149,
       "type": "match",
-      "xpos": 31,
-      "ypos": 488,
-      "width": 166,
+      "height": 18,
+      "xpos": 162,
       "match": 85
     }
   ],
   "properties": [],
   "tags": [
-    "quick-features-menu"
+    "windows-search-bar"
   ]
 }
