@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 341,
+      "ypos": 174,
+      "width": 340,
+      "height": 416,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "xrdp-login-screen"
+  ]
+}

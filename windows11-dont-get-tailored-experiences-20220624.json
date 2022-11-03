@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "xpos": 549,
+      "type": "match",
+      "ypos": 563,
+      "height": 29,
+      "width": 81,
+      "match": 85,
+      "click_point": {
+        "xpos": 27.5,
+        "ypos": 14.5
+      }
+    },
+    {
+      "xpos": 553,
+      "ypos": 465,
+      "width": 127,
+      "height": 21,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows11-dont-get-tailored-experiences"
+  ]
+}

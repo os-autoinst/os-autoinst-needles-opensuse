@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 17,
+      "width": 154,
+      "ypos": 108,
+      "xpos": 44,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "powershell-started"
+  ]
+}

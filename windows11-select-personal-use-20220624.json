@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "xpos": 548,
+      "ypos": 112,
+      "width": 365,
+      "height": 61,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "xpos": 567,
+      "ypos": 231,
+      "width": 323,
+      "height": 93,
+      "type": "match",
+      "match": 90,
+      "click_point": {
+        "xpos": 161.5,
+        "ypos": 46.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows11-select-personal-use"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "confirm-close-remote-session"
+  ],
+  "area": [
+    {
+      "xpos": 533,
+      "ypos": 402,
+      "width": 82,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

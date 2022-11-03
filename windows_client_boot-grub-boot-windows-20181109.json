@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 406,
+      "ypos": 45,
+      "width": 514,
+      "height": 278,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub-boot-windows"
+  ]
+}

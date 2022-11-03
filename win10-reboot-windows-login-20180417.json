@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 256,
+      "ypos": 113,
+      "width": 548,
+      "height": 467,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "windows-login"
+  ]
+}

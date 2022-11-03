@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 798,
+      "ypos": 630,
+      "width": 133,
+      "height": 48,
+      "type": "match",
+      "click_point": {
+        "xpos": 66.5,
+        "ypos": 24
+      },
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows11-accept"
+  ]
+}

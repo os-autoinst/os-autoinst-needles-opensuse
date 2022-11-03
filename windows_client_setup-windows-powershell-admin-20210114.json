@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 23,
+      "ypos": 490,
+      "xpos": 25,
+      "type": "match",
+      "width": 205
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-powershell-admin"
+  ]
+}
