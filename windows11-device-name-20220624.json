@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 159,
+      "ypos": 296,
+      "width": 237,
+      "height": 171,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "xpos": 545,
+      "ypos": 108,
+      "width": 256,
+      "height": 33,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "xpos": 675,
+      "ypos": 637,
+      "width": 99,
+      "height": 36,
+      "type": "match",
+      "match": 85,
+      "click_point": {
+        "xpos": 49.5,
+        "ypos": 19
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows11-device-name"
+  ]
+}

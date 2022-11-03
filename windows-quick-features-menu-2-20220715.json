@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 32,
+      "ypos": 452,
+      "width": 172,
+      "xpos": 268,
+      "type": "match"
+    },
+    {
+      "xpos": 268,
+      "width": 146,
+      "type": "match",
+      "height": 28,
+      "ypos": 651
+    },
+    {
+      "type": "match",
+      "width": 220,
+      "xpos": 471,
+      "height": 222,
+      "ypos": 453
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-quick-features-menu"
+  ]
+}

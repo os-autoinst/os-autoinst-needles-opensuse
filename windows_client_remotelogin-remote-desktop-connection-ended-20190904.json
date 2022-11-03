@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 630,
+      "ypos": 385,
+      "width": 69,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "remote-desktop-connection-ended"
+  ]
+}

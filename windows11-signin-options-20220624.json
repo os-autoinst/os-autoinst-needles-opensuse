@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "xpos": 547,
+      "ypos": 113,
+      "width": 314,
+      "height": 68,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "xpos": 551,
+      "ypos": 419,
+      "width": 94,
+      "height": 16,
+      "type": "match",
+      "match": 85,
+      "click_point": {
+        "xpos": 47,
+        "ypos": 8
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows11-signin-options"
+  ]
+}

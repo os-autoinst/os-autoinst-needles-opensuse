@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 6,
+      "xpos": 689,
+      "height": 15,
+      "width": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "close-xrdp-sharing-window"
+  ]
+}

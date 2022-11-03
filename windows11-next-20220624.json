@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "ypos": 636,
+      "type": "match",
+      "xpos": 803,
+      "height": 34,
+      "width": 121,
+      "click_point": {
+        "xpos": 60.5,
+        "ypos": 16.5
+      },
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows11-next"
+  ]
+}

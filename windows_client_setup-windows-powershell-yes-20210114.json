@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 28,
+      "width": 80,
+      "type": "match",
+      "xpos": 365,
+      "ypos": 486
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-powershell-yes"
+  ]
+}

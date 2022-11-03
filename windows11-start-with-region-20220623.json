@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 62,
+      "xpos": 554,
+      "width": 360,
+      "ypos": 390
+    },
+    {
+      "ypos": 297,
+      "width": 182,
+      "height": 174,
+      "xpos": 195,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 547,
+      "height": 38,
+      "width": 373,
+      "ypos": 105
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows11-start-with-region"
+  ]
+}

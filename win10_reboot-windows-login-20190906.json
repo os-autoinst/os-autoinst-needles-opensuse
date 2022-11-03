@@ -4,15 +4,16 @@
       "ypos": 138,
       "type": "match",
       "xpos": 252,
+      "width": 534,
       "height": 390,
-      "width": 534
+      "match": 93
     },
     {
+      "xpos": 353,
+      "ypos": 435,
       "width": 38,
       "height": 65,
-      "xpos": 353,
-      "type": "exclude",
-      "ypos": 435
+      "type": "exclude"
     }
   ],
   "properties": [],
