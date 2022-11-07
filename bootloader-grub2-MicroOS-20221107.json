@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "height": 373,
+      "type": "match",
+      "ypos": 0,
+      "width": 632,
+      "xpos": 0
+    },
+    {
+      "height": 33,
+      "xpos": 490,
+      "width": 47,
+      "ypos": 222,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-microos",
+    "ENV-VERSION-Tumbleweed",
+    "bootloader-grub2",
+    "inst-bootmenu"
+  ]
+}
