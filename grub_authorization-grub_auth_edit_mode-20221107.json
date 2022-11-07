@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 140,
+      "ypos": 185,
+      "xpos": 255,
+      "height": 14
+    },
+    {
+      "xpos": 199,
+      "type": "match",
+      "width": 572,
+      "ypos": 550,
+      "height": 48
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub_auth_edit_mode"
+  ]
+}
