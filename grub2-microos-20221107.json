@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "height": 336,
+      "xpos": 0,
+      "ypos": 0,
+      "width": 393,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-microos",
+    "autoyast-boot",
+    "bootloader",
+    "grub2"
+  ]
+}
