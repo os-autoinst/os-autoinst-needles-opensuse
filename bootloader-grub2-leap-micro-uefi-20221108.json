@@ -25,10 +25,8 @@
   "properties": [],
   "tags": [
     "ENV-DISTRI-leap-micro",
-    "ENV-DISTRI-opensuse",
     "ENV-LEAP-1",
     "ENV-UEFI-1",
-    "ENV-VERSION-15.2",
     "bootloader-grub2",
     "inst-bootmenu"
   ]
