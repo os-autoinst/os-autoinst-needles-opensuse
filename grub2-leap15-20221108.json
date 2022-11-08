@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 103,
+      "ypos": 202,
+      "type": "match",
+      "width": 158,
+      "height": 223
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-leap-micro",
+    "ENV-UEFI-1",
+    "autoyast-boot",
+    "bootloader",
+    "bootloader-grub2",
+    "grub2"
+  ]
+}
