@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 642,
+      "ypos": 752,
+      "width": 26,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 1,
+      "ypos": 721,
+      "width": 49,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "back-to-host-shell"
+  ]
+}
