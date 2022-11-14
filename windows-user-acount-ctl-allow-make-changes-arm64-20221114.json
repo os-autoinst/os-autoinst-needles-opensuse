@@ -1,26 +1,27 @@
 {
   "area": [
     {
-      "width": 398,
-      "height": 76,
+      "width": 405,
+      "height": 78,
       "type": "match",
-      "xpos": 304,
-      "ypos": 237
+      "xpos": 306,
+      "ypos": 235
     },
     {
+      "xpos": 315,
+      "ypos": 533,
       "click_point": {
-        "ypos": 23.5,
-        "xpos": 104
+        "ypos": 12.5,
+        "xpos": 95
       },
-      "ypos": 521,
-      "xpos": 306,
-      "height": 47,
+      "width": 192,
       "type": "match",
-      "width": 208
+      "height": 24
     }
   ],
   "properties": [],
   "tags": [
-    "windows-user-acount-ctl-allow-make-changes"
+    "windows-user-acount-ctl-allow-make-changes",
+    "windows-user-acount-ctl-yes"
   ]
 }
