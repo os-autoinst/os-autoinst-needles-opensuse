@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 559,
+      "ypos": 350,
+      "width": 346,
+      "height": 125,
+      "type": "match",
+      "click_point": {
+        "xpos": 173,
+        "ypos": 62.5
+      },
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-work-school-account"
+  ]
+}
