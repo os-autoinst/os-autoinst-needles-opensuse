@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "height": 68,
+      "type": "match",
+      "xpos": 547,
+      "ypos": 118,
+      "width": 341
+    },
+    {
+      "ypos": 437,
+      "click_point": {
+        "ypos": 8,
+        "xpos": 47
+      },
+      "width": 94,
+      "xpos": 551,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-signin-options"
+  ]
+}
