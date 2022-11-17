@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 239,
+      "xpos": 3,
+      "width": 442,
+      "height": 490
+    },
+    {
+      "type": "exclude",
+      "ypos": 236,
+      "xpos": 40,
+      "height": 36,
+      "width": 213
+    },
+    {
+      "type": "exclude",
+      "xpos": 28,
+      "ypos": 277,
+      "width": 10,
+      "height": 26
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "test-desktop_mainmenu-1"
+  ]
+}
