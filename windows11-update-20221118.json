@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 115,
+      "xpos": 377,
+      "ypos": 130,
+      "type": "match",
+      "width": 87
+    },
+    {
+      "type": "match",
+      "width": 227,
+      "ypos": 95,
+      "xpos": 370,
+      "height": 30
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-update"
+  ]
+}
