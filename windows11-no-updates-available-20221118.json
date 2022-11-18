@@ -1,0 +1,44 @@
+{
+  "area": [
+    {
+      "xpos": 371,
+      "ypos": 87,
+      "width": 223,
+      "height": 44,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "xpos": 370,
+      "ypos": 143,
+      "width": 96,
+      "height": 93,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "xpos": 487,
+      "ypos": 156,
+      "width": 175,
+      "height": 30,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "xpos": 694,
+      "ypos": 189,
+      "width": 122,
+      "height": 24,
+      "type": "match",
+      "click_point": {
+        "xpos": 61,
+        "ypos": 12
+      },
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-no-updates-available"
+  ]
+}
