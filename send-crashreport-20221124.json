@@ -9,11 +9,15 @@
       "match": 86
     },
     {
-      "xpos": 95,
-      "ypos": 300,
-      "width": 18,
-      "height": 19,
-      "type": "match"
+      "xpos": 83,
+      "ypos": 298,
+      "width": 77,
+      "height": 21,
+      "type": "match",
+      "click_point": {
+        "xpos": 26,
+        "ypos": 11.5
+      }
     }
   ],
   "properties": [],
