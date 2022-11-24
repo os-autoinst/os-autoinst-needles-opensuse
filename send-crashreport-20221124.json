@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 124,
+      "ypos": 129,
+      "width": 326,
+      "height": 27,
+      "type": "match",
+      "match": 86
+    },
+    {
+      "xpos": 95,
+      "ypos": 300,
+      "width": 18,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "send-crashreport"
+  ]
+}
