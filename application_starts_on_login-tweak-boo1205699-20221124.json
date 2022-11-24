@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 4,
+      "ypos": 41,
+      "width": 1020,
+      "height": 135,
+      "type": "match",
+      "click_point": {
+        "xpos": 572,
+        "ypos": 20.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tweak-boo1205699"
+  ]
+}
