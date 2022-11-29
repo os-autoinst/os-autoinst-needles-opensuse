@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 312,
+      "height": 28,
+      "ypos": 370,
+      "width": 305,
+      "type": "match"
+    },
+    {
+      "type": "exclude",
+      "width": 22,
+      "ypos": 386,
+      "height": 16,
+      "xpos": 308
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "opensuse-pool"
+  ]
+}
