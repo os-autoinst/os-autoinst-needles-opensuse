@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "width": 755,
+      "xpos": 0,
+      "height": 250,
+      "type": "match",
+      "ypos": 0
+    },
+    {
+      "xpos": 494,
+      "width": 26,
+      "height": 22,
+      "type": "exclude",
+      "ypos": 163
+    },
+    {
+      "xpos": 187,
+      "width": 396,
+      "ypos": 88,
+      "type": "exclude",
+      "height": 47
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "CHRISTMAS",
+    "ENV-LEAP-1",
+    "bootloader",
+    "inst-bootmenu"
+  ]
+}
