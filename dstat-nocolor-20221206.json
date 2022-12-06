@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 3,
+      "width": 535,
+      "type": "match",
+      "ypos": 18,
+      "height": 46
+    },
+    {
+      "height": 23,
+      "width": 35,
+      "xpos": 88,
+      "ypos": 100,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dstat-nocolor"
+  ]
+}
