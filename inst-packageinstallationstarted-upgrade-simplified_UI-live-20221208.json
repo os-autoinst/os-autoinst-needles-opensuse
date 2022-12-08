@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "height": 30,
+      "xpos": 272,
+      "type": "match",
+      "ypos": 14,
+      "width": 232
+    },
+    {
+      "type": "match",
+      "ypos": 371,
+      "xpos": 309,
+      "height": 14,
+      "width": 195
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "inst-packageinstallationstarted",
+    "installation-details-view"
+  ]
+}
