@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 710,
+      "type": "match",
+      "height": 15,
+      "width": 105,
+      "xpos": 167
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sddm_session_plasma_wayland"
+  ]
+}
