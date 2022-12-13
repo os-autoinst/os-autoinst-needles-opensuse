@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "height": 113,
+      "type": "match",
+      "width": 217,
+      "xpos": 132,
+      "ypos": 5
+    },
+    {
+      "height": 34,
+      "type": "match",
+      "xpos": 5,
+      "width": 65,
+      "ypos": 730
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-LIVECD-1",
+    "ENV-VERSION-Tumbleweed",
+    "generic-desktop",
+    "x11"
+  ]
+}
