@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 271,
+      "xpos": 226,
+      "height": 76,
+      "ypos": 299,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 385,
+      "xpos": 232,
+      "height": 39,
+      "width": 198
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-xfce4_appfinder-1",
+    "ENV-DESKTOP-xfce"
+  ]
+}
