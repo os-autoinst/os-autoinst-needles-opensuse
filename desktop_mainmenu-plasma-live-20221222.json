@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 523,
+      "xpos": 0,
+      "type": "match",
+      "width": 659,
+      "ypos": 202
+    },
+    {
+      "width": 226,
+      "ypos": 205,
+      "type": "exclude",
+      "height": 41,
+      "xpos": 2
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1206600 - No firefox on i586"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "desktop_mainmenu-kickoff",
+    "test-desktop_mainmenu-1"
+  ]
+}
