@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 33,
+      "type": "match",
+      "width": 277,
+      "height": 35,
+      "xpos": 372
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnucash-2"
+  ]
+}
