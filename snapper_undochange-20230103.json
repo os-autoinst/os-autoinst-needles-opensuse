@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "width": 212,
+      "type": "match",
+      "height": 14,
+      "ypos": 321
+    },
+    {
+      "ypos": 368,
+      "xpos": 1,
+      "width": 210,
+      "type": "match",
+      "height": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "snapper_undochange"
+  ]
+}
