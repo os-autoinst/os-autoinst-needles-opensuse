@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 846,
+      "ypos": 30,
+      "width": 159,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-opensuse",
+    "inst-overview",
+    "installation-settings-release-notes-selected"
+  ]
+}
