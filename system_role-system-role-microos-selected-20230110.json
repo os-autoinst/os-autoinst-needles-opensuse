@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 367,
+      "width": 119,
+      "height": 16,
+      "ypos": 199,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI=microos",
+    "system-role-microos-selected"
+  ]
+}
