@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 428,
+      "xpos": 291,
+      "width": 143,
+      "type": "match",
+      "height": 17
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-xfce"
+  ]
+}
