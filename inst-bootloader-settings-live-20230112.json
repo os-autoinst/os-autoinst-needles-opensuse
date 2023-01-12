@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 17,
+      "width": 233,
+      "height": 29,
+      "xpos": 2
+    },
+    {
+      "type": "match",
+      "xpos": 960,
+      "ypos": 733,
+      "width": 35,
+      "height": 18
+    },
+    {
+      "type": "match",
+      "height": 44,
+      "width": 145,
+      "ypos": 48,
+      "xpos": 6
+    },
+    {
+      "xpos": 152,
+      "height": 25,
+      "width": 122,
+      "ypos": 55,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "inst-bootloader-settings",
+    "inst-bootloader-settings-first_tab_highlighted"
+  ]
+}
