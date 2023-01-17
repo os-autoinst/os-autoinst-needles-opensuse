@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 567,
+      "xpos": 293,
+      "height": 17,
+      "width": 155
+    },
+    {
+      "ypos": 13,
+      "type": "match",
+      "height": 34,
+      "width": 121,
+      "xpos": 270
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-serverro-selected"
+  ]
+}
