@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 16,
+      "ypos": 31,
+      "width": 167,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 940,
+      "ypos": 723,
+      "width": 49,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "manual-intervention"
+  ]
+}
