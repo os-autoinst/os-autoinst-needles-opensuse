@@ -4,12 +4,18 @@ stages:
   - mirror
 
 mirror-from-github:
+    retry: 2
     stage: mirror
     rules:
           - if: $TOKEN
     before_script:
         - source /etc/os-release && zypper ar http://download.suse.de/ibs/SUSE:/CA/openSUSE_Leap_${VERSION}/SUSE:CA.repo
-        - zypper -n in git ca-certificates-suse
+        - |
+          for i in {1..3}; do
+              zypper -n in git ca-certificates-suse
+              zypper ref
+              sleep 1
+          done
     script:
         - git config user.email "you@example.com"
         - git config user.name "Your Name"
