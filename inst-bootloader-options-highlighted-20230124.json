@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 51,
+      "height": 35,
+      "width": 148,
+      "xpos": 277
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-bootloader-options-highlighted",
+    "installation-bootloader-options"
+  ]
+}
