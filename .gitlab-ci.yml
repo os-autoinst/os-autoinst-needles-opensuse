@@ -12,8 +12,7 @@ mirror-from-github:
         - source /etc/os-release && zypper ar http://download.suse.de/ibs/SUSE:/CA/openSUSE_Leap_${VERSION}/SUSE:CA.repo
         - |
           for i in {1..3}; do
-              zypper -n in git ca-certificates-suse
-              zypper ref
+              zypper -n in git ca-certificates-suse && zypper ref && break
               sleep 1
           done
     script:
