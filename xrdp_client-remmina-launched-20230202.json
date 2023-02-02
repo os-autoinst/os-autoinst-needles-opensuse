@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 232,
+      "xpos": 186,
+      "ypos": 133,
+      "width": 653
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "remmina-launched"
+  ]
+}
