@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 169,
+      "width": 167,
+      "type": "match",
+      "xpos": 341,
+      "height": 38
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "hexchat-nick-empty"
+  ]
+}
