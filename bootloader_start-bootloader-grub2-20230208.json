@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 116,
+      "ypos": 272,
+      "width": 157,
+      "height": 59,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-alp",
+    "bootloader-grub2"
+  ]
+}
