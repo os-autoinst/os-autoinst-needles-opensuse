@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 23,
+      "width": 229,
+      "ypos": 184,
+      "xpos": 161,
+      "type": "match"
+    },
+    {
+      "height": 19,
+      "width": 158,
+      "ypos": 103,
+      "type": "match",
+      "xpos": 163
+    },
+    {
+      "ypos": 218,
+      "type": "match",
+      "xpos": 157,
+      "height": 19,
+      "width": 211
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "hexchat-connection-complete-dialog"
+  ]
+}
