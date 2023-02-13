@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 118,
+      "ypos": 156,
+      "xpos": 17,
+      "type": "match",
+      "height": 16
+    },
+    {
+      "type": "match",
+      "xpos": 345,
+      "height": 20,
+      "ypos": 40,
+      "width": 195
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnuhealth-client-admin_view"
+  ]
+}
