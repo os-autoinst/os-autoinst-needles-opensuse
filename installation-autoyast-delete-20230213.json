@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 676,
+      "xpos": 49,
+      "type": "match",
+      "ypos": 55,
+      "width": 953
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "autoyast-stage1-reboot-upcoming",
+    "black-screen"
+  ]
+}
