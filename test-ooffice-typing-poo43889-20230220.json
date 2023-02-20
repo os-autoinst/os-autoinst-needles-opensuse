@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 263,
+      "width": 77,
+      "height": 99,
+      "xpos": 76,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "value": "poo#43889",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "test-ooffice-2"
+  ]
+}
