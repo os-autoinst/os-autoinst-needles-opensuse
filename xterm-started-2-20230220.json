@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 125,
+      "width": 442,
+      "xpos": 0,
+      "type": "match",
+      "height": 252
+    },
+    {
+      "width": 30,
+      "ypos": 71,
+      "type": "match",
+      "xpos": 126,
+      "height": 18
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "desktop-runner-border",
+    "xterm"
+  ]
+}
