@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "height": 121,
+      "ypos": 596,
+      "type": "match",
+      "xpos": 476,
+      "width": 548
+    },
+    {
+      "height": 315,
+      "ypos": 0,
+      "xpos": 22,
+      "width": 574,
+      "type": "match"
+    },
+    {
+      "ypos": 171,
+      "height": 21,
+      "width": 18,
+      "xpos": 529,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-LEAP-1",
+    "ENV-VERSION-15.2",
+    "bootloader-grub2",
+    "inst-bootmenu"
+  ]
+}
