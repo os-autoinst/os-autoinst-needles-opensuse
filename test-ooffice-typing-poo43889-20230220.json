@@ -1,19 +1,14 @@
 {
   "area": [
     {
-      "ypos": 263,
       "width": 77,
+      "ypos": 263,
       "height": 99,
-      "xpos": 76,
-      "type": "match"
+      "type": "match",
+      "xpos": 76
     }
   ],
-  "properties": [
-    {
-      "value": "poo#43889",
-      "name": "workaround"
-    }
-  ],
+  "properties": [],
   "tags": [
     "ENV-DESKTOP-gnome",
     "ENV-INSTLANG-en_US",
