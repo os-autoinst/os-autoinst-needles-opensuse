@@ -1,19 +1,14 @@
 {
   "area": [
     {
-      "ypos": 730,
       "height": 35,
-      "type": "match",
+      "ypos": 730,
+      "xpos": 846,
       "width": 21,
-      "xpos": 846
+      "type": "match"
     }
   ],
-  "properties": [
-    {
-      "name": "workaround",
-      "value": "boo#1007701"
-    }
-  ],
+  "properties": [],
   "tags": [
     "ENV-DESKTOP-kde",
     "updates_available-tray"
