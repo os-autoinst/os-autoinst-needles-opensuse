@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 507,
+      "xpos": 592,
+      "width": 120,
+      "height": 39,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "security-selinux-enforcing"
+  ]
+}
