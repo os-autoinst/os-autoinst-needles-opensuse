@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 94,
+      "type": "match",
+      "height": 36,
+      "ypos": 379,
+      "xpos": 468
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center-no-update-repo"
+  ]
+}
