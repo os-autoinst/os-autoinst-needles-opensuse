@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 114,
+      "width": 793,
+      "xpos": 114,
+      "height": 490
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-konsole-1"
+  ]
+}
