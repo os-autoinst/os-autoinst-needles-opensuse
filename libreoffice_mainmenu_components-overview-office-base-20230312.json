@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 119,
+      "ypos": 115,
+      "type": "match",
+      "width": 117,
+      "xpos": 449
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "overview-office-base"
+  ]
+}
