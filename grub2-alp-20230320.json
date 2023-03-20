@@ -1,0 +1,35 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 90,
+      "width": 44,
+      "height": 40,
+      "ypos": 207,
+      "match": 90
+    },
+    {
+      "xpos": 99,
+      "ypos": 253,
+      "width": 208,
+      "height": 21,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "xpos": 320,
+      "ypos": 41,
+      "width": 161,
+      "height": 147,
+      "type": "match",
+      "match": 94
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-alp",
+    "autoyast-boot",
+    "bootloader",
+    "grub2"
+  ]
+}
