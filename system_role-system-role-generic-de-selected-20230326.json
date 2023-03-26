@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 282,
+      "ypos": 339,
+      "width": 126,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "width": 126,
+      "xpos": 264,
+      "ypos": 14,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-xfce-selected"
+  ]
+}
