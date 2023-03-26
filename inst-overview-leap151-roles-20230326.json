@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 224,
+      "xpos": 274,
+      "width": 189,
+      "height": 67,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ]
+}
