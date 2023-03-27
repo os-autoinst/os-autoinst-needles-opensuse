@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 63,
+      "type": "match",
+      "ypos": 4,
+      "xpos": 234,
+      "width": 39
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "desktop-runner-plasma-suggestions"
+  ]
+}
