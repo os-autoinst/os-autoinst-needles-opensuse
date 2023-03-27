@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 387,
+      "xpos": 8,
+      "width": 118,
+      "type": "match",
+      "height": 10
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "load-initrd"
+  ]
+}
