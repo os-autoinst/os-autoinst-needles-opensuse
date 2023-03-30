@@ -2,36 +2,36 @@
   "area": [
     {
       "xpos": 43,
-      "ypos": 146,
       "type": "match",
       "height": 458,
-      "width": 953
+      "width": 953,
+      "ypos": 146
     },
     {
-      "width": 15,
-      "type": "match",
-      "height": 59,
       "ypos": 72,
+      "width": 15,
+      "height": 59,
+      "type": "match",
       "xpos": 427
     },
     {
-      "xpos": 578,
-      "ypos": 75,
       "type": "match",
       "height": 53,
+      "xpos": 578,
+      "ypos": 75,
       "width": 50
     },
     {
+      "ypos": 147,
+      "width": 558,
       "height": 90,
       "type": "exclude",
-      "width": 558,
-      "xpos": 229,
-      "ypos": 147
+      "xpos": 229
     }
   ],
   "properties": [],
   "tags": [
     "ENV-DESKTOP-kde",
-    "screenlock"
+    "screenlock-password"
   ]
 }
