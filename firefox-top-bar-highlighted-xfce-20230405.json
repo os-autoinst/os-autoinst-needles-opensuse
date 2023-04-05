@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 28,
+      "ypos": 5,
+      "type": "match",
+      "width": 71,
+      "xpos": 3
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "firefox-top-bar-highlighted"
+  ]
+}
