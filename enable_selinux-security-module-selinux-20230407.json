@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 59,
+      "xpos": 589,
+      "type": "match",
+      "ypos": 386,
+      "width": 209
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "security-module-selinux"
+  ]
+}
