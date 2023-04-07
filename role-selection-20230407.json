@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 33,
+      "xpos": 271,
+      "type": "match",
+      "width": 120,
+      "ypos": 16
+    },
+    {
+      "height": 41,
+      "type": "match",
+      "xpos": 274,
+      "ypos": 60,
+      "width": 367
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "before-role-selection",
+    "desktop-selection",
+    "installation"
+  ]
+}
