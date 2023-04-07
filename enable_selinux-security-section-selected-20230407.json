@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 279,
+      "height": 26,
+      "ypos": 689,
+      "width": 68
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "security-section-selected"
+  ]
+}
