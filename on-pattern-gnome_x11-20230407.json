@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 31,
+      "type": "match",
+      "xpos": 383,
+      "ypos": 80,
+      "width": 321
+    },
+    {
+      "height": 20,
+      "type": "match",
+      "xpos": 127,
+      "width": 172,
+      "ypos": 134
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "on-pattern",
+    "pattern-gnome_x11"
+  ]
+}
