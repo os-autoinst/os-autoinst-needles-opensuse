@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 524,
+      "ypos": 323,
+      "width": 122,
+      "type": "match",
+      "height": 123
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ibus_switch_cn"
+  ]
+}
