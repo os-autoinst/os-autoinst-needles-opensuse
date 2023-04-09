@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 126,
+      "xpos": 272,
+      "ypos": 58,
+      "type": "match",
+      "height": 50
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "dasd-disk-management"
+  ]
+}
