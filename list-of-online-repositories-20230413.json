@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 33,
+      "type": "match",
+      "xpos": 265,
+      "width": 273,
+      "ypos": 15
+    },
+    {
+      "type": "match",
+      "height": 40,
+      "xpos": 270,
+      "width": 23,
+      "ypos": 110
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "list-of-online-repositories"
+  ]
+}
