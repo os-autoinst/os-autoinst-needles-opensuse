@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 66,
+      "xpos": 265,
+      "ypos": 13,
+      "width": 218
+    },
+    {
+      "width": 205,
+      "ypos": 664,
+      "type": "match",
+      "xpos": 785,
+      "height": 100
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LIVE_UPGRADE-1",
+    "installation-settings-overview-loaded"
+  ]
+}
