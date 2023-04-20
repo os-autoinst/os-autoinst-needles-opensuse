@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 16,
+      "ypos": 713,
+      "width": 175,
+      "height": 53,
+      "type": "match"
+    },
+    {
+      "xpos": 882,
+      "ypos": 708,
+      "width": 139,
+      "height": 60,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "alp-installer-ui"
+  ]
+}
