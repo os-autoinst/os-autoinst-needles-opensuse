@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 275,
+      "height": 13,
+      "ypos": 133,
+      "width": 270,
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "update-sle-selected"
+  ]
+}
