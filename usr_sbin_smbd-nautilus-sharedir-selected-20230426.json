@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 375,
+      "height": 21,
+      "width": 46,
+      "ypos": 218
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nautilus-sharedir-selected"
+  ]
+}
