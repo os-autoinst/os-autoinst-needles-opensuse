@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 77,
+      "height": 20,
+      "type": "match",
+      "ypos": 188,
+      "width": 58
+    },
+    {
+      "ypos": 15,
+      "width": 113,
+      "xpos": 3,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 1,
+      "height": 15,
+      "width": 102,
+      "ypos": 97
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-alp",
+    "linux-login-microos"
+  ]
+}
