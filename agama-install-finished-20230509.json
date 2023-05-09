@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 9,
+      "ypos": 2,
+      "width": 313,
+      "height": 44,
+      "type": "match"
+    },
+    {
+      "xpos": 315,
+      "ypos": 177,
+      "width": 369,
+      "height": 296,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-install-finished"
+  ]
+}
