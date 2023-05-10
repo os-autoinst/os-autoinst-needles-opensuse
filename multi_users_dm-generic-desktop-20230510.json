@@ -1,0 +1,37 @@
+{
+  "area": [
+    {
+      "ypos": 6,
+      "height": 661,
+      "width": 912,
+      "xpos": 13,
+      "type": "match"
+    },
+    {
+      "ypos": 7,
+      "type": "exclude",
+      "xpos": 466,
+      "width": 97,
+      "height": 18
+    },
+    {
+      "xpos": 205,
+      "width": 621,
+      "type": "exclude",
+      "height": 30,
+      "ypos": 534
+    },
+    {
+      "width": 381,
+      "xpos": 129,
+      "type": "exclude",
+      "height": 31,
+      "ypos": 138
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "generic-desktop",
+    "opensuse-welcome"
+  ]
+}
