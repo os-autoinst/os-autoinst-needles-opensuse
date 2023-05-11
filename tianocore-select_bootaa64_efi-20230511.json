@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 23,
+      "type": "match",
+      "width": 98,
+      "ypos": 172,
+      "height": 21
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-select_bootaa64_efi"
+  ]
+}
