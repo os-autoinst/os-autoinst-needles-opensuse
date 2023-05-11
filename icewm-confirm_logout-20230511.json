@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 420,
+      "height": 81,
+      "ypos": 362,
+      "width": 242
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "icewm_confirm_logout"
+  ]
+}
