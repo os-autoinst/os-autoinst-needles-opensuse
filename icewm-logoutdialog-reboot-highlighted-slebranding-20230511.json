@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 459,
+      "type": "match",
+      "height": 20,
+      "width": 107,
+      "ypos": 358
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "logoutdialog-reboot-highlighted"
+  ]
+}
