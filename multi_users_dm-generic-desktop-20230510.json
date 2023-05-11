@@ -1,60 +1,63 @@
 {
   "area": [
     {
+      "height": 63,
       "xpos": 150,
       "width": 403,
       "type": "match",
-      "height": 63,
-      "ypos": 183
+      "ypos": 183,
+      "match": 92
     },
     {
-      "xpos": 647,
-      "ypos": 260,
+      "type": "match",
       "width": 214,
+      "xpos": 647,
       "height": 160,
-      "type": "match"
+      "ypos": 260
     },
     {
-      "xpos": 157,
       "ypos": 255,
-      "width": 233,
       "height": 173,
-      "type": "match"
+      "width": 233,
+      "xpos": 157,
+      "type": "match",
+      "match": 92
     },
     {
-      "xpos": 431,
       "ypos": 261,
-      "width": 170,
       "height": 158,
+      "width": 170,
+      "xpos": 431,
       "type": "match"
     },
     {
-      "xpos": 14,
-      "ypos": 7,
-      "width": 72,
       "height": 21,
-      "type": "match"
+      "width": 72,
+      "xpos": 17,
+      "type": "match",
+      "ypos": 6,
+      "match": 85
     },
     {
-      "xpos": 163,
-      "ypos": 438,
       "width": 697,
+      "xpos": 163,
+      "type": "match",
       "height": 69,
-      "type": "match"
+      "ypos": 438
     },
     {
-      "xpos": 631,
       "ypos": 589,
       "width": 181,
-      "height": 34,
-      "type": "match"
+      "xpos": 631,
+      "type": "match",
+      "height": 34
     },
     {
-      "xpos": 828,
       "ypos": 588,
+      "type": "match",
+      "xpos": 828,
       "width": 72,
-      "height": 39,
-      "type": "match"
+      "height": 39
     }
   ],
   "properties": [],
