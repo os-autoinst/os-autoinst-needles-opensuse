@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 207,
+      "ypos": 115,
+      "width": 616,
+      "height": 495,
+      "type": "match",
+      "click_point": {
+        "xpos": 312,
+        "ypos": 295.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "kontact",
+    "kontact-window",
+    "test-kontact-1"
+  ]
+}
