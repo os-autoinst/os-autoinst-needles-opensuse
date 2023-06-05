@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 12,
+      "ypos": 122,
+      "type": "match",
+      "width": 69,
+      "xpos": 554,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "openqa-job-minimalx"
+  ]
+}
