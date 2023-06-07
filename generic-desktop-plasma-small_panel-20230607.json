@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "width": 1024,
+      "height": 169,
+      "xpos": 0,
+      "ypos": 0,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 734,
+      "xpos": 2,
+      "height": 33,
+      "width": 1021
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1211628 - Theme not fully applied - May be a plasmashell crash"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "boo1211628",
+    "generic-desktop",
+    "x11"
+  ]
+}
