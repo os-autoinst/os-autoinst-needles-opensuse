@@ -25,6 +25,7 @@
     "ENV-DESKTOP-kde",
     "ENV-DISTRI-opensuse",
     "ENV-INSTLANG-en_US",
+    "ENV-LIVECD-1",
     "boo1211628",
     "generic-desktop",
     "x11"
