@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 650,
+      "xpos": 709,
+      "height": 15,
+      "type": "match",
+      "width": 193
+    },
+    {
+      "xpos": 179,
+      "ypos": 212,
+      "width": 160,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gfxpayload_changed"
+  ]
+}
