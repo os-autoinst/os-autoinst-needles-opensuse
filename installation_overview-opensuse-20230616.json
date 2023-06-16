@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 102,
+      "height": 68,
+      "xpos": 24,
+      "ypos": 203
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ]
+}
