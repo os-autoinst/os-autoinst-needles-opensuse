@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 228,
+      "ypos": 438,
+      "width": 569,
+      "height": 44,
+      "type": "match",
+      "click_point": {
+        "xpos": 138.5,
+        "ypos": 23
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "updates_restart_application"
+  ]
+}
