@@ -5,7 +5,11 @@
       "ypos": 441,
       "width": 280,
       "height": 42,
-      "type": "match"
+      "type": "match",
+      "click_point": {
+        "xpos": 140,
+        "ypos": 21
+      }
     }
   ],
   "properties": [],
