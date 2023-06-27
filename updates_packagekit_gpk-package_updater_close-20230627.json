@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 232,
+      "ypos": 441,
+      "width": 280,
+      "height": 42,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "package_updater_close"
+  ]
+}
