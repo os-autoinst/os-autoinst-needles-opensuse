@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 0,
+      "type": "match",
+      "xpos": 144,
+      "width": 34,
+      "height": 14
+    },
+    {
+      "height": 10,
+      "ypos": 68,
+      "width": 260,
+      "xpos": 154,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "user-console"
+  ]
+}
