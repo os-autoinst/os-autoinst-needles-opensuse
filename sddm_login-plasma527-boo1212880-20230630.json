@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 25,
+      "xpos": 392,
+      "type": "match",
+      "ypos": 442,
+      "width": 104
+    },
+    {
+      "type": "match",
+      "ypos": 740,
+      "width": 110,
+      "height": 27,
+      "xpos": 0
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1212880"
+    }
+  ],
+  "tags": [
+    "displaymanager",
+    "displaymanager-password-prompt",
+    "sddm"
+  ]
+}
