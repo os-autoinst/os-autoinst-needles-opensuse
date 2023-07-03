@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 145,
+      "width": 184,
+      "height": 56,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub2"
+  ]
+}
