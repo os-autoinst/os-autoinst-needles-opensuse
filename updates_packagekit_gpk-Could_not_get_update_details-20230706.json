@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 50,
+      "ypos": 247,
+      "width": 50,
+      "height": 50,
+      "type": "exclude"
+    },
+    {
+      "xpos": 535,
+      "ypos": 83,
+      "width": 52,
+      "height": 51,
+      "type": "exclude"
+    },
+    {
+      "xpos": 54,
+      "ypos": 86,
+      "width": 530,
+      "height": 208,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "Could_not_get_update_details"
+  ]
+}
