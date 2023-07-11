@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 35,
+      "ypos": 209,
+      "xpos": 92,
+      "type": "match",
+      "width": 66
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub2-agama"
+  ]
+}
