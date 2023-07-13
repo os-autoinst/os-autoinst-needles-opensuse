@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 119,
+      "type": "match",
+      "ypos": 109,
+      "height": 215,
+      "width": 782
+    },
+    {
+      "width": 105,
+      "height": 168,
+      "ypos": 162,
+      "xpos": 115,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-sol-started"
+  ]
+}
