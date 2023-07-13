@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 37,
+      "xpos": 8,
+      "type": "match",
+      "height": 30,
+      "width": 67
+    },
+    {
+      "height": 32,
+      "width": 76,
+      "ypos": 39,
+      "xpos": 863,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome-maps-started"
+  ]
+}
