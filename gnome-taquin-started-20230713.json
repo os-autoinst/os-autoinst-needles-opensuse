@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 104,
+      "xpos": 258,
+      "type": "match",
+      "height": 27,
+      "width": 413
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome-taquin-started"
+  ]
+}
