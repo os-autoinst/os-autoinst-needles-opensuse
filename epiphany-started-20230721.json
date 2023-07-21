@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 314,
+      "height": 247,
+      "ypos": 313,
+      "width": 410,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-epiphany-started"
+  ]
+}
