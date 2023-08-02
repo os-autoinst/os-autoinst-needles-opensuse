@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 354,
+      "width": 485,
+      "ypos": 70,
+      "xpos": 1
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "inkscape"
+  ]
+}
