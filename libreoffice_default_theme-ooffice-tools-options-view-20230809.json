@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "width": 133,
+      "xpos": 4,
+      "height": 90,
+      "type": "match",
+      "ypos": 122
+    },
+    {
+      "width": 215,
+      "ypos": 191,
+      "height": 66,
+      "type": "match",
+      "xpos": 409
+    },
+    {
+      "width": 215,
+      "xpos": 408,
+      "height": 32,
+      "type": "match",
+      "ypos": 73
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ooffice-tools-options-view"
+  ]
+}
