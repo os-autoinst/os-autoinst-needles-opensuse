@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 118,
+      "xpos": 7,
+      "ypos": 7,
+      "width": 294
+    },
+    {
+      "width": 128,
+      "ypos": 692,
+      "xpos": 890,
+      "height": 76,
+      "type": "match"
+    },
+    {
+      "height": 25,
+      "type": "exclude",
+      "width": 125,
+      "xpos": 168,
+      "ypos": 24
+    },
+    {
+      "xpos": 0,
+      "ypos": 90,
+      "width": 62,
+      "height": 45,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "installation"
+  ]
+}
