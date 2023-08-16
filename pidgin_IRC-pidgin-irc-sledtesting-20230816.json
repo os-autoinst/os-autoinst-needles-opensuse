@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 99,
+      "xpos": 257,
+      "width": 229,
+      "ypos": 39
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pidgin-irc-sledtesting"
+  ]
+}
