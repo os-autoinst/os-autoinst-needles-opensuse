@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 554,
+      "type": "match",
+      "height": 55,
+      "ypos": 453,
+      "width": 58
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "nautilus-rightkey-menu"
+  ]
+}
