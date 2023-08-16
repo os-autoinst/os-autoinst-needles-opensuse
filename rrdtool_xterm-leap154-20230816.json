@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 122,
+      "width": 493,
+      "xpos": 268,
+      "type": "match",
+      "height": 32
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rrdtool_xterm"
+  ]
+}
