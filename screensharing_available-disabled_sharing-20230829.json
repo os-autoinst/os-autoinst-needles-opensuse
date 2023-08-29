@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 913,
+      "ypos": 39,
+      "width": 55,
+      "height": 36,
+      "type": "match"
+    },
+    {
+      "xpos": 599,
+      "ypos": 39,
+      "width": 92,
+      "height": 32,
+      "type": "match"
+    },
+    {
+      "xpos": 858,
+      "ypos": 198,
+      "width": 87,
+      "height": 170,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "disabled_sharing"
+  ]
+}
