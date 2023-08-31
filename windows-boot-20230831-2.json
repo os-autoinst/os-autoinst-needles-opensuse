@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "height": 15,
+      "width": 423,
+      "ypos": 7,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-boot"
+  ]
+}
