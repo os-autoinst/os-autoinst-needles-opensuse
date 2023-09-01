@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 1,
+      "height": 35,
+      "type": "match",
+      "width": 286,
+      "ypos": 50
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo1134533"
+    }
+  ],
+  "tags": [
+    "emergency-shell-boo1134533"
+  ]
+}
