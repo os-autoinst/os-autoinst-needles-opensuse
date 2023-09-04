@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 366,
+      "xpos": 0,
+      "ypos": 27,
+      "type": "match",
+      "height": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-alp",
+    "ENV-QEMUVGA-virtio",
+    "bootloader",
+    "bootloader-grub2",
+    "grub2"
+  ]
+}
