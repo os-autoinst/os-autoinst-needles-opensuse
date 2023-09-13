@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 321,
+      "width": 631,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1215283"
+    }
+  ],
+  "tags": [
+    "correct-console-font"
+  ]
+}
