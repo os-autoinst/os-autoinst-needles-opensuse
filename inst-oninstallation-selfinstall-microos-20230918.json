@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 202,
+      "type": "match",
+      "width": 300,
+      "ypos": 241,
+      "height": 42
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-microos",
+    "inst-oninstallation"
+  ]
+}
