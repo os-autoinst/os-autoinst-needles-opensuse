@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "xpos": 31,
+      "click_point": {
+        "xpos": 56,
+        "ypos": 9
+      },
+      "type": "match",
+      "ypos": 668,
+      "width": 112
+    },
+    {
+      "ypos": 133,
+      "width": 438,
+      "height": 39,
+      "xpos": 293,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-offline"
+  ]
+}
