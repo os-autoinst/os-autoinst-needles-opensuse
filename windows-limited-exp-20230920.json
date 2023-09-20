@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "ypos": 122,
+      "width": 303,
+      "height": 46,
+      "xpos": 57,
+      "type": "match"
+    },
+    {
+      "ypos": 666,
+      "width": 136,
+      "xpos": 31,
+      "height": 23,
+      "click_point": {
+        "xpos": 75.5,
+        "ypos": 13.5
+      },
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-limited-exp"
+  ]
+}
