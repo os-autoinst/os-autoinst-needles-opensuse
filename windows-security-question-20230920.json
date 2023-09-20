@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "xpos": 286,
+      "click_point": {
+        "ypos": 13,
+        "xpos": 54.5
+      },
+      "type": "match",
+      "ypos": 501,
+      "width": 109
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-security-question"
+  ]
+}
