@@ -1,10 +1,21 @@
 {
   "area": [
     {
-      "ypos": 506,
-      "width": 125,
       "height": 17,
-      "xpos": 284,
+      "xpos": 285,
+      "type": "match",
+      "ypos": 505,
+      "width": 125,
+      "click_point": {
+        "xpos": 62.5,
+        "ypos": 8.5
+      }
+    },
+    {
+      "xpos": 430,
+      "ypos": 286,
+      "width": 165,
+      "height": 154,
       "type": "match"
     }
   ],
