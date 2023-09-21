@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 504,
+      "ypos": 410,
+      "width": 92,
+      "height": 25,
+      "type": "match",
+      "click_point": {
+        "xpos": 22,
+        "ypos": 12.5
+      }
+    },
+    {
+      "xpos": 505,
+      "ypos": 327,
+      "width": 122,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-dont-improve-inking&typing"
+  ]
+}
