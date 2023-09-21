@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 319,
+      "width": 428,
+      "height": 36,
+      "xpos": 259,
+      "type": "match"
+    },
+    {
+      "xpos": 252,
+      "ypos": 392,
+      "width": 194,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tracker-info-newpl"
+  ]
+}
