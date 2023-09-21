@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 708,
+      "ypos": 89,
+      "width": 273,
+      "height": 45,
+      "type": "match"
+    },
+    {
+      "xpos": 651,
+      "ypos": 655,
+      "width": 170,
+      "height": 43,
+      "type": "match",
+      "click_point": {
+        "xpos": 85,
+        "ypos": 21.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-browsing-data"
+  ]
+}
