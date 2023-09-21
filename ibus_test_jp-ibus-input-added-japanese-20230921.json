@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 365,
+      "type": "match",
+      "width": 540,
+      "ypos": 217,
+      "click_point": {
+        "ypos": 21,
+        "xpos": 516.5
+      },
+      "height": 46
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ibus-input-added-japanese"
+  ]
+}
