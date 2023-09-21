@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 651,
+      "ypos": 653,
+      "width": 169,
+      "height": 46,
+      "type": "match",
+      "click_point": {
+        "xpos": 84.5,
+        "ypos": 23
+      }
+    },
+    {
+      "xpos": 225,
+      "ypos": 130,
+      "width": 153,
+      "height": 46,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-make-cortana-personal-assistant"
+  ]
+}
