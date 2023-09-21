@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 414,
+      "height": 36,
+      "ypos": 35,
+      "width": 191
+    },
+    {
+      "width": 72,
+      "ypos": 45,
+      "height": 22,
+      "xpos": 416,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "totem",
+    "test-totem-started"
+  ]
+}
