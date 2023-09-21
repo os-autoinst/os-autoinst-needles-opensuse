@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 593,
+      "height": 26,
+      "width": 98,
+      "ypos": 41
+    },
+    {
+      "type": "match",
+      "xpos": 355,
+      "height": 100,
+      "ypos": 102,
+      "width": 302
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "g-c-c-keyboard"
+  ]
+}
