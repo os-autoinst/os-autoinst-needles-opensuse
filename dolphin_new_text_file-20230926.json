@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 132,
+      "xpos": 296,
+      "ypos": 256,
+      "width": 411
+    },
+    {
+      "height": 27,
+      "xpos": 347,
+      "type": "exclude",
+      "width": 10,
+      "ypos": 316
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dolphin_new_text_file"
+  ]
+}
