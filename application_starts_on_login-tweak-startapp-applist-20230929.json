@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 317,
+      "height": 46,
+      "xpos": 351,
+      "ypos": 274,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "tweak-startapp-applist"
+  ]
+}
