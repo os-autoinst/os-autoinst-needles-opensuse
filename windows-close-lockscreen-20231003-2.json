@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 385,
+      "ypos": 89,
+      "width": 149,
+      "height": 34,
+      "type": "match"
+    },
+    {
+      "xpos": 725,
+      "ypos": 35,
+      "width": 112,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-close-lockscreen"
+  ]
+}
