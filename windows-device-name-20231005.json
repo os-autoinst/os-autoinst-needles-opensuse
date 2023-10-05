@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 147,
+      "type": "match",
+      "height": 182,
+      "width": 255,
+      "ypos": 288
+    },
+    {
+      "xpos": 544,
+      "ypos": 105,
+      "width": 256,
+      "height": 33,
+      "type": "match"
+    },
+    {
+      "ypos": 640,
+      "width": 99,
+      "click_point": {
+        "xpos": 49.5,
+        "ypos": 19
+      },
+      "type": "match",
+      "height": 36,
+      "xpos": 678
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-device-name"
+  ]
+}
