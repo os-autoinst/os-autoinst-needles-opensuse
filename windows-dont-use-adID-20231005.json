@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 546,
+      "click_point": {
+        "xpos": 24.5,
+        "ypos": 95.5
+      },
+      "type": "match",
+      "height": 111,
+      "width": 339,
+      "ypos": 402
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-dont-use-adID"
+  ]
+}
