@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 548,
+      "ypos": 107,
+      "width": 342,
+      "type": "match",
+      "height": 28
+    },
+    {
+      "type": "match",
+      "height": 162,
+      "ypos": 339,
+      "width": 162,
+      "xpos": 162
+    },
+    {
+      "xpos": 565,
+      "width": 302,
+      "ypos": 244,
+      "type": "match",
+      "height": 42,
+      "click_point": {
+        "ypos": 20,
+        "xpos": 44
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-create-account"
+  ]
+}
