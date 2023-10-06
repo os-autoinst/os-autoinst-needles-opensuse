@@ -3,30 +3,30 @@
     {
       "height": 661,
       "ypos": 6,
-      "width": 912,
+      "xpos": 13,
       "type": "match",
-      "xpos": 13
+      "width": 912
     },
     {
-      "ypos": 7,
-      "width": 97,
       "height": 18,
+      "ypos": 7,
       "xpos": 466,
+      "type": "exclude",
+      "width": 97
+    },
+    {
+      "xpos": 111,
+      "ypos": 522,
+      "height": 52,
+      "width": 801,
       "type": "exclude"
     },
     {
-      "xpos": 205,
-      "type": "exclude",
-      "width": 621,
-      "ypos": 534,
-      "height": 30
-    },
-    {
-      "height": 31,
       "ypos": 138,
-      "width": 381,
+      "height": 31,
+      "xpos": 129,
       "type": "exclude",
-      "xpos": 129
+      "width": 381
     }
   ],
   "properties": [],
