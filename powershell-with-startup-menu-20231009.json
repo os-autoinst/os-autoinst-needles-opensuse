@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "xpos": 8,
+      "ypos": 5,
+      "width": 233,
+      "height": 66,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "xpos": 254,
+      "ypos": 658,
+      "width": 186,
+      "height": 36,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "xpos": 743,
+      "ypos": 659,
+      "width": 35,
+      "height": 32,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "powershell-with-startup-menu"
+  ]
+}
