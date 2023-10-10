@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 85,
+      "type": "match",
+      "xpos": 167,
+      "ypos": 362,
+      "width": 697
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-firefox_audio-1",
+    "ENV-DISTRI-opensuse"
+  ]
+}
