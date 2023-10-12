@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 602,
+      "xpos": 210,
+      "type": "match",
+      "ypos": 15,
+      "height": 256
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-enlightenment",
+    "enlightenment_language_selection",
+    "generic-desktop"
+  ]
+}
