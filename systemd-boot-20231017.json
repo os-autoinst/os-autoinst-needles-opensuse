@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 36,
+      "type": "match",
+      "ypos": 291,
+      "width": 260,
+      "xpos": 270
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-boot"
+  ]
+}
