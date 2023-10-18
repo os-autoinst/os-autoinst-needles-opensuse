@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 66,
+      "ypos": 73,
+      "width": 115,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ui-toolkit-qt6"
+  ]
+}
