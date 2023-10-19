@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 47,
+      "type": "exclude",
+      "height": 10,
+      "ypos": 236,
+      "xpos": 119
+    },
+    {
+      "ypos": 715,
+      "height": 26,
+      "xpos": 693,
+      "type": "match",
+      "width": 22
+    },
+    {
+      "xpos": 0,
+      "ypos": 234,
+      "height": 14,
+      "type": "match",
+      "width": 189
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-linux-prompt"
+  ]
+}
