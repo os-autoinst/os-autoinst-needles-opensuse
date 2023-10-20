@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 23,
+      "type": "match",
+      "width": 260,
+      "xpos": 269,
+      "ypos": 309
+    },
+    {
+      "xpos": 245,
+      "ypos": 271,
+      "width": 133,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-microos",
+    "systemd-boot"
+  ]
+}
