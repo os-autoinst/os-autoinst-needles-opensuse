@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 145,
+      "ypos": 239,
+      "height": 19,
+      "xpos": 293,
+      "click_point": {
+        "xpos": 72.5,
+        "ypos": 9.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-gnome"
+  ]
+}
