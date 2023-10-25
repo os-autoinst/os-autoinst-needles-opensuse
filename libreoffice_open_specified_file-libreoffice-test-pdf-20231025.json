@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 24,
+      "xpos": 409,
+      "width": 206,
+      "type": "match",
+      "ypos": 37
+    },
+    {
+      "ypos": 195,
+      "type": "match",
+      "width": 119,
+      "xpos": 92,
+      "height": 131
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "libreoffice-test-pdf"
+  ]
+}
