@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 105,
+      "width": 485,
+      "xpos": 10,
+      "type": "match",
+      "height": 354
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "inkscape",
+    "test-inkscape-1"
+  ]
+}
