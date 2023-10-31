@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 730,
+      "ypos": 502,
+      "width": 40,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-installation-close-help"
+  ]
+}
