@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 514,
+      "height": 34,
+      "xpos": 3,
+      "ypos": 729,
+      "type": "match"
+    },
+    {
+      "height": 33,
+      "width": 224,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 0
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "mutt-verify-certificate"
+  ]
+}
