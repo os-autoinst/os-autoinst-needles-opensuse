@@ -15,8 +15,8 @@ Once you're done with your changes send a pull request. If you have test code
 changes relevant to your PR, please include reference in the description.
 
 You have to agree to the license. Thanks!
-If you have questions, visit us on irc.freenode.net in #opensuse-factory or
-ask on our mailing list opensuse-factory@opensuse.org
+If you have questions, visit us on irc.libera.chat in #opensuse-factory or
+ask on our mailing list opensuse-factory@opensuse.org.
 
 ### How to create needles
 
