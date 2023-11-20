@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 646,
+      "height": 33,
+      "click_point": {
+        "xpos": 42.5,
+        "ypos": 15
+      },
+      "xpos": 764,
+      "width": 85
+    },
+    {
+      "ypos": 252,
+      "type": "match",
+      "width": 114,
+      "xpos": 163,
+      "height": 42
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inkscape-welcome-save"
+  ]
+}
