@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 248,
+      "xpos": 328,
+      "type": "match",
+      "height": 34,
+      "width": 147
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "kde-energysaver-disabled"
+  ]
+}
