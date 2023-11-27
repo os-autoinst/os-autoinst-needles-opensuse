@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 116,
+      "width": 792,
+      "height": 490,
+      "type": "match",
+      "ypos": 131
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "https://bugzilla.opensuse.org/show_bug.cgi?id=1217542"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "konsole"
+  ]
+}
