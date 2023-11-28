@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 60,
+      "xpos": 958,
+      "height": 56,
+      "type": "match",
+      "ypos": 8
+    },
+    {
+      "width": 182,
+      "xpos": 8,
+      "height": 71,
+      "ypos": 693,
+      "type": "match"
+    },
+    {
+      "xpos": 934,
+      "width": 47,
+      "type": "match",
+      "ypos": 720,
+      "height": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-main-page"
+  ]
+}
