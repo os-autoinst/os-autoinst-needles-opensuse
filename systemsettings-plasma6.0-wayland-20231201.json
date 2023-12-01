@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "ypos": 25,
+      "height": 674,
+      "width": 917,
+      "type": "match",
+      "xpos": 52
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-WAYLAND-1",
+    "systemsettings",
+    "test-systemsettings-1"
+  ]
+}
