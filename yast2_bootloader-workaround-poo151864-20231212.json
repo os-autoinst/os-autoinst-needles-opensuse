@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 43,
+      "height": 260,
+      "width": 689,
+      "xpos": 8
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "yast2-bootloader now do not overwrite previous settings, on 42.x it uses a custom boot partition"
+    }
+  ],
+  "tags": [
+    "test-yast2_bootloader-1"
+  ]
+}
