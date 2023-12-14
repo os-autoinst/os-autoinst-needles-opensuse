@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 134,
+      "xpos": 326,
+      "width": 291,
+      "type": "match",
+      "height": 49
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hexchat-network-select"
+  ]
+}
