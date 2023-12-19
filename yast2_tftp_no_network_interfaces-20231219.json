@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 321,
+      "ypos": 432,
+      "width": 165,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 319,
+      "ypos": 448,
+      "width": 170,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_tftp_no_network_interfaces"
+  ]
+}
