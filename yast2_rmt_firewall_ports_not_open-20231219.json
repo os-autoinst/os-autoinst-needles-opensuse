@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 239,
+      "ypos": 351,
+      "width": 202,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 393,
+      "ypos": 400,
+      "width": 152,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_rmt_firewall_ports_not_open"
+  ]
+}
