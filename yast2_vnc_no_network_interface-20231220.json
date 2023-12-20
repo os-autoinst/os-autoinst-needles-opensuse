@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 192,
+      "ypos": 432,
+      "width": 167,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 191,
+      "ypos": 450,
+      "width": 170,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_vnc_no_network_interface"
+  ]
+}
