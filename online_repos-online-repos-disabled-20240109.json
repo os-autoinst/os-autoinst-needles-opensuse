@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 21,
+      "ypos": 98,
+      "width": 28,
+      "height": 79,
+      "type": "match"
+    },
+    {
+      "xpos": 953,
+      "ypos": 722,
+      "width": 39,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 144,
+      "ypos": 83,
+      "width": 150,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 239,
+      "ypos": 77,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "online-repos-disabled"
+  ]
+}
