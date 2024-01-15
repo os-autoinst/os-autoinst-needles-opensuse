@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "width": 85,
+      "click_point": {
+        "ypos": 15,
+        "xpos": 46.5
+      },
+      "type": "match",
+      "height": 30,
+      "ypos": 658,
+      "xpos": 764
+    },
+    {
+      "xpos": 165,
+      "ypos": 257,
+      "type": "match",
+      "height": 42,
+      "width": 114
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "inkscape-welcome-save"
+  ]
+}
