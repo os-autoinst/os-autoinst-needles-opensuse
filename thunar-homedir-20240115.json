@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 95,
+      "type": "match",
+      "xpos": 190,
+      "ypos": 100,
+      "width": 359
+    },
+    {
+      "width": 157,
+      "ypos": 96,
+      "xpos": 6,
+      "height": 52,
+      "type": "match"
+    },
+    {
+      "width": 139,
+      "ypos": 56,
+      "xpos": 66,
+      "type": "match",
+      "height": 31
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunar-homedir"
+  ]
+}
