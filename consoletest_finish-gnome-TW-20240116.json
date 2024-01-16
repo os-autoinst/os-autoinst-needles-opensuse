@@ -1,0 +1,35 @@
+{
+  "area": [
+    {
+      "height": 767,
+      "xpos": 0,
+      "width": 1024,
+      "ypos": 1,
+      "type": "match"
+    },
+    {
+      "width": 152,
+      "xpos": 433,
+      "height": 42,
+      "ypos": 0,
+      "type": "exclude"
+    },
+    {
+      "width": 515,
+      "xpos": 253,
+      "height": 69,
+      "ypos": 28,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "generic-desktop",
+    "polari-quit",
+    "reboot-after-installation",
+    "x11"
+  ]
+}
