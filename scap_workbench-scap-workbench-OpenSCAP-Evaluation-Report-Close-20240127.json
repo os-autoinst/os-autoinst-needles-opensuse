@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "ypos": 44,
+      "click_point": {
+        "ypos": 9.5,
+        "xpos": 11.5
+      },
+      "height": 19,
+      "xpos": 995,
+      "type": "match",
+      "width": 23
+    },
+    {
+      "ypos": 139,
+      "height": 42,
+      "xpos": 83,
+      "type": "match",
+      "width": 483
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scap-workbench-OpenSCAP-Evaluation-Report-Close"
+  ]
+}
