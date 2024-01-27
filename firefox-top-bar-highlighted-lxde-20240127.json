@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 6,
+      "type": "match",
+      "width": 25,
+      "ypos": 9,
+      "height": 17
+    },
+    {
+      "height": 14,
+      "ypos": 202,
+      "width": 43,
+      "type": "match",
+      "xpos": 368
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "firefox-top-bar-highlighted"
+  ]
+}
