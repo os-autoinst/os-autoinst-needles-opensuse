@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 487,
+      "height": 19,
+      "width": 41,
+      "type": "match",
+      "ypos": 256
+    },
+    {
+      "ypos": 253,
+      "type": "match",
+      "width": 45,
+      "xpos": 523,
+      "height": 17
+    },
+    {
+      "width": 154,
+      "height": 42,
+      "xpos": 195,
+      "ypos": 258,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-evolution-1"
+  ]
+}
