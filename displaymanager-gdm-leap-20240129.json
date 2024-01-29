@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "width": 38,
+      "xpos": 986,
+      "height": 36,
+      "ypos": 0,
+      "type": "match"
+    },
+    {
+      "xpos": 345,
+      "height": 25,
+      "width": 78,
+      "type": "match",
+      "ypos": 409
+    },
+    {
+      "ypos": 671,
+      "type": "match",
+      "width": 247,
+      "xpos": 398,
+      "height": 59
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "displaymanager"
+  ]
+}
