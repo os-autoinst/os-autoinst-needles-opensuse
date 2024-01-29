@@ -3,23 +3,23 @@
     {
       "ypos": 0,
       "type": "match",
-      "height": 361,
+      "width": 1024,
       "xpos": 0,
-      "width": 1024
+      "height": 361
     },
     {
+      "ypos": 0,
+      "type": "exclude",
       "height": 42,
       "xpos": 434,
-      "width": 152,
-      "type": "exclude",
-      "ypos": 0
+      "width": 152
     },
     {
       "ypos": 36,
       "type": "exclude",
-      "width": 529,
-      "height": 74,
-      "xpos": 246
+      "height": 81,
+      "xpos": 246,
+      "width": 529
     }
   ],
   "properties": [],
