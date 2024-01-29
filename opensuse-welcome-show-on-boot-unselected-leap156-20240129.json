@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 173,
+      "xpos": 637,
+      "height": 22,
+      "ypos": 591,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "opensuse-welcome-show-on-boot-unselected"
+  ]
+}
