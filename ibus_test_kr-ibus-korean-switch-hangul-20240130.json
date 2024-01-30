@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "height": 31,
+      "click_point": {
+        "xpos": 160,
+        "ypos": 16.5
+      },
+      "xpos": 808,
+      "ypos": 188,
+      "type": "match",
+      "width": 195
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ibus-korean-switch-hangul"
+  ]
+}
