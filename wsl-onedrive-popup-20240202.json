@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 827,
+      "ypos": 664,
+      "width": 166,
+      "height": 37,
+      "type": "match",
+      "click_point": {
+        "xpos": 83,
+        "ypos": 18.5
+      }
+    },
+    {
+      "xpos": 659,
+      "ypos": 442,
+      "width": 80,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-onedrive-popup"
+  ]
+}
