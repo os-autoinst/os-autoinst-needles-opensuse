@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 31,
+      "ypos": 470,
+      "xpos": 716,
+      "width": 34
+    },
+    {
+      "type": "match",
+      "height": 35,
+      "ypos": 725,
+      "xpos": 455,
+      "width": 296
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-search-bar"
+  ]
+}
