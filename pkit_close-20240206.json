@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 542,
+      "ypos": 94,
+      "width": 41,
+      "height": 21,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pkit_close"
+  ]
+}
