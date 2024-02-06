@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 262,
+      "ypos": 294,
+      "width": 168,
+      "height": 23,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "updates_failed_temp_unaccessible"
+  ]
+}
