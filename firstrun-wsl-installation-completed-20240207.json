@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 53,
+      "width": 162,
+      "type": "match",
+      "height": 13,
+      "xpos": 14
+    },
+    {
+      "ypos": 710,
+      "type": "match",
+      "width": 80,
+      "xpos": 63,
+      "height": 13
+    },
+    {
+      "type": "match",
+      "width": 125,
+      "xpos": 0,
+      "height": 13,
+      "ypos": 24
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-installation-completed"
+  ]
+}
