@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 269,
+      "type": "match",
+      "xpos": 320,
+      "height": 20,
+      "width": 212,
+      "match": 98
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_ftp_port_closed"
+  ]
+}
