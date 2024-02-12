@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 279,
+      "height": 23,
+      "xpos": 165,
+      "width": 191,
+      "click_point": {
+        "xpos": 14.5,
+        "ypos": 10.5
+      }
+    },
+    {
+      "width": 226,
+      "xpos": 405,
+      "ypos": 46,
+      "type": "match",
+      "height": 21
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution-select-backupfile"
+  ]
+}
