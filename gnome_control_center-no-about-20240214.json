@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 457,
+      "height": 84,
+      "width": 217,
+      "xpos": 21
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/2897"
+    }
+  ],
+  "tags": [
+    "test-gnome_control_center-1"
+  ]
+}
