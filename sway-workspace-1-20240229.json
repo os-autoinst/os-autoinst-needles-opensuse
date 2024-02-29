@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 1,
+      "match": 90,
+      "width": 67,
+      "height": 25,
+      "xpos": 0,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sway-workspace-1"
+  ]
+}
