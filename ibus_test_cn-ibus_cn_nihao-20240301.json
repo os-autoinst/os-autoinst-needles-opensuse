@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 56,
+      "type": "match",
+      "ypos": 79,
+      "height": 37,
+      "xpos": 22
+    },
+    {
+      "height": 32,
+      "xpos": 429,
+      "ypos": 37,
+      "width": 166,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ibus_cn_nihao"
+  ]
+}
