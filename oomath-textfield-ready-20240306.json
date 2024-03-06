@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 285,
+      "ypos": 544,
+      "height": 149,
+      "type": "match",
+      "width": 317,
+      "click_point": {
+        "xpos": 158.5,
+        "ypos": 74.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "oomath",
+    "oomath-textfield-ready"
+  ]
+}
