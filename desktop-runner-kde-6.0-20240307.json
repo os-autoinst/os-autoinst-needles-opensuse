@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 0,
+      "width": 551,
+      "xpos": 236,
+      "height": 32
+    },
+    {
+      "xpos": 274,
+      "width": 442,
+      "height": 24,
+      "type": "exclude",
+      "ypos": 7
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-FLAVOR-Argon-Live",
+    "desktop-runner"
+  ]
+}
