@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 261,
+      "ypos": 315,
+      "width": 505,
+      "height": 124,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "bootloader_unsupported_config"
+  ]
+}
