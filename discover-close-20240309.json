@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 907,
+      "ypos": 7,
+      "width": 68,
+      "height": 23,
+      "type": "match",
+      "click_point": {
+        "xpos": 57,
+        "ypos": 12.5
+      }
+    },
+    {
+      "xpos": 441,
+      "ypos": 10,
+      "width": 149,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "discover-close"
+  ]
+}
