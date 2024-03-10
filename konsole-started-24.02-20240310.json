@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 115,
+      "width": 792,
+      "type": "match",
+      "height": 460,
+      "ypos": 130
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "konsole"
+  ]
+}
