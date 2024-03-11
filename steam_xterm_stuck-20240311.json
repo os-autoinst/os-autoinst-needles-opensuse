@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 183,
+      "ypos": 50,
+      "width": 139,
+      "height": 20,
+      "type": "match",
+      "click_point": {
+        "xpos": 69.5,
+        "ypos": 10
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "steam_xterm_stuck"
+  ]
+}
