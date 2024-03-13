@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "width": 1024,
+      "xpos": 0,
+      "type": "match",
+      "height": 169,
+      "ypos": 0
+    },
+    {
+      "xpos": 0,
+      "ypos": 724,
+      "width": 120,
+      "height": 44,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "https://github.com/openSUSE/plasma-opensuse/pull/25"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "generic-desktop"
+  ]
+}
