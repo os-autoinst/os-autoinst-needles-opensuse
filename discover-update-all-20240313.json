@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 769,
+      "ypos": 44,
+      "width": 116,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "discover-update-all",
+    "updates_click-install"
+  ]
+}
