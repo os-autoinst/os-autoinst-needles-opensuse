@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 23,
+      "ypos": 742,
+      "type": "match",
+      "xpos": 817,
+      "width": 141
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "tray-without-updates-available",
+    "updates_none"
+  ]
+}
