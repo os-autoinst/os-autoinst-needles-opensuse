@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 90,
+      "xpos": 563,
+      "ypos": 421,
+      "height": 38
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "dont-save-libreoffice-btn"
+  ]
+}
