@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 297,
+      "height": 28,
+      "width": 139,
+      "xpos": 334
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "energysaver-disabled"
+  ]
+}
