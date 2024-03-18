@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 0,
+      "height": 169,
+      "width": 1024,
+      "xpos": 0,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "generic-desktop",
+    "x11"
+  ]
+}
