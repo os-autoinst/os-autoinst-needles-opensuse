@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 914,
+      "width": 87,
+      "type": "match",
+      "height": 33,
+      "click_point": {
+        "xpos": 68.5,
+        "ypos": 16.5
+      },
+      "ypos": 59
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "reboot-power-menu"
+  ]
+}
