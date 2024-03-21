@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 29,
+      "xpos": 595,
+      "ypos": 260,
+      "height": 28
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "startupApp-searching"
+  ]
+}
