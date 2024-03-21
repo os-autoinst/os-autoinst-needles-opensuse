@@ -1,0 +1,44 @@
+{
+  "area": [
+    {
+      "ypos": 221,
+      "width": 165,
+      "type": "match",
+      "xpos": 160,
+      "height": 50,
+      "match": 85
+    },
+    {
+      "width": 149,
+      "type": "match",
+      "height": 32,
+      "xpos": 162,
+      "ypos": 74,
+      "match": 85
+    },
+    {
+      "width": 72,
+      "type": "match",
+      "xpos": 510,
+      "height": 33,
+      "ypos": 371,
+      "click_point": {
+        "xpos": 36,
+        "ypos": 16.5
+      },
+      "match": 85
+    },
+    {
+      "ypos": 206,
+      "height": 135,
+      "xpos": 591,
+      "type": "match",
+      "width": 179,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-lock-screen-in-search"
+  ]
+}
