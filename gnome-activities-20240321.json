@@ -1,0 +1,41 @@
+{
+  "area": [
+    {
+      "height": 361,
+      "ypos": 2,
+      "type": "match",
+      "xpos": 0,
+      "width": 1024
+    },
+    {
+      "type": "exclude",
+      "xpos": 433,
+      "width": 152,
+      "ypos": 0,
+      "height": 42
+    },
+    {
+      "ypos": 28,
+      "height": 117,
+      "xpos": 246,
+      "width": 529,
+      "type": "exclude"
+    },
+    {
+      "ypos": 5,
+      "height": 19,
+      "xpos": 912,
+      "width": 73,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "gnome-activities",
+    "reboot-after-installation",
+    "x11"
+  ]
+}
