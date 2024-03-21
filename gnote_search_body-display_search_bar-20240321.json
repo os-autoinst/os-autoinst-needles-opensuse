@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 147,
+      "width": 40,
+      "type": "match",
+      "height": 37,
+      "xpos": 496
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "display_search_bar"
+  ]
+}
