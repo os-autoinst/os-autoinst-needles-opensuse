@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 65,
+      "xpos": 74,
+      "type": "match",
+      "width": 432,
+      "height": 41
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "chromium-main-window"
+  ]
+}
