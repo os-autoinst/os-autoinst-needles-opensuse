@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 145,
+      "type": "match",
+      "width": 307,
+      "height": 49,
+      "click_point": {
+        "xpos": 53.5,
+        "ypos": 22.5
+      },
+      "xpos": 192
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "focus_search_box"
+  ]
+}
