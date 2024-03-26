@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "height": 32,
+      "ypos": 93,
+      "type": "match",
+      "xpos": 370,
+      "width": 386,
+      "match": 80
+    },
+    {
+      "xpos": 61,
+      "type": "match",
+      "height": 43,
+      "ypos": 384,
+      "width": 151,
+      "match": 80
+    },
+    {
+      "ypos": 422,
+      "height": 42,
+      "xpos": 640,
+      "type": "match",
+      "width": 170,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-lock-screen-settings"
+  ]
+}
