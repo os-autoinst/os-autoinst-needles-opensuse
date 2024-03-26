@@ -5,14 +5,16 @@
       "height": 50,
       "xpos": 160,
       "type": "match",
-      "width": 165
+      "width": 165,
+      "match": 80
     },
     {
       "xpos": 324,
       "type": "match",
       "height": 32,
       "ypos": 727,
-      "width": 149
+      "width": 149,
+      "match": 80
     },
     {
       "click_point": {
@@ -23,14 +25,16 @@
       "type": "match",
       "ypos": 306,
       "height": 33,
-      "width": 72
+      "width": 72,
+      "match": 80
     },
     {
       "ypos": 141,
       "height": 135,
       "xpos": 591,
       "type": "match",
-      "width": 179
+      "width": 179,
+      "match": 80
     }
   ],
   "properties": [],
