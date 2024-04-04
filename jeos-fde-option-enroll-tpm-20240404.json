@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 355,
+      "ypos": 317,
+      "width": 235,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-fde-option-enroll-tpm"
+  ]
+}
