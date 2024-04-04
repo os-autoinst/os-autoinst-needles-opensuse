@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 165,
+      "height": 33,
+      "xpos": 343,
+      "type": "match",
+      "ypos": 278
+    },
+    {
+      "height": 10,
+      "xpos": 1,
+      "width": 33,
+      "type": "match",
+      "ypos": 2
+    },
+    {
+      "xpos": 406,
+      "ypos": 319,
+      "width": 170,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-root-as-enc-pass"
+  ]
+}
