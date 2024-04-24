@@ -1,0 +1,44 @@
+{
+  "area": [
+    {
+      "ypos": 664,
+      "width": 68,
+      "type": "match",
+      "xpos": 48,
+      "height": 28
+    },
+    {
+      "xpos": 301,
+      "height": 29,
+      "type": "match",
+      "ypos": 86,
+      "width": 247
+    },
+    {
+      "xpos": 869,
+      "height": 32,
+      "width": 102,
+      "ypos": 37,
+      "type": "match"
+    },
+    {
+      "xpos": 817,
+      "height": 44,
+      "type": "match",
+      "ypos": 132,
+      "width": 137
+    },
+    {
+      "height": 21,
+      "xpos": 878,
+      "type": "exclude",
+      "ypos": 139,
+      "width": 67
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "discover-installing",
+    "pkit_installing_state"
+  ]
+}
