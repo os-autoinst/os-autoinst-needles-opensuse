@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 49,
+      "ypos": 139,
+      "xpos": 947,
+      "height": 20
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "openqa-login"
+  ]
+}
