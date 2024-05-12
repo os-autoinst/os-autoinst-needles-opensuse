@@ -1,0 +1,58 @@
+{
+  "area": [
+    {
+      "ypos": 183,
+      "type": "match",
+      "width": 403,
+      "height": 63,
+      "xpos": 148
+    },
+    {
+      "height": 160,
+      "width": 214,
+      "xpos": 645,
+      "ypos": 260,
+      "type": "match"
+    },
+    {
+      "ypos": 278,
+      "type": "match",
+      "height": 173,
+      "xpos": 155,
+      "width": 233
+    },
+    {
+      "height": 158,
+      "width": 170,
+      "xpos": 429,
+      "type": "match",
+      "ypos": 284
+    },
+    {
+      "ypos": 484,
+      "type": "match",
+      "height": 69,
+      "width": 697,
+      "xpos": 161
+    },
+    {
+      "width": 181,
+      "height": 34,
+      "xpos": 627,
+      "ypos": 589,
+      "type": "match"
+    },
+    {
+      "height": 39,
+      "xpos": 824,
+      "width": 72,
+      "ypos": 588,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "generic-desktop",
+    "opensuse-welcome"
+  ]
+}
