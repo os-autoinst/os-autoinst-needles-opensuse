@@ -1,53 +1,53 @@
 {
   "area": [
     {
-      "ypos": 183,
-      "type": "match",
-      "width": 403,
       "height": 63,
-      "xpos": 148
+      "width": 403,
+      "xpos": 150,
+      "type": "match",
+      "ypos": 183
     },
     {
-      "height": 160,
-      "width": 214,
-      "xpos": 645,
+      "type": "match",
       "ypos": 260,
-      "type": "match"
+      "xpos": 167,
+      "height": 160,
+      "width": 214
     },
     {
-      "ypos": 278,
-      "type": "match",
       "height": 173,
-      "xpos": 155,
-      "width": 233
+      "xpos": 157,
+      "width": 233,
+      "type": "match",
+      "ypos": 255
     },
     {
-      "height": 158,
       "width": 170,
-      "xpos": 429,
-      "type": "match",
-      "ypos": 284
-    },
-    {
-      "ypos": 484,
-      "type": "match",
-      "height": 69,
-      "width": 697,
-      "xpos": 161
-    },
-    {
-      "width": 181,
-      "height": 34,
-      "xpos": 627,
-      "ypos": 589,
+      "height": 158,
+      "xpos": 431,
+      "ypos": 261,
       "type": "match"
+    },
+    {
+      "width": 697,
+      "height": 69,
+      "xpos": 163,
+      "type": "match",
+      "ypos": 438
+    },
+    {
+      "height": 34,
+      "xpos": 631,
+      "width": 181,
+      "type": "match",
+      "ypos": 589
     },
     {
       "height": 39,
-      "xpos": 824,
       "width": 72,
-      "ypos": 588,
-      "type": "match"
+      "xpos": 828,
+      "type": "match",
+      "ypos": 588
     }
   ],
   "properties": [],
