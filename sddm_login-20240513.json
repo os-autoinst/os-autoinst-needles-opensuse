@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 564,
+      "ypos": 271,
+      "width": 145,
+      "height": 159,
+      "type": "match"
+    },
+    {
+      "xpos": 567,
+      "ypos": 454,
+      "width": 142,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "displaymanager",
+    "displaymanager-password-prompt",
+    "sddm"
+  ]
+}
