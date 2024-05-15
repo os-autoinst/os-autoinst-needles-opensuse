@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 457,
+      "type": "match",
+      "xpos": 409,
+      "height": 178,
+      "ypos": 269
+    },
+    {
+      "xpos": 555,
+      "ypos": 452,
+      "width": 174,
+      "height": 43,
+      "type": "match",
+      "click_point": {
+        "xpos": 87,
+        "ypos": 21.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "discover-installed",
+    "discover-reboot-needed",
+    "updates_none"
+  ]
+}
