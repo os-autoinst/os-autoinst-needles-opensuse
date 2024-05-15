@@ -1,0 +1,34 @@
+{
+  "area": [
+    {
+      "height": 19,
+      "ypos": 294,
+      "xpos": 265,
+      "type": "match",
+      "width": 50
+    },
+    {
+      "type": "match",
+      "width": 174,
+      "xpos": 272,
+      "height": 27,
+      "ypos": 323
+    },
+    {
+      "height": 11,
+      "ypos": 365,
+      "xpos": 597,
+      "width": 125,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bug#1158557"
+    }
+  ],
+  "tags": [
+    "inst-bootloader-unknown-udev-device"
+  ]
+}
