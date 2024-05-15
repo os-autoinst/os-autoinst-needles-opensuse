@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 16,
+      "ypos": 32,
+      "xpos": 14,
+      "type": "match",
+      "width": 131
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "inst-networksettings"
+  ]
+}
