@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 95,
+      "type": "match",
+      "height": 25,
+      "ypos": 496,
+      "xpos": 561
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "security-selinux-enforcing"
+  ]
+}
