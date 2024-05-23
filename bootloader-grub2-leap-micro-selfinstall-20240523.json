@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "type": "match",
+      "width": 387,
+      "height": 398
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-leap-micro",
+    "bootloader-grub2"
+  ]
+}
