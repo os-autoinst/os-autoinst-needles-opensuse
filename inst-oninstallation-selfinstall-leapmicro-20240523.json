@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 110,
+      "ypos": 298,
+      "width": 241,
+      "height": 35,
+      "type": "match",
+      "match": 92
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-leap-micro",
+    "inst-oninstallation"
+  ]
+}
