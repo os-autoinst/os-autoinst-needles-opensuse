@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 525,
+      "xpos": 0,
+      "ypos": 205,
+      "width": 654
+    },
+    {
+      "width": 200,
+      "ypos": 208,
+      "xpos": 3,
+      "type": "exclude",
+      "height": 41
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "https://bugs.kde.org/show_bug.cgi?id=487625"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "desktop_mainmenu-kickoff",
+    "test-desktop_mainmenu-1"
+  ]
+}
