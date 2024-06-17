@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 28,
+      "ypos": 261,
+      "width": 222,
+      "xpos": 321,
+      "click_point": {
+        "xpos": 163,
+        "ypos": 16
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "kde-display-timeout-menu",
+    "kde-energysaver-enabled"
+  ]
+}
