@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 572,
+      "ypos": 118,
+      "width": 185,
+      "height": 26,
+      "type": "match",
+      "click_point": {
+        "xpos": 92.5,
+        "ypos": 13
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "kde-disable-screenlock"
+  ]
+}
