@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 1024,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 0,
+      "height": 312
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "workaround for https://bugs.kde.org/show_bug.cgi?id=488676"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "generic-desktop",
+    "x11"
+  ]
+}
