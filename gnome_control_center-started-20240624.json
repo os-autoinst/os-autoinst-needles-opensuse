@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 37,
+      "xpos": 11,
+      "width": 190,
+      "type": "match",
+      "ypos": 35
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-control-center",
+    "gnome-control-center-new-layout",
+    "gnome-control-center-started"
+  ]
+}
