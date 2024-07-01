@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 194,
+      "width": 98,
+      "type": "match",
+      "xpos": 5,
+      "ypos": 132
+    },
+    {
+      "type": "match",
+      "width": 39,
+      "xpos": 484,
+      "height": 16,
+      "ypos": 38
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome-logs-started"
+  ]
+}
