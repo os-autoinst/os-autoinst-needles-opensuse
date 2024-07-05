@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 617,
+      "type": "match",
+      "width": 119,
+      "ypos": 381,
+      "height": 59,
+      "match": 85
+    }
+  ],
+  "properties": [
+    {
+      "value": "https://bugzilla.opensuse.org/show_bug.cgi?id=1227389",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "updates_not_installed"
+  ]
+}
