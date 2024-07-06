@@ -1,25 +1,25 @@
 {
   "area": [
     {
-      "height": 193,
-      "xpos": 113,
+      "width": 530,
+      "type": "match",
       "ypos": 0,
-      "type": "match",
-      "width": 530
+      "xpos": 113,
+      "height": 193
     },
     {
-      "width": 62,
-      "type": "match",
-      "ypos": 734,
+      "height": 31,
       "xpos": 115,
-      "height": 31
+      "ypos": 734,
+      "type": "match",
+      "width": 62
     },
     {
-      "width": 75,
-      "type": "exclude",
-      "ypos": 137,
       "height": 34,
-      "xpos": 336
+      "xpos": 336,
+      "ypos": 137,
+      "type": "exclude",
+      "width": 75
     }
   ],
   "properties": [],
@@ -27,6 +27,7 @@
     "ENV-DESKTOP-xfce",
     "ENV-DISTRI-opensuse",
     "desktop-at-first-boot",
+    "opensuse-welcome",
     "x11"
   ]
 }
