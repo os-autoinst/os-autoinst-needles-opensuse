@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 143,
+      "type": "match",
+      "width": 600,
+      "ypos": 0,
+      "xpos": 0
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "mutt-send-reply"
+  ]
+}

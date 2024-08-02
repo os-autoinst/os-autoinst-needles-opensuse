@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "width": 780,
+      "ypos": 114,
+      "xpos": 121,
+      "type": "match",
+      "height": 515
+    },
+    {
+      "height": 23,
+      "width": 129,
+      "type": "match",
+      "xpos": 632,
+      "ypos": 595
+    },
+    {
+      "ypos": 139,
+      "xpos": 140,
+      "type": "exclude",
+      "width": 363,
+      "height": 29
+    },
+    {
+      "width": 769,
+      "ypos": 484,
+      "xpos": 128,
+      "type": "exclude",
+      "height": 81
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "opensuse-welcome",
+    "opensuse-welcome-show-on-boot"
+  ]
+}

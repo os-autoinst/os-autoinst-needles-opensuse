@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "ypos": 36,
+      "xpos": 460,
+      "height": 27,
+      "type": "match",
+      "width": 99
+    },
+    {
+      "type": "match",
+      "height": 323,
+      "xpos": 32,
+      "width": 244,
+      "ypos": 63
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "libreoffice",
+    "ooffice",
+    "welcome-to-libreoffice"
+  ]
+}

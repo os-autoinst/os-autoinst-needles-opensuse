@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 366,
+      "ypos": 218,
+      "height": 40,
+      "width": 545,
+      "type": "match",
+      "click_point": {
+        "ypos": 19,
+        "xpos": 526.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ibus-input-added-chinese"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 321,
+      "xpos": 228,
+      "height": 116,
+      "width": 560,
+      "type": "match"
+    },
+    {
+      "ypos": 472,
+      "xpos": 480,
+      "width": 67,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-tweak-extensions-moved"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 775,
+      "ypos": 634,
+      "width": 55,
+      "height": 35
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "select_product"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 119,
+      "ypos": 72,
+      "type": "match",
+      "width": 642,
+      "height": 62
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1159263"
+    }
+  ],
+  "tags": [
+    "yast2-lan-ui"
+  ]
+}

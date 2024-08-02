@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 364,
+      "xpos": 6,
+      "width": 130,
+      "height": 46,
+      "click_point": {
+        "xpos": 65,
+        "ypos": 23
+      },
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-users-tab"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 171,
+      "height": 189,
+      "type": "match"
+    },
+    {
+      "xpos": 945,
+      "ypos": 4,
+      "width": 69,
+      "height": 62,
+      "type": "match"
+    },
+    {
+      "xpos": 58,
+      "ypos": 7,
+      "width": 369,
+      "height": 60,
+      "type": "exclude"
+    },
+    {
+      "xpos": 19,
+      "ypos": 92,
+      "width": 553,
+      "height": 26,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-overview-screen"
+  ]
+}

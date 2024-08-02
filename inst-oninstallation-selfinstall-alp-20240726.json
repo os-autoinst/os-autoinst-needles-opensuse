@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 271,
+      "height": 26,
+      "type": "match",
+      "xpos": 114,
+      "width": 176
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-alp",
+    "ENV-UEFI-1",
+    "inst-oninstallation"
+  ]
+}

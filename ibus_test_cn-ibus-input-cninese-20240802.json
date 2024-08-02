@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 24,
+      "width": 142,
+      "xpos": 442,
+      "ypos": 307
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ibus-input-chinese"
+  ]
+}

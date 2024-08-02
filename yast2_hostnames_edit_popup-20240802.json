@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "ypos": 497,
+      "xpos": 443,
+      "type": "match",
+      "height": 12,
+      "width": 158
+    },
+    {
+      "type": "match",
+      "height": 11,
+      "width": 69,
+      "xpos": 415,
+      "ypos": 283
+    },
+    {
+      "xpos": 412,
+      "ypos": 354,
+      "type": "match",
+      "width": 76,
+      "height": 13
+    },
+    {
+      "xpos": 414,
+      "ypos": 424,
+      "type": "match",
+      "width": 83,
+      "height": 14
+    },
+    {
+      "width": 60,
+      "height": 25,
+      "type": "match",
+      "xpos": 485,
+      "ypos": 244
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_hostnames_edit_popup"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 33,
+      "width": 144,
+      "xpos": 57,
+      "ypos": 39
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnome-settings"
+  ]
+}
