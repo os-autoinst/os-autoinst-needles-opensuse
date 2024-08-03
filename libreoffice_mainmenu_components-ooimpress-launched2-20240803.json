@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 27,
+      "ypos": 36,
+      "type": "match",
+      "width": 229,
+      "xpos": 402
+    },
+    {
+      "xpos": 2,
+      "width": 215,
+      "type": "match",
+      "ypos": 69,
+      "height": 106
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ooimpress-launched"
+  ]
+}
