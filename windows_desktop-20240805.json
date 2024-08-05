@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "ypos": 737,
+      "type": "match",
+      "width": 165,
+      "xpos": 51
+    },
+    {
+      "xpos": 23,
+      "ypos": 14,
+      "width": 32,
+      "height": 38,
+      "type": "match"
+    },
+    {
+      "xpos": 26,
+      "ypos": 113,
+      "width": 25,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows_desktop"
+  ]
+}
