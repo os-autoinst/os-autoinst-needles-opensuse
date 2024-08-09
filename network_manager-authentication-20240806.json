@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 291,
+      "height": 22,
+      "width": 309,
+      "xpos": 431,
+      "click_point": {
+        "xpos": 154.5,
+        "ypos": 11
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "network_manager-authentication"
+  ]
+}
