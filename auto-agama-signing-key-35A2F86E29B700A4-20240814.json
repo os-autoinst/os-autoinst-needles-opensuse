@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 536,
+      "ypos": 315,
+      "width": 72,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 280,
+      "ypos": 317,
+      "width": 134,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-signing-key"
+  ]
+}
