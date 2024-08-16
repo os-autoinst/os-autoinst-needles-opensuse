@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 277,
+      "ypos": 258,
+      "width": 371,
+      "height": 34,
+      "type": "match"
+    },
+    {
+      "xpos": 289,
+      "ypos": 343,
+      "width": 92,
+      "height": 65,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-create-non-root"
+  ]
+}
