@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 33,
+      "ypos": 202,
+      "width": 546,
+      "type": "match",
+      "height": 236
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-JeOS-for-OpenStack-Cloud",
+    "ENV-QEMUVGA-virtio",
+    "ENV-UEFI-1",
+    "ENV-VERSION-Tumbleweed",
+    "bootloader",
+    "grub2"
+  ]
+}
