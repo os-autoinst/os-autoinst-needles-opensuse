@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 72,
+      "type": "match",
+      "height": 11,
+      "ypos": 49,
+      "width": 23
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-console",
+    "install-shell",
+    "installation"
+  ]
+}
