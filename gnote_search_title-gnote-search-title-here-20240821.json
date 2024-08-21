@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 29,
+      "xpos": 727,
+      "ypos": 260,
+      "type": "match",
+      "width": 64
+    },
+    {
+      "width": 94,
+      "type": "match",
+      "height": 24,
+      "xpos": 371,
+      "ypos": 155
+    },
+    {
+      "type": "match",
+      "width": 93,
+      "ypos": 263,
+      "height": 25,
+      "xpos": 425
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnote-search-title-here"
+  ]
+}
