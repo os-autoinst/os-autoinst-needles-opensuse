@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 526,
+      "xpos": 123,
+      "ypos": 103,
+      "width": 780
+    },
+    {
+      "type": "match",
+      "width": 172,
+      "ypos": 595,
+      "xpos": 636,
+      "height": 23
+    },
+    {
+      "type": "exclude",
+      "height": 29,
+      "ypos": 139,
+      "xpos": 140,
+      "width": 363
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "opensuse-welcome",
+    "opensuse-welcome-show-on-boot"
+  ]
+}
