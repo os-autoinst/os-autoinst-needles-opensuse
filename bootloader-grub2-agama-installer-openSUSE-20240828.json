@@ -1,0 +1,34 @@
+{
+  "area": [
+    {
+      "xpos": 15,
+      "ypos": 554,
+      "height": 39,
+      "type": "match",
+      "width": 471
+    },
+    {
+      "type": "match",
+      "width": 700,
+      "height": 336,
+      "xpos": 89,
+      "ypos": 210
+    },
+    {
+      "height": 17,
+      "ypos": 174,
+      "xpos": 379,
+      "width": 41,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-LEAP-1",
+    "ENV-UEFI-1",
+    "ENV-VERSION-16.0",
+    "bootloader-grub2",
+    "inst-bootmenu"
+  ]
+}
