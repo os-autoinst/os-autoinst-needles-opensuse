@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 70,
+      "xpos": 339,
+      "ypos": 618,
+      "type": "match",
+      "width": 340
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome-music-1",
+    "test-gnome-music-started",
+    "ENV-DESKTOP-gnome"
+  ]
+}
