@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 464,
+      "ypos": 283,
+      "width": 231,
+      "height": 176,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-ssh-enroll-paired"
+  ]
+}
