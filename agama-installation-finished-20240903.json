@@ -1,0 +1,41 @@
+{
+  "area": [
+    {
+      "xpos": 442,
+      "ypos": 232,
+      "width": 141,
+      "height": 143,
+      "type": "match"
+    },
+    {
+      "xpos": 408,
+      "ypos": 414,
+      "width": 208,
+      "height": 35,
+      "type": "match"
+    },
+    {
+      "xpos": 319,
+      "ypos": 479,
+      "width": 365,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 717,
+      "ypos": 594,
+      "width": 110,
+      "height": 53,
+      "type": "match",
+      "click_point": {
+        "xpos": 55,
+        "ypos": 26.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "installation",
+    "rebootnow"
+  ]
+}
