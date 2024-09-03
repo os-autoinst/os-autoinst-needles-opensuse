@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 671,
+      "width": 81,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 537,
+      "ypos": 672,
+      "width": 31,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 80,
+      "ypos": 753,
+      "width": 46,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "root-console"
+  ]
+}
