@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 280,
+      "xpos": 377,
+      "type": "match",
+      "ypos": 222,
+      "height": 194
+    },
+    {
+      "width": 269,
+      "type": "match",
+      "xpos": 372,
+      "ypos": 436,
+      "height": 62
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-file-roller-started"
+  ]
+}
