@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 110,
+      "type": "match",
+      "ypos": 178,
+      "xpos": 282,
+      "height": 38,
+      "click_point": {
+        "ypos": 21.5,
+        "xpos": 22
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-product-leap16"
+  ]
+}
