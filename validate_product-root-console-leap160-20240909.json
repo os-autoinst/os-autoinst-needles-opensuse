@@ -22,12 +22,6 @@
       "width": 46
     }
   ],
-  "properties": [
-    {
-      "name": "workaround",
-      "value": "root console should be tty1 not tty6"
-    }
-  ],
   "tags": [
     "root-console"
   ]
