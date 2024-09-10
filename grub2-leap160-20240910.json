@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "height": 342,
+      "width": 431,
+      "ypos": 0,
+      "xpos": 0,
+      "type": "match"
+    },
+    {
+      "height": 25,
+      "type": "exclude",
+      "xpos": 162,
+      "width": 167,
+      "ypos": 216
+    },
+    {
+      "height": 24,
+      "ypos": 250,
+      "width": 132,
+      "xpos": 299,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "autoyast-boot",
+    "bootloader",
+    "grub2"
+  ]
+}
