@@ -28,6 +28,6 @@
     "ENV-LEAP-1",
     "ENV-UEFI-1",
     "ENV-VERSION-16.0",
-    "bootloader-grub2",
+    "bootloader-grub2"
   ]
 }
