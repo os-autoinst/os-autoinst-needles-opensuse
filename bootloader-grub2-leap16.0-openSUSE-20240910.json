@@ -29,6 +29,5 @@
     "ENV-UEFI-1",
     "ENV-VERSION-16.0",
     "bootloader-grub2",
-    "inst-bootmenu"
   ]
 }
