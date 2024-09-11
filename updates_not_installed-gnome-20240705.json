@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 45,
+      "ypos": 186,
+      "width": 342,
+      "height": 130,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "https://bugzilla.opensuse.org/show_bug.cgi?id=1227389"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "updates_not_installed"
+  ]
+}
