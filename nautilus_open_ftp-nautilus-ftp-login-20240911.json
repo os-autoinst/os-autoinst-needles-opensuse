@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 20,
+      "xpos": 483,
+      "type": "match",
+      "width": 121,
+      "ypos": 299
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "nautilus-ftp-login"
+  ]
+}
