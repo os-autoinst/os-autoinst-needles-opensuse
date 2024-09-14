@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 402,
+      "click_point": {
+        "ypos": 156,
+        "xpos": 230
+      },
+      "height": 176,
+      "xpos": 309,
+      "ypos": 260
+    },
+    {
+      "xpos": 387,
+      "ypos": 300,
+      "type": "exclude",
+      "width": 316,
+      "height": 22
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "https://bugs.kde.org/show_bug.cgi?id=487626"
+    }
+  ],
+  "tags": [
+    "dolphin_force_remove_button"
+  ]
+}
