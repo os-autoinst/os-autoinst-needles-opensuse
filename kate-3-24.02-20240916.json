@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "height": 111,
+      "type": "match",
+      "ypos": 321,
+      "width": 406,
+      "xpos": 304
+    }
+  ],
+  "properties": [
+    {
+      "value": "https://bugs.kde.org/show_bug.cgi?id=487626",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "test-kate-3"
+  ]
+}
