@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 310,
+      "ypos": 286,
+      "width": 402,
+      "height": 176,
+      "type": "match",
+      "click_point": {
+        "ypos": 156,
+        "xpos": 230
+      }
+    },
+    {
+      "type": "exclude",
+      "height": 22,
+      "width": 316,
+      "xpos": 391,
+      "ypos": 330
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dolphin_force_remove_button"
+  ]
+}
