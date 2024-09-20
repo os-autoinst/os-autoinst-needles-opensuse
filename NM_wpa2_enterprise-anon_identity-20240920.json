@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 399,
+      "ypos": 321,
+      "width": 243,
+      "height": 39,
+      "type": "match",
+      "click_point": {
+        "xpos": 159.5,
+        "ypos": 21.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "anon_identity"
+  ]
+}
