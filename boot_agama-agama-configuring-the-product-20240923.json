@@ -1,15 +1,15 @@
 {
   "area": [
     {
-      "xpos": 317,
-      "ypos": 396,
-      "width": 100,
-      "height": 24,
+      "xpos": 295,
+      "ypos": 373,
+      "width": 270,
+      "height": 29,
       "type": "match"
     }
   ],
   "properties": [],
   "tags": [
-    "agama-installing"
+    "agama-configuring-the-product"
   ]
 }
