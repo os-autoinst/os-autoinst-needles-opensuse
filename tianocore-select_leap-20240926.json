@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 27,
+      "height": 15,
+      "type": "match",
+      "width": 41,
+      "ypos": 193
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-select_leap",
+    "tianocore-select_opensuse",
+    "tianocore-select_opensuse_or_sles"
+  ]
+}
