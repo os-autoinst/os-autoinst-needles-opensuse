@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 188,
+      "height": 14,
+      "width": 184,
+      "xpos": 111,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "enter-passphrase-for-root-partition"
+  ]
+}
