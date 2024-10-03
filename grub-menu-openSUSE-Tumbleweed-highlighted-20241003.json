@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 20,
+      "ypos": 9,
+      "width": 310,
+      "height": 265,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub-menu-openSUSE-Tumbleweed-highlighted"
+  ]
+}
