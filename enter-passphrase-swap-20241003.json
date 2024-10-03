@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 56,
+      "height": 10,
+      "ypos": 179,
+      "width": 279
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "enter-passphrase-swap"
+  ]
+}
