@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "ypos": 0,
+      "height": 283,
+      "xpos": 0,
+      "type": "match",
+      "width": 216
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-microos",
+    "bootloader",
+    "bootloader-grub2",
+    "grub2"
+  ]
+}
