@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 618,
+      "xpos": 0,
+      "ypos": 0,
+      "height": 300
+    },
+    {
+      "type": "exclude",
+      "width": 26,
+      "height": 22,
+      "ypos": 170,
+      "xpos": 525
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "bootloader",
+    "inst-bootmenu",
+    "inst-bootmenu-boot-harddisk"
+  ]
+}
