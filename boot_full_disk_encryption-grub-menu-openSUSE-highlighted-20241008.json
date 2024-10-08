@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 95,
+      "ypos": 215,
+      "width": 105,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub-menu-openSUSE-highlighted"
+  ]
+}
