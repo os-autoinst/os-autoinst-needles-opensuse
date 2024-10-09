@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 67,
+      "width": 246,
+      "xpos": 522,
+      "height": 25
+    },
+    {
+      "type": "match",
+      "ypos": 69,
+      "width": 28,
+      "xpos": 4,
+      "height": 19
+    },
+    {
+      "type": "match",
+      "ypos": 628,
+      "xpos": 281,
+      "width": 183,
+      "height": 119
+    },
+    {
+      "width": 16,
+      "xpos": 998,
+      "click_point": {
+        "ypos": 8.5,
+        "xpos": 8
+      },
+      "height": 17,
+      "type": "match",
+      "ypos": 37
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "flatpak-gimp"
+  ]
+}
