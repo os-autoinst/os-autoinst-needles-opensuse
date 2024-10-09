@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 96,
+      "ypos": 215,
+      "width": 52,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub-menu-openSUSE-Leap-highlighted"
+  ]
+}
