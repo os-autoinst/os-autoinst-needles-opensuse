@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 1,
+      "xpos": 2,
+      "height": 207,
+      "width": 185
+    },
+    {
+      "width": 835,
+      "height": 456,
+      "xpos": 65,
+      "type": "match",
+      "ypos": 174
+    },
+    {
+      "xpos": 497,
+      "type": "match",
+      "ypos": 8,
+      "height": 15,
+      "width": 111
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ooffice",
+    "oowriter",
+    "test-ooffice-1"
+  ]
+}
