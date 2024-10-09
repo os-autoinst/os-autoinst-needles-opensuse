@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 183,
+      "width": 72,
+      "xpos": 815,
+      "click_point": {
+        "ypos": 9,
+        "xpos": 36
+      },
+      "height": 18
+    },
+    {
+      "type": "match",
+      "ypos": 42,
+      "xpos": 529,
+      "width": 120,
+      "height": 15
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scap-workbench-Customize"
+  ]
+}
