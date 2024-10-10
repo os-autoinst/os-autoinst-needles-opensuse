@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 300,
+      "height": 37,
+      "width": 34,
+      "xpos": 374
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "focused-on-search"
+  ]
+}
