@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 196,
+      "xpos": 5,
+      "height": 28,
+      "ypos": 82,
+      "type": "match"
+    },
+    {
+      "width": 267,
+      "xpos": 185,
+      "height": 23,
+      "type": "match",
+      "ypos": 38
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center-ask_packagekit_to_quit",
+    "yast2_control-center_add-on_installed"
+  ]
+}
