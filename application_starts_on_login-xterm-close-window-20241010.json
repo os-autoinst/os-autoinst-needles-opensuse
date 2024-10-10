@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 122,
+      "type": "match",
+      "xpos": 842,
+      "width": 33,
+      "height": 28
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "xterm-close-window"
+  ]
+}
