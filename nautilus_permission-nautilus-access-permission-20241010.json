@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 287,
+      "width": 443,
+      "height": 60,
+      "type": "match",
+      "ypos": 595
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "nautilus-access-permission"
+  ]
+}
