@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 981,
+      "ypos": 39,
+      "height": 55,
+      "click_point": {
+        "ypos": 12.5,
+        "xpos": 23
+      },
+      "width": 40,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "close-libreoffice"
+  ]
+}
