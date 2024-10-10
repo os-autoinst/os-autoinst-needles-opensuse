@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 536,
+      "width": 71,
+      "height": 17,
+      "ypos": 185,
+      "type": "match"
+    },
+    {
+      "click_point": {
+        "xpos": 24,
+        "ypos": 8.5
+      },
+      "height": 17,
+      "width": 48,
+      "xpos": 872,
+      "type": "match",
+      "ypos": 511
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scap-workbench-Dry-run-Close"
+  ]
+}
