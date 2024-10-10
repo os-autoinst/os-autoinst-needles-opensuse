@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 35,
+      "width": 240,
+      "xpos": 3,
+      "height": 58
+    },
+    {
+      "ypos": 431,
+      "type": "match",
+      "height": 41,
+      "width": 243,
+      "xpos": 4
+    },
+    {
+      "height": 311,
+      "width": 544,
+      "xpos": 286,
+      "type": "match",
+      "ypos": 100
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pidgin-ready"
+  ]
+}
