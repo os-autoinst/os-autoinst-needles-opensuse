@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 113,
+      "type": "match",
+      "height": 31,
+      "xpos": 120,
+      "width": 71
+    },
+    {
+      "width": 196,
+      "xpos": 337,
+      "height": 25,
+      "type": "match",
+      "ypos": 69
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-firewall-ui"
+  ]
+}
