@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 333,
+      "xpos": 0,
+      "height": 11,
+      "type": "match",
+      "ypos": 195
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "enter-passphrase-for-swap-partition"
+  ]
+}
