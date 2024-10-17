@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 174,
+      "type": "match",
+      "width": 75,
+      "ypos": 247,
+      "height": 18
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "linux-line-matched"
+  ]
+}
