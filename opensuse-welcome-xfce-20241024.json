@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "xpos": 121,
+      "width": 780,
+      "height": 515,
+      "type": "match",
+      "ypos": 114
+    },
+    {
+      "type": "match",
+      "height": 23,
+      "ypos": 595,
+      "xpos": 526,
+      "width": 129
+    },
+    {
+      "xpos": 140,
+      "width": 363,
+      "type": "exclude",
+      "height": 29,
+      "ypos": 139
+    },
+    {
+      "type": "exclude",
+      "height": 42,
+      "ypos": 529,
+      "width": 769,
+      "xpos": 132
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "opensuse-welcome",
+    "opensuse-welcome-show-on-boot"
+  ]
+}
