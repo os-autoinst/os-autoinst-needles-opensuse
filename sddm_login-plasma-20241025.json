@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "ypos": 448,
+      "height": 25,
+      "type": "match",
+      "width": 104,
+      "xpos": 374
+    },
+    {
+      "xpos": 3,
+      "width": 235,
+      "type": "match",
+      "height": 27,
+      "ypos": 738
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "displaymanager",
+    "displaymanager-password-prompt",
+    "sddm"
+  ]
+}
