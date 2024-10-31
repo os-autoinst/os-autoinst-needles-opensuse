@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 85,
+      "width": 112,
+      "type": "match",
+      "xpos": 180,
+      "height": 24
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-product-selection"
+  ]
+}
