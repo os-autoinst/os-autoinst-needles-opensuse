@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 225,
+      "height": 10,
+      "width": 189,
+      "type": "match",
+      "xpos": 217
+    },
+    {
+      "height": 15,
+      "ypos": 273,
+      "width": 73,
+      "type": "match",
+      "xpos": 260
+    },
+    {
+      "width": 65,
+      "height": 10,
+      "ypos": 498,
+      "type": "match",
+      "xpos": 377
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "selfinstall-select-drive"
+  ]
+}
