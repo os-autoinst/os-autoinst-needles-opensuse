@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 599,
+      "width": 395,
+      "type": "match",
+      "ypos": 641,
+      "height": 83
+    },
+    {
+      "xpos": 176,
+      "width": 128,
+      "type": "match",
+      "ypos": 127,
+      "height": 31
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-inst-welcome-product-list"
+  ]
+}
