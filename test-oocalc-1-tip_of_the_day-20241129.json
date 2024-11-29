@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "height": 207,
+      "type": "match",
+      "ypos": 349,
+      "width": 462,
+      "xpos": 365
+    },
+    {
+      "type": "match",
+      "height": 20,
+      "xpos": 441,
+      "width": 96,
+      "ypos": 322
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "oocalc",
+    "ooffice-first-run",
+    "ooffice-tip-of-the-day",
+    "test-oocalc-1"
+  ]
+}
