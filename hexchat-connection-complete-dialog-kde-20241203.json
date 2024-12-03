@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 110,
+      "width": 137,
+      "xpos": 165,
+      "type": "match",
+      "height": 164
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "hexchat-connection-complete-dialog",
+    "xchat-connection-complete-dialog"
+  ]
+}
