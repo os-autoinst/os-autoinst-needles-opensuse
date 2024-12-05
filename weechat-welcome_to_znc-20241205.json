@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 199,
+      "type": "match",
+      "ypos": 720,
+      "xpos": 197,
+      "height": 14
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "weechat-welcome_to_znc"
+  ]
+}
