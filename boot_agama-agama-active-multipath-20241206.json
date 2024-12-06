@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 737,
+      "ypos": 405,
+      "width": 48,
+      "height": 31,
+      "type": "match",
+      "click_point": {
+        "xpos": 24,
+        "ypos": 15.5
+      }
+    },
+    {
+      "xpos": 618,
+      "ypos": 337,
+      "width": 112,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-active-multipath"
+  ]
+}
