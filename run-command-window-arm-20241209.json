@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 505,
+      "xpos": 17,
+      "type": "match",
+      "width": 395,
+      "height": 201
+    },
+    {
+      "xpos": 81,
+      "ypos": 605,
+      "height": 20,
+      "width": 143,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "run-command-window"
+  ]
+}
