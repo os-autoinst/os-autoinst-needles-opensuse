@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 254,
+      "ypos": 253,
+      "width": 293,
+      "height": 91,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "bootloader-sdboot"
+  ]
+}
