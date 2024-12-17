@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 41,
+      "type": "match",
+      "width": 82,
+      "xpos": 14,
+      "height": 26
+    },
+    {
+      "xpos": 496,
+      "width": 342,
+      "type": "match",
+      "ypos": 433,
+      "height": 44
+    },
+    {
+      "height": 54,
+      "ypos": 529,
+      "width": 164,
+      "type": "match",
+      "xpos": 585
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-endeavour-started"
+  ]
+}
