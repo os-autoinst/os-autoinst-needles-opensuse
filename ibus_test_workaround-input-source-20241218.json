@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 309,
+      "ypos": 202,
+      "width": 408,
+      "height": 157,
+      "type": "match"
+    },
+    {
+      "xpos": 313,
+      "ypos": 247,
+      "width": 136,
+      "height": 41,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "workaround-input-source"
+  ]
+}
