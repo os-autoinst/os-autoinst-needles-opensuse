@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 107,
+      "width": 917,
+      "height": 674,
+      "type": "match",
+      "ypos": 47
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1221451"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "systemsettings",
+    "test-systemsettings-1"
+  ]
+}
