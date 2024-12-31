@@ -1,0 +1,41 @@
+{
+  "area": [
+    {
+      "height": 495,
+      "width": 780,
+      "xpos": 121,
+      "ypos": 134,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 111,
+      "height": 15,
+      "width": 71,
+      "xpos": 455
+    },
+    {
+      "ypos": 139,
+      "type": "exclude",
+      "height": 29,
+      "width": 363,
+      "xpos": 140
+    },
+    {
+      "height": 42,
+      "width": 769,
+      "xpos": 128,
+      "ypos": 586,
+      "type": "exclude"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "until XFCE4-panel is fixed"
+    }
+  ],
+  "tags": [
+    "opensuse-welcome"
+  ]
+}
