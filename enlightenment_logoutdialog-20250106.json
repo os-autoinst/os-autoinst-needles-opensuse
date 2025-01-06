@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 194,
+      "xpos": 415,
+      "height": 148,
+      "ypos": 290,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-enlightenment",
+    "logoutdialog"
+  ]
+}
