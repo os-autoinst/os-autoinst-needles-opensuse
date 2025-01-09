@@ -1,32 +1,32 @@
 {
   "area": [
     {
-      "xpos": 441,
-      "width": 303,
-      "height": 13,
+      "type": "match",
       "ypos": 330,
-      "type": "match"
-    },
-    {
-      "ypos": 310,
       "height": 13,
-      "xpos": 437,
-      "width": 84,
-      "type": "match"
+      "width": 303,
+      "xpos": 441
     },
     {
       "type": "match",
-      "width": 283,
-      "xpos": 546,
+      "xpos": 437,
+      "width": 84,
+      "height": 13,
+      "ypos": 310
+    },
+    {
+      "type": "match",
+      "ypos": 359,
       "height": 44,
-      "ypos": 359
+      "xpos": 546,
+      "width": 283
     }
   ],
   "properties": [],
   "tags": [
-    "amarok",
-    "test-amarok-1",
     "ENV-DESKTOP-kde",
-    "ENV-DISTRI-opensuse"
+    "ENV-DISTRI-opensuse",
+    "amarok",
+    "test-amarok-new-1"
   ]
 }
