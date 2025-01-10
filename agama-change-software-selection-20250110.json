@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 226,
+      "width": 149,
+      "xpos": 27,
+      "height": 43,
+      "click_point": {
+        "xpos": 71.5,
+        "ypos": 21.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-change-software-selection"
+  ]
+}
