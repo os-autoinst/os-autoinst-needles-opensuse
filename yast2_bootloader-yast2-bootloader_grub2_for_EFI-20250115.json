@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 104,
+      "xpos": 146,
+      "ypos": 235,
+      "height": 19
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-bootloader_grub2",
+    "yast2-bootloader_grub2_for_EFI"
+  ]
+}
