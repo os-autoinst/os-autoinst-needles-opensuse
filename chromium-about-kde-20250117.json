@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 148,
+      "width": 178,
+      "xpos": 732,
+      "height": 51
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "chromium-about"
+  ]
+}
