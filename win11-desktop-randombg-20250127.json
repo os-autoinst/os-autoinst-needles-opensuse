@@ -4,43 +4,49 @@
       "ypos": 111,
       "height": 10,
       "width": 25,
+      "xpos": 26,
       "type": "match",
-      "xpos": 26
+      "match": 85
     },
     {
-      "xpos": 750,
-      "type": "match",
-      "width": 22,
       "height": 28,
-      "ypos": 661
-    },
-    {
-      "height": 29,
-      "ypos": 730,
-      "xpos": 246,
+      "ypos": 661,
       "type": "match",
-      "width": 31
+      "xpos": 750,
+      "width": 22,
+      "match": 85
     },
     {
-      "ypos": 142,
-      "height": 10,
+      "width": 31,
+      "type": "match",
+      "xpos": 246,
+      "ypos": 730,
+      "height": 29,
+      "match": 85
+    },
+    {
       "width": 10,
       "type": "match",
-      "xpos": 18
+      "xpos": 18,
+      "ypos": 142,
+      "height": 10,
+      "match": 85
     },
     {
-      "xpos": 257,
-      "ypos": 659,
       "width": 34,
+      "xpos": 258,
+      "type": "match",
+      "ypos": 658,
       "height": 32,
-      "type": "match"
+      "match": 85
     },
     {
-      "xpos": 270,
       "ypos": 82,
-      "width": 38,
       "height": 11,
-      "type": "match"
+      "width": 38,
+      "type": "match",
+      "xpos": 270,
+      "match": 85
     }
   ],
   "properties": [],
