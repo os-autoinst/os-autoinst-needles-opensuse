@@ -8,52 +8,38 @@
       "xpos": 26
     },
     {
-      "width": 29,
+      "xpos": 750,
       "type": "match",
-      "xpos": 513,
-      "ypos": 733,
-      "height": 28
+      "width": 22,
+      "height": 28,
+      "ypos": 661
     },
     {
-      "height": 30,
+      "height": 29,
       "ypos": 730,
-      "xpos": 245,
+      "xpos": 246,
       "type": "match",
       "width": 31
     },
     {
-      "height": 10,
       "ypos": 142,
+      "height": 10,
+      "width": 10,
       "type": "match",
-      "xpos": 18,
-      "width": 10
+      "xpos": 18
     },
     {
-      "xpos": 26,
-      "ypos": 20,
-      "width": 26,
-      "height": 23,
+      "xpos": 257,
+      "ypos": 659,
+      "width": 34,
+      "height": 32,
       "type": "match"
     },
     {
       "xpos": 270,
-      "ypos": 80,
-      "width": 40,
-      "height": 15,
-      "type": "match"
-    },
-    {
-      "xpos": 252,
-      "ypos": 659,
-      "width": 40,
-      "height": 33,
-      "type": "match"
-    },
-    {
-      "xpos": 750,
-      "ypos": 663,
-      "width": 21,
-      "height": 24,
+      "ypos": 82,
+      "width": 38,
+      "height": 11,
       "type": "match"
     }
   ],
