@@ -1,0 +1,48 @@
+{
+  "area": [
+    {
+      "height": 10,
+      "ypos": 111,
+      "xpos": 26,
+      "type": "match",
+      "width": 25,
+      "match": 85
+    },
+    {
+      "type": "match",
+      "xpos": 508,
+      "width": 25,
+      "height": 24,
+      "ypos": 735,
+      "match": 85
+    },
+    {
+      "ypos": 730,
+      "height": 29,
+      "width": 28,
+      "xpos": 240,
+      "type": "match",
+      "match": 85
+    },
+    {
+      "height": 10,
+      "ypos": 142,
+      "type": "match",
+      "xpos": 18,
+      "width": 10,
+      "match": 85
+    },
+    {
+      "xpos": 28,
+      "ypos": 20,
+      "width": 20,
+      "height": 23,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-desktop"
+  ]
+}
