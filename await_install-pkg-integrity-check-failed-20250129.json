@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 208,
+      "ypos": 341,
+      "xpos": 518,
+      "type": "match",
+      "height": 20
+    },
+    {
+      "xpos": 400,
+      "ypos": 419,
+      "width": 232,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_wrong_digest"
+  ]
+}
