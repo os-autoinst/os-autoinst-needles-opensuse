@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 72,
+      "xpos": 118,
+      "ypos": 610,
+      "height": 18
+    },
+    {
+      "height": 25,
+      "width": 25,
+      "type": "match",
+      "ypos": 77,
+      "click_point": {
+        "ypos": 12.5,
+        "xpos": 12.5
+      },
+      "xpos": 980
+    },
+    {
+      "width": 58,
+      "type": "match",
+      "ypos": 111,
+      "xpos": 52,
+      "height": 37
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-setup-browser"
+  ]
+}
