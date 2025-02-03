@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 390,
+      "xpos": 570,
+      "height": 17,
+      "type": "ocr",
+      "width": 56,
+      "refstr": "Yes"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-confirm-endturn"
+  ]
+}
