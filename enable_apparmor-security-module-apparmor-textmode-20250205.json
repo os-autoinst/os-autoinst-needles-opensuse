@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 463,
+      "width": 72,
+      "height": 20,
+      "xpos": 562
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "security-module-apparmor"
+  ]
+}
