@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 372,
+      "type": "match",
+      "ypos": 235,
+      "height": 30,
+      "width": 280
+    },
+    {
+      "width": 316,
+      "height": 20,
+      "ypos": 281,
+      "type": "match",
+      "xpos": 330
+    },
+    {
+      "xpos": 317,
+      "type": "match",
+      "ypos": 506,
+      "height": 31,
+      "width": 403,
+      "click_point": {
+        "ypos": 14.5,
+        "xpos": 307.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "polkit-unmount-auth-required"
+  ]
+}
