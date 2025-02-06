@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 40,
+      "height": 32,
+      "width": 97,
+      "xpos": 282,
+      "type": "match"
+    },
+    {
+      "xpos": 244,
+      "type": "match",
+      "width": 149,
+      "ypos": 283,
+      "height": 125
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-cheese-started"
+  ]
+}
