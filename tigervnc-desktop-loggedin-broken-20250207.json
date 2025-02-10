@@ -1,0 +1,37 @@
+{
+  "area": [
+    {
+      "xpos": 164,
+      "height": 21,
+      "width": 202,
+      "type": "match",
+      "ypos": 346
+    },
+    {
+      "width": 193,
+      "height": 170,
+      "xpos": 419,
+      "ypos": 40,
+      "type": "match",
+      "match": 85
+    },
+    {
+      "type": "exclude",
+      "ypos": 75,
+      "height": 20,
+      "width": 128,
+      "xpos": 449
+    },
+    {
+      "xpos": 514,
+      "ypos": 71,
+      "width": 96,
+      "height": 137,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tigervnc-desktop-loggedin"
+  ]
+}
