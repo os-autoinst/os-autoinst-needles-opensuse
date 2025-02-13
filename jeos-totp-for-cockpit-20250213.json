@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 277,
+      "ypos": 82,
+      "width": 381,
+      "height": 46,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-totp-for-cockpit"
+  ]
+}
