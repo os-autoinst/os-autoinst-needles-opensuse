@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 210,
+      "xpos": 398,
+      "height": 79,
+      "type": "match",
+      "ypos": 324,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-ssh-enroll-or-not"
+  ]
+}
