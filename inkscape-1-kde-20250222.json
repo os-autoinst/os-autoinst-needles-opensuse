@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 62,
+      "type": "match",
+      "width": 670,
+      "height": 87,
+      "xpos": 37
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inkscape",
+    "test-inkscape-1",
+    "ENV-DISTRI-opensuse"
+  ]
+}
