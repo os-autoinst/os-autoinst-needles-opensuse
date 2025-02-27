@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 594,
+      "ypos": 439,
+      "width": 23,
+      "height": 14,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnuhealth-admin-confirm_close"
+  ]
+}
