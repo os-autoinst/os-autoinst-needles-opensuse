@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 55,
+      "height": 26,
+      "ypos": 306,
+      "xpos": 565
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_security-file-perms-secure"
+  ]
+}
