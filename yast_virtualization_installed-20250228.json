@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 315,
+      "height": 12,
+      "width": 161,
+      "type": "match",
+      "xpos": 257
+    },
+    {
+      "ypos": 513,
+      "type": "match",
+      "width": 27,
+      "height": 19,
+      "xpos": 623
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast_virtualization_installed"
+  ]
+}
