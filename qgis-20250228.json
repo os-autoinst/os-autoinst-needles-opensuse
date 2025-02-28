@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "width": 166,
+      "height": 19,
+      "type": "match",
+      "xpos": 373,
+      "ypos": 40
+    },
+    {
+      "xpos": 565,
+      "type": "match",
+      "height": 28,
+      "width": 213,
+      "ypos": 294
+    },
+    {
+      "xpos": 5,
+      "height": 21,
+      "width": 56,
+      "type": "match",
+      "ypos": 173
+    },
+    {
+      "ypos": 314,
+      "xpos": 5,
+      "height": 16,
+      "width": 42,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "qgis"
+  ]
+}
