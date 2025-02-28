@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 457,
+      "ypos": 358,
+      "type": "match",
+      "width": 157,
+      "height": 35
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-lang_detailed-locale-setting"
+  ]
+}
