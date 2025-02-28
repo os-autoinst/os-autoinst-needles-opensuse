@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 98,
+      "xpos": 0,
+      "type": "match",
+      "width": 144,
+      "height": 29
+    },
+    {
+      "xpos": 9,
+      "ypos": 163,
+      "type": "match",
+      "width": 350,
+      "height": 16
+    },
+    {
+      "xpos": 7,
+      "ypos": 200,
+      "type": "match",
+      "width": 352,
+      "height": 20
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "AppArmor-Settings-Profile-List-Show-All"
+  ]
+}
