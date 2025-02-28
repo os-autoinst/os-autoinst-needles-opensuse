@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 364,
+      "xpos": 232,
+      "width": 433,
+      "height": 72,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-lan-warning-network-manager"
+  ]
+}
