@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 35,
+      "width": 111,
+      "type": "match",
+      "xpos": 94,
+      "ypos": 212
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "boot-agama-installation"
+  ]
+}
