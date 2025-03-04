@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 300,
+      "xpos": 0,
+      "width": 618,
+      "ypos": 0
+    },
+    {
+      "height": 22,
+      "type": "exclude",
+      "width": 26,
+      "xpos": 525,
+      "ypos": 170
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "bootloader",
+    "inst-bootmenu",
+    "inst-bootmenu-boot-harddisk"
+  ]
+}
