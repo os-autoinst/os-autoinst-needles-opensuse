@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "xpos": 21,
+      "ypos": 343,
+      "width": 52,
+      "height": 17,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "xpos": 25,
+      "ypos": 388,
+      "width": 36,
+      "height": 33,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "xpos": 161,
+      "ypos": 502,
+      "width": 21,
+      "height": 16,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "xpos": 163,
+      "ypos": 560,
+      "width": 33,
+      "height": 32,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "run-command-window"
+  ]
+}
