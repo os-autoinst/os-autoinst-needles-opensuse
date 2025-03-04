@@ -1,27 +1,11 @@
 {
   "area": [
     {
-      "height": 20,
-      "ypos": 350,
-      "xpos": 263,
+      "type": "match",
       "width": 60,
-      "type": "match",
-      "match": 80
-    },
-    {
-      "type": "match",
-      "width": 90,
-      "xpos": 358,
-      "ypos": 118,
-      "height": 99,
-      "match": 80
-    },
-    {
-      "xpos": 650,
-      "ypos": 544,
-      "width": 22,
-      "height": 30,
-      "type": "match",
+      "xpos": 263,
+      "ypos": 350,
+      "height": 20,
       "match": 80
     }
   ],
