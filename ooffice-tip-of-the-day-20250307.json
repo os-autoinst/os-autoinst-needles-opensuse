@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 207,
+      "width": 185,
+      "xpos": 2,
+      "type": "match",
+      "ypos": 1
+    },
+    {
+      "type": "match",
+      "xpos": 409,
+      "width": 164,
+      "height": 35,
+      "ypos": 443
+    },
+    {
+      "ypos": 303,
+      "height": 17,
+      "width": 84,
+      "type": "match",
+      "xpos": 448
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ooffice-tip-of-the-day"
+  ]
+}
