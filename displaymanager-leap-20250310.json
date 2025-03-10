@@ -25,6 +25,7 @@
   ],
   "properties": [],
   "tags": [
-    "displaymanager-password-prompt"
+    "ENV-DESKTOP-gnome",
+    "displaymanager"
   ]
 }
