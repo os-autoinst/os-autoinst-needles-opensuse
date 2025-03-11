@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 237,
+      "ypos": 530,
+      "width": 87,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-user-accept-button"
+  ]
+}
