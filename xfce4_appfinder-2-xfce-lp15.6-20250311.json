@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 558,
+      "type": "match",
+      "ypos": 33,
+      "xpos": 9,
+      "height": 382
+    },
+    {
+      "type": "exclude",
+      "width": 302,
+      "ypos": 78,
+      "height": 346,
+      "xpos": 324
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-xfce4_appfinder-2",
+    "ENV-DESKTOP-xfce",
+    "ENV-DISTRI-opensuse"
+  ]
+}
