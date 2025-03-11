@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 840,
+      "ypos": 9,
+      "width": 119,
+      "height": 46,
+      "type": "match"
+    },
+    {
+      "xpos": 916,
+      "ypos": 15,
+      "width": 32,
+      "height": 27,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-install-button"
+  ]
+}
