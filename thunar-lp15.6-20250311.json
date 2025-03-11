@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 128,
+      "height": 30,
+      "width": 315,
+      "type": "match",
+      "ypos": 60
+    },
+    {
+      "width": 94,
+      "type": "match",
+      "ypos": 97,
+      "xpos": 195,
+      "height": 98
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "test-thunar-1"
+  ]
+}
