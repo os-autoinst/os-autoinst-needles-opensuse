@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 26,
+      "width": 358,
+      "type": "match",
+      "xpos": 1,
+      "height": 60
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "test-ristretto-1"
+  ]
+}
