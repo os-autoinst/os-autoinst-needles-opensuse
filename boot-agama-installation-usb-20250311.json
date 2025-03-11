@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 37,
+      "width": 241,
+      "ypos": 266,
+      "xpos": 112,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-16.0",
+    "ENV-distri-leap",
+    "boot-agama-installation"
+  ]
+}
