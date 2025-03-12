@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "width": 129,
+      "xpos": 574,
+      "height": 123,
+      "ypos": 249,
+      "type": "match"
+    },
+    {
+      "width": 145,
+      "type": "match",
+      "click_point": {
+        "ypos": 16,
+        "xpos": 72.5
+      },
+      "height": 32,
+      "ypos": 491,
+      "xpos": 640
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-edge-decline"
+  ]
+}
