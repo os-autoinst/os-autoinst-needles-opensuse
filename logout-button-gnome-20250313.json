@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 62,
+      "height": 24,
+      "ypos": 435,
+      "xpos": 572,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "logout-button"
+  ]
+}
