@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 99,
+      "ypos": 218,
+      "width": 105,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub-menu-agama-installer-highlighted"
+  ]
+}
