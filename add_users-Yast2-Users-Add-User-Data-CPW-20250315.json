@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 416,
+      "width": 129,
+      "height": 54,
+      "ypos": 486
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "Yast2-Users-Add-User-Data-CPW"
+  ]
+}
