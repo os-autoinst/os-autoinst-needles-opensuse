@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 319,
+      "ypos": 659,
+      "width": 217,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ssh-service-selected"
+  ]
+}
