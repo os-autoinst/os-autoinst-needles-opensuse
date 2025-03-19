@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 29,
+      "ypos": 148,
+      "xpos": 113,
+      "width": 139
+    },
+    {
+      "width": 156,
+      "xpos": 124,
+      "ypos": 215,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "AppArmor-Settings-Profile-List-Show-Active-only"
+  ]
+}
