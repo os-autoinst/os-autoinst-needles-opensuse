@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "width": 55,
+      "xpos": 421,
+      "type": "match",
+      "ypos": 42,
+      "height": 25
+    },
+    {
+      "click_point": {
+        "ypos": 12.5,
+        "xpos": 30
+      },
+      "height": 25,
+      "ypos": 438,
+      "type": "match",
+      "width": 60,
+      "xpos": 48
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution-select-email"
+  ]
+}
