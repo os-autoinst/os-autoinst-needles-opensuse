@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 128,
+      "xpos": 576,
+      "height": 123,
+      "ypos": 148,
+      "type": "match"
+    },
+    {
+      "xpos": 601,
+      "width": 73,
+      "ypos": 40,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "users-settings"
+  ]
+}
