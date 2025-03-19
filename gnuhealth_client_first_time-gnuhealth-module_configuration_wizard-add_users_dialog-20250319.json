@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 119,
+      "xpos": 435,
+      "height": 23,
+      "ypos": 158,
+      "type": "match"
+    },
+    {
+      "width": 163,
+      "xpos": 238,
+      "type": "match",
+      "height": 39,
+      "ypos": 239
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnuhealth-client-module_configuration_wizard-add_users_dialog"
+  ]
+}
