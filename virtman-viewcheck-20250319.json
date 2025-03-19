@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 136,
+      "ypos": 170,
+      "width": 147,
+      "xpos": 456
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virtman-viewcheck"
+  ]
+}
