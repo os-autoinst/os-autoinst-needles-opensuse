@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 292,
+      "width": 325,
+      "type": "match",
+      "ypos": 294,
+      "height": 38
+    },
+    {
+      "width": 72,
+      "xpos": 673,
+      "type": "match",
+      "ypos": 531,
+      "click_point": {
+        "ypos": 12.5,
+        "xpos": 36
+      },
+      "height": 25
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pidgin-irc-account"
+  ]
+}
