@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 90,
+      "xpos": 606,
+      "type": "match",
+      "height": 126,
+      "ypos": 320
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "alt-tab-nautilus"
+  ]
+}
