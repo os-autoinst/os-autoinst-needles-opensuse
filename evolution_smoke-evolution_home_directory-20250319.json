@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "width": 245,
+      "xpos": 387,
+      "type": "match",
+      "height": 26,
+      "ypos": 40
+    },
+    {
+      "type": "match",
+      "ypos": 126,
+      "height": 25,
+      "click_point": {
+        "ypos": 12.5,
+        "xpos": 42
+      },
+      "width": 84,
+      "xpos": 9
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution-home-directory"
+  ]
+}
