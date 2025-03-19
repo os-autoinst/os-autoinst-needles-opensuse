@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 15,
+      "ypos": 257,
+      "width": 59,
+      "xpos": 198
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "AppArmor-Configuration-Settings"
+  ]
+}
