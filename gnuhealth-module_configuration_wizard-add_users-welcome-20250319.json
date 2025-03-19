@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 204,
+      "width": 148,
+      "ypos": 199,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnuhealth-client-module_configuration_wizard-add_users-welcome"
+  ]
+}
