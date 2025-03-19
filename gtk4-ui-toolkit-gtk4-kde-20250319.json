@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 386,
+      "width": 93,
+      "ypos": 745,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 409,
+      "height": 19,
+      "width": 90,
+      "xpos": 467
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ui-toolkit-gtk4"
+  ]
+}
