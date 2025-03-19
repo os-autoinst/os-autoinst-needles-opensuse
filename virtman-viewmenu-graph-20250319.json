@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 322,
+      "width": 96,
+      "type": "match",
+      "ypos": 148,
+      "height": 44
+    },
+    {
+      "height": 10,
+      "ypos": 118,
+      "type": "match",
+      "width": 10,
+      "xpos": 412
+    },
+    {
+      "height": 19,
+      "ypos": 115,
+      "type": "match",
+      "xpos": 415,
+      "width": 181
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virtman-viewmenu-graph"
+  ]
+}
