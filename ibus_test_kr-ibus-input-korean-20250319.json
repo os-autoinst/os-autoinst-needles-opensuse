@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 132,
+      "xpos": 445,
+      "ypos": 320,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ibus-input-korean"
+  ]
+}
