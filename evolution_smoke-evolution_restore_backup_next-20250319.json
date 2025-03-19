@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "ypos": 166,
+      "height": 53,
+      "type": "match",
+      "width": 422,
+      "xpos": 187
+    },
+    {
+      "height": 32,
+      "ypos": 109,
+      "type": "match",
+      "xpos": 1,
+      "width": 159
+    },
+    {
+      "type": "match",
+      "height": 26,
+      "click_point": {
+        "xpos": 34,
+        "ypos": 13
+      },
+      "ypos": 41,
+      "xpos": 943,
+      "width": 68
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_restore_backup_next"
+  ]
+}
