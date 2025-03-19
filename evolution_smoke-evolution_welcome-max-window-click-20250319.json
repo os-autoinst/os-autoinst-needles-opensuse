@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 24,
+      "ypos": 82,
+      "xpos": 7,
+      "width": 94
+    },
+    {
+      "type": "match",
+      "height": 26,
+      "click_point": {
+        "ypos": 13,
+        "xpos": 32.5
+      },
+      "ypos": 42,
+      "width": 65,
+      "xpos": 943
+    },
+    {
+      "ypos": 39,
+      "height": 33,
+      "type": "match",
+      "width": 103,
+      "xpos": 459
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_welcome-max-window-click"
+  ]
+}
