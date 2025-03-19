@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 820,
+      "width": 77,
+      "type": "match",
+      "height": 21,
+      "ypos": 682
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "AppArmor-Launch"
+  ]
+}
