@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "xpos": 985,
+      "width": 39,
+      "type": "match",
+      "ypos": 0,
+      "height": 30
+    },
+    {
+      "ypos": 287,
+      "height": 85,
+      "type": "match",
+      "width": 199,
+      "xpos": 306
+    },
+    {
+      "width": 313,
+      "xpos": 339,
+      "height": 77,
+      "ypos": 658,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "ENV-DESKTOP-gnome",
+    "displaymanager"
+  ]
+}
