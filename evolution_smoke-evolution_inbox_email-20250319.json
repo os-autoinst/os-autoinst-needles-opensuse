@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 192,
+      "height": 23,
+      "width": 334,
+      "xpos": 504
+    },
+    {
+      "xpos": 430,
+      "width": 48,
+      "type": "match",
+      "height": 19,
+      "ypos": 46
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_inbox_email"
+  ]
+}
