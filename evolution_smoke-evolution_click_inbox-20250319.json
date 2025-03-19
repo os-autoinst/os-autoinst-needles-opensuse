@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 17,
+      "width": 77,
+      "height": 24,
+      "click_point": {
+        "xpos": 10.5,
+        "ypos": 14
+      },
+      "ypos": 412,
+      "type": "match"
+    },
+    {
+      "width": 64,
+      "xpos": 3,
+      "type": "match",
+      "height": 28,
+      "ypos": 129
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_click_inbox"
+  ]
+}
