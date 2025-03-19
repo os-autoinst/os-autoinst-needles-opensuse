@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 44,
+      "click_point": {
+        "xpos": 523.5,
+        "ypos": 22
+      },
+      "ypos": 216,
+      "width": 547,
+      "xpos": 370
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ibus-input-added-korean"
+  ]
+}
