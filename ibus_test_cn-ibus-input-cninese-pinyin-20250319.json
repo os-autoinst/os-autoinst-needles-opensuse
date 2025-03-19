@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 336,
+      "width": 184,
+      "height": 23,
+      "ypos": 358,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ibus-input-chinese-intelligent-pinyin",
+    "ibus-input-chinese-pinyin"
+  ]
+}
