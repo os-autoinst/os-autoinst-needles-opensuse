@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 18,
+      "ypos": 82,
+      "type": "match",
+      "width": 77,
+      "xpos": 27
+    },
+    {
+      "width": 153,
+      "xpos": 437,
+      "type": "match",
+      "height": 22,
+      "ypos": 43
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ibus_jp_hi"
+  ]
+}
