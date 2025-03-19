@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "width": 190,
+      "type": "match",
+      "height": 399,
+      "ypos": 35
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "gnome-tweak-tool-started",
+    "gnome-tweaks"
+  ]
+}
