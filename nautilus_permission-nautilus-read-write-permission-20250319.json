@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 644,
+      "width": 127,
+      "type": "match",
+      "height": 34,
+      "ypos": 475
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nautilus-read-write-permission"
+  ]
+}
