@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 426,
+      "ypos": 95,
+      "width": 129,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 749,
+      "ypos": 97,
+      "width": 59,
+      "height": 25,
+      "type": "match",
+      "click_point": {
+        "xpos": 29.5,
+        "ypos": 12.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "welcome-gimp"
+  ]
+}
