@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 159,
+      "xpos": 18,
+      "height": 21,
+      "ypos": 392,
+      "type": "match"
+    },
+    {
+      "ypos": 128,
+      "height": 26,
+      "type": "match",
+      "xpos": 0,
+      "width": 59
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_mail-init-window"
+  ]
+}
