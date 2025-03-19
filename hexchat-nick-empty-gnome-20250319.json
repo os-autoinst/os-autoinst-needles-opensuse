@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 320,
+      "width": 172,
+      "ypos": 199,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "DESKTOP-ENV-gnome",
+    "hexchat-nick-empty"
+  ]
+}
