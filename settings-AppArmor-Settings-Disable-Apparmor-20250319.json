@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 171,
+      "height": 25,
+      "type": "match",
+      "xpos": 425,
+      "width": 147
+    },
+    {
+      "type": "match",
+      "ypos": 435,
+      "height": 33,
+      "xpos": 383,
+      "width": 173
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "AppArmor-Settings-Disable-Apparmor"
+  ]
+}
