@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 387,
+      "width": 250,
+      "ypos": 36,
+      "height": 31,
+      "type": "match"
+    },
+    {
+      "height": 223,
+      "ypos": 122,
+      "type": "match",
+      "xpos": 7,
+      "width": 130
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_choose_backupfile_torestore"
+  ]
+}
