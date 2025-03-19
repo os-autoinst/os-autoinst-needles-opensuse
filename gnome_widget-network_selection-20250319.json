@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 824,
+      "width": 183,
+      "height": 52,
+      "click_point": {
+        "xpos": 155.5,
+        "ypos": 20
+      },
+      "ypos": 147,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome_widget-network_selection-click"
+  ]
+}
