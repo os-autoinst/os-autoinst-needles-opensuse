@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 77,
+      "xpos": 612,
+      "height": 32,
+      "ypos": 547,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "vlc-play_button"
+  ]
+}
