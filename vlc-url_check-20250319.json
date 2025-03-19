@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 442,
+      "width": 45,
+      "type": "match",
+      "ypos": 247,
+      "height": 19
+    },
+    {
+      "height": 27,
+      "ypos": 186,
+      "type": "match",
+      "xpos": 391,
+      "width": 91
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "url_check"
+  ]
+}
