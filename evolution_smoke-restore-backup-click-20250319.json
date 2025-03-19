@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "height": 22,
+      "ypos": 115,
+      "type": "match",
+      "width": 150,
+      "xpos": 10
+    },
+    {
+      "xpos": 182,
+      "width": 22,
+      "type": "match",
+      "ypos": 177,
+      "click_point": {
+        "xpos": 11,
+        "ypos": 13
+      },
+      "height": 26
+    },
+    {
+      "xpos": 948,
+      "width": 54,
+      "type": "match",
+      "ypos": 44,
+      "height": 22
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_smoke-restore-backup-click"
+  ]
+}
