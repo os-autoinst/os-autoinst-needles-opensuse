@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 267,
+      "type": "match",
+      "height": 23,
+      "ypos": 370,
+      "width": 453
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "chrome-do_not_send_data"
+  ]
+}
