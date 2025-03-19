@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 597,
+      "width": 96,
+      "type": "match",
+      "height": 37,
+      "ypos": 193
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nautilus-ftp-connect"
+  ]
+}
