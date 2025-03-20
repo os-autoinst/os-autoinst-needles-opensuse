@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 562,
+      "type": "match",
+      "height": 52,
+      "ypos": 716,
+      "width": 194,
+      "click_point": {
+        "ypos": 51,
+        "xpos": 146
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "network_manager-connect-click"
+  ]
+}
