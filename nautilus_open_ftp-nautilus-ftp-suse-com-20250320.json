@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 117,
+      "ypos": 138,
+      "width": 299,
+      "height": 181
+    },
+    {
+      "xpos": 72,
+      "ypos": 558,
+      "type": "match",
+      "width": 270,
+      "height": 111
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "nautilus-ftp-suse-com"
+  ]
+}
