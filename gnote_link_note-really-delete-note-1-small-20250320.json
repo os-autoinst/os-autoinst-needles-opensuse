@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 362,
+      "ypos": 293,
+      "click_point": {
+        "xpos": 257,
+        "ypos": 20
+      },
+      "width": 297,
+      "height": 38
+    },
+    {
+      "type": "match",
+      "ypos": 382,
+      "xpos": 365,
+      "width": 291,
+      "height": 27
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "really-delete-note"
+  ]
+}
