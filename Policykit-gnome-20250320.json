@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "xpos": 368,
+      "ypos": 218,
+      "type": "match",
+      "height": 29,
+      "width": 285
+    },
+    {
+      "xpos": 449,
+      "height": 24,
+      "ypos": 387,
+      "type": "match",
+      "width": 122
+    },
+    {
+      "width": 192,
+      "ypos": 526,
+      "type": "match",
+      "height": 32,
+      "xpos": 518
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "Policykit",
+    "Policykit-root",
+    "root-auth-dialog"
+  ]
+}
