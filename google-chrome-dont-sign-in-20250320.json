@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "width": 336,
+      "height": 64,
+      "type": "match",
+      "ypos": 288,
+      "xpos": 343
+    },
+    {
+      "width": 87,
+      "type": "match",
+      "height": 20,
+      "ypos": 679,
+      "xpos": 695,
+      "click_point": {
+        "xpos": 41.5,
+        "ypos": 9
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "google-chrome-dont-sign-in"
+  ]
+}
