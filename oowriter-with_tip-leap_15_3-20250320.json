@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 19,
+      "width": 51,
+      "ypos": 42,
+      "xpos": 571,
+      "type": "match"
+    },
+    {
+      "width": 98,
+      "height": 19,
+      "ypos": 204,
+      "xpos": 437,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "oowriter"
+  ]
+}
