@@ -2,16 +2,23 @@
   "area": [
     {
       "width": 496,
-      "type": "match",
       "height": 366,
-      "xpos": 351,
-      "ypos": 119
+      "type": "match",
+      "ypos": 119,
+      "xpos": 351
+    },
+    {
+      "xpos": 475,
+      "ypos": 190,
+      "width": 55,
+      "height": 41,
+      "type": "exclude"
     }
   ],
   "properties": [
     {
-      "value": "https://bugs.kde.org/show_bug.cgi?id=449070",
-      "name": "workaround"
+      "name": "workaround",
+      "value": "https://bugs.kde.org/show_bug.cgi?id=449070"
     }
   ],
   "tags": [
