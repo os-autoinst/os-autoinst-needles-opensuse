@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 278,
+      "xpos": 699,
+      "type": "match",
+      "height": 93,
+      "ypos": 122
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "google-chrome-about"
+  ]
+}
