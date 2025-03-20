@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 150,
+      "type": "match",
+      "ypos": 495,
+      "height": 22,
+      "xpos": 559
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "network_manager-peap_selected"
+  ]
+}
