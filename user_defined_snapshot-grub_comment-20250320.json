@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 187,
+      "type": "match",
+      "height": 16,
+      "ypos": 93,
+      "xpos": 252
+    },
+    {
+      "width": 110,
+      "type": "match",
+      "ypos": 388,
+      "height": 13,
+      "xpos": 592
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub_comment"
+  ]
+}
