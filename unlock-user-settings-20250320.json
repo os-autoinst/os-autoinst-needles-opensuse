@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 921,
+      "ypos": 86,
+      "type": "match",
+      "height": 29,
+      "width": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "Unlock-user-settings"
+  ]
+}
