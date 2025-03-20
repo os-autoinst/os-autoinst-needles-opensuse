@@ -1,0 +1,64 @@
+{
+  "area": [
+    {
+      "ypos": 405,
+      "xpos": 360,
+      "height": 307,
+      "type": "match",
+      "width": 302
+    },
+    {
+      "width": 178,
+      "type": "match",
+      "height": 129,
+      "xpos": 15,
+      "ypos": 140
+    },
+    {
+      "type": "match",
+      "height": 176,
+      "width": 214,
+      "xpos": 531,
+      "ypos": 118
+    },
+    {
+      "width": 301,
+      "height": 27,
+      "type": "exclude",
+      "ypos": 422,
+      "xpos": 364
+    },
+    {
+      "ypos": 478,
+      "xpos": 363,
+      "height": 32,
+      "type": "exclude",
+      "width": 304
+    },
+    {
+      "height": 23,
+      "type": "exclude",
+      "width": 303,
+      "ypos": 540,
+      "xpos": 363
+    },
+    {
+      "xpos": 363,
+      "ypos": 588,
+      "type": "exclude",
+      "height": 28,
+      "width": 303
+    },
+    {
+      "ypos": 643,
+      "xpos": 363,
+      "height": 39,
+      "type": "exclude",
+      "width": 306
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome_control_center-1"
+  ]
+}
