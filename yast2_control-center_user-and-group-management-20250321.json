@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 254,
+      "xpos": 438,
+      "width": 244,
+      "click_point": {
+        "xpos": 52,
+        "ypos": 44.5
+      },
+      "type": "match",
+      "height": 57
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center_user-and-group-management"
+  ]
+}
