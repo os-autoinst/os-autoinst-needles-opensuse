@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 35,
+      "width": 96,
+      "type": "match",
+      "xpos": 656,
+      "ypos": 532
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center-partitioner_warning"
+  ]
+}
