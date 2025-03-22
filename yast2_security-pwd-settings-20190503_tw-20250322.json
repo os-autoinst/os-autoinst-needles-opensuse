@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 165,
+      "width": 70,
+      "xpos": 147,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_security-pwd-settings"
+  ]
+}
