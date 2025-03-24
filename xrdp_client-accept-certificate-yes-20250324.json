@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 35,
+      "width": 89,
+      "xpos": 210,
+      "ypos": 414
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "accept-certificate-yes"
+  ]
+}
