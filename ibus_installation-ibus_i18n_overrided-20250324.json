@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 15,
+      "type": "match",
+      "width": 216,
+      "ypos": 109,
+      "xpos": 18
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ibus_i18n_overrided"
+  ]
+}
