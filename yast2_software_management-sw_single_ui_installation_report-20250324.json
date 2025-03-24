@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 318,
+      "height": 62,
+      "xpos": 118,
+      "ypos": 141
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sw_single_ui_installation_report"
+  ]
+}
