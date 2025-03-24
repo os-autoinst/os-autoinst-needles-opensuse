@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 185,
+      "type": "match",
+      "ypos": 220,
+      "xpos": 130,
+      "height": 74
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-lan-network-manager-selected"
+  ]
+}
