@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 257,
+      "width": 392,
+      "xpos": 320,
+      "height": 233
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "enter-pwd-2-unlock-keyring"
+  ]
+}
