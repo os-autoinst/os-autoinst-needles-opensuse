@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 19,
+      "ypos": 505,
+      "xpos": 153,
+      "width": 668
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome_console-1"
+  ]
+}
