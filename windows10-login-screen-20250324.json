@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 21,
+      "height": 17,
+      "type": "match",
+      "ypos": 728,
+      "xpos": 984
+    },
+    {
+      "xpos": 347,
+      "ypos": 359,
+      "type": "match",
+      "width": 89,
+      "height": 81
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-login-screen"
+  ]
+}
