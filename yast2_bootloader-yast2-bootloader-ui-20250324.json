@@ -1,0 +1,57 @@
+{
+  "area": [
+    {
+      "height": 17,
+      "width": 149,
+      "type": "match",
+      "ypos": 176,
+      "xpos": 448
+    },
+    {
+      "ypos": 175,
+      "xpos": 127,
+      "height": 21,
+      "width": 142,
+      "type": "match"
+    },
+    {
+      "width": 142,
+      "height": 19,
+      "type": "match",
+      "ypos": 177,
+      "xpos": 288
+    },
+    {
+      "ypos": 177,
+      "xpos": 441,
+      "height": 17,
+      "width": 161,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "width": 133,
+      "height": 55,
+      "xpos": 137,
+      "ypos": 225
+    },
+    {
+      "xpos": 132,
+      "ypos": 140,
+      "type": "match",
+      "width": 152,
+      "height": 17
+    },
+    {
+      "height": 12,
+      "width": 41,
+      "type": "match",
+      "ypos": 688,
+      "xpos": 836
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-bootloader-ui"
+  ]
+}
