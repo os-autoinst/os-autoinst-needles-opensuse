@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 541,
+      "ypos": 564,
+      "width": 15,
+      "height": 22,
+      "type": "match",
+      "click_point": {
+        "xpos": 7.5,
+        "ypos": 11
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "welcome_to_wsl"
+  ]
+}
