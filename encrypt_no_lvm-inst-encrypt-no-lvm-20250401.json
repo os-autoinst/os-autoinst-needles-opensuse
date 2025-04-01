@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 333,
+      "ypos": 183,
+      "width": 220,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-encrypt-no-lvm"
+  ]
+}
