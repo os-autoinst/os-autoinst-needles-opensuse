@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 25,
+      "ypos": 237,
+      "width": 151,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-bootloader-grub2-bls-selected"
+  ]
+}
