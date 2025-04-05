@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "width": 306,
+      "height": 33,
+      "type": "match",
+      "xpos": 9,
+      "ypos": 24
+    },
+    {
+      "width": 178,
+      "xpos": 349,
+      "ypos": 275,
+      "height": 33,
+      "type": "match"
+    },
+    {
+      "width": 151,
+      "height": 45,
+      "type": "match",
+      "xpos": 351,
+      "ypos": 317
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-Tumbleweed",
+    "lang_and_keyboard"
+  ]
+}
