@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 120,
+      "type": "match",
+      "xpos": 358,
+      "height": 29,
+      "ypos": 34
+    },
+    {
+      "width": 23,
+      "xpos": 740,
+      "height": 23,
+      "ypos": 39,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "close_vlc"
+  ]
+}
