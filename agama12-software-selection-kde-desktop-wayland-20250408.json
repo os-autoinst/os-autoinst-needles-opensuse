@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 467,
+      "height": 39,
+      "width": 342,
+      "click_point": {
+        "xpos": 20.5,
+        "ypos": 12
+      },
+      "xpos": 253,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-software-selection-kde-desktop-wayland"
+  ]
+}
