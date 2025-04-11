@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "xpos": 817,
+      "type": "match",
+      "width": 44,
+      "height": 284,
+      "ypos": 34,
+      "click_point": {
+        "xpos": 26.5,
+        "ypos": 264
+      }
+    },
+    {
+      "ypos": 506,
+      "width": 114,
+      "xpos": 169,
+      "height": 42,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1241066"
+    }
+  ],
+  "tags": [
+    "inkscape-welcome-boo1241066"
+  ]
+}
