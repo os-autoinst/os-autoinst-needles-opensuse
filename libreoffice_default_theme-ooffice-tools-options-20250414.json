@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "height": 27,
+      "type": "match",
+      "width": 245,
+      "ypos": 38,
+      "xpos": 388
+    },
+    {
+      "xpos": 1,
+      "ypos": 71,
+      "width": 224,
+      "height": 258,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1239125"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ooffice-tools-options"
+  ]
+}
