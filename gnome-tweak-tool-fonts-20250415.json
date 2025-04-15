@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 22,
+      "width": 194,
+      "height": 44,
+      "ypos": 86,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-tweak-tool-fonts"
+  ]
+}
