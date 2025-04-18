@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 119,
+      "xpos": 351,
+      "width": 496,
+      "type": "match",
+      "height": 366
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "https://bugs.kde.org/show_bug.cgi?id=449070"
+    }
+  ],
+  "tags": [
+    "dolphin",
+    "test-dolphin-1",
+    "ENV-DESKTOP-kde"
+  ]
+}
