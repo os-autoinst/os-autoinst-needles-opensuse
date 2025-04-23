@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 192,
+      "height": 105,
+      "type": "match",
+      "ypos": 222,
+      "width": 223
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-mainmenu"
+  ]
+}
