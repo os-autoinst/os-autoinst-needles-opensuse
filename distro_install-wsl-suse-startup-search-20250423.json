@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "height": 21,
+      "click_point": {
+        "ypos": 10.5,
+        "xpos": 36.5
+      },
+      "xpos": 189,
+      "type": "match",
+      "ypos": 229,
+      "width": 73
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-suse-startup-search"
+  ]
+}
