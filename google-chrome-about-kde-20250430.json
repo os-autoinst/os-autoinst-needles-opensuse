@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 148,
+      "xpos": 692,
+      "type": "match",
+      "width": 278,
+      "ypos": 113
+    },
+    {
+      "xpos": 804,
+      "ypos": 171,
+      "width": 24,
+      "height": 12,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "google-chrome-about"
+  ]
+}
