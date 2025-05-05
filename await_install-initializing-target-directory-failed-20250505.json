@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 323,
+      "xpos": 316,
+      "width": 384,
+      "height": 137,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "initializing-target-directory-failed",
+    "linuxrc_error"
+  ]
+}
