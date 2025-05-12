@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "width": 67,
+      "type": "match",
+      "height": 16,
+      "match": 85,
+      "xpos": 192,
+      "ypos": 164
+    },
+    {
+      "xpos": 648,
+      "ypos": 136,
+      "type": "match",
+      "height": 68,
+      "match": 85,
+      "width": 68
+    },
+    {
+      "width": 75,
+      "match": 85,
+      "type": "match",
+      "height": 31,
+      "ypos": 305,
+      "xpos": 509
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-suse-startup-search"
+  ]
+}
