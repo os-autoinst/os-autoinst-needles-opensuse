@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 753,
+      "width": 438,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "encrypted-disk-tpm-pin-prompt"
+  ]
+}
