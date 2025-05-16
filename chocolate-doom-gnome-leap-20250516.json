@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 424,
+      "type": "match",
+      "height": 22,
+      "width": 130,
+      "ypos": 224,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "chocolate-doom"
+  ]
+}
