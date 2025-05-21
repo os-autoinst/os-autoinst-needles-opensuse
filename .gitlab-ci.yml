@@ -7,7 +7,7 @@ mirror-from-github:
     retry: 2
     stage: mirror
     rules:
-          - if: $CI_JOB_TOKEN
+          - if: $CI_PUSH_TOKEN
     before_script:
         - source /etc/os-release && zypper ar http://download.suse.de/ibs/SUSE:/CA/openSUSE_Leap_${VERSION}/SUSE:CA.repo
         - |
@@ -20,5 +20,5 @@ mirror-from-github:
         - git config user.name "Your Name"
         - "git remote add github https://github.com/os-autoinst/os-autoinst-needles-opensuse ||:"
         - git fetch github master:gmaster
-        - git remote set-url origin https://gitlab:${CI_JOB_TOKEN}@gitlab.suse.de/openqa/os-autoinst-needles-opensuse-mirror.git
+        - git remote set-url origin ${CI_SERVER_PROTOCOL}://does_not_matter:${CI_PUSH_TOKEN}@${CI_SERVER_FQDN}/${CI_PROJECT_PATH}.git
         - git push -f origin gmaster:master
