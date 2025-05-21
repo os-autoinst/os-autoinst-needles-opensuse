@@ -1,4 +1,4 @@
-image: registry.opensuse.org/opensuse/leap:latest
+image: registry.opensuse.org/home/okurz/container/ca/containers/tumbleweed:curl-jq-ssh-git
 
 stages:
   - mirror
@@ -8,13 +8,6 @@ mirror-from-github:
     stage: mirror
     rules:
           - if: $CI_PUSH_TOKEN
-    before_script:
-        - source /etc/os-release && zypper ar http://download.suse.de/ibs/SUSE:/CA/openSUSE_Leap_${VERSION}/SUSE:CA.repo
-        - |
-          for i in {1..3}; do
-              zypper -n in git ca-certificates-suse && zypper ref && break
-              sleep 1
-          done
     script:
         - git config user.email "you@example.com"
         - git config user.name "Your Name"
