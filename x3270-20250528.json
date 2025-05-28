@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 5,
+      "ypos": 138,
+      "width": 51,
+      "type": "match",
+      "height": 15
+    },
+    {
+      "xpos": 4,
+      "ypos": 154,
+      "width": 41,
+      "type": "match",
+      "height": 12
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "x3270"
+  ]
+}
