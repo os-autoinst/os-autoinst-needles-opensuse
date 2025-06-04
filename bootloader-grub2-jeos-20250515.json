@@ -19,6 +19,6 @@
   "tags": [
     "ENV-DISTRI-opensuse",
     "ENV-VERSION-Tumbleweed",
-    "bootloader-grub2"
+    "grub2-bls"
   ]
 }
