@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "width": 618,
+      "ypos": 0,
+      "type": "match",
+      "height": 300,
+      "xpos": 0
+    },
+    {
+      "xpos": 525,
+      "type": "exclude",
+      "height": 22,
+      "width": 26,
+      "ypos": 170
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Slowroll",
+    "ENV-VERSION-Tumbleweed",
+    "bootloader",
+    "inst-bootmenu",
+    "inst-bootmenu-boot-harddisk"
+  ]
+}
