@@ -12,7 +12,6 @@
   "tags": [
     "ENV-DISTRI-microos",
     "bootloader",
-    "bootloader-grub2",
-    "grub2"
+    "grub2-bls"
   ]
 }
