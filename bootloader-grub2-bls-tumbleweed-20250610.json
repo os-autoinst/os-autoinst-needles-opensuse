@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 61,
+      "ypos": 271,
+      "xpos": 119,
+      "width": 151,
+      "type": "match"
+    },
+    {
+      "ypos": 8,
+      "xpos": 8,
+      "height": 54,
+      "type": "match",
+      "width": 235
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-VERSION-Tumbleweed",
+    "grub2-bls"
+  ]
+}
