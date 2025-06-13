@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 378,
+      "ypos": 306,
+      "width": 274,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 514,
+      "ypos": 426,
+      "width": 203,
+      "height": 56,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "allow-inhibiting-shortcuts"
+  ]
+}
