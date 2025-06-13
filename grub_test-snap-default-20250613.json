@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 81,
+      "width": 177,
+      "height": 15,
+      "xpos": 21
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "snap-default"
+  ]
+}
