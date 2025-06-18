@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 366,
+      "xpos": 267,
+      "type": "match",
+      "height": 51,
+      "width": 98
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gpg-passphrase-enter-with-repeat"
+  ]
+}
