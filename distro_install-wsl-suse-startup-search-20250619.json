@@ -2,14 +2,14 @@
   "area": [
     {
       "click_point": {
-        "xpos": 60.5,
-        "ypos": 21
+        "xpos": 36.5,
+        "ypos": 10.5
       },
-      "height": 18,
-      "type": "exclude",
-      "xpos": 76,
-      "width": 73,
-      "ypos": 194
+      "height": 21,
+      "type": "match",
+      "xpos": 79,
+      "ypos": 297,
+      "width": 73
     }
   ],
   "properties": [],
