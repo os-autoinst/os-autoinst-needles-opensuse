@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "xpos": 53,
+      "type": "match",
+      "width": 917,
+      "ypos": 28,
+      "height": 674
+    },
+    {
+      "xpos": 455,
+      "type": "exclude",
+      "ypos": 288,
+      "width": 439,
+      "height": 34
+    },
+    {
+      "width": 38,
+      "ypos": 264,
+      "type": "exclude",
+      "xpos": 257,
+      "height": 27
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "systemsettings",
+    "test-systemsettings-1"
+  ]
+}
