@@ -1,0 +1,37 @@
+{
+  "area": [
+    {
+      "xpos": 302,
+      "type": "match",
+      "width": 247,
+      "ypos": 73,
+      "height": 29
+    },
+    {
+      "xpos": 870,
+      "type": "match",
+      "width": 102,
+      "ypos": 32,
+      "height": 32
+    },
+    {
+      "ypos": 114,
+      "width": 137,
+      "xpos": 820,
+      "type": "match",
+      "height": 44
+    },
+    {
+      "height": 21,
+      "xpos": 858,
+      "type": "exclude",
+      "width": 73,
+      "ypos": 125
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "discover-installing",
+    "pkit_installing_state"
+  ]
+}
