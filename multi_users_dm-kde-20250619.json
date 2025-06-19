@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 366,
+      "type": "match",
+      "width": 70,
+      "ypos": 441,
+      "height": 36
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "multi_users_dm"
+  ]
+}
