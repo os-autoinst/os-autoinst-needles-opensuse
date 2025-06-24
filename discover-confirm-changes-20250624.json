@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "xpos": 338,
+      "ypos": 92,
+      "width": 134,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 521,
+      "ypos": 693,
+      "width": 72,
+      "height": 20,
+      "type": "match",
+      "click_point": {
+        "xpos": 36,
+        "ypos": 10
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "discover-confirm-changes",
+    "updates_click-install"
+  ]
+}
