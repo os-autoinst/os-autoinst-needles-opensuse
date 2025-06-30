@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 285,
+      "ypos": 170,
+      "width": 239,
+      "height": 29,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-bootmenu"
+  ]
+}
