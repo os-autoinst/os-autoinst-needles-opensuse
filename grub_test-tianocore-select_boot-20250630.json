@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 17,
+      "ypos": 154,
+      "width": 100,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "overlays-folder"
+  ]
+}
