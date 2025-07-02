@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 403,
+      "ypos": 249,
+      "width": 219,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 396,
+      "ypos": 442,
+      "width": 223,
+      "height": 56,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-select-boot-device"
+  ]
+}
