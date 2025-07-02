@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 368,
+      "ypos": 309,
+      "width": 144,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 408,
+      "ypos": 251,
+      "width": 207,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-efi-firmware-setup"
+  ]
+}
