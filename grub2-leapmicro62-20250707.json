@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 121,
+      "type": "match",
+      "ypos": 149,
+      "height": 127,
+      "width": 390
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-6.2",
+    "autoyast-boot",
+    "bootloader",
+    "grub2"
+  ]
+}
