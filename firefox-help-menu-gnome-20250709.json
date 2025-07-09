@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 249,
+      "xpos": 345,
+      "ypos": 65,
+      "height": 23
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "firefox-help-menu"
+  ]
+}
