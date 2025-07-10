@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 112,
+      "type": "match",
+      "ypos": 170,
+      "width": 347,
+      "height": 255
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-amarok-2",
+    "ENV-DESKTOP-kde"
+  ]
+}
