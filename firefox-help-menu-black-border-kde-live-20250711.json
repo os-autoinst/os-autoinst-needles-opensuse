@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 49,
+      "ypos": 4,
+      "xpos": 303,
+      "width": 123
+    }
+  ],
+  "properties": [
+    {
+      "value": "https://gitlab.gnome.org/GNOME/gtk/-/issues/5183 - Black border shown around help menu on Firefox/X11",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "firefox-help-menu",
+    "firefox-help-menu-black-border"
+  ]
+}
