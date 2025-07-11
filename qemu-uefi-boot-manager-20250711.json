@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 92,
+      "ypos": 480,
+      "width": 139,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "qemu-uefi-boot-manager"
+  ]
+}
