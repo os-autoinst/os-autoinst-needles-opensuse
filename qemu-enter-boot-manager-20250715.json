@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 15,
+      "type": "match",
+      "ypos": 480,
+      "width": 354,
+      "xpos": 62
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "qemu-enter-boot-manager"
+  ]
+}
