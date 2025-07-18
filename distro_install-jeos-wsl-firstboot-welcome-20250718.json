@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 196,
+      "ypos": 237,
+      "width": 243,
+      "height": 40,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-wsl-firstboot-welcome"
+  ]
+}
