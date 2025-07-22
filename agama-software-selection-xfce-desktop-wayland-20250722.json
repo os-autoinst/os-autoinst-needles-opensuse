@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 249,
+      "ypos": 415,
+      "width": 243,
+      "height": 41,
+      "type": "match",
+      "click_point": {
+        "xpos": 25.5,
+        "ypos": 12.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-software-selection-xfce-desktop-wayland"
+  ]
+}
