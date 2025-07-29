@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 18,
+      "ypos": 60,
+      "width": 187,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 21,
+      "ypos": 79,
+      "width": 98,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 319,
+      "ypos": 460,
+      "width": 127,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 25,
+      "ypos": 108,
+      "width": 610,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-license"
+  ]
+}
