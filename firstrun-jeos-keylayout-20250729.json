@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 140,
+      "ypos": 76,
+      "width": 237,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 188,
+      "ypos": 384,
+      "width": 22,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-keylayout"
+  ]
+}
