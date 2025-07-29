@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 186,
+      "ypos": 70,
+      "width": 243,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "xpos": 234,
+      "ypos": 415,
+      "width": 27,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-system-locale-en_US"
+  ]
+}
