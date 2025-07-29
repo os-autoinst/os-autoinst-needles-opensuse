@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 673,
+      "type": "match",
+      "height": 13,
+      "width": 221,
+      "xpos": 0
+    },
+    {
+      "ypos": 753,
+      "type": "match",
+      "height": 13,
+      "xpos": 75,
+      "width": 59
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-KUBIC",
+    "linux-login-microos"
+  ]
+}
