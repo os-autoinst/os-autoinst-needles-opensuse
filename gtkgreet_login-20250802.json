@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "height": 45,
+      "xpos": 270,
+      "width": 131,
+      "ypos": 371,
+      "type": "match"
+    },
+    {
+      "width": 69,
+      "height": 28,
+      "xpos": 672,
+      "ypos": 458,
+      "type": "match"
+    },
+    {
+      "xpos": 452,
+      "ypos": 310,
+      "width": 123,
+      "height": 58,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISPLAYMANAGER-gtkgreet",
+    "displaymanager",
+    "displaymanager-password-prompt"
+  ]
+}
