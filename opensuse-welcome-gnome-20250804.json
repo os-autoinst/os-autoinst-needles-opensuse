@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 121,
+      "width": 780,
+      "height": 515,
+      "ypos": 114
+    },
+    {
+      "ypos": 139,
+      "type": "exclude",
+      "xpos": 140,
+      "width": 363,
+      "height": 29
+    },
+    {
+      "height": 74,
+      "xpos": 127,
+      "width": 769,
+      "type": "exclude",
+      "ypos": 481
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "opensuse-welcome",
+    "opensuse-welcome-show-on-boot"
+  ]
+}
