@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "height": 16,
+      "xpos": 313,
+      "width": 189,
+      "ypos": 319,
+      "type": "match"
+    },
+    {
+      "width": 103,
+      "xpos": 316,
+      "height": 18,
+      "click_point": {
+        "xpos": 29.5,
+        "ypos": 8
+      },
+      "type": "match",
+      "ypos": 350
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "updates_failed"
+  ]
+}
