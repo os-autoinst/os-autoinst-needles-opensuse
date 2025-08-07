@@ -1,0 +1,34 @@
+{
+  "area": [
+    {
+      "xpos": 788,
+      "ypos": 8,
+      "width": 94,
+      "height": 26,
+      "type": "match",
+      "click_point": {
+        "xpos": 47,
+        "ypos": 13
+      }
+    },
+    {
+      "xpos": 75,
+      "ypos": 64,
+      "width": 48,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 210,
+      "ypos": 63,
+      "width": 68,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "updates_available"
+  ]
+}
