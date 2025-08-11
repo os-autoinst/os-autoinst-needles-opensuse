@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 500,
+      "type": "match",
+      "xpos": 412,
+      "height": 87,
+      "width": 61
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "sddm_reboot_option_btn"
+  ]
+}
