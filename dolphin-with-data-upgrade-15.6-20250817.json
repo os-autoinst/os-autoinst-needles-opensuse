@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 366,
+      "width": 496,
+      "xpos": 351,
+      "type": "match",
+      "ypos": 128
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dolphin",
+    "test-dolphin-1",
+    "ENV-DESKTOP-kde"
+  ]
+}
