@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 235,
+      "height": 213,
+      "xpos": 406,
+      "type": "match",
+      "ypos": 39,
+      "match": 85
+    },
+    {
+      "type": "exclude",
+      "ypos": 75,
+      "xpos": 443,
+      "height": 20,
+      "width": 134
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tigervnc-desktop-loggedin"
+  ]
+}
