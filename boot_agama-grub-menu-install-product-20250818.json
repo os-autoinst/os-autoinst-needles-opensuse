@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 97,
+      "ypos": 255,
+      "width": 107,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub-menu-install-product"
+  ]
+}
