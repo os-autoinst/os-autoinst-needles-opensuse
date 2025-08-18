@@ -25,7 +25,6 @@
   "properties": [],
   "tags": [
     "ENV-DESKTOP-gnome",
-    "opensuse-welcome",
-    "opensuse-welcome-show-on-boot"
+    "opensuse-welcome"
   ]
 }
