@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 82,
+      "width": 34,
+      "height": 286,
+      "type": "match"
+    },
+    {
+      "xpos": 279,
+      "ypos": 39,
+      "width": 25,
+      "height": 22,
+      "type": "match",
+      "click_point": {
+        "xpos": 12.5,
+        "ypos": 11
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "xosview"
+  ]
+}
