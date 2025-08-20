@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "ocr",
+      "width": 109,
+      "xpos": 841,
+      "ypos": 333,
+      "height": 22,
+      "refstr": "Campaigns"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-campaign-button"
+  ]
+}
