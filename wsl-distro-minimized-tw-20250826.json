@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 536,
+      "ypos": 563,
+      "width": 27,
+      "height": 26,
+      "type": "match",
+      "match": 80,
+      "click_point": {
+        "xpos": 13.5,
+        "ypos": 13
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-distro-minimized"
+  ]
+}
