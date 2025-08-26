@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 274,
+      "type": "match",
+      "ypos": 272,
+      "height": 273,
+      "xpos": 374
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "epiphany-set-default-browser",
+    "test-epiphany-started"
+  ]
+}
