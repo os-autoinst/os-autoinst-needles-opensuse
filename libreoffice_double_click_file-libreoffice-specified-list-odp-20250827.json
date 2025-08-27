@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 121,
+      "width": 110,
+      "ypos": 534,
+      "xpos": 291,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "libreoffice-specified-list-odp"
+  ]
+}
