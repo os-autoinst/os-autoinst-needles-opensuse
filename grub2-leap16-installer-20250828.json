@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 232,
+      "width": 121,
+      "xpos": 81,
+      "ypos": 147,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-UEFI-1",
+    "ENV-VERSION-16.0",
+    "bootloader-grub2"
+  ]
+}
