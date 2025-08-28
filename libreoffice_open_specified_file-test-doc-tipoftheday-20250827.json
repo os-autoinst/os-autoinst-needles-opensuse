@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "ypos": 39,
+      "height": 22,
+      "width": 211,
+      "xpos": 409,
+      "type": "match"
+    },
+    {
+      "ypos": 318,
+      "xpos": 427,
+      "width": 109,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "ypos": 479,
+      "xpos": 364,
+      "width": 180,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "libreoffice-test-doc",
+    "ooffice-tip-of-the-day"
+  ]
+}
