@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 96,
+      "ypos": 215,
+      "width": 132,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub-menu-first-entry-highlighted"
+  ]
+}
