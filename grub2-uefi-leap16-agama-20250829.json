@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "ypos": 0,
+      "xpos": 0,
+      "width": 313,
+      "height": 372,
+      "type": "match"
+    },
+    {
+      "ypos": 304,
+      "xpos": 212,
+      "width": 79,
+      "height": 25,
+      "type": "exclude"
+    },
+    {
+      "xpos": 275,
+      "ypos": 340,
+      "width": 86,
+      "height": 24,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-UEFI-1",
+    "ENV-VERSION-16.0",
+    "bootloader",
+    "grub2",
+    "inst-bootmenu"
+  ]
+}
