@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 73,
+      "height": 27,
+      "xpos": 147,
+      "width": 680
+    },
+    {
+      "type": "match",
+      "ypos": 726,
+      "height": 39,
+      "xpos": 381,
+      "width": 275
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome-calendar-started"
+  ]
+}
