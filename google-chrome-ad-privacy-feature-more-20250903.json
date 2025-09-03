@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 289,
+      "ypos": 241,
+      "width": 421,
+      "height": 83,
+      "type": "match",
+      "click_point": {
+        "xpos": 210.5,
+        "ypos": 41.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "google-chrome-ad-privacy-feature-more"
+  ]
+}
