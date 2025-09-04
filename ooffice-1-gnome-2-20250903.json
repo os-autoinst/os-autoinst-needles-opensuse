@@ -13,6 +13,6 @@
     "ENV-DESKTOP-gnome",
     "ooffice",
     "oowriter",
-    "welcome-to-libreoffice"
+    "popup-welcome-to-libreoffice"
   ]
 }

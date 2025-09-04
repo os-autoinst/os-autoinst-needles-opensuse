@@ -13,6 +13,6 @@
     "ENV-DESKTOP-kde",
     "ooffice",
     "oowriter",
-    "welcome-to-libreoffice"
+    "popup-welcome-to-libreoffice"
   ]
 }
