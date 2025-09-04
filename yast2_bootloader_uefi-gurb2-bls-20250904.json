@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 638,
+      "type": "match",
+      "height": 272,
+      "ypos": 27,
+      "xpos": 8
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "EVN-UEFI-1",
+    "test-yast2_bootloader-1"
+  ]
+}
