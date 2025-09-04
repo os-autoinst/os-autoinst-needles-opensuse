@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "click_point": {
+        "xpos": 125,
+        "ypos": 29
+      },
+      "height": 51,
+      "ypos": 682,
+      "width": 546,
+      "xpos": 268,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "google-chrome-ad-privacy-feature-more"
+  ]
+}
