@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 8,
+      "xpos": 2,
+      "height": 291,
+      "width": 494,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "oocalc",
+    "popup-welcome-to-libreoffice"
+  ]
+}
