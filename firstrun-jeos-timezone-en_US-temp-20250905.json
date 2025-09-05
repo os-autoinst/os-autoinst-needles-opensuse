@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "xpos": 247,
+      "ypos": 72,
+      "width": 118,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 270,
+      "ypos": 101,
+      "width": 42,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "Workaround this bug: https://bugzilla.suse.com/show_bug.cgi?id=1246222"
+    }
+  ],
+  "tags": [
+    "jeos-timezone-en_US"
+  ]
+}
