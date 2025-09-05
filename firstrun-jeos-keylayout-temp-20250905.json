@@ -1,0 +1,34 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 162,
+      "height": 16,
+      "xpos": 259,
+      "ypos": 71
+    },
+    {
+      "height": 13,
+      "width": 22,
+      "type": "match",
+      "ypos": 569,
+      "xpos": 343
+    },
+    {
+      "xpos": 286,
+      "ypos": 424,
+      "width": 34,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "Workaround while encoding bug is being fixed. https://bugzilla.suse.com/show_bug.cgi?id=1237756"
+    }
+  ],
+  "tags": [
+    "jeos-keylayout"
+  ]
+}
