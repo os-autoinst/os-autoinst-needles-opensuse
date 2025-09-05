@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "xpos": 295,
+      "ypos": 74,
+      "width": 146,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 358,
+      "ypos": 271,
+      "width": 54,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "Workaround while encoding bug is being fixed. https://bugzilla.suse.com/show_bug.cgi?id=1237756"
+    }
+  ],
+  "tags": [
+    "jeos-locale"
+  ]
+}
