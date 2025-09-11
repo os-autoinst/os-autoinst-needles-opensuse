@@ -10,6 +10,8 @@
   ],
   "properties": [],
   "tags": [
+    "grub2",
+    "bootloader-grub2",
     "inst-bootmenu",
     "inst-bootmenu-boot-harddisk"
   ]
