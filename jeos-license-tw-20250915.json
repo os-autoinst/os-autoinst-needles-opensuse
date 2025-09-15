@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 2,
+      "xpos": 2,
+      "height": 22,
+      "width": 119
+    },
+    {
+      "type": "match",
+      "xpos": 177,
+      "ypos": 47,
+      "height": 601,
+      "width": 108
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-aarch64",
+    "ENV-FLAVOR-JeOS-for-kvm",
+    "jeos-license"
+  ]
+}
