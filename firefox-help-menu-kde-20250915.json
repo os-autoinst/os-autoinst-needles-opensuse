@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "width": 228,
+      "height": 55,
+      "xpos": 306,
+      "type": "match",
+      "ypos": 8
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "https://bugs.kde.org/show_bug.cgi?id=509515"
+    }
+  ],
+  "tags": [
+    "firefox-help-menu",
+    "ENV-DESKTOP-kde"
+  ]
+}
