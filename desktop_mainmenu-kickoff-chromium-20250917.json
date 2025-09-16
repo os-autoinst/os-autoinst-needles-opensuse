@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 525,
+      "xpos": 0,
+      "width": 654,
+      "type": "match",
+      "ypos": 205
+    },
+    {
+      "type": "exclude",
+      "width": 200,
+      "ypos": 208,
+      "height": 41,
+      "xpos": 3
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "https://bugzilla.opensuse.org/show_bug.cgi?id=1221367"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "desktop_mainmenu-kickoff",
+    "test-desktop_mainmenu-1"
+  ]
+}
