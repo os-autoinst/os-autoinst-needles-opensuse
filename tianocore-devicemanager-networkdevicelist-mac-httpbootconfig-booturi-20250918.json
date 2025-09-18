@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 21,
+      "height": 20,
+      "ypos": 118,
+      "width": 360
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-devicemanager-networkdevicelist-mac-httpbootconfig-booturi"
+  ]
+}
