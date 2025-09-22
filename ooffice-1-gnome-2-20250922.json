@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "width": 509,
+      "xpos": 2,
+      "type": "match",
+      "height": 220,
+      "ypos": 68
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ooffice",
+    "oowriter",
+    "popup-welcome-to-libreoffice"
+  ]
+}
