@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 21,
+      "xpos": 195,
+      "ypos": 582,
+      "width": 404
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "poo#189201"
+    }
+  ],
+  "tags": [
+    "root-console-x11"
+  ]
+}
