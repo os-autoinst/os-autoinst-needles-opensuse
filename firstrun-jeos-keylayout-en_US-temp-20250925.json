@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 18,
+      "xpos": 256,
+      "width": 161,
+      "ypos": 69
+    },
+    {
+      "ypos": 430,
+      "height": 13,
+      "width": 39,
+      "xpos": 274,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "value": "Workaround this bug: https://bugzilla.suse.com/show_bug.cgi?id=1246222",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "jeos-keylayout-en_US"
+  ]
+}
