@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 186,
+      "ypos": 209,
+      "width": 633,
+      "height": 65,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "disable_3rd_party_repositories"
+  ]
+}
