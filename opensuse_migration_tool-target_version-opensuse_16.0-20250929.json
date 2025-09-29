@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 400,
+      "ypos": 305,
+      "width": 143,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "target_version-opensuse_16.0"
+  ]
+}
