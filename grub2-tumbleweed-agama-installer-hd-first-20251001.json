@@ -12,6 +12,7 @@
   "tags": [
     "ENV-UEFI-1",
     "ENV-VERSION-Tumbleweed",
+    "grub2",
     "bootloader-grub2",
     "inst-bootmenu",
     "inst-bootmenu-boot-harddisk"
