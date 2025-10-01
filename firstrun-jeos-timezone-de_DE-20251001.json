@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 376,
+      "ypos": 624,
+      "width": 105,
+      "height": 16,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-timezone-de_DE"
+  ]
+}
