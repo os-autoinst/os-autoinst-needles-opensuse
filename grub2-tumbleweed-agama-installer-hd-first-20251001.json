@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 232,
+      "ypos": 147,
+      "width": 121,
+      "xpos": 81
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-UEFI-1",
+    "ENV-VERSION-Tumbleweed",
+    "bootloader-grub2",
+    "inst-bootmenu",
+    "inst-bootmenu-boot-harddisk"
+  ]
+}
