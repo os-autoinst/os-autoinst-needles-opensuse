@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 112,
+      "ypos": 224,
+      "width": 128,
+      "height": 14,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "keymap-letter-data-de_DE"
+  ]
+}
