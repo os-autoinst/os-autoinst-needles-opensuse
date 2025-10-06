@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "width": 422,
+      "ypos": 46,
+      "type": "match",
+      "xpos": 309,
+      "height": 38
+    },
+    {
+      "ypos": 674,
+      "width": 70,
+      "height": 59,
+      "type": "match",
+      "xpos": 721
+    },
+    {
+      "xpos": 325,
+      "ypos": 478,
+      "width": 375,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "opensuse-welcome",
+    "opensuse-welcome-gnome40-activities"
+  ]
+}
