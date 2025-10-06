@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 341,
+      "ypos": 531,
+      "width": 329,
+      "height": 38,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "xpos": 448,
+      "ypos": 41,
+      "width": 125,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 964,
+      "ypos": 395,
+      "width": 54,
+      "height": 54,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "opensuse-welcome-tour"
+  ]
+}
