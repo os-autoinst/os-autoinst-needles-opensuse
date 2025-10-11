@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 84,
+      "type": "match",
+      "ypos": 134,
+      "width": 780,
+      "height": 495
+    },
+    {
+      "xpos": 436,
+      "type": "match",
+      "ypos": 134,
+      "width": 71,
+      "height": 15
+    },
+    {
+      "ypos": 139,
+      "type": "exclude",
+      "xpos": 140,
+      "width": 363,
+      "height": 29
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "opensuse-welcome"
+  ]
+}
