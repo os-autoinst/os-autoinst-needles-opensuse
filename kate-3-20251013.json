@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 111,
+      "xpos": 1,
+      "ypos": 35,
+      "width": 406,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "test-kate-3"
+  ]
+}
