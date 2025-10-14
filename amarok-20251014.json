@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 143,
+      "height": 264,
+      "width": 638,
+      "xpos": 194
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "screen too small"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "test-amarok-3"
+  ]
+}
