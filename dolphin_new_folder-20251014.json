@@ -1,0 +1,50 @@
+{
+  "area": [
+    {
+      "xpos": 241,
+      "width": 126,
+      "height": 17,
+      "ypos": 147,
+      "type": "match"
+    },
+    {
+      "xpos": 57,
+      "height": 23,
+      "width": 123,
+      "type": "match",
+      "ypos": 176
+    },
+    {
+      "type": "match",
+      "ypos": 210,
+      "width": 57,
+      "height": 47,
+      "xpos": 124
+    },
+    {
+      "ypos": 202,
+      "type": "match",
+      "xpos": 57,
+      "height": 48,
+      "width": 45
+    },
+    {
+      "ypos": 298,
+      "type": "match",
+      "xpos": 448,
+      "height": 37,
+      "width": 174
+    },
+    {
+      "height": 24,
+      "width": 34,
+      "xpos": 162,
+      "ypos": 222,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dolphin_new_folder"
+  ]
+}
