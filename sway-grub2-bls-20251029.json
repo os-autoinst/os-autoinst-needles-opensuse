@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 109,
+      "ypos": 266,
+      "width": 129,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "grub2-bls"
+  ]
+}
