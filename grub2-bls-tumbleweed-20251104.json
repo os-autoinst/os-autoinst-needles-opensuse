@@ -1,22 +1,23 @@
 {
   "area": [
     {
-      "type": "match",
-      "width": 393,
       "ypos": 0,
-      "xpos": 0,
-      "height": 336
+      "width": 393,
+      "type": "match",
+      "height": 336,
+      "xpos": 0
     },
     {
-      "width": 145,
-      "ypos": 270,
-      "type": "exclude",
+      "height": 27,
       "xpos": 269,
-      "height": 27
+      "type": "exclude",
+      "ypos": 270,
+      "width": 145
     }
   ],
   "properties": [],
   "tags": [
-    "grub2"
+    "grub2",
+    "inst-bootmenu"
   ]
 }
