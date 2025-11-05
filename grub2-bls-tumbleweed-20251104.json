@@ -17,6 +17,7 @@
   ],
   "properties": [],
   "tags": [
-    "grub2"
+    "grub2",
+    "grub2-bls"
   ]
 }
