@@ -8,16 +8,15 @@
       "xpos": 0
     },
     {
-      "height": 27,
-      "xpos": 269,
-      "type": "exclude",
       "ypos": 270,
-      "width": 145
+      "width": 145,
+      "type": "exclude",
+      "height": 27,
+      "xpos": 269
     }
   ],
   "properties": [],
   "tags": [
-    "grub2",
-    "inst-bootmenu"
+    "grub2"
   ]
 }
