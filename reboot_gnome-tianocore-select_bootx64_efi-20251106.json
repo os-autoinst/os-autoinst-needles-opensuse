@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 29,
+      "ypos": 214,
+      "width": 79,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-select_bootx64_efi"
+  ]
+}
