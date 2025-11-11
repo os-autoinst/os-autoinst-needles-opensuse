@@ -1,15 +1,16 @@
 {
   "area": [
     {
-      "xpos": 153,
-      "ypos": 168,
-      "width": 65,
-      "height": 31,
+      "xpos": 161,
+      "ypos": 169,
+      "width": 55,
+      "height": 30,
       "type": "match"
     }
   ],
   "properties": [],
   "tags": [
-    "ENV-BOOTLOADER-grub2-bls"
+    "ENV-BOOTLOADER-grub2-bls",
+    "linux-line-selected"
   ]
 }
