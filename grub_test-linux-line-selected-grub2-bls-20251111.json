@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 153,
+      "ypos": 168,
+      "width": 65,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BOOTLOADER-grub2-bls"
+  ]
+}
