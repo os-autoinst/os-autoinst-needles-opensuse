@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 763,
+      "ypos": 146,
+      "width": 104,
+      "height": 25,
+      "type": "match",
+      "click_point": {
+        "xpos": 90,
+        "ypos": 12.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "kgx-terminal-unfocused"
+  ]
+}
