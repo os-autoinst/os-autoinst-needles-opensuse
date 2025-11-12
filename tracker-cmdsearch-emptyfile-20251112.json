@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 56,
+      "ypos": 203,
+      "xpos": 150,
+      "width": 315
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tracker-cmdsearch-emptyfile"
+  ]
+}
