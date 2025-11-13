@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 514,
+      "ypos": 145,
+      "width": 84,
+      "height": 16,
+      "type": "match",
+      "click_point": {
+        "xpos": 42,
+        "ypos": 8
+      }
+    },
+    {
+      "xpos": 749,
+      "ypos": 145,
+      "width": 120,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "terminal-unfocused"
+  ]
+}
