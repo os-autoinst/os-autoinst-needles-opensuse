@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 248,
+      "width": 447,
+      "ypos": 154,
+      "xpos": 187
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1253383 - Console shows \"bash: test: : integer expected\""
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "mate-terminal"
+  ]
+}
