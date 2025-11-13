@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "width": 137,
+      "ypos": 235,
+      "xpos": 328,
+      "type": "match",
+      "height": 30
+    },
+    {
+      "click_point": {
+        "xpos": 52.5,
+        "ypos": 8
+      },
+      "width": 97,
+      "ypos": 375,
+      "xpos": 441,
+      "type": "match",
+      "height": 18
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "terminal-close-window"
+  ]
+}
