@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 390,
+      "ypos": 144,
+      "width": 249,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rrdtool_kgx"
+  ]
+}
