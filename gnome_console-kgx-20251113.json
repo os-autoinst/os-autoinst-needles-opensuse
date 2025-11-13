@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 77,
+      "width": 185,
+      "ypos": 146,
+      "xpos": 150
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1253383 - GNOME console shows \"bash: test: : integer expected\""
+    }
+  ],
+  "tags": [
+    "kgx"
+  ]
+}
