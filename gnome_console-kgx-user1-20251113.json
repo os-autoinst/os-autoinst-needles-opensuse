@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 59,
+      "type": "match",
+      "width": 157,
+      "xpos": 150,
+      "ypos": 146
+    },
+    {
+      "xpos": 151,
+      "ypos": 185,
+      "width": 51,
+      "height": 18,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "kgx"
+  ]
+}
