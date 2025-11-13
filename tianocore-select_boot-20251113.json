@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 178,
+      "xpos": 26,
+      "width": 44,
+      "type": "match",
+      "height": 15
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-select_boot"
+  ]
+}
