@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "height": 460,
+      "type": "match",
+      "xpos": 4,
+      "ypos": 3,
+      "width": 792
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1253383 - Console shows \"bash: test: : integer expected\""
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "konsole"
+  ]
+}
