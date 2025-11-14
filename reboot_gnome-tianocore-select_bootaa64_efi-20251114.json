@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 12,
+      "ypos": 178,
+      "xpos": 27,
+      "width": 79
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-select_boot_efi"
+  ]
+}
