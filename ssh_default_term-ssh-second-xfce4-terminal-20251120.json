@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 206,
+      "ypos": 212,
+      "width": 800,
+      "height": 491,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ssh-second-xfce4-terminal"
+  ]
+}
