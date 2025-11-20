@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 329,
+      "ypos": 512,
+      "width": 411,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sshx-text-xfce4-terminal"
+  ]
+}
