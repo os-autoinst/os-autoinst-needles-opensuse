@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 474,
+      "type": "match",
+      "ypos": 110,
+      "xpos": 120,
+      "width": 782
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ssh-second-konsole"
+  ]
+}
