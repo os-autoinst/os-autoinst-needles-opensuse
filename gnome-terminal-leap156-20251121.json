@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 121,
+      "width": 145,
+      "xpos": 185,
+      "type": "match",
+      "height": 44
+    },
+    {
+      "xpos": 231,
+      "ypos": 167,
+      "width": 93,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 702,
+      "ypos": 123,
+      "width": 130,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-terminal"
+  ]
+}
