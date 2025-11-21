@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 136,
+      "ypos": 541,
+      "width": 364,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sshx-text-xterm"
+  ]
+}
