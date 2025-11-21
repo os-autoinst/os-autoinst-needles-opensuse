@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 428,
+      "ypos": 127,
+      "width": 169,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "terminal-unfocused"
+  ]
+}
