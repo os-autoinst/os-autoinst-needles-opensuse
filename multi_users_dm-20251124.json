@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 501,
+      "ypos": 72,
+      "xpos": 318,
+      "width": 415,
+      "type": "match"
+    },
+    {
+      "xpos": 360,
+      "width": 281,
+      "ypos": 675,
+      "height": 45,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "multi_users_dm",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse"
+  ]
+}
