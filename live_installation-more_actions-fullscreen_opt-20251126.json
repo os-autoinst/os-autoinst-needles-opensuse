@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 84,
+      "xpos": 325,
+      "height": 16,
+      "type": "match",
+      "ypos": 241
+    },
+    {
+      "height": 138,
+      "type": "match",
+      "ypos": 123,
+      "xpos": 308,
+      "width": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "more_actions-fullscreen_opt"
+  ]
+}
