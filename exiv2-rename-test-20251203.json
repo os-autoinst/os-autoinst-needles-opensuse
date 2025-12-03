@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 87,
+      "width": 635,
+      "height": 474,
+      "type": "match",
+      "ypos": 153,
+      "match": 90
+    },
+    {
+      "xpos": 751,
+      "width": 208,
+      "height": 337,
+      "type": "match",
+      "ypos": 162,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "exiv2_rename_test"
+  ]
+}
