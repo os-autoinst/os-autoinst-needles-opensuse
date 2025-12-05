@@ -1,26 +1,29 @@
 {
   "area": [
     {
-      "xpos": 694,
-      "ypos": 143,
-      "width": 196,
+      "width": 58,
+      "type": "match",
       "height": 31,
-      "type": "match"
+      "ypos": 143,
+      "xpos": 694,
+      "match": 90
     },
     {
-      "xpos": 807,
-      "ypos": 270,
+      "height": 18,
       "width": 89,
-      "height": 31,
       "type": "match",
       "click_point": {
-        "xpos": 44.5,
-        "ypos": 15.5
-      }
+        "xpos": 46.5,
+        "ypos": 9.5
+      },
+      "xpos": 807,
+      "ypos": 274,
+      "match": 90
     }
   ],
   "properties": [],
   "tags": [
-    "google-chrome-make-chrome-faster"
+    "make-chrome-faster",
+    "make-chromium-faster"
   ]
 }
