@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 316,
+      "ypos": 317,
+      "height": 140,
+      "width": 184,
+      "type": "match"
+    },
+    {
+      "xpos": 558,
+      "ypos": 267,
+      "height": 81,
+      "width": 179,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "exiv2_test_preview"
+  ]
+}
