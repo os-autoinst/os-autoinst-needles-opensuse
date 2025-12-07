@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "width": 755,
+      "ypos": 0,
+      "type": "match",
+      "height": 288
+    },
+    {
+      "height": 22,
+      "type": "exclude",
+      "xpos": 494,
+      "width": 26,
+      "ypos": 163
+    },
+    {
+      "height": 47,
+      "type": "exclude",
+      "xpos": 187,
+      "ypos": 88,
+      "width": 396
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "CHRISTMAS",
+    "ENV-VERSION-Slowroll",
+    "bootloader",
+    "inst-bootmenu",
+    "inst-bootmenu-boot-harddisk"
+  ]
+}
