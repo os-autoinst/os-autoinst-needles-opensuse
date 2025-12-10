@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 31,
+      "width": 58,
+      "xpos": 679,
+      "ypos": 127,
+      "type": "match",
+      "match": 90
+    },
+    {
+      "click_point": {
+        "xpos": 46.5,
+        "ypos": 9.5
+      },
+      "height": 18,
+      "xpos": 794,
+      "ypos": 273,
+      "width": 81,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "make-chrome-faster",
+    "make-chromium-faster"
+  ]
+}
