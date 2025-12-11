@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 207,
+      "width": 185,
+      "type": "match",
+      "ypos": 1,
+      "xpos": 2
+    },
+    {
+      "xpos": 414,
+      "type": "match",
+      "ypos": 452,
+      "width": 157,
+      "height": 26
+    },
+    {
+      "height": 17,
+      "width": 84,
+      "ypos": 303,
+      "type": "match",
+      "xpos": 447
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ooffice-tip-of-the-day"
+  ]
+}
