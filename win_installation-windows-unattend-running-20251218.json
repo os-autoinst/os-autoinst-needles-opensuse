@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 49,
+      "width": 416,
+      "height": 58,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-unattend-running"
+  ]
+}
