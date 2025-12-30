@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "height": 37,
+      "xpos": 1,
+      "type": "match",
+      "ypos": 0,
+      "width": 560
+    },
+    {
+      "ypos": 8,
+      "width": 443,
+      "xpos": 44,
+      "type": "exclude",
+      "height": 21
+    }
+  ],
+  "properties": [
+    {
+      "value": "kde#435040",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "desktop-runner",
+    "ENV-DESKTOP-kde"
+  ]
+}
