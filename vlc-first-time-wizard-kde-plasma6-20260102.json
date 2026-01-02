@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "height": 335,
+      "xpos": 101,
+      "type": "match",
+      "ypos": 33,
+      "width": 411
+    },
+    {
+      "type": "match",
+      "xpos": 435,
+      "ypos": 382,
+      "width": 76,
+      "click_point": {
+        "ypos": 12.5,
+        "xpos": 38
+      },
+      "height": 25
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "vlc-first-time-wizard"
+  ]
+}
