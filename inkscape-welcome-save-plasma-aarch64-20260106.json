@@ -1,28 +1,28 @@
 {
   "area": [
     {
+      "height": 29,
       "xpos": 197,
       "type": "match",
       "width": 86,
-      "ypos": 274,
-      "height": 29
+      "ypos": 274
     },
     {
-      "ypos": 49,
-      "width": 55,
-      "click_point": {
-        "xpos": 44,
-        "ypos": 16
-      },
+      "xpos": 765,
       "type": "match",
-      "xpos": 784,
-      "height": 32
+      "click_point": {
+        "xpos": 29,
+        "ypos": 14
+      },
+      "ypos": 678,
+      "width": 55,
+      "height": 24
     }
   ],
   "properties": [
     {
-      "name": "workaround",
-      "value": "boo#1241066"
+      "value": "boo#1241066",
+      "name": "workaround"
     }
   ],
   "tags": [
