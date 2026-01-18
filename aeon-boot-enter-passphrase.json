@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 315,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "aeon-boot-enter-passphrase"
+  ]
+}

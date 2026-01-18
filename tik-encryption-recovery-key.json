@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 382,
+      "ypos": 57,
+      "width": 262,
+      "height": 38,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tik-encryption-recovery-key"
+  ]
+}

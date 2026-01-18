@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 421,
+      "ypos": 279,
+      "width": 183,
+      "height": 34
+    },
+    {
+      "type": "match",
+      "height": 25,
+      "width": 70,
+      "click_point": {
+        "ypos": 12.5,
+        "xpos": 35
+      },
+      "xpos": 477,
+      "ypos": 491
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "aeon-firstboot-done"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 438,
+      "ypos": 115,
+      "width": 144,
+      "height": 42,
+      "type": "match"
+    },
+    {
+      "xpos": 235,
+      "ypos": 297,
+      "width": 86,
+      "height": 32,
+      "type": "match"
+    },
+    {
+      "xpos": 958,
+      "ypos": 43,
+      "width": 52,
+      "height": 26,
+      "type": "match",
+      "click_point": {
+        "xpos": 26,
+        "ypos": 13
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "aeon-firstboot-language-selection"
+  ]
+}

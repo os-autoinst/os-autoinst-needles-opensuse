@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 24,
+      "ypos": 349,
+      "width": 202,
+      "type": "match",
+      "xpos": 315
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tik-warning-no-tpm"
+  ]
+}

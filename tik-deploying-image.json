@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 427,
+      "ypos": 335,
+      "width": 167,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tik-deploying-image"
+  ]
+}

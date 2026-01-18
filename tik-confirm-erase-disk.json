@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 401,
+      "width": 217,
+      "type": "match",
+      "ypos": 278,
+      "height": 47
+    },
+    {
+      "xpos": 529,
+      "ypos": 479,
+      "type": "match",
+      "width": 272,
+      "height": 34,
+      "click_point": {
+        "xpos": 136,
+        "ypos": 17
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tik-confirm-erase-disk"
+  ]
+}
