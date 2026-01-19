@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "height": 52,
+      "type": "match",
+      "width": 86,
+      "ypos": 306,
+      "xpos": 256
+    },
+    {
+      "ypos": 422,
+      "width": 152,
+      "click_point": {
+        "xpos": 80.5,
+        "ypos": 12
+      },
+      "type": "match",
+      "height": 26,
+      "xpos": 282
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-confirm-installation"
+  ]
+}
