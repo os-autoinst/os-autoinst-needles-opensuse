@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 224,
+      "click_point": {
+        "ypos": 21.5,
+        "xpos": 22
+      },
+      "ypos": 546,
+      "height": 38,
+      "type": "match",
+      "xpos": 125
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-product-tumbleweed"
+  ]
+}
