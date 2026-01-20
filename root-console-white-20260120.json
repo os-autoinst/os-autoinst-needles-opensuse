@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 34,
+      "height": 13,
+      "xpos": 85,
+      "ypos": 33
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "root-console"
+  ]
+}
