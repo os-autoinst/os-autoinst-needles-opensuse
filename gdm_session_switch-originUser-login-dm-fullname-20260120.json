@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "height": 153,
+      "width": 234,
+      "ypos": 371,
+      "type": "match",
+      "xpos": 278
+    },
+    {
+      "height": 90,
+      "width": 283,
+      "type": "match",
+      "ypos": 668,
+      "xpos": 360
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "originUser-login-dm"
+  ]
+}
