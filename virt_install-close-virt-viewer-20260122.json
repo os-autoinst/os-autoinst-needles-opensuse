@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 388,
+      "ypos": 348,
+      "width": 249,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 561,
+      "ypos": 444,
+      "width": 67,
+      "height": 26,
+      "type": "match",
+      "click_point": {
+        "xpos": 33.5,
+        "ypos": 13
+      }
+    },
+    {
+      "xpos": 459,
+      "ypos": 43,
+      "width": 103,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "close-virt-viewer"
+  ]
+}
