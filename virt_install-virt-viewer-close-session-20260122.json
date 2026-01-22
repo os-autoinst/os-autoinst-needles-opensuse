@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 391,
+      "ypos": 349,
+      "width": 244,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 1,
+      "ypos": 659,
+      "width": 251,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 548,
+      "ypos": 441,
+      "width": 95,
+      "height": 30,
+      "type": "match",
+      "click_point": {
+        "xpos": 47.5,
+        "ypos": 15
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-viewer-close-session"
+  ]
+}
