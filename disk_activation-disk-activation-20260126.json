@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 139,
+      "ypos": 19,
+      "height": 20,
+      "xpos": 272
+    },
+    {
+      "xpos": 563,
+      "height": 32,
+      "ypos": 333,
+      "width": 155,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1233167 - Shifted colors on s390x"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "disk-activation"
+  ]
+}
