@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "height": 29,
+      "type": "match",
+      "ypos": 15,
+      "width": 224,
+      "xpos": 267
+    },
+    {
+      "height": 16,
+      "width": 114,
+      "ypos": 374,
+      "type": "match",
+      "xpos": 307
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1233167 - Shifted colors on s390x"
+    }
+  ],
+  "tags": [
+    "installation"
+  ]
+}
