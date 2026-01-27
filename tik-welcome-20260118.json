@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 397,
+      "ypos": 301,
+      "type": "match",
+      "width": 179,
+      "height": 43,
+      "click_point": {
+        "ypos": 21.5,
+        "xpos": 89.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tik-welcome"
+  ]
+}

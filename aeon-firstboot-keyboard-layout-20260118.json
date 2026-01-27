@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 462,
+      "ypos": 124,
+      "width": 100,
+      "height": 38,
+      "type": "match"
+    },
+    {
+      "xpos": 234,
+      "ypos": 349,
+      "width": 122,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 958,
+      "ypos": 45,
+      "width": 52,
+      "height": 22,
+      "type": "match",
+      "click_point": {
+        "xpos": 26,
+        "ypos": 11
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "aeon-firstboot-keyboard-layout"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "width": 180,
+      "ypos": 36,
+      "type": "match",
+      "height": 36,
+      "xpos": 419,
+      "match": 90
+    },
+    {
+      "ypos": 234,
+      "width": 335,
+      "xpos": 261,
+      "height": 40,
+      "type": "match",
+      "click_point": {
+        "ypos": 18,
+        "xpos": 34
+      },
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "aeon-firstboot-timezone-2"
+  ]
+}
