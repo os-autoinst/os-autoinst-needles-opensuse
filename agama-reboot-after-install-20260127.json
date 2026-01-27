@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 106,
+      "ypos": 393,
+      "height": 50,
+      "xpos": 609,
+      "click_point": {
+        "ypos": 25,
+        "xpos": 53
+      },
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-reboot-after-install"
+  ]
+}
