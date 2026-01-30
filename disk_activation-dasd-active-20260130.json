@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "width": 57,
+      "type": "match",
+      "xpos": 393,
+      "ypos": 161,
+      "height": 14
+    },
+    {
+      "height": 37,
+      "ypos": 134,
+      "xpos": 804,
+      "type": "match",
+      "width": 66
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1233167 - Shifted colors on s390x"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "dasd-active"
+  ]
+}
