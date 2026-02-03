@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 227,
+      "width": 588,
+      "ypos": 29,
+      "xpos": 2,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "oomath",
+    "popup-welcome-to-libreoffice"
+  ]
+}
