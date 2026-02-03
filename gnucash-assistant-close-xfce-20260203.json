@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 165,
+      "ypos": 28,
+      "width": 190,
+      "height": 47
+    },
+    {
+      "type": "match",
+      "xpos": 301,
+      "ypos": 308,
+      "width": 65,
+      "height": 20,
+      "click_point": {
+        "xpos": 32,
+        "ypos": 14
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnucash-assistant-close"
+  ]
+}
