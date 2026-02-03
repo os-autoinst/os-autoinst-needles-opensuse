@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 118,
+      "ypos": 225,
+      "width": 119,
+      "height": 59,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "test-ooffice-2"
+  ]
+}
