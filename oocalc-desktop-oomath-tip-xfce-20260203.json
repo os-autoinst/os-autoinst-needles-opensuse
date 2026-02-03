@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 278,
+      "width": 526,
+      "ypos": 29,
+      "xpos": 0,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "oocalc",
+    "oomath-tip-of-the-day"
+  ]
+}
