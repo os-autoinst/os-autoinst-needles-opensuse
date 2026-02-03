@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 17,
+      "width": 93,
+      "ypos": 440,
+      "xpos": 288,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "dont-save-libreoffice-btn"
+  ]
+}
