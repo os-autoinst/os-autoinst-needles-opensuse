@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "ypos": 302,
+      "type": "match",
+      "xpos": 403,
+      "height": 23,
+      "width": 263
+    },
+    {
+      "ypos": 456,
+      "xpos": 550,
+      "type": "match",
+      "click_point": {
+        "ypos": 8.5,
+        "xpos": 17
+      },
+      "height": 17,
+      "width": 34
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "gnucash-assistant-show-again-no"
+  ]
+}
