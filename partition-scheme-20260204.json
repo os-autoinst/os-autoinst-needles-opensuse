@@ -1,0 +1,35 @@
+{
+  "area": [
+    {
+      "height": 44,
+      "ypos": 10,
+      "xpos": 1,
+      "width": 247,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 19,
+      "width": 256,
+      "xpos": 388,
+      "ypos": 261
+    },
+    {
+      "type": "match",
+      "ypos": 302,
+      "xpos": 391,
+      "width": 138,
+      "height": 18
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1233167 - Shifted colors on s390x"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "partition-scheme"
+  ]
+}
