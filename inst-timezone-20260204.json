@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 933,
+      "height": 456,
+      "xpos": 50,
+      "ypos": 103,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1233167 - Shifted colors on s390x"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "after-partitioning",
+    "inst-timezone"
+  ]
+}
