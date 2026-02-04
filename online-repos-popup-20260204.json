@@ -1,0 +1,42 @@
+{
+  "area": [
+    {
+      "xpos": 531,
+      "height": 20,
+      "width": 39,
+      "ypos": 531,
+      "type": "match"
+    },
+    {
+      "xpos": 450,
+      "ypos": 532,
+      "type": "match",
+      "width": 46,
+      "height": 19
+    },
+    {
+      "width": 199,
+      "height": 16,
+      "ypos": 493,
+      "type": "match",
+      "xpos": 304
+    },
+    {
+      "width": 124,
+      "height": 17,
+      "type": "match",
+      "ypos": 234,
+      "xpos": 25
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1233167 - Shifted colors on s390x"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "online-repos-popup"
+  ]
+}
