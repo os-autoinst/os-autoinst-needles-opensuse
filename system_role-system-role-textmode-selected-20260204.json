@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "xpos": 938,
+      "height": 14,
+      "width": 79,
+      "ypos": 728,
+      "type": "match"
+    },
+    {
+      "xpos": 289,
+      "ypos": 469,
+      "type": "match",
+      "width": 68,
+      "height": 22
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1233167 - Shifted colors on s390x"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "system-role-textmode-selected"
+  ]
+}
