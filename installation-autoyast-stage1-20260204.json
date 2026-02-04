@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 294,
+      "width": 183,
+      "height": 23,
+      "ypos": 367,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1233167 - Shifted colors on s390x"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "autoyast-stage1-reboot-upcoming"
+  ]
+}
