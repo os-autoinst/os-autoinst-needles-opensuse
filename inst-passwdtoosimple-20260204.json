@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 417,
+      "height": 120,
+      "width": 190,
+      "type": "match",
+      "ypos": 337
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1233167 - Shifted colors on s390x"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ENV-DISTRI-opensuse",
+    "inst-userpasswdtoosimple"
+  ]
+}
