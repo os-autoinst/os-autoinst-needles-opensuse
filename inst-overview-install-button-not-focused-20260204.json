@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 90,
+      "xpos": 278,
+      "width": 243,
+      "height": 70
+    },
+    {
+      "width": 44,
+      "height": 19,
+      "ypos": 731,
+      "xpos": 955,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1233167 - Shifted colors on s390x"
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ]
+}
