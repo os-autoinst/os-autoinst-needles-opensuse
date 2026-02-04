@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "ypos": 302,
+      "type": "match",
+      "width": 77,
+      "height": 23,
+      "xpos": 423
+    },
+    {
+      "height": 51,
+      "width": 62,
+      "xpos": 407,
+      "ypos": 278,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "xfs-selected"
+  ]
+}
