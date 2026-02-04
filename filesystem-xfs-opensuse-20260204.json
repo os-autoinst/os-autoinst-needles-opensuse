@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "height": 50,
+      "ypos": 275,
+      "width": 66,
+      "xpos": 414,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1233167 - Shifted colors on s390x"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "filesystem-xfs"
+  ]
+}
