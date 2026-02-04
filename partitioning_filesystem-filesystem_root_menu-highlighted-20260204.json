@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "width": 124,
+      "xpos": 402,
+      "ypos": 270,
+      "height": 62,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1233167 - Shifted colors on s390x"
+    }
+  ],
+  "tags": [
+    "filesystem-root-menu-selected"
+  ]
+}
