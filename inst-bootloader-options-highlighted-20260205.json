@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 277,
+      "height": 35,
+      "ypos": 51,
+      "type": "match",
+      "width": 148
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1233167 - Shifted colors on s390x"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "inst-bootloader-options-highlighted",
+    "installation-bootloader-options"
+  ]
+}
