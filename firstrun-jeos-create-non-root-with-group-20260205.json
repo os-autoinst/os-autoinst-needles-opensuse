@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 302,
+      "height": 18,
+      "ypos": 265,
+      "type": "match",
+      "width": 325
+    },
+    {
+      "xpos": 293,
+      "height": 81,
+      "width": 50,
+      "type": "match",
+      "ypos": 336
+    },
+    {
+      "xpos": 391,
+      "width": 176,
+      "type": "match",
+      "ypos": 468,
+      "height": 10
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "jeos-create-non-root-with-group"
+  ]
+}
