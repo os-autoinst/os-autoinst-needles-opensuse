@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "xpos": 4,
+      "width": 233,
+      "height": 29,
+      "type": "match",
+      "ypos": 17
+    },
+    {
+      "height": 18,
+      "width": 35,
+      "xpos": 960,
+      "ypos": 734,
+      "type": "match"
+    },
+    {
+      "ypos": 48,
+      "type": "match",
+      "height": 44,
+      "width": 145,
+      "xpos": 6
+    },
+    {
+      "ypos": 54,
+      "type": "match",
+      "width": 122,
+      "xpos": 152,
+      "height": 25
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1233167 - Shifted colors on s390x"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ENV-DISTRI-KUBIC",
+    "inst-bootloader-settings"
+  ]
+}
