@@ -1,23 +1,24 @@
 {
   "area": [
     {
-      "ypos": 302,
       "type": "match",
+      "ypos": 302,
       "width": 77,
       "height": 23,
       "xpos": 423
     },
     {
+      "xpos": 407,
       "height": 51,
       "width": 62,
-      "xpos": 407,
-      "ypos": 278,
-      "type": "match"
+      "type": "match",
+      "ypos": 278
     }
   ],
   "properties": [
     {
-      "name": "workaround"
+      "name": "workaround",
+      "value": "boo#1233167 - Shifted colors on s390x"
     }
   ],
   "tags": [
