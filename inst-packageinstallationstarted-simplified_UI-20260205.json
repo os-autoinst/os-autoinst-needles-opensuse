@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 266,
+      "width": 232,
+      "type": "match",
+      "ypos": 15,
+      "height": 30
+    },
+    {
+      "height": 18,
+      "ypos": 405,
+      "type": "match",
+      "width": 202,
+      "xpos": 304
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1233167"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "inst-packageinstallationstarted",
+    "installation-details-view"
+  ]
+}
