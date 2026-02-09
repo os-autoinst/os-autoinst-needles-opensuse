@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 12,
+      "ypos": 2,
+      "width": 960,
+      "height": 769,
+      "type": "match",
+      "match": 100
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gb18030-all-page-2"
+  ]
+}
