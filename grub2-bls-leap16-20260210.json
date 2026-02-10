@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "xpos": 105,
+      "ypos": 38,
+      "width": 208,
+      "height": 213,
+      "type": "match"
+    },
+    {
+      "height": 27,
+      "type": "exclude",
+      "ypos": 216,
+      "xpos": 250,
+      "width": 145
+    },
+    {
+      "xpos": 241,
+      "ypos": 58,
+      "width": 254,
+      "height": 107,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "grub2",
+    "grub2-bls"
+  ]
+}
