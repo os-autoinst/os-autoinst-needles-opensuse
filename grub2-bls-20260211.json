@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 53,
+      "width": 233,
+      "xpos": 35,
+      "ypos": 255,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "autoyast-boot",
+    "bootloader"
+  ]
+}
