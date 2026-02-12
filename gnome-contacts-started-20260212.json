@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 31,
+      "xpos": 406,
+      "ypos": 107,
+      "width": 228,
+      "type": "match"
+    },
+    {
+      "width": 363,
+      "ypos": 456,
+      "xpos": 216,
+      "height": 57,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome-contacts-started"
+  ]
+}
