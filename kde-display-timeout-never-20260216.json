@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 451,
+      "height": 22,
+      "ypos": 354,
+      "type": "match",
+      "width": 77,
+      "click_point": {
+        "xpos": 38.5,
+        "ypos": 11
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "kde-disable-energysaver",
+    "kde-screenlock-timeout-never"
+  ]
+}
