@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 170,
+      "ypos": 214,
+      "type": "match",
+      "xpos": 48,
+      "height": 26
+    },
+    {
+      "xpos": 8,
+      "height": 54,
+      "width": 235,
+      "type": "match",
+      "ypos": 8
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-microos",
+    "ENV-DISTRI-opensuse",
+    "grub2-bls"
+  ]
+}
