@@ -18,7 +18,6 @@
   "properties": [],
   "tags": [
     "ENV-DISTRI-microos",
-    "ENV-DISTRI-opensuse",
     "grub2-bls"
   ]
 }
