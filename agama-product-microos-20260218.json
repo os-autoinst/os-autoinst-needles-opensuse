@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 125,
+      "type": "match",
+      "ypos": 553,
+      "height": 38,
+      "width": 224,
+      "click_point": {
+        "xpos": 22,
+        "ypos": 21.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-product-microos"
+  ]
+}
