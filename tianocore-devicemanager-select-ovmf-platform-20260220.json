@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 199,
+      "ypos": 247,
+      "height": 16,
+      "width": 237,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-devicemanager-select-ovmf-platform"
+  ]
+}
