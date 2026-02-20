@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 13,
+      "ypos": 361,
+      "type": "match",
+      "width": 35,
+      "xpos": 209
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-select-reset"
+  ]
+}
