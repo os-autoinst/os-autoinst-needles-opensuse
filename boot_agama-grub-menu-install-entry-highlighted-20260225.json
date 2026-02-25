@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 117,
+      "ypos": 275,
+      "width": 110,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub-menu-install-highlighted"
+  ]
+}
