@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 57,
+      "ypos": 379,
+      "width": 254,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-create-lvm-on-vda"
+  ]
+}
