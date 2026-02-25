@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 76,
+      "ypos": 599,
+      "width": 321,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 76,
+      "ypos": 630,
+      "width": 314,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-lvm-proposal"
+  ]
+}
