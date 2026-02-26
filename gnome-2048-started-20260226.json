@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 588,
+      "xpos": 218,
+      "ypos": 106,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome-2048-started"
+  ]
+}
