@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "ypos": 389,
+      "width": 411,
+      "xpos": 419,
+      "type": "match",
+      "height": 41
+    },
+    {
+      "xpos": 413,
+      "type": "match",
+      "width": 244,
+      "ypos": 236,
+      "height": 59
+    },
+    {
+      "xpos": 180,
+      "type": "match",
+      "width": 206,
+      "ypos": 271,
+      "height": 217
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "test-firefox-3"
+  ]
+}
