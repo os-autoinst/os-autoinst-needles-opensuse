@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 42,
+      "ypos": 377,
+      "width": 418,
+      "xpos": 417,
+      "type": "match"
+    },
+    {
+      "height": 62,
+      "type": "match",
+      "xpos": 413,
+      "ypos": 231,
+      "width": 248
+    },
+    {
+      "type": "match",
+      "xpos": 180,
+      "ypos": 269,
+      "width": 206,
+      "height": 217
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "test-firefox-3"
+  ]
+}
