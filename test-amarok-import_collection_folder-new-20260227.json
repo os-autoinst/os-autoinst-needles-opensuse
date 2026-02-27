@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "height": 13,
+      "xpos": 442,
+      "type": "match",
+      "width": 303,
+      "ypos": 358
+    },
+    {
+      "type": "match",
+      "xpos": 438,
+      "ypos": 338,
+      "width": 84,
+      "height": 13
+    },
+    {
+      "ypos": 387,
+      "width": 283,
+      "xpos": 547,
+      "type": "match",
+      "height": 44
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "amarok",
+    "test-amarok-new-1"
+  ]
+}
