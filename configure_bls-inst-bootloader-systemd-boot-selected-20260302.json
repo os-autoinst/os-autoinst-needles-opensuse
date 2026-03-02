@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 151,
+      "type": "match",
+      "ypos": 136,
+      "height": 20,
+      "xpos": 25
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-bootloader-systemd-boot-selected"
+  ]
+}
