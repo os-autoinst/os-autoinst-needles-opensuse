@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 733,
+      "xpos": 885,
+      "height": 18,
+      "type": "ocr",
+      "width": 105,
+      "refstr": "End Turn"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-endturn"
+  ]
+}
