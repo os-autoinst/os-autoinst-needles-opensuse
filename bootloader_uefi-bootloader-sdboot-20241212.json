@@ -10,6 +10,7 @@
   ],
   "properties": [],
   "tags": [
-    "bootloader-sdboot"
+    "bootloader-sdboot",
+    "systemd-boot"
   ]
 }
