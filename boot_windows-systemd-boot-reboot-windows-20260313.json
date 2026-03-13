@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 354,
+      "ypos": 292,
+      "width": 98,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DUALBOOT-1",
+    "ENV-UEFI-1",
+    "grub-reboot-windows",
+    "systemd-boot-windows-unselected"
+  ]
+}
