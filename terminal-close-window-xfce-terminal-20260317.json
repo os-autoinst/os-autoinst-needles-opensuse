@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "height": 30,
+      "type": "match",
+      "xpos": 326,
+      "width": 137,
+      "ypos": 235
+    },
+    {
+      "click_point": {
+        "xpos": 52.5,
+        "ypos": 8
+      },
+      "height": 18,
+      "type": "match",
+      "xpos": 441,
+      "ypos": 375,
+      "width": 97
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "terminal-close-window"
+  ]
+}
