@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 309,
+      "ypos": 118,
+      "width": 199,
+      "type": "match",
+      "height": 39
+    },
+    {
+      "height": 15,
+      "type": "match",
+      "width": 125,
+      "ypos": 35,
+      "xpos": 299
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "gimp",
+    "test-gimp-1"
+  ]
+}
