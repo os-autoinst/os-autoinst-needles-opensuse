@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 17,
+      "ypos": 181,
+      "type": "match",
+      "width": 66,
+      "xpos": 166
+    },
+    {
+      "height": 22,
+      "width": 302,
+      "ypos": 564,
+      "type": "match",
+      "xpos": 189
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub2-enter-edit-mode"
+  ]
+}
