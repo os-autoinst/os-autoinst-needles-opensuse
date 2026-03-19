@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 38,
+      "width": 105,
+      "type": "match",
+      "xpos": 331,
+      "ypos": 106
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome-font-viewer-started"
+  ]
+}
