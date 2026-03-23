@@ -10,6 +10,8 @@
   ],
   "properties": [],
   "tags": [
-    "linux-line-matched"
+    "ENV-BOOTLOADER-systemd-boot",
+    "linux-line-matched",
+    "linux-line-selected"
   ]
 }
