@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 357,
+      "ypos": 274,
+      "width": 60,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-boot-windows-selected"
+  ]
+}
