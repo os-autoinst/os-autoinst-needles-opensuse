@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 22,
+      "xpos": 274,
+      "ypos": 440,
+      "width": 71
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BOOTLOADER-systemd-boot",
+    "linux-line-matched"
+  ]
+}
