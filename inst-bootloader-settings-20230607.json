@@ -32,7 +32,6 @@
   "properties": [],
   "tags": [
     "ENV-DISTRI-KUBIC",
-    "inst-bootloader-settings",
-    "inst-bootloader-settings-first_tab_highlighted"
+    "inst-bootloader-settings"
   ]
 }
