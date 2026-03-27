@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 207,
+      "type": "match",
+      "xpos": 197,
+      "ypos": 195,
+      "height": 14
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-devicemanager-sb-conf"
+  ]
+}
