@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "xpos": 108,
+      "ypos": 254,
+      "width": 128,
+      "height": 112,
+      "type": "match"
+    },
+    {
+      "xpos": 5,
+      "ypos": 5,
+      "width": 196,
+      "height": 61,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "poo#199436"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-UEFI-1",
+    "ENV-LEAP-1",
+    "bootloader-grub2",
+    "inst-bootmenu"
+  ]
+}
