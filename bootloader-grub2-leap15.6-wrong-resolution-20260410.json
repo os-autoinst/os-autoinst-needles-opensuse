@@ -1,11 +1,11 @@
 {
   "area": [
     {
-      "height": 112,
-      "width": 128,
+      "ypos": 254,
       "type": "match",
+      "width": 128,
       "xpos": 108,
-      "ypos": 254
+      "height": 112
     },
     {
       "ypos": 5,
@@ -26,7 +26,6 @@
     "ENV-LEAP-1",
     "ENV-UEFI-1",
     "bootloader-grub2",
-    "grub2",
-    "inst-bootmenu"
+    "grub2"
   ]
 }
