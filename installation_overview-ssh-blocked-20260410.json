@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "height": 16,
+      "ypos": 619,
+      "type": "match",
+      "xpos": 320,
+      "width": 141
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1233167"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ssh-blocked"
+  ]
+}
