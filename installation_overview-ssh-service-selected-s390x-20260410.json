@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "width": 217,
+      "height": 21,
+      "ypos": 602,
+      "type": "match",
+      "xpos": 319
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1233167"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ssh-service-selected"
+  ]
+}
