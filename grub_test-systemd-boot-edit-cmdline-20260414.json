@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 387,
+      "ypos": 336,
+      "width": 81,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 120,
+      "ypos": 423,
+      "width": 39,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-boot-edit-cmdline"
+  ]
+}
