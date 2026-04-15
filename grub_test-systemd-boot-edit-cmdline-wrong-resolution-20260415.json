@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "height": 20,
+      "width": 81,
+      "ypos": 356,
+      "xpos": 400,
+      "type": "match"
+    },
+    {
+      "width": 32,
+      "ypos": 421,
+      "height": 35,
+      "type": "match",
+      "xpos": 198
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "poo#199436"
+    }
+  ],
+  "tags": [
+    "systemd-boot-edit-cmdline"
+  ]
+}
