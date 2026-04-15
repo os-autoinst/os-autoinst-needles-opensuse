@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "xpos": 67,
+      "type": "match",
+      "height": 26,
+      "ypos": 268,
+      "width": 170
+    },
+    {
+      "xpos": 708,
+      "type": "match",
+      "height": 54,
+      "width": 235,
+      "ypos": 256
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "poo#199436"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-microos",
+    "grub2-bls"
+  ]
+}
