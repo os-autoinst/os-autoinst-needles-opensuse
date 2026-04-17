@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 633,
+      "type": "match",
+      "xpos": 195,
+      "ypos": 140,
+      "height": 472
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "kate-welcome",
+    "welcome"
+  ]
+}
