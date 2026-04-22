@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 44,
+      "ypos": 82,
+      "width": 227,
+      "xpos": 30
+    },
+    {
+      "xpos": 174,
+      "width": 83,
+      "height": 15,
+      "ypos": 81,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-bootmenu"
+  ]
+}
