@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "width": 210,
+      "ypos": 71,
+      "xpos": 2,
+      "type": "match",
+      "height": 156
+    },
+    {
+      "xpos": 437,
+      "ypos": 200,
+      "width": 101,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "oodraw",
+    "oodraw-launched",
+    "ooffice-tip-of-the-day"
+  ]
+}
