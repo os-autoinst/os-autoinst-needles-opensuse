@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 274,
+      "type": "match",
+      "width": 314,
+      "ypos": 60,
+      "xpos": 2
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "oowriter-menus-file"
+  ]
+}
