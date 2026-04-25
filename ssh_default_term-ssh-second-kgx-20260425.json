@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 203,
+      "xpos": 199,
+      "type": "match",
+      "height": 499,
+      "width": 718,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ssh-second-kgx"
+  ]
+}
