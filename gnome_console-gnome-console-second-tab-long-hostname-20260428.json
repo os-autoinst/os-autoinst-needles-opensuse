@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 21,
+      "xpos": 502,
+      "height": 45,
+      "ypos": 179,
+      "type": "match"
+    },
+    {
+      "xpos": 843,
+      "ypos": 179,
+      "width": 34,
+      "height": 40,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-console-second-tab"
+  ]
+}
