@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 43,
+      "type": "match",
+      "width": 491,
+      "height": 22,
+      "xpos": 522,
+      "click_point": {
+        "xpos": 479,
+        "ypos": 11
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "opensuse-welcome-close"
+  ]
+}
