@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 46,
+      "type": "match",
+      "ypos": 688,
+      "height": 33,
+      "width": 93
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-pattern-selection-accept",
+    "agama-software-selection-close"
+  ]
+}
