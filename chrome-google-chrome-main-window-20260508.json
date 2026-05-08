@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 948,
+      "type": "match",
+      "height": 61,
+      "ypos": 77,
+      "width": 69
+    },
+    {
+      "width": 98,
+      "height": 23,
+      "ypos": 41,
+      "type": "match",
+      "xpos": 48
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "google-chrome-main-window"
+  ]
+}
