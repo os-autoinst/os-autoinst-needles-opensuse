@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 49,
+      "xpos": 187,
+      "width": 172,
+      "ypos": 363,
+      "click_point": {
+        "xpos": 84.5,
+        "ypos": 24.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-select-desktop"
+  ]
+}
