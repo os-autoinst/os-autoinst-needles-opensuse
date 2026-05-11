@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 141,
+      "ypos": 308,
+      "width": 357,
+      "xpos": 334
+    },
+    {
+      "xpos": 359,
+      "ypos": 311,
+      "width": 281,
+      "height": 21,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "desktop-runner",
+    "ENV-DESKTOP-lxde"
+  ]
+}
