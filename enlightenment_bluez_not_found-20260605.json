@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 33,
+      "xpos": 319,
+      "ypos": 355,
+      "width": 165
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "enlightenment_bluez_not_found"
+  ]
+}
