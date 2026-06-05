@@ -2,15 +2,15 @@
   "area": [
     {
       "type": "match",
-      "ypos": 34,
-      "height": 27,
-      "xpos": 50,
-      "width": 71
+      "width": 32,
+      "ypos": 0,
+      "height": 19,
+      "xpos": 3
     }
   ],
   "properties": [],
   "tags": [
     "ENV-DESKTOP-awesome",
-    "test-awesome-menu-1"
+    "awesome-menu-main"
   ]
 }
