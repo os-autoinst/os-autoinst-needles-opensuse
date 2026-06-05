@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 336,
+      "height": 35,
+      "xpos": 380,
+      "width": 174,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ui-toolkit-swing"
+  ]
+}
