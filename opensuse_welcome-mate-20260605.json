@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 784,
+      "ypos": 117,
+      "height": 367,
+      "xpos": 111,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "opensuse-welcome"
+  ]
+}
