@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 442,
+      "height": 64,
+      "xpos": 187,
+      "width": 611
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "test-mate_terminal-1"
+  ]
+}
