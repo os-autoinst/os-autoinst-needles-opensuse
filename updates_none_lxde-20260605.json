@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 342,
+      "height": 63,
+      "xpos": 277,
+      "width": 457,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "updates_none"
+  ]
+}
