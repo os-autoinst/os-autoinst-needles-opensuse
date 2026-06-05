@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 168,
+      "ypos": 345,
+      "height": 59,
+      "xpos": 426
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "enlightenment_compositing"
+  ]
+}
