@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 247,
+      "height": 44,
+      "ypos": 10,
+      "xpos": 1,
+      "type": "match"
+    },
+    {
+      "width": 256,
+      "ypos": 261,
+      "height": 19,
+      "xpos": 388,
+      "type": "match"
+    },
+    {
+      "width": 138,
+      "height": 18,
+      "ypos": 302,
+      "xpos": 391,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partition-scheme"
+  ]
+}
