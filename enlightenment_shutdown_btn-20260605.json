@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 292,
+      "height": 55,
+      "xpos": 421,
+      "width": 57,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "enlightenment_shutdown_btn"
+  ]
+}
