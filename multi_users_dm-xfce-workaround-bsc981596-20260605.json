@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 32,
+      "ypos": 315,
+      "xpos": 465,
+      "width": 85
+    },
+    {
+      "width": 84,
+      "ypos": 427,
+      "height": 38,
+      "xpos": 585,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc981596"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "multi_users_dm",
+    "user-01-selected"
+  ]
+}
