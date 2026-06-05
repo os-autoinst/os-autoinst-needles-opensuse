@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 31,
+      "ypos": 667,
+      "xpos": 767,
+      "width": 82,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-lxde",
+    "inkscape-welcome-thanks"
+  ]
+}
