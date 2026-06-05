@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 375,
+      "ypos": 59,
+      "type": "match",
+      "width": 12,
+      "height": 19
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "chromium-highlighted-urlbar"
+  ]
+}
