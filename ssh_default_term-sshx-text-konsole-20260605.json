@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 225,
+      "height": 30,
+      "ypos": 405,
+      "width": 283,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sshx-text-konsole"
+  ]
+}
