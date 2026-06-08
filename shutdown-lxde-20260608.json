@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 381,
+      "type": "match",
+      "width": 179,
+      "height": 404,
+      "ypos": 187
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "logoutdialog",
+    "ENV-DESKTOP-lxde"
+  ]
+}
