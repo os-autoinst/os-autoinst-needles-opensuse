@@ -1,0 +1,44 @@
+{
+  "area": [
+    {
+      "ypos": 530,
+      "height": 38,
+      "width": 422,
+      "xpos": 302,
+      "type": "match"
+    },
+    {
+      "xpos": 496,
+      "type": "match",
+      "width": 70,
+      "ypos": 318,
+      "height": 59
+    },
+    {
+      "width": 322,
+      "type": "match",
+      "xpos": 302,
+      "ypos": 583,
+      "height": 36
+    },
+    {
+      "height": 60,
+      "ypos": 305,
+      "xpos": 489,
+      "type": "match",
+      "width": 64
+    },
+    {
+      "height": 298,
+      "ypos": 201,
+      "width": 366,
+      "xpos": 327,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "opensuse-welcome"
+  ]
+}
