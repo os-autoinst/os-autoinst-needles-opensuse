@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 76,
+      "ypos": 94,
+      "width": 249,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-auth-changes-applied"
+  ]
+}
