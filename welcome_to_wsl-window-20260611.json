@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 114,
+      "ypos": 114,
+      "width": 282,
+      "height": 79,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "welcome_to_wsl-window"
+  ]
+}
