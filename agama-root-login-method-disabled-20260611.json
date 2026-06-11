@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 71,
+      "ypos": 426,
+      "width": 78,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-root-login-method"
+  ]
+}
