@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 96,
+      "xpos": 63,
+      "type": "match",
+      "height": 21,
+      "ypos": 425
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agma-storage-tab"
+  ]
+}
