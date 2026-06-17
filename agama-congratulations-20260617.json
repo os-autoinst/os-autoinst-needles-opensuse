@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 322,
+      "ypos": 383,
+      "height": 49,
+      "type": "match",
+      "xpos": 191
+    },
+    {
+      "width": 76,
+      "xpos": 425,
+      "type": "match",
+      "height": 61,
+      "ypos": 297
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-congratulations"
+  ]
+}
