@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 842,
+      "ypos": 535,
+      "width": 106,
+      "height": 19,
+      "type": "ocr",
+      "refstr": "Preferences"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-preferences",
+    "wesnoth"
+  ]
+}

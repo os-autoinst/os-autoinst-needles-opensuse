@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 660,
+      "ypos": 715,
+      "height": 28,
+      "width": 108,
+      "type": "ocr",
+      "refstr": "Load"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-load-confirm"
+  ]
+}

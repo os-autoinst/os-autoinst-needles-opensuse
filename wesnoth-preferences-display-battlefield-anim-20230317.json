@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "xpos": 334,
+      "ypos": 397,
+      "type": "ocr",
+      "width": 224,
+      "height": 22,
+      "refstr": "Show unit standing animations",
+      "click_point": {
+        "ypos": 11,
+        "xpos": 9
+      },
+      "match": 80
+    },
+    {
+      "xpos": 333,
+      "ypos": 397,
+      "width": 22,
+      "height": 22,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-preferences-unit-standing-anim"
+  ]
+}

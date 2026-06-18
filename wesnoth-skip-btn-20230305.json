@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 17,
+      "ypos": 727,
+      "xpos": 905,
+      "type": "ocr",
+      "width": 86,
+      "refstr": "Skip"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-skip-btn"
+  ]
+}
