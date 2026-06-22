@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 228,
+      "ypos": 267,
+      "width": 168,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-fde-tpm-enabled"
+  ]
+}
