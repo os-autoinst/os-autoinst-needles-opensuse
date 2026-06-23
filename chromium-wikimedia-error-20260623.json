@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 181,
+      "height": 234,
+      "ypos": 181,
+      "width": 315,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "poo#202968 - Too many requests on wikimedia; but we got TLS connected"
+    }
+  ],
+  "tags": [
+    "chromium-opensuse-logo"
+  ]
+}
