@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 360,
+      "type": "match",
+      "width": 142,
+      "height": 35,
+      "ypos": 286
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-software-tab"
+  ]
+}
