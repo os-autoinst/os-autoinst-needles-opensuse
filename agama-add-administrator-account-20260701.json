@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 89,
+      "height": 19,
+      "width": 202,
+      "type": "match",
+      "ypos": 174,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-add-administrator-account"
+  ]
+}
