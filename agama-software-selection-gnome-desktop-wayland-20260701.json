@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "ypos": 197,
+      "width": 362,
+      "click_point": {
+        "ypos": 22,
+        "xpos": 15.5
+      },
+      "xpos": 51,
+      "height": 42,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-software-selection-gnome-desktop-wayland"
+  ]
+}
