@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "xpos": 16,
+      "ypos": 353,
+      "width": 278,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 23,
+      "ypos": 79,
+      "width": 24,
+      "height": 111,
+      "type": "match"
+    },
+    {
+      "xpos": 167,
+      "ypos": 15,
+      "width": 147,
+      "height": 18,
+      "type": "match",
+      "match": 80,
+      "margin": 50
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "o3-ipxe-menu"
+  ]
+}
