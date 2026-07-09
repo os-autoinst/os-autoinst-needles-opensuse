@@ -1,0 +1,72 @@
+{
+  "area": [
+    {
+      "xpos": 496,
+      "ypos": 464,
+      "width": 33,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 6,
+      "ypos": 717,
+      "width": 53,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 313,
+      "ypos": 718,
+      "width": 62,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 629,
+      "ypos": 720,
+      "width": 62,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 945,
+      "ypos": 719,
+      "width": 66,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 6,
+      "ypos": 2,
+      "width": 44,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 72,
+      "ypos": 0,
+      "width": 95,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 11,
+      "ypos": 32,
+      "width": 194,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 279,
+      "ypos": 288,
+      "width": 233,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "reboot-after-installation",
+    "reboot_now"
+  ]
+}
