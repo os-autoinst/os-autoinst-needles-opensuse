@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "ypos": 351,
+      "height": 24,
+      "type": "match",
+      "width": 148,
+      "xpos": 522
+    },
+    {
+      "height": 82,
+      "type": "match",
+      "width": 81,
+      "ypos": 315,
+      "xpos": 363
+    },
+    {
+      "height": 32,
+      "type": "match",
+      "width": 69,
+      "ypos": 437,
+      "xpos": 593
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISPLAYMANAGER-lightdm",
+    "displaymanager",
+    "displaymanager-password-prompt"
+  ]
+}
