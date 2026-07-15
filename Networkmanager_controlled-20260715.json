@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 537,
+      "height": 87,
+      "ypos": 332,
+      "type": "match",
+      "xpos": 240
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "Networkmanager_controlled",
+    "ENV-DISTRI-opensuse"
+  ]
+}
