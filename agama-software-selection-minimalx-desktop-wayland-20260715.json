@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 78,
+      "ypos": 541,
+      "width": 130,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-software-selection-minimalx-desktop-wayland"
+  ]
+}
