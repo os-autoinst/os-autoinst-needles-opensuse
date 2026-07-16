@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 41,
+      "width": 163,
+      "height": 25,
+      "ypos": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-FDE-enable"
+  ]
+}
