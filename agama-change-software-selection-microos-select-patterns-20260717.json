@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 695,
+      "ypos": 380,
+      "width": 114,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-microos",
+    "agama-change-software-selection"
+  ]
+}
