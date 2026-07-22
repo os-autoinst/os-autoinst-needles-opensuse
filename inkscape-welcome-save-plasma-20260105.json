@@ -1,37 +1,25 @@
 {
   "area": [
     {
-      "height": 42,
+      "ypos": 273,
       "width": 114,
-      "ypos": 274,
+      "height": 42,
       "xpos": 184,
       "type": "match"
     },
     {
-      "xpos": 524,
-      "ypos": 725,
-      "width": 44,
-      "height": 10,
-      "type": "match"
-    },
-    {
-      "xpos": 585,
-      "ypos": 14,
       "width": 252,
+      "ypos": 13,
+      "click_point": {
+        "ypos": 46,
+        "xpos": 240
+      },
       "height": 56,
       "type": "match",
-      "click_point": {
-        "xpos": 240,
-        "ypos": 46
-      }
+      "xpos": 585
     }
   ],
-  "properties": [
-    {
-      "name": "workaround",
-      "value": "boo#1241066"
-    }
-  ],
+  "properties": [],
   "tags": [
     "inkscape-welcome-boo1241066"
   ]
