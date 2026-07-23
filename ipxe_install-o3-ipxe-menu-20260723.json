@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 168,
+      "ypos": 17,
+      "width": 113,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 27,
+      "ypos": 83,
+      "width": 18,
+      "height": 107,
+      "type": "match"
+    },
+    {
+      "xpos": 24,
+      "ypos": 348,
+      "width": 74,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-Tumbleweed",
+    "o3-ipxe-menu"
+  ]
+}
