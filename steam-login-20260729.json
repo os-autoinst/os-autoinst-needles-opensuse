@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 40,
+      "type": "match",
+      "xpos": 309,
+      "width": 187,
+      "ypos": 424
+    },
+    {
+      "width": 212,
+      "ypos": 236,
+      "height": 57,
+      "xpos": 202,
+      "type": "match"
+    },
+    {
+      "xpos": 204,
+      "ypos": 263,
+      "width": 14,
+      "height": 48,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "steam-login"
+  ]
+}
