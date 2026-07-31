@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 369,
+      "width": 206,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 4,
+      "ypos": 595,
+      "width": 371,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-installer-live-root"
+  ]
+}
