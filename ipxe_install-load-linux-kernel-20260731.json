@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 792,
+      "ypos": 15,
+      "width": 119,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "load-linux-kernel"
+  ]
+}
