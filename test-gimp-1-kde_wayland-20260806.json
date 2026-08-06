@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "ypos": 167,
+      "width": 168,
+      "xpos": 506,
+      "height": 40,
+      "type": "match"
+    },
+    {
+      "ypos": 461,
+      "width": 114,
+      "xpos": 432,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US",
+    "gimp",
+    "test-gimp-1"
+  ]
+}
