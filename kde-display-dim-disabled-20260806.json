@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 312,
+      "ypos": 263,
+      "width": 188,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "kde-display-dim-disabled"
+  ]
+}
