@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "click_point": {
+        "xpos": 163,
+        "ypos": 16
+      },
+      "xpos": 320,
+      "width": 222,
+      "ypos": 266,
+      "height": 28
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "kde-display-dim-enabled"
+  ]
+}
