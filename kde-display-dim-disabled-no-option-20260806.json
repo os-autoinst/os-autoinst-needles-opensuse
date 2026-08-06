@@ -10,6 +10,7 @@
   ],
   "properties": [],
   "tags": [
+    "ENV-DESKTOP-kde",
     "kde-display-dim-disabled"
   ]
 }
