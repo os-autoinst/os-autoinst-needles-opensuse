@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 287,
+      "type": "match",
+      "width": 492,
+      "xpos": 279,
+      "height": 17
+    },
+    {
+      "ypos": 335,
+      "type": "match",
+      "width": 150,
+      "xpos": 239,
+      "height": 18
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "mediacheck-ok",
+    "ENV-LIVECD-1"
+  ]
+}
