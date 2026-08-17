@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 890,
+      "ypos": 5,
+      "width": 121,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "window-max"
+  ]
+}
