@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 260,
+      "type": "match",
+      "width": 183,
+      "height": 17,
+      "ypos": 202
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESTOP-kde",
+    "us_keymap_logged_x11"
+  ]
+}
