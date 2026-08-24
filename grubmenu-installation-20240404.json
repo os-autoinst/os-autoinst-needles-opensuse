@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 20,
+      "ypos": 61,
+      "width": 104,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grubmenu-installation"
+  ]
+}
