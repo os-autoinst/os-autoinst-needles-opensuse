@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 184,
+      "type": "ocr",
+      "xpos": 101,
+      "ypos": 197,
+      "height": 60,
+      "refstr": "A Tale of Two Brothers"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-campaign-brothers-select"
+  ]
+}

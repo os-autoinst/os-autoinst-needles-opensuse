@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 136,
+      "type": "ocr",
+      "ypos": 160,
+      "xpos": 17,
+      "height": 29,
+      "refstr": "Load Game",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-load-btn"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "width": 121,
+      "type": "ocr",
+      "height": 26,
+      "click_point": {
+        "ypos": 12,
+        "xpos": 11.5
+      },
+      "ypos": 337,
+      "xpos": 332,
+      "refstr": "Animate map",
+      "match": 80
+    },
+    {
+      "xpos": 331,
+      "ypos": 337,
+      "width": 24,
+      "height": 27,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-preferences-display-anim-map"
+  ]
+}
