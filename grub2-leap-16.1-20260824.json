@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "xpos": 20,
+      "height": 324,
+      "width": 399,
+      "ypos": 9,
+      "type": "match"
+    },
+    {
+      "type": "exclude",
+      "ypos": 269,
+      "width": 38,
+      "xpos": 220,
+      "height": 34
+    },
+    {
+      "xpos": 359,
+      "width": 40,
+      "height": 23,
+      "ypos": 305,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-16.0",
+    "ENV-VERSION-16.1",
+    "bootloader-grub2",
+    "grub2"
+  ]
+}
