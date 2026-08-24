@@ -2,24 +2,24 @@
   "area": [
     {
       "xpos": 20,
-      "type": "match",
-      "width": 399,
       "height": 324,
-      "ypos": 9
+      "width": 399,
+      "ypos": 9,
+      "type": "match"
     },
     {
-      "width": 38,
-      "type": "exclude",
-      "xpos": 220,
       "ypos": 269,
-      "height": 34
+      "height": 34,
+      "xpos": 220,
+      "width": 38,
+      "type": "exclude"
     },
     {
-      "width": 40,
-      "xpos": 359,
       "type": "exclude",
+      "ypos": 305,
       "height": 23,
-      "ypos": 305
+      "xpos": 359,
+      "width": 40
     }
   ],
   "properties": [],
@@ -28,6 +28,7 @@
     "ENV-VERSION-16.1",
     "bootloader-grub2",
     "grub2",
+    "inst-bootmenu",
     "inst-bootmenu-boot-harddisk"
   ]
 }
