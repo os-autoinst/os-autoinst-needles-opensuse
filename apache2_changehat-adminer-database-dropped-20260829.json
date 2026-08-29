@@ -1,33 +1,15 @@
 {
   "area": [
     {
-      "height": 23,
-      "type": "match",
-      "ypos": 459,
-      "xpos": 307,
-      "width": 64
-    },
-    {
-      "height": 28,
-      "ypos": 172,
-      "type": "match",
-      "width": 157,
-      "xpos": 306
-    },
-    {
-      "click_point": {
-        "xpos": 26,
-        "ypos": 9
-      },
-      "height": 21,
-      "ypos": 530,
-      "width": 50,
-      "xpos": 311,
+      "xpos": 314,
+      "width": 198,
+      "height": 17,
+      "ypos": 247,
       "type": "match"
     }
   ],
   "properties": [],
   "tags": [
-    "adminer-click-drop-database-test"
+    "adminer-database-dropped"
   ]
 }
