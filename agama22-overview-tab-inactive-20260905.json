@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 110,
+      "click_point": {
+        "ypos": 17,
+        "xpos": 52
+      },
+      "type": "match",
+      "ypos": 53,
+      "height": 29,
+      "width": 122
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-overview-tab"
+  ]
+}
