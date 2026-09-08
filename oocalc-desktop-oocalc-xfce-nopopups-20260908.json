@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 421,
+      "width": 600,
+      "xpos": 0,
+      "ypos": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "oocalc"
+  ]
+}
