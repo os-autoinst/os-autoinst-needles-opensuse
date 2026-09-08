@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 187,
+      "ypos": 620,
+      "width": 187,
+      "height": 23,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-storage-vda-resize-shrink-partition"
+  ]
+}
