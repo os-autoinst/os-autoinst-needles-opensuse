@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "click_point": {
+        "xpos": 84.5,
+        "ypos": 34
+      },
+      "xpos": 3,
+      "type": "match",
+      "ypos": 166,
+      "width": 131,
+      "height": 44
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-xfce",
+    "input-area-oocalc"
+  ]
+}
