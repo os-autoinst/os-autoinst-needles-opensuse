@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 87,
+      "ypos": 520,
+      "width": 79,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-storage-vda-shrink-ntfs"
+  ]
+}
