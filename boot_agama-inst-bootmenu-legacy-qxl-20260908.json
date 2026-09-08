@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 24,
+      "width": 74,
+      "ypos": 210,
+      "type": "match",
+      "xpos": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-LEAP-1",
+    "inst-bootmenu"
+  ]
+}
