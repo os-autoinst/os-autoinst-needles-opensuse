@@ -1,16 +1,24 @@
 {
   "area": [
     {
-      "xpos": 361,
-      "ypos": 342,
-      "width": 218,
+      "xpos": 359,
+      "ypos": 343,
+      "width": 223,
       "height": 16,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "xpos": 279,
+      "ypos": 607,
+      "width": 460,
+      "height": 20,
       "type": "match",
       "match": 80
     }
   ],
   "properties": [],
   "tags": [
-    "bootloader-bootctl-warning"
+    "bootloader-technology-mismatch-warning"
   ]
 }
