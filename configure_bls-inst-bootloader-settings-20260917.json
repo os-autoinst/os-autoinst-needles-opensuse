@@ -1,24 +1,22 @@
 {
   "area": [
     {
-      "xpos": 359,
-      "ypos": 343,
-      "width": 223,
-      "height": 16,
-      "type": "match",
-      "match": 80
+      "xpos": 273,
+      "ypos": 379,
+      "width": 356,
+      "height": 19,
+      "type": "match"
     },
     {
-      "xpos": 279,
-      "ypos": 607,
-      "width": 460,
-      "height": 20,
-      "type": "match",
-      "match": 80
+      "xpos": 280,
+      "ypos": 608,
+      "width": 457,
+      "height": 19,
+      "type": "match"
     }
   ],
   "properties": [],
   "tags": [
-    "bootloader-technology-mismatch-warning"
+    "bootloader-technology-mismatch-sdbootutil"
   ]
 }
