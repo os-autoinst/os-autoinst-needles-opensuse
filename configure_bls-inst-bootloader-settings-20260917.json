@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 361,
+      "ypos": 342,
+      "width": 218,
+      "height": 16,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "bootloader-bootctl-warning"
+  ]
+}
