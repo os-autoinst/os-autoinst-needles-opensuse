@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 364,
+      "ypos": 342,
+      "width": 184,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 280,
+      "ypos": 606,
+      "width": 458,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "bootloader-technology-mismatch-warning"
+  ]
+}
