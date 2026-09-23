@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 88,
+      "ypos": 416,
+      "width": 108,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-install-mode-standard"
+  ]
+}
