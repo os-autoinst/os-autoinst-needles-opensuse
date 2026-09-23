@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 37,
+      "ypos": 582,
+      "width": 85,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "agama-product-select"
+  ]
+}
