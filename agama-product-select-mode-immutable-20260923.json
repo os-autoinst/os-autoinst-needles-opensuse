@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 248,
+      "ypos": 410,
+      "width": 120,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-install-mode-immutable"
+  ]
+}
