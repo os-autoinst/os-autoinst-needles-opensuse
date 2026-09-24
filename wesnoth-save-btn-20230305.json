@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 411,
+      "xpos": 439,
+      "height": 17,
+      "type": "ocr",
+      "width": 95,
+      "refstr": "Save"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-save-btn"
+  ]
+}

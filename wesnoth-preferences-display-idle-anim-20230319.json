@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 329,
+      "ypos": 424,
+      "width": 200,
+      "height": 26,
+      "type": "match",
+      "click_point": {
+        "xpos": 13,
+        "ypos": 12
+      }
+    },
+    {
+      "xpos": 327,
+      "ypos": 423,
+      "width": 28,
+      "height": 30,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-preferences-display-idle-anim"
+  ]
+}

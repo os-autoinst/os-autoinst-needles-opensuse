@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 784,
+      "ypos": 649,
+      "height": 17,
+      "width": 101,
+      "type": "ocr",
+      "refstr": "Close"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-preferences-close"
+  ]
+}
