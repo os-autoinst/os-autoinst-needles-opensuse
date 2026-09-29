@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 169,
+      "ypos": 338,
+      "type": "match",
+      "height": 32,
+      "xpos": 425
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "updates_installed-restart"
+  ]
+}
