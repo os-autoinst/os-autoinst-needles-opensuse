@@ -1,26 +1,21 @@
 {
   "area": [
     {
+      "xpos": 5,
       "type": "match",
-      "width": 811,
       "height": 79,
-      "ypos": 2,
-      "xpos": 5
+      "width": 811,
+      "ypos": 2
     },
     {
-      "type": "exclude",
-      "height": 21,
-      "xpos": 150,
       "ypos": 5,
-      "width": 475
+      "xpos": 150,
+      "height": 21,
+      "width": 475,
+      "type": "exclude"
     }
   ],
-  "properties": [
-    {
-      "value": "boo#1253383 - Console shows \"bash: test: : integer expected\"",
-      "name": "workaround"
-    }
-  ],
+  "properties": [],
   "tags": [
     "ENV-DESKTOP-xfce",
     "xfce4-terminal"
