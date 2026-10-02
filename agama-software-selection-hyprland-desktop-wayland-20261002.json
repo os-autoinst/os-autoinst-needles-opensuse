@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 50,
+      "click_point": {
+        "xpos": 15.5,
+        "ypos": 22
+      },
+      "width": 362,
+      "type": "match",
+      "ypos": 598,
+      "height": 42
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-software-selection-hyprland-desktop-wayland"
+  ]
+}
