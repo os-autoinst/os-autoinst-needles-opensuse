@@ -29,30 +29,23 @@
       "width": 301
     },
     {
-      "xpos": 364,
       "type": "exclude",
-      "ypos": 496,
-      "width": 304,
-      "height": 32
-    },
-    {
-      "type": "exclude",
-      "xpos": 361,
-      "ypos": 555,
+      "xpos": 360,
+      "ypos": 538,
       "width": 303,
       "height": 30
     },
     {
       "width": 303,
       "height": 28,
-      "xpos": 362,
+      "xpos": 360,
       "type": "exclude",
-      "ypos": 609
+      "ypos": 593
     },
     {
       "height": 39,
       "width": 306,
-      "ypos": 664,
+      "ypos": 641,
       "type": "exclude",
       "xpos": 361
     }
