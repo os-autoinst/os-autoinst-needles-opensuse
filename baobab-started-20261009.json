@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "width": 724,
+      "height": 282,
+      "type": "match",
+      "xpos": 145,
+      "ypos": 140
+    },
+    {
+      "ypos": 238,
+      "xpos": 279,
+      "type": "exclude",
+      "height": 31,
+      "width": 119
+    },
+    {
+      "height": 44,
+      "width": 167,
+      "ypos": 250,
+      "type": "exclude",
+      "xpos": 622
+    },
+    {
+      "height": 44,
+      "width": 182,
+      "ypos": 254,
+      "type": "exclude",
+      "xpos": 276
+    },
+    {
+      "type": "exclude",
+      "xpos": 166,
+      "ypos": 289,
+      "width": 690,
+      "height": 31
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-baobab-started"
+  ]
+}
