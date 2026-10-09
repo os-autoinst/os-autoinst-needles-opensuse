@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 5,
+      "ypos": 2,
+      "width": 139,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 696,
+      "ypos": 18,
+      "width": 257,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "confirm-boot-scripts"
+  ]
+}
