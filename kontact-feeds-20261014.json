@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 589,
+      "ypos": 226,
+      "width": 413,
+      "height": 134,
+      "type": "match"
+    },
+    {
+      "xpos": 206,
+      "ypos": 171,
+      "width": 203,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "kontact-feeds"
+  ]
+}
