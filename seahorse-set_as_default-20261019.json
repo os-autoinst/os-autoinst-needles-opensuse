@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 23,
+      "ypos": 307,
+      "xpos": 433,
+      "width": 143
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "seahorse-set_as_default"
+  ]
+}
