@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 502,
+      "width": 287,
+      "height": 35,
+      "ypos": 552,
+      "type": "match"
+    },
+    {
+      "ypos": 469,
+      "height": 43,
+      "type": "match",
+      "xpos": 160,
+      "width": 318
+    },
+    {
+      "width": 106,
+      "xpos": 65,
+      "type": "match",
+      "height": 37,
+      "ypos": 170
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "kontact-todo"
+  ]
+}
