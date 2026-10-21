@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 408,
+      "xpos": 416,
+      "height": 18,
+      "type": "ocr",
+      "width": 71,
+      "refstr": "Yes"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-menu-quit-to-desktop-confirm"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 49,
+      "type": "match",
+      "height": 38,
+      "xpos": 650,
+      "ypos": 520
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-camp"
+  ]
+}
