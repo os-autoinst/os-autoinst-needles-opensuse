@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 299,
+      "type": "match",
+      "xpos": 64,
+      "height": 30,
+      "width": 93
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "agama-encryption-change"
+  ]
+}
