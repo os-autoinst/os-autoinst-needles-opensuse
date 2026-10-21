@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 539,
+      "ypos": 551,
+      "width": 108,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "skip_user_creation"
+  ]
+}
