@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 471,
+      "height": 94,
+      "width": 332,
+      "xpos": 221
+    },
+    {
+      "xpos": 220,
+      "height": 46,
+      "width": 115,
+      "ypos": 213,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "kontact-calendar"
+  ]
+}
