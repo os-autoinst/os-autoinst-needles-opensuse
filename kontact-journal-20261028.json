@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 167,
+      "height": 39,
+      "xpos": 123,
+      "width": 116
+    },
+    {
+      "type": "match",
+      "width": 201,
+      "xpos": 257,
+      "height": 42,
+      "ypos": 509
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "kontact-journal"
+  ]
+}
