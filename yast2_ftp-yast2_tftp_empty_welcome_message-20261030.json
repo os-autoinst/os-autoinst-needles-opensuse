@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 33,
+      "xpos": 324,
+      "width": 138,
+      "type": "match",
+      "ypos": 64
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_tftp_empty_welcome_message"
+  ]
+}
