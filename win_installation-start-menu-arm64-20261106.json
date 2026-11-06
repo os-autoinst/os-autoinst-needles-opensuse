@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "xpos": 44,
+      "ypos": 121,
+      "width": 89,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 632,
+      "ypos": 563,
+      "width": 26,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 15,
+      "ypos": 11,
+      "width": 52,
+      "height": 32,
+      "type": "match"
+    },
+    {
+      "xpos": 327,
+      "ypos": 18,
+      "width": 32,
+      "height": 27,
+      "type": "match",
+      "click_point": {
+        "xpos": 16,
+        "ypos": 13.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-start-menu"
+  ]
+}
