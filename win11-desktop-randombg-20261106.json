@@ -1,0 +1,50 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 117,
+      "xpos": 27,
+      "height": 10,
+      "width": 25
+    },
+    {
+      "type": "match",
+      "ypos": 493,
+      "xpos": 638,
+      "height": 28,
+      "width": 22
+    },
+    {
+      "type": "match",
+      "ypos": 562,
+      "xpos": 238,
+      "height": 29,
+      "width": 31
+    },
+    {
+      "type": "match",
+      "ypos": 148,
+      "height": 10,
+      "xpos": 19,
+      "width": 10
+    },
+    {
+      "type": "match",
+      "ypos": 490,
+      "height": 32,
+      "xpos": 146,
+      "width": 34
+    },
+    {
+      "type": "match",
+      "ypos": 76,
+      "xpos": 158,
+      "height": 11,
+      "width": 38
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-start-menu"
+  ]
+}
