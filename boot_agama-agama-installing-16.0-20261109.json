@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 455,
+      "ypos": 296,
+      "height": 35,
+      "xpos": 277
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "ENV-VERSION-16.0",
+    "agama-installing",
+    "installation"
+  ]
+}
