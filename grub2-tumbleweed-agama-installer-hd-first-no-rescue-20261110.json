@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 65,
+      "ypos": 107,
+      "type": "match",
+      "height": 232,
+      "width": 121
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "ENV-UEFI-1",
+    "ENV-VERSION-Tumbleweed",
+    "bootloader-grub2",
+    "grub2",
+    "inst-bootmenu",
+    "inst-bootmenu-boot-harddisk"
+  ]
+}
