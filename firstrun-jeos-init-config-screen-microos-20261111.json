@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 221,
+      "xpos": 378,
+      "ypos": 323,
+      "height": 26
+    },
+    {
+      "xpos": 461,
+      "height": 15,
+      "ypos": 401,
+      "width": 66,
+      "type": "match"
+    },
+    {
+      "width": 139,
+      "type": "match",
+      "ypos": 0,
+      "height": 25,
+      "xpos": 0
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-microos",
+    "jeos-init-config-screen"
+  ]
+}
