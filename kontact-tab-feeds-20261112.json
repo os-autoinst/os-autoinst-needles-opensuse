@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 119,
+      "ypos": 558,
+      "width": 47,
+      "height": 31
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-LEAP-1",
+    "kontact-tab-feeds"
+  ]
+}
