@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 76,
+      "ypos": 686,
+      "width": 205,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hmc-openfirmware-prompt"
+  ]
+}

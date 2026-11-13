@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 237,
+      "ypos": 202,
+      "width": 155,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "confirm_installation_popup"
+  ]
+}

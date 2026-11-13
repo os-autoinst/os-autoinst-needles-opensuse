@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 566,
+      "ypos": 617,
+      "width": 205,
+      "height": 87,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "select_partition"
+  ]
+}

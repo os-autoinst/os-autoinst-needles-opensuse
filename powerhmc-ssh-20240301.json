@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 129,
+      "ypos": 48,
+      "width": 22,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "powerhmc-ssh"
+  ]
+}
