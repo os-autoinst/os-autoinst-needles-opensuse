@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "ocr",
+      "width": 203,
+      "height": 65,
+      "ypos": 351,
+      "xpos": 409,
+      "refstr": "Saved\nThe game has been saved."
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-save-confirm"
+  ]
+}
