@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 88,
+      "height": 179,
+      "ypos": 226,
+      "xpos": 194
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "windows-desktop-on-remmina"
+  ]
+}
