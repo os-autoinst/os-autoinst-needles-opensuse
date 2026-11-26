@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 72,
+      "ypos": 684,
+      "xpos": 216,
+      "width": 533,
+      "type": "ocr",
+      "refstr": "Baran\nGreetings, brother, and welcome home."
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wesnoth-ingame"
+  ]
+}
